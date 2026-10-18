@@ -1,0 +1,33 @@
+name: Weekly grading
+
+# Tuesday morning, after Monday night's game: grades every pick, archives it by
+# week in site/data/archive/, and recomputes site/data/insights.json (which kinds
+# of picks are paying this season). Final scores come from nflverse.
+on:
+  schedule:
+    - cron: "0 13 * * 2"   # Tuesday 8 AM Central
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Grade, archive and analyze picks
+        run: python -m nfl_edge.review
+      - name: Commit the archive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/commit-data.sh "Weekly grading"

@@ -1,0 +1,41 @@
+name: Update lines
+
+# Each scan costs 2 Odds API credits (spreads and totals; DraftKings, FanDuel
+# and Bovada count as one group). About 19 scans a week is ~165 credits a month,
+# a third of the free plan's 500. Every scan also reads the wind forecast for
+# outdoor games (National Weather Service, free) and the news for teams with a
+# pick. Times are UTC; Central is 5 hours behind until early November, then 6.
+on:
+  schedule:
+    - cron: "0 14,23 * * *"      # every day, 9 AM and 6 PM Central
+    - cron: "30 22 * * 4"        # Thursday 5:30 PM Central, before Thursday night
+    - cron: "30 15 * * 0"        # Sunday 10:30 AM Central, before the early games
+    - cron: "45 18 * * 0"        # Sunday 1:45 PM Central, before the late games
+    - cron: "30 22 * * 1"        # Monday 5:30 PM Central, before Monday night
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  lines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Scan lines, weather and news, and score picks
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python -m nfl_edge.slate
+      - name: Commit updated lines
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/commit-data.sh "Update lines"

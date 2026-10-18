@@ -1,0 +1,32 @@
+name: News watch
+
+# Re-reads the headlines for every upcoming game with a pick, every two hours.
+# No Odds API credits. It only commits when a new flagged headline appears.
+# Public repositories get unlimited free Actions minutes.
+on:
+  schedule:
+    - cron: "37 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: news-watch
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Check the news and publish if anything changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/news-watch.sh

@@ -1,0 +1,24 @@
+name: Line history
+
+# Every NFL game with a closing line since 1999 against the final score: how far
+# results land from the line, key numbers, and whether any kind of bet beat the
+# 52.4% break-even year after year. Run by hand (Actions -> Line history -> Run
+# workflow); the report shows in the run summary. Research only.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  study:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: |
+          python scripts/line_history.py --md report.md --json line-history.json
+          cat report.md >> "$GITHUB_STEP_SUMMARY"

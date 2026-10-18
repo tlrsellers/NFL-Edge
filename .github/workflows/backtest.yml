@@ -1,0 +1,42 @@
+name: Backtest
+
+# Replays every season since 2002, week by week, with grades rebuilt from each
+# season's earlier games only, and grades every pick tier against the closing
+# line. Research only: the results go in the run summary and data/backtest.json,
+# not on the website. Runs Tuesday mornings (to add the latest week), on pull
+# requests that change the model, and by hand.
+on:
+  schedule:
+    - cron: "0 14 * * 2"   # Tuesday 9 AM Central
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "nfl_edge/**"
+      - "scripts/backtest.py"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: ${{ github.event_name == 'pull_request' && format('backtest-{0}', github.ref) || 'data-update' }}
+  cancel-in-progress: false
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Replay every season against the closing line
+        run: |
+          python scripts/backtest.py --current --json data/backtest.json | tee summary.txt
+          { echo '```'; cat summary.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - name: Save the results
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/commit-data.sh "Update backtest"

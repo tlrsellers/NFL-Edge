@@ -1,0 +1,580 @@
+{
+ "games": 7355,
+ "seasons": [
+  1999,
+  2026
+ ],
+ "spread": {
+  "mean_miss": 10.26,
+  "sd": 13.19,
+  "bias_home": 0.08
+ },
+ "total": {
+  "games": 7355,
+  "mean_miss": 10.62,
+  "sd": 13.41,
+  "bias": 0.71
+ },
+ "key_numbers": {
+  "3": 0.1512,
+  "7": 0.0904,
+  "10": 0.0549,
+  "6": 0.0601,
+  "4": 0.0489,
+  "14": 0.0487,
+  "1": 0.0413,
+  "17": 0.0359
+ },
+ "key_numbers_by_era": {
+  "1999-2014": {
+   "games": 4248,
+   "margin_3": 0.1532,
+   "margin_7": 0.0927,
+   "margin_10": 0.0605,
+   "margin_6": 0.0532,
+   "margin_4": 0.0506,
+   "margin_14": 0.0468
+  },
+  "2015-today": {
+   "games": 3107,
+   "margin_3": 0.1484,
+   "margin_7": 0.0872,
+   "margin_10": 0.0473,
+   "margin_6": 0.0695,
+   "margin_4": 0.0467,
+   "margin_14": 0.0512
+  }
+ },
+ "home_field_by_season": {
+  "1999": {
+   "home_margin": 3.06,
+   "line_home_edge": 2.36
+  },
+  "2000": {
+   "home_margin": 2.82,
+   "line_home_edge": 2.57
+  },
+  "2001": {
+   "home_margin": 2.01,
+   "line_home_edge": 2.26
+  },
+  "2002": {
+   "home_margin": 2.25,
+   "line_home_edge": 2.19
+  },
+  "2003": {
+   "home_margin": 3.63,
+   "line_home_edge": 2.49
+  },
+  "2004": {
+   "home_margin": 2.51,
+   "line_home_edge": 2.52
+  },
+  "2005": {
+   "home_margin": 3.6,
+   "line_home_edge": 2.5
+  },
+  "2006": {
+   "home_margin": 0.85,
+   "line_home_edge": 2.88
+  },
+  "2007": {
+   "home_margin": 2.89,
+   "line_home_edge": 2.48
+  },
+  "2008": {
+   "home_margin": 2.61,
+   "line_home_edge": 2.71
+  },
+  "2009": {
+   "home_margin": 2.33,
+   "line_home_edge": 2.64
+  },
+  "2010": {
+   "home_margin": 1.95,
+   "line_home_edge": 2.42
+  },
+  "2011": {
+   "home_margin": 3.3,
+   "line_home_edge": 2.45
+  },
+  "2012": {
+   "home_margin": 2.59,
+   "line_home_edge": 2.38
+  },
+  "2013": {
+   "home_margin": 3.25,
+   "line_home_edge": 2.56
+  },
+  "2014": {
+   "home_margin": 2.54,
+   "line_home_edge": 2.41
+  },
+  "2015": {
+   "home_margin": 1.48,
+   "line_home_edge": 2.22
+  },
+  "2016": {
+   "home_margin": 2.6,
+   "line_home_edge": 2.15
+  },
+  "2017": {
+   "home_margin": 2.5,
+   "line_home_edge": 2.09
+  },
+  "2018": {
+   "home_margin": 2.34,
+   "line_home_edge": 2.37
+  },
+  "2019": {
+   "home_margin": -0.05,
+   "line_home_edge": 1.78
+  },
+  "2020": {
+   "home_margin": 0.14,
+   "line_home_edge": 1.08
+  },
+  "2021": {
+   "home_margin": 1.57,
+   "line_home_edge": 1.72
+  },
+  "2022": {
+   "home_margin": 2.12,
+   "line_home_edge": 1.67
+  },
+  "2023": {
+   "home_margin": 2.71,
+   "line_home_edge": 1.68
+  },
+  "2024": {
+   "home_margin": 1.72,
+   "line_home_edge": 1.51
+  },
+  "2025": {
+   "home_margin": 2.18,
+   "line_home_edge": 1.58
+  },
+  "2026": {
+   "home_margin": 0.8,
+   "line_home_edge": 1.81
+  }
+ },
+ "splits": [
+  {
+   "name": "Home teams",
+   "w": 3507,
+   "l": 3647,
+   "p": 201,
+   "pct": 0.49,
+   "units": -458.8,
+   "seasons_beat": 0,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Favorites",
+   "w": 3469,
+   "l": 3654,
+   "p": 201,
+   "pct": 0.487,
+   "units": -500.4,
+   "seasons_beat": 4,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs",
+   "w": 3654,
+   "l": 3469,
+   "p": 201,
+   "pct": 0.513,
+   "units": -147.2,
+   "seasons_beat": 12,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Home underdogs",
+   "w": 1247,
+   "l": 1225,
+   "p": 71,
+   "pct": 0.504,
+   "units": -91.4,
+   "seasons_beat": 7,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Road underdogs",
+   "w": 2407,
+   "l": 2244,
+   "p": 130,
+   "pct": 0.518,
+   "units": -55.8,
+   "seasons_beat": 14,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 0-2.5",
+   "w": 730,
+   "l": 726,
+   "p": 12,
+   "pct": 0.501,
+   "units": -62.4,
+   "seasons_beat": 13,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 3-3.5",
+   "w": 904,
+   "l": 852,
+   "p": 107,
+   "pct": 0.515,
+   "units": -30.2,
+   "seasons_beat": 11,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 4-6.5",
+   "w": 897,
+   "l": 853,
+   "p": 22,
+   "pct": 0.513,
+   "units": -37.5,
+   "seasons_beat": 15,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 7-7.5",
+   "w": 385,
+   "l": 371,
+   "p": 35,
+   "pct": 0.509,
+   "units": -21.0,
+   "seasons_beat": 11,
+   "seasons": 27,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 8-10.5",
+   "w": 457,
+   "l": 403,
+   "p": 14,
+   "pct": 0.531,
+   "units": 12.5,
+   "seasons_beat": 15,
+   "seasons": 27,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 11-13.5",
+   "w": 172,
+   "l": 166,
+   "p": 3,
+   "pct": 0.509,
+   "units": -9.6,
+   "seasons_beat": 11,
+   "seasons": 21,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs getting 14+",
+   "w": 109,
+   "l": 98,
+   "p": 8,
+   "pct": 0.527,
+   "units": 1.1,
+   "seasons_beat": 4,
+   "seasons": 10,
+   "consistent": false
+  },
+  {
+   "name": "Division underdogs",
+   "w": 1396,
+   "l": 1277,
+   "p": 75,
+   "pct": 0.522,
+   "units": -7.9,
+   "seasons_beat": 14,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Non-division underdogs",
+   "w": 2258,
+   "l": 2192,
+   "p": 126,
+   "pct": 0.507,
+   "units": -139.3,
+   "seasons_beat": 9,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs weeks 1-4",
+   "w": 890,
+   "l": 786,
+   "p": 49,
+   "pct": 0.531,
+   "units": 23.1,
+   "seasons_beat": 16,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs weeks 13+",
+   "w": 1067,
+   "l": 1077,
+   "p": 54,
+   "pct": 0.498,
+   "units": -107.0,
+   "seasons_beat": 6,
+   "seasons": 27,
+   "consistent": false
+  },
+  {
+   "name": "Underdogs, playoffs",
+   "w": 165,
+   "l": 137,
+   "p": 6,
+   "pct": 0.546,
+   "units": 13.0,
+   "seasons_beat": 15,
+   "seasons": 25,
+   "consistent": true
+  },
+  {
+   "name": "Team off a bye vs team that wasn't (bye team ATS)",
+   "w": 363,
+   "l": 355,
+   "p": 17,
+   "pct": 0.506,
+   "units": -25.0,
+   "seasons_beat": 12,
+   "seasons": 27,
+   "consistent": false
+  },
+  {
+   "name": "Thursday home teams",
+   "w": 165,
+   "l": 158,
+   "p": 11,
+   "pct": 0.511,
+   "units": -8.0,
+   "seasons_beat": 7,
+   "seasons": 16,
+   "consistent": false
+  },
+  {
+   "name": "Monday underdogs",
+   "w": 233,
+   "l": 233,
+   "p": 12,
+   "pct": 0.5,
+   "units": -21.2,
+   "seasons_beat": 9,
+   "seasons": 27,
+   "consistent": false
+  },
+  {
+   "name": "Overs",
+   "w": 3585,
+   "l": 3664,
+   "p": 106,
+   "pct": 0.495,
+   "units": -404.9,
+   "seasons_beat": 4,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders",
+   "w": 3664,
+   "l": 3585,
+   "p": 106,
+   "pct": 0.505,
+   "units": -254.1,
+   "seasons_beat": 9,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, total 0-37.5",
+   "w": 469,
+   "l": 500,
+   "p": 15,
+   "pct": 0.484,
+   "units": -73.6,
+   "seasons_beat": 4,
+   "seasons": 19,
+   "consistent": false
+  },
+  {
+   "name": "Unders, total 38-41.5",
+   "w": 832,
+   "l": 817,
+   "p": 24,
+   "pct": 0.505,
+   "units": -60.6,
+   "seasons_beat": 9,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, total 42-44.5",
+   "w": 888,
+   "l": 876,
+   "p": 32,
+   "pct": 0.503,
+   "units": -68.7,
+   "seasons_beat": 13,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, total 45-47.5",
+   "w": 770,
+   "l": 727,
+   "p": 17,
+   "pct": 0.514,
+   "units": -27.0,
+   "seasons_beat": 12,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, total 48-50.5",
+   "w": 427,
+   "l": 395,
+   "p": 8,
+   "pct": 0.519,
+   "units": -6.8,
+   "seasons_beat": 16,
+   "seasons": 27,
+   "consistent": false
+  },
+  {
+   "name": "Unders, total 51-99",
+   "w": 278,
+   "l": 270,
+   "p": 10,
+   "pct": 0.507,
+   "units": -17.3,
+   "seasons_beat": 7,
+   "seasons": 18,
+   "consistent": false
+  },
+  {
+   "name": "Unders, outdoor wind 15+ mph",
+   "w": 384,
+   "l": 290,
+   "p": 10,
+   "pct": 0.57,
+   "units": 59.1,
+   "seasons_beat": 17,
+   "seasons": 27,
+   "consistent": true
+  },
+  {
+   "name": "Unders, outdoor wind 10-14 mph",
+   "w": 650,
+   "l": 558,
+   "p": 16,
+   "pct": 0.538,
+   "units": 32.9,
+   "seasons_beat": 16,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, temp 32F or colder",
+   "w": 177,
+   "l": 200,
+   "p": 7,
+   "pct": 0.469,
+   "units": -39.1,
+   "seasons_beat": 7,
+   "seasons": 21,
+   "consistent": false
+  },
+  {
+   "name": "Overs, dome",
+   "w": 935,
+   "l": 882,
+   "p": 22,
+   "pct": 0.515,
+   "units": -32.0,
+   "seasons_beat": 12,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, division games",
+   "w": 1401,
+   "l": 1312,
+   "p": 44,
+   "pct": 0.516,
+   "units": -38.4,
+   "seasons_beat": 14,
+   "seasons": 28,
+   "consistent": false
+  },
+  {
+   "name": "Unders, playoffs",
+   "w": 156,
+   "l": 146,
+   "p": 7,
+   "pct": 0.517,
+   "units": -4.2,
+   "seasons_beat": 13,
+   "seasons": 27,
+   "consistent": false
+  }
+ ],
+ "moneyline_by_price": [
+  {
+   "favorite_fair_prob": "50%-60%",
+   "games": 1612,
+   "expected_win": 0.554,
+   "actual_win": 0.545,
+   "favorite_roi": -0.044,
+   "underdog_roi": -0.004
+  },
+  {
+   "favorite_fair_prob": "60%-70%",
+   "games": 1780,
+   "expected_win": 0.648,
+   "actual_win": 0.632,
+   "favorite_roi": -0.051,
+   "underdog_roi": 0.015
+  },
+  {
+   "favorite_fair_prob": "70%-80%",
+   "games": 1355,
+   "expected_win": 0.747,
+   "actual_win": 0.755,
+   "favorite_roi": -0.017,
+   "underdog_roi": -0.058
+  },
+  {
+   "favorite_fair_prob": "80%-90%",
+   "games": 563,
+   "expected_win": 0.841,
+   "actual_win": 0.851,
+   "favorite_roi": -0.017,
+   "underdog_roi": -0.105
+  },
+  {
+   "favorite_fair_prob": "90%-100%",
+   "games": 49,
+   "expected_win": 0.916,
+   "actual_win": 0.959,
+   "favorite_roi": 0.02,
+   "underdog_roi": -0.582
+  }
+ ]
+}

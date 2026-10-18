@@ -1,0 +1,56 @@
+name: Picks email
+
+# The newsletter: two emails a week to you and your friends, and nothing else.
+#   Wednesday night: the week's LOCK, Strong and Lean plays
+#   Saturday night:  Sunday's and Monday's plays, with close-to-kickoff wind forecasts
+# GitHub starts scheduled jobs late, so each window gets a few runs; the first one
+# with fresh lines sends, the rest see it in site/data/emails.json and do nothing.
+# Times are UTC (Central + 5 until early November).
+#
+# Optional: without the EMAIL_* secrets the email goes to you as a GitHub issue.
+# To check how it looks, run it by hand with "test" ticked: it sends to EMAIL_USER only.
+on:
+  schedule:
+    - cron: "45 23 * * 3"        # Wednesday 6:45 PM Central
+    - cron: "45 2,12 * * 4"      # backups: Wednesday 9:45 PM, Thursday 7:45 AM Central
+    - cron: "45 23 * * 6"        # Saturday 6:45 PM Central
+    - cron: "45 2,12 * * 0"      # backups: Saturday 9:45 PM, Sunday 7:45 AM Central
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Send a test copy to EMAIL_USER only (nobody else)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: picks-email
+  cancel-in-progress: false
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Send the newsletter if it's due
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m nfl_edge.newsletter ${{ inputs.test && '--test' || '' }}
+      - name: Remember that it went out
+        if: ${{ !inputs.test }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/commit-data.sh "Picks email sent"
