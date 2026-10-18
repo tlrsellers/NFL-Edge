@@ -1,4 +1,35 @@
 {
  "sent": [],
- "feed": []
+ "feed": [
+  {
+   "t": "2026-10-18T23:16Z",
+   "kind": "move",
+   "game": "2026_06_LAC_KC",
+   "text": "Chiefs moved -7.5 to -15.5 against the Chargers."
+  },
+  {
+   "t": "2026-10-18T23:16Z",
+   "kind": "move",
+   "game": "2026_06_LAC_KC",
+   "text": "Chargers @ Chiefs total moved 41.5 to 28.5."
+  },
+  {
+   "t": "2026-10-18T23:16Z",
+   "kind": "move",
+   "game": "2026_06_BUF_LV",
+   "text": "Raiders moved +5.33 to +7.5 against the Bills."
+  },
+  {
+   "t": "2026-10-18T23:16Z",
+   "kind": "move",
+   "game": "2026_06_BUF_LV",
+   "text": "Bills @ Raiders total moved 53.67 to 55.83."
+  },
+  {
+   "t": "2026-10-18T23:16Z",
+   "kind": "move",
+   "game": "2026_06_DAL_GB",
+   "text": "Packers moved -0.67 to +0.33 against the Cowboys."
+  }
+ ]
 }
