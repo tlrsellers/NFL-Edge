@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 5,
-  "pending": 12,
+  "pending": 13,
   "overall": {
    "wins": 5,
    "losses": 0,
@@ -376,7 +376,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 51.67
+   "close": 51.83
   },
   "2026_06_DAL_GB:spread": {
    "game": "2026_06_DAL_GB",
@@ -494,7 +494,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 49.67
+   "close": 50.5
   },
   "2026_07_TB_CAR:total": {
    "game": "2026_07_TB_CAR",
@@ -503,45 +503,46 @@
    "home": "Panthers",
    "away": "Buccaneers",
    "bet": "total",
-   "side": "Over",
-   "line": 43.5,
+   "side": "Under",
+   "line": 44.5,
    "book": "draftkings",
-   "edge": 4.6,
-   "tier": "model",
-   "pattern": null,
-   "cover": 0.507,
-   "called": "2026-10-18T23:16Z",
+   "edge": -2.8,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-10-19T22:52Z",
    "projection": {
     "home": 25.4,
-    "away": 22.6,
-    "total": 48.1
+    "away": 22.0,
+    "total": 47.3
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": null,
+    "wind": 12.0,
     "side_is_home": null,
-    "moved_against": 0.0,
+    "moved_against": 0.5,
     "note": null,
     "factors": [
      {
       "label": "Panthers offense",
-      "points": 2.5
+      "points": -2.6
      },
      {
       "label": "Buccaneers offense",
-      "points": -1.2
-     },
-     {
-      "label": "Panthers defense",
-      "points": 1.0
+      "points": 1.5
      },
      {
       "label": "Buccaneers defense",
-      "points": -0.7
+      "points": 0.6
+     },
+     {
+      "label": "Panthers defense",
+      "points": -0.6
      }
     ],
     "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
      "The Buccaneers' most recent starter, J.Daniels, isn't the QB who played most of the season (B.Mayfield). The grades still mostly reflect B.Mayfield.",
      "Recent headlines mention an injury or absence for the Buccaneers."
     ],
@@ -601,7 +602,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.17
+   "close": -9.5
   },
   "2026_07_MIA_NYJ:total": {
    "game": "2026_07_MIA_NYJ",
@@ -655,7 +656,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.17
+   "close": 39.0
   },
   "2026_07_CLE_TEN:total": {
    "game": "2026_07_CLE_TEN",
@@ -706,7 +707,7 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 36.67
+   "close": 38.5
   },
   "2026_07_LA_LV:spread": {
    "game": "2026_07_LA_LV",
@@ -763,7 +764,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 5.5
+   "close": 4.5
   },
   "2026_07_PIT_NO:total": {
    "game": "2026_07_PIT_NO",
@@ -874,7 +875,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.33
+   "close": -2.5
   },
   "2026_07_KC_SEA:total": {
    "game": "2026_07_KC_SEA",
@@ -927,7 +928,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.0
+   "close": 42.17
   },
   "2026_07_DAL_PHI:spread": {
    "game": "2026_07_DAL_PHI",
@@ -1042,6 +1043,60 @@
     "news_injury": true
    },
    "close": 44.5
+  },
+  "2026_07_NYG_HOU:total": {
+   "game": "2026_07_NYG_HOU",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Texans",
+   "away": "Giants",
+   "bet": "total",
+   "side": "Over",
+   "line": 42.5,
+   "book": "draftkings",
+   "edge": 3.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-19T22:52Z",
+   "projection": {
+    "home": 24.9,
+    "away": 21.3,
+    "total": 46.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": -1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Giants offense",
+      "points": -1.3
+     },
+     {
+      "label": "Giants defense",
+      "points": 1.0
+     },
+     {
+      "label": "Texans offense",
+      "points": 0.4
+     },
+     {
+      "label": "Texans defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Giants.",
+     "Recent headlines mention an injury or absence for the Texans."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 43.0
   }
  }
 }
