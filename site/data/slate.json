@@ -1381,90 +1381,6 @@
     "moved_against": 0.0,
     "tier": "lean"
    },
-   "news": {
-    "Commanders": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Commanders rule four injured players out vs 49ers on Monday night",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjlNdkl5RF92bmlVSHYwZ0V0czNCQU1jakFFamNhOWJZTnR1MWctM25iRVNFa18xbDJNSnRHUDdnUnIxUWhnMXRTcEl2eEIwTC04WGY1QmxWNVBrOFdibGcxaVFEclpiN1cxTEV5bWZweUcxa2ZwT25FZkZwUkFwQ2lGaWdsVmhRTndMVEh3?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T04:38+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders' Final Injury Report: Four Out, Nine Questionable vs. Unbeaten 49ers",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVpraUhlV0dSZzhsVzVEd2o4S1ZHbkpibGJmaVBCZWEzdzFoUERUZWdYMVRBQVB1S3diRy1ieC1ZU1FOVXlXQWJoOERxOWM0bXBibnFtX0lHWFlJMHNtbTR2SkR5Y2ZZUzlVV2pRR1lUTDVyUWNia1k2WHYyMUxxX3EtNWFKUWJESUE?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-17T21:15+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders Get Bad Injury News on RB Jacory Croskey-Merritt",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejVhWWRMb0JBZDZFTGVqbHY4VjR6eHliYzhKM1gzejNhcENMUzl5R01aT182U2xDaWQ1MmYtVTBCVUdhOHEwRWdTbEN2Nmtab0hPQU4tWmtLajROOG9JMmxPMHNrYkh0dGVuUVVDQ3NaOTUycGR5dHVzLWtfRWkycF9yRkE?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-17T18:27+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders RB Croskey-Merritt out vs. 49ers with groin injury",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVC1JNzEzcmxVV3NfdkJJd0Zlc0hXc3F0Mkdjb0FNN0NuMlNyZTMxejg1UU5qamlhVTAzbEwtXzVDUVVnXzl3SC04cTZTdXVCeGJyNG1pQ0VRa01JdlUzZkNaaEhiS19ic3VmX0l6T3ZVOTFSZWxaaERXbnk0SjVDdkNuTkw2YU41cVBwX1ZkeUF1SjE1MnRoYS1ZdEQ?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-17T17:08+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders Called Out Over Injuries & Depth Issues at RB",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1ZrMU1Lc0FHMzI3UTVSTEJKRDM3Tmp4TEZIZjhaaUVaR3VJNWc0b2VaNTBVLWRpZXVzZG5Lek9jOWN3b2NEQjItUlVNSlo1MlRpNzUtX0VCTzlyTVZJRnFRUUhmbkFpb0gxRmhRb3dmaHM0WlFRZ0EzMFVWOGIxcHVsdGs3XzhPU2RuZXpkaw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-17T01:52+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "49ers": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "49ers Give Injury Updates on Nick Bosa and Other Key Players for Week 6",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3ozR0ZVRGp5S0VJSEtQaFptUWNLdWJiTU9ZZVpVeWNuNWNiUGxHRWU1UXZRbmlwZVg3YjJ6Z0V0SFJ1VHpzc1JkVzJfUm9oVVRocUF5eHJ4TnE3d0ZVaU4zVzB3VlZ5NUQ1MG5XaUZlalBkdWpkNEpZMUpJdHJCV0tWTjY5RXhEdnZSVnZsYw?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-18T02:25+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "49ers' Kyle Shanahan Explains Why Nick Bosa Will Miss 4th Straight Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenZtMnNaaXh1UUpvZlhvaVhmeERXZTc0bkVQLWhpSWM1TjZRRmZCNUtxbG1aZEZWaHdsMWZFT3BZQ3VBSlNMOUVvM0NMUVpJd0VOTlFmSjBoS0tsOHlsS2F2Wm4zU0VHVks2b2IxdXU4NmVvNjV1Um5VS3BrNEtyWWk4T25MVkVN?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-17T22:59+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "49ers\u2019 Kyle Juszczyk completes miraculous one-week recovery from brutal knee injury",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEN4c1pFMXRkRHUxXzJmdks3MHlDdmI2TDB6eTJIekNZU1ZfbUlzdkxnZUpNWjFxSkFlSTU0cGlnM3dIN2Jzd2FrSFdKdnRtQ3M2Sl84MlV5QlpGZEZTWWlVb2JUNXNOeGltNDRtOXNNSnJjczNGUzZXTExnanY4dHRB?oc=5",
-       "source": "New York Post",
-       "published": "2026-10-17T22:36+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "49ers get some good injury news on 2nd Week 6 practice report",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2o1eDBmV05TZlBIWmt4QzRDZXZSbUhEWFNzMFIwNXVrT3RMdlVvR0hTdXBVMkRRRllqNHNWcVdSRDZzWnVMVHNxcDdtaUZKTnQxUWpnS2ZhVWdOeld4OFNjcl9GOU0xY1BHdFE3Yi16Sm11VW83ajBJNTBnR09WbQ?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-16T22:37+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Washington Commanders at San Francisco 49ers odds, picks and predictions",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVc2VU9pZ0VUVFpNTjlQdDNDUE9vcGU3eDV5VUR5Ul95d3hkMmpRd3lPTmhzSURuMGlVWXNNSUpWZTk0dks4T3FFVGxqNXREbDJFdHZoZElKYWpjSzBwaG1CU0tMVTh0RVdfWDdYWllvRDFUQmNUT3BZVjlrMFVxT0w0cHdHbEJOZFJ6MzZhMGdCR2RUT1l3b1JTQVowMXJ0UnUxNnd0eV9adkxSdHRNQUt3?oc=5",
-       "source": "Milwaukee Journal Sentinel",
-       "published": "2026-10-18T22:04+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "total": {
      "summary": "The forecast calls for 12 mph wind at kickoff in an outdoor stadium. Best Under number: 52.5 at DraftKings.",
@@ -1563,14 +1479,6 @@
        "team": "Commanders"
       },
       {
-       "title": "49ers Give Injury Updates on Nick Bosa and Other Key Players for Week 6",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3ozR0ZVRGp5S0VJSEtQaFptUWNLdWJiTU9ZZVpVeWNuNWNiUGxHRWU1UXZRbmlwZVg3YjJ6Z0V0SFJ1VHpzc1JkVzJfUm9oVVRocUF5eHJ4TnE3d0ZVaU4zVzB3VlZ5NUQ1MG5XaUZlalBkdWpkNEpZMUpJdHJCV0tWTjY5RXhEdnZSVnZsYw?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-18T02:25+00:00",
-       "flag": "injury",
-       "team": "49ers"
-      },
-      {
        "title": "49ers' Kyle Shanahan Explains Why Nick Bosa Will Miss 4th Straight Game",
        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenZtMnNaaXh1UUpvZlhvaVhmeERXZTc0bkVQLWhpSWM1TjZRRmZCNUtxbG1aZEZWaHdsMWZFT3BZQ3VBSlNMOUVvM0NMUVpJd0VOTlFmSjBoS0tsOHlsS2F2Wm4zU0VHVks2b2IxdXU4NmVvNjV1Um5VS3BrNEtyWWk4T25MVkVN?oc=5",
        "source": "Yahoo Sports",
@@ -1579,28 +1487,120 @@
        "team": "49ers"
       },
       {
-       "title": "49ers\u2019 Kyle Juszczyk completes miraculous one-week recovery from brutal knee injury",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEN4c1pFMXRkRHUxXzJmdks3MHlDdmI2TDB6eTJIekNZU1ZfbUlzdkxnZUpNWjFxSkFlSTU0cGlnM3dIN2Jzd2FrSFdKdnRtQ3M2Sl84MlV5QlpGZEZTWWlVb2JUNXNOeGltNDRtOXNNSnJjczNGUzZXTExnanY4dHRB?oc=5",
-       "source": "New York Post",
-       "published": "2026-10-17T22:36+00:00",
+       "title": "Nick Bosa out, Mike Evans questionable for 49ers' Week 6 matchup vs. Commanders",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3ZBRWV3NG1hQU1WVXhUWFp4S3d2Y2dEUkI0S2V5SDdoVDJrMTR1b19SMTNaV3FfM3BhV0REeDdTYUZWTXhORS1YaF9Pa1ZzX2dFbWRkVVNvc2kteTg3a2dsVzM1MzloTUJCUGV5VXFnS01NSl9QQVlKZkM5cE5HQU9ncExSX1FjT2JUMFY5VG9wTkdoREdHY1kwRnN2RDhOYWx0OVpLdVhyeWFwVkhnbElESHFmZkdzQUZDcXpVUlTSAcgBQVVfeXFMTlhlU3ZfTUdfWmpUU3hGcnFGOHRocUhKQU8wMDgyTkN3REpUb3c0MlNkQnBXY09hUm5pNFpHQXM4NUIyVmRjNEdnaS14ZTc1cGdNWDVleUh0MHF1RHBpNjRucjJQalZPOVhiRUxING9LXzlid0lxbkFBOEZ6QTNjM19HNVZSdU9FWTRvYUoxMTU4V01XS1hSVEhGU2cxZFp0eEVLZ0dkeHRlQjkwcmNYdEdYYzJhVE1jRW9CSkp3LVRGQURhSkVxYi0?oc=5",
+       "source": "NBC Sports Bay Area & California",
+       "published": "2026-10-17T21:23+00:00",
        "flag": "injury",
        "team": "49ers"
       },
       {
-       "title": "49ers get some good injury news on 2nd Week 6 practice report",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2o1eDBmV05TZlBIWmt4QzRDZXZSbUhEWFNzMFIwNXVrT3RMdlVvR0hTdXBVMkRRRllqNHNWcVdSRDZzWnVMVHNxcDdtaUZKTnQxUWpnS2ZhVWdOeld4OFNjcl9GOU0xY1BHdFE3Yi16Sm11VW83ajBJNTBnR09WbQ?oc=5",
+       "title": "Commanders RB Croskey-Merritt out vs. 49ers with groin injury",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVC1JNzEzcmxVV3NfdkJJd0Zlc0hXc3F0Mkdjb0FNN0NuMlNyZTMxejg1UU5qamlhVTAzbEwtXzVDUVVnXzl3SC04cTZTdXVCeGJyNG1pQ0VRa01JdlUzZkNaaEhiS19ic3VmX0l6T3ZVOTFSZWxaaERXbnk0SjVDdkNuTkw2YU41cVBwX1ZkeUF1SjE1MnRoYS1ZdEQ?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-17T17:08+00:00",
+       "flag": "injury",
+       "team": "49ers"
+      },
+      {
+       "title": "PODCAST: 49ers Stay Perfect at 5-0 as Injuries Keep Testing San Francisco's Depth",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDI5Qm4wa0lnU2E3cHdMaTdISVdYNVZSMWtFR0xtcERON0ttd09DUEhKSGE1VXlzbmVjS0YtNVJ4eUQxX1dMWllIY3U4YmxXenJvUm1kZzJYaEVJbV9DSDlUTm1FOGhoNkcyNWFLV0U4Q18wZjdENG1uTVFMcXpQcEd0Zw?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-16T22:37+00:00",
+       "published": "2026-10-15T04:03+00:00",
        "flag": "injury",
        "team": "49ers"
       },
       {
-       "title": "Washington Commanders at San Francisco 49ers odds, picks and predictions",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVc2VU9pZ0VUVFpNTjlQdDNDUE9vcGU3eDV5VUR5Ul95d3hkMmpRd3lPTmhzSURuMGlVWXNNSUpWZTk0dks4T3FFVGxqNXREbDJFdHZoZElKYWpjSzBwaG1CU0tMVTh0RVdfWDdYWllvRDFUQmNUT3BZVjlrMFVxT0w0cHdHbEJOZFJ6MzZhMGdCR2RUT1l3b1JTQVowMXJ0UnUxNnd0eV9adkxSdHRNQUt3?oc=5",
-       "source": "Milwaukee Journal Sentinel",
-       "published": "2026-10-18T22:04+00:00",
+       "title": "Commanders vs. 49ers Weather Forecast for Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFUxY1dNVGJLY1MyNTU2eURFcEJiNnVGTUxlRGtsSGk2UkFndzRMX29XMGVSOUZwQkZXLXNjQ3hlbzhwVXlYRW1jMTVIbHhDR1R0NVpxcmZPRXJvaHVQLW1ycjF4NWFNTEFqM2pVYmtWYUpfbUlUU2NsNTBEV290Q1pkUFcxdw?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T23:31+00:00",
        "flag": null,
        "team": "49ers"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Commanders": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Commanders rule four injured players out vs 49ers on Monday night",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjlNdkl5RF92bmlVSHYwZ0V0czNCQU1jakFFamNhOWJZTnR1MWctM25iRVNFa18xbDJNSnRHUDdnUnIxUWhnMXRTcEl2eEIwTC04WGY1QmxWNVBrOFdibGcxaVFEclpiN1cxTEV5bWZweUcxa2ZwT25FZkZwUkFwQ2lGaWdsVmhRTndMVEh3?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-18T04:38+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders' Final Injury Report: Four Out, Nine Questionable vs. Unbeaten 49ers",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVpraUhlV0dSZzhsVzVEd2o4S1ZHbkpibGJmaVBCZWEzdzFoUERUZWdYMVRBQVB1S3diRy1ieC1ZU1FOVXlXQWJoOERxOWM0bXBibnFtX0lHWFlJMHNtbTR2SkR5Y2ZZUzlVV2pRR1lUTDVyUWNia1k2WHYyMUxxX3EtNWFKUWJESUE?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-17T21:15+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders Get Bad Injury News on RB Jacory Croskey-Merritt",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejVhWWRMb0JBZDZFTGVqbHY4VjR6eHliYzhKM1gzejNhcENMUzl5R01aT182U2xDaWQ1MmYtVTBCVUdhOHEwRWdTbEN2Nmtab0hPQU4tWmtLajROOG9JMmxPMHNrYkh0dGVuUVVDQ3NaOTUycGR5dHVzLWtfRWkycF9yRkE?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-17T18:27+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders RB Croskey-Merritt out vs. 49ers with groin injury",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVC1JNzEzcmxVV3NfdkJJd0Zlc0hXc3F0Mkdjb0FNN0NuMlNyZTMxejg1UU5qamlhVTAzbEwtXzVDUVVnXzl3SC04cTZTdXVCeGJyNG1pQ0VRa01JdlUzZkNaaEhiS19ic3VmX0l6T3ZVOTFSZWxaaERXbnk0SjVDdkNuTkw2YU41cVBwX1ZkeUF1SjE1MnRoYS1ZdEQ?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-17T17:08+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders Called Out Over Injuries & Depth Issues at RB",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1ZrMU1Lc0FHMzI3UTVSTEJKRDM3Tmp4TEZIZjhaaUVaR3VJNWc0b2VaNTBVLWRpZXVzZG5Lek9jOWN3b2NEQjItUlVNSlo1MlRpNzUtX0VCTzlyTVZJRnFRUUhmbkFpb0gxRmhRb3dmaHM0WlFRZ0EzMFVWOGIxcHVsdGs3XzhPU2RuZXpkaw?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-17T01:52+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "49ers": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "49ers' Kyle Shanahan Explains Why Nick Bosa Will Miss 4th Straight Game",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenZtMnNaaXh1UUpvZlhvaVhmeERXZTc0bkVQLWhpSWM1TjZRRmZCNUtxbG1aZEZWaHdsMWZFT3BZQ3VBSlNMOUVvM0NMUVpJd0VOTlFmSjBoS0tsOHlsS2F2Wm4zU0VHVks2b2IxdXU4NmVvNjV1Um5VS3BrNEtyWWk4T25MVkVN?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-17T22:59+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Nick Bosa out, Mike Evans questionable for 49ers' Week 6 matchup vs. Commanders",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3ZBRWV3NG1hQU1WVXhUWFp4S3d2Y2dEUkI0S2V5SDdoVDJrMTR1b19SMTNaV3FfM3BhV0REeDdTYUZWTXhORS1YaF9Pa1ZzX2dFbWRkVVNvc2kteTg3a2dsVzM1MzloTUJCUGV5VXFnS01NSl9QQVlKZkM5cE5HQU9ncExSX1FjT2JUMFY5VG9wTkdoREdHY1kwRnN2RDhOYWx0OVpLdVhyeWFwVkhnbElESHFmZkdzQUZDcXpVUlTSAcgBQVVfeXFMTlhlU3ZfTUdfWmpUU3hGcnFGOHRocUhKQU8wMDgyTkN3REpUb3c0MlNkQnBXY09hUm5pNFpHQXM4NUIyVmRjNEdnaS14ZTc1cGdNWDVleUh0MHF1RHBpNjRucjJQalZPOVhiRUxING9LXzlid0lxbkFBOEZ6QTNjM19HNVZSdU9FWTRvYUoxMTU4V01XS1hSVEhGU2cxZFp0eEVLZ0dkeHRlQjkwcmNYdEdYYzJhVE1jRW9CSkp3LVRGQURhSkVxYi0?oc=5",
+       "source": "NBC Sports Bay Area & California",
+       "published": "2026-10-17T21:23+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders RB Croskey-Merritt out vs. 49ers with groin injury",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVC1JNzEzcmxVV3NfdkJJd0Zlc0hXc3F0Mkdjb0FNN0NuMlNyZTMxejg1UU5qamlhVTAzbEwtXzVDUVVnXzl3SC04cTZTdXVCeGJyNG1pQ0VRa01JdlUzZkNaaEhiS19ic3VmX0l6T3ZVOTFSZWxaaERXbnk0SjVDdkNuTkw2YU41cVBwX1ZkeUF1SjE1MnRoYS1ZdEQ?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-17T17:08+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "PODCAST: 49ers Stay Perfect at 5-0 as Injuries Keep Testing San Francisco's Depth",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDI5Qm4wa0lnU2E3cHdMaTdISVdYNVZSMWtFR0xtcERON0ttd09DUEhKSGE1VXlzbmVjS0YtNVJ4eUQxX1dMWllIY3U4YmxXenJvUm1kZzJYaEVJbV9DSDlUTm1FOGhoNkcyNWFLV0U4Q18wZjdENG1uTVFMcXpQcEd0Zw?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-15T04:03+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders vs. 49ers Weather Forecast for Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFUxY1dNVGJLY1MyNTU2eURFcEJiNnVGTUxlRGtsSGk2UkFndzRMX29XMGVSOUZwQkZXLXNjQ3hlbzhwVXlYRW1jMTVIbHhDR1R0NVpxcmZPRXJvaHVQLW1ycjF4NWFNTEFqM2pVYmtWYUpfbUlUU2NsNTBEV290Q1pkUFcxdw?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T23:31+00:00",
+       "flag": null
       }
      ]
     }
@@ -1699,90 +1699,6 @@
     "tier": "model",
     "moved_against": 0.0
    },
-   "news": {
-    "Patriots": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Four key Patriots offensive cogs leave game vs. Jets with injuries",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
-       "source": "Boston Herald",
-       "published": "2026-10-18T22:03+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "6 Patriots takeaways as Mike Vrabel\u2019s team beats Jets, loses more starters to injuries",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtIUjloeXB2cm93OXVkXzQzU3hFMjN6NHJ3UXhFb3lPcE9zd21sWWs5TVdkdW5PVGpRdERoZUJtUllQVlQwN1prSmd5MlpHa1pvUG90VkMtTkc5X1M0RlZ2QUV6Zk8zVGZiWjJ4Y0F0VDdhX1dIUkMxNGk0ZTBTYXBfX1BpT0llQk12ZVgwX0JwQlBlS1hPYlZmaUREYWFjWkNhUk41aTNnWDVhbDJoZk9JaVBaRjE5VE1KZC1mLWJSQURibmkyS3BjVQ?oc=5",
-       "source": "MassLive.com",
-       "published": "2026-10-18T20:11+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Fantasy Football Injury Impact: Romeo Doubs Injury Opens Door For Two Patriots Receivers",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdS1Kcl94SWpzN2NkWmhmTlh4U09uR05BR2dCNlNDM252U2VwZTBaZG1XaktXdFN6S0lBZmRCZzV3VkdvS3pIUUtBRFlIejBGaFFkZ01LZ3pvd0UwRmo1ajIxZHk3T0NvWDlaMjNkTjdTSmFidEEwN2pkenZpelZxMUlnTUxHTnNrQ0VnNTNHLWJOcG45MDBLVnA1bmNSVFJvLTJCRWxOVHo5OERLWGdvbFVOWXRsQm1aZFVIaA?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-18T18:18+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Romeo Doubs injury: Latest update after Patriots WR leaves Jets game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlo0eUFDT3dYRllXNllGZ1hrNUs3djg2RXZ4NFRaWjY0ekVXekFpMVRkOW9rMHhseWllTUE4R2xRQzdQNVJSczhtYnFGS3ZJM2s4OVcwWS1LY29zNjk4c0NMeHI2SjFjRUZ5aWtTbUJzN2lOTkh4V1FuNUxpNlpKaW1Cd3RFWE12S2ww?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T18:02+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "A.J. Brown is expected to make his return today as the Patriots take on the Jets after missing four games with a high-ankle sprain. The Patriots officially activated the star wide receiver from injured reserve on Saturday, clearing the way for him to return to the fiel",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMl9zNE9RV29uckpET2t0TzhxY2tuM0wwOVhiU3ZYTHJ1eDZZTkh4X19vUTFXQnkzV2xuZmxnNkQ5b2VjTldMZ05JOUd5YTVSaWdPdnN1ZkxwZDlaaXpVSWpONnZtQUhMVF9fNlVfem9hcGhrVXJ2T3FEQ19WSE9LMFk2VjdHZkhRNnoxTHB4anZ3OVIxR212OGViNm4xTklRYTJSbWtNXzdSZEJUbWdKanFuRGlwUzlaaGhKT0FRelByQ3BMM19JWDEtOWFDN0Q0TFdIN3M0WDczZw?oc=5",
-       "source": "Facebook",
-       "published": "2026-10-18T14:19+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Bears": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "NFL world reacts to Falcons' loss to Chicago Bears in Week 6",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEJOeVFXU05DdlZKS3V1ZTd1S3YybXQwUlVpcl9NMmVYZ0xETy13VHp1T0Q4b1FtRTk1WkM4N0ZoYWVmVWYteDNoMGRaWlVoSks0MHRNSWh6RFk3UzVRcE05bFhVd1A3Q3VoS2xIMWpRYXlCaFd4ZmFUT0xEMy1CbFJHOHA1aXdndkVHMUNmcnZtMFZWbDI0V05zYjc1enRHZGR1VzNKZHBwUHpF?oc=5",
-       "source": "Falcons Wire",
-       "published": "2026-10-18T22:46+00:00",
-       "flag": null
-      },
-      {
-       "title": "Where to watch Chicago Bears vs. Atlanta Falcons",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQy03eW1jSDV4LVBnTnduSEh0b2NxSDNPd0wtUTFTWkRhXzl0S1hlLXYyanBETUxaQ01FVDlMcUswWXUyOEJaMGVZUmJJMnZOVXFxSWR4ZnlqcE9UWWF6U1JSMGZRajVLX3BieE1WM2g1TEJITmtCUTBzQTNqZS1ZSFozLWNVei1wR2N4RjJRUGl6d2RIVE5KRw?oc=5",
-       "source": "Atlanta Falcons",
-       "published": "2026-10-18T21:26+00:00",
-       "flag": null
-      },
-      {
-       "title": "Bears Hold Off Manic Falcons Comeback: 3 Takeaways From Chicago's Win",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFpac200T0NuSzhIRGZnYmdVekVSRXVjSDBiM19uSVBVajBNV2g4Xy1PVEFVQjg3cEUxUDlTbW5uc3hOd3ZsSERDNEh4OWNNcUQwWTAyMHJQa3hpM01WR0JkVjJub2xFMUZWa0tQQ2pWakhlbTk1NXRKajBYVTM0V0NZSkZCNGs2Z0RiWlBoR1pwcVlEaUFHVTRxSEZTTXh5?oc=5",
-       "source": "FOX Sports",
-       "published": "2026-10-18T20:35+00:00",
-       "flag": null
-      },
-      {
-       "title": "Game Breakdown: What happened in Falcons vs. Bears",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2dESzNuZlBLbEY4dnRmaXY3cnliSGFaMHRvQXZaMWU2MHFxRGF6bXZ5c0R6ZXpYb05xY05ib2hBM0JabHlxZF8tZExtdmgtTFVPN1Fqeno1YWI0TVd0UFg2dFUtQ0Nqd21vck5HZG1QNkJ0ZWVlaXFTWTBQckZYaHdaN0F4XzFGdE1FTWRkVU1ENHUyM1ZodjRB?oc=5",
-       "source": "Atlanta Falcons",
-       "published": "2026-10-18T20:22+00:00",
-       "flag": null
-      },
-      {
-       "title": "[LIVE\ud835\udc12\ud835\udc13\ud835\udc11\ud835\udc04\ud835\udc00\ud835\udc0c] Chicago Bears vs Atlanta Falcons \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 Updates \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c",
-       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTkFUWE16Sk1LcC1EU25aTWFTSi0wU2Fjbm1wV1JmRlV4QzlXWmFNbi1PSFBkV1VObkRnNm5RM1Vnb3o0MlRRSm9CWXBFVXBpbHlheVlQMDZvZnc4cEd1Z2FQYklUZFd6UEZVOVdXd2dxci05V1hZb2xTbl9EN0ViSWtHazItSVpKeFhla1RXM1Y2b3lxMkctbW01Tk1IX0VNOVdON0Z3b2lEb0VPV1JzWERSZTRPVjkzN1Vaa2hvYkFWMjVhWTRXY0JqSWVXQmJMQnRqRWp2M2ozM05aNkoxb0sxNHphNWdCbl9DUDhaWE1iZEdCSU9sSnNHTEIxMjFWSnhjQkVxVnNoMmpFZnlBeHdrTnRQMWhsZ2NjcXFNS3dOWWE0YjJnNw?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T19:02+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "total": {
      "summary": "The model projects 44.9 total points; the best Under number is 49.5. That's a 4.6 point gap.",
@@ -1833,11 +1749,36 @@
       }
      ],
      "risks": [
+      "Recent headlines mention a quarterback issue for the Bears. Read them below before betting.",
       "The Bears' most recent starter, T.Bagent, isn't the QB who played most of the season (C.Williams). The grades still mostly reflect C.Williams.",
       "Recent headlines mention an injury or absence for the Patriots."
      ],
      "evidence": [],
      "news": [
+      {
+       "title": "Callahan: How 3 days in August allowed Patriots to survive injuries and the Jets\u2019 upset bid",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2pNUHR6ZDRNaS1ZUC1HQXBNcnBMRVhHMFlELWxEREZiMG1lR09sMmJvd25WZmhSU3MxYmN2MThsdmZSQnhYaDJYSm0wbXB0UjFPTF9qS2JhNmhmQlRwejdsbF9XMl96OGFrWHhvem5BaUxoUUFLd0xEQUlMQ1U5R2NSRjJaazlqakYzSzVCZ1RmUFFQQlVyZFBWSVYta1QtakdJVGlnWmVpNm9QLV9TeHhsbGZPNk56MjFDMjJ4NzlRZnB2V2hEY0x3?oc=5",
+       "source": "Boston Herald",
+       "published": "2026-10-19T00:02+00:00",
+       "flag": "injury",
+       "team": "Patriots"
+      },
+      {
+       "title": "Vrabel implies Patriots\u2019 injured players won\u2019t be ready for Thursday night game",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wN2dHX0s2R2dFcUVtdXE2Tk9ibGVoNFM5aUhGcGJxX3h2Wk91ZEJUamJIdTYzaUxXcE1WQ1F6cXp2MnZkY1Ayc0w4aXAzZTZna0RxZDZLaUFqdlR4anZGaUJmS1phWGZZVndNWTJkM2tnVGNnNUpwT1B1Q01KMG8?oc=5",
+       "source": "98.5 The Sports Hub",
+       "published": "2026-10-18T23:22+00:00",
+       "flag": "injury",
+       "team": "Patriots"
+      },
+      {
+       "title": "Patriots' A.J. Brown has career-high 3 dropped passes in return from injury",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODVtMmI4LThqTmgxUXpWWFlSdzVjendGbUdTYnp3Z1ktdGx1UmdjcUxnUHBrLUN6MVlGb1hRTXZrSlBNbVNEeHlCLVdhcW92el83WGpHbHNtLVJVWC1DMTdnOUtHT1dJM2ZINDdRRXQxdjZHNDlkMzlFU3NfU1pMVDRBQnNULS00M29WN29YVnRRLVVnS0tjUVNUUVE?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T22:31+00:00",
+       "flag": "injury",
+       "team": "Patriots"
+      },
       {
        "title": "Four key Patriots offensive cogs leave game vs. Jets with injuries",
        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
@@ -1847,42 +1788,42 @@
        "team": "Patriots"
       },
       {
-       "title": "6 Patriots takeaways as Mike Vrabel\u2019s team beats Jets, loses more starters to injuries",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtIUjloeXB2cm93OXVkXzQzU3hFMjN6NHJ3UXhFb3lPcE9zd21sWWs5TVdkdW5PVGpRdERoZUJtUllQVlQwN1prSmd5MlpHa1pvUG90VkMtTkc5X1M0RlZ2QUV6Zk8zVGZiWjJ4Y0F0VDdhX1dIUkMxNGk0ZTBTYXBfX1BpT0llQk12ZVgwX0JwQlBlS1hPYlZmaUREYWFjWkNhUk41aTNnWDVhbDJoZk9JaVBaRjE5VE1KZC1mLWJSQURibmkyS3BjVQ?oc=5",
-       "source": "MassLive.com",
-       "published": "2026-10-18T20:11+00:00",
-       "flag": "injury",
-       "team": "Patriots"
-      },
-      {
-       "title": "Fantasy Football Injury Impact: Romeo Doubs Injury Opens Door For Two Patriots Receivers",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdS1Kcl94SWpzN2NkWmhmTlh4U09uR05BR2dCNlNDM252U2VwZTBaZG1XaktXdFN6S0lBZmRCZzV3VkdvS3pIUUtBRFlIejBGaFFkZ01LZ3pvd0UwRmo1ajIxZHk3T0NvWDlaMjNkTjdTSmFidEEwN2pkenZpelZxMUlnTUxHTnNrQ0VnNTNHLWJOcG45MDBLVnA1bmNSVFJvLTJCRWxOVHo5OERLWGdvbFVOWXRsQm1aZFVIaA?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-18T18:18+00:00",
-       "flag": "injury",
-       "team": "Patriots"
-      },
-      {
-       "title": "Romeo Doubs injury: Latest update after Patriots WR leaves Jets game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlo0eUFDT3dYRllXNllGZ1hrNUs3djg2RXZ4NFRaWjY0ekVXekFpMVRkOW9rMHhseWllTUE4R2xRQzdQNVJSczhtYnFGS3ZJM2s4OVcwWS1LY29zNjk4c0NMeHI2SjFjRUZ5aWtTbUJzN2lOTkh4V1FuNUxpNlpKaW1Cd3RFWE12S2ww?oc=5",
+       "title": "Patriots Announce Injury to $24 Million Ex-Jets Starter During Game",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTY1ekJ6djN0Qi1NYUF6YUtDUnBOcFhiZE9tOW5IU2Z1MW9rUHBGczBUMDBDaktjRTVxSmJ5MkhSWUVyY2E0dHNwRkVCc2M3UUZVSzkxenVnYXI0ZVNWOUhHMHZUb0xGRThGWFZaR1FBVURiVXJrRExDTG9ocnVwYW93NXpqUkJQMEQyMQ?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-18T18:02+00:00",
+       "published": "2026-10-18T21:21+00:00",
        "flag": "injury",
        "team": "Patriots"
       },
       {
-       "title": "A.J. Brown is expected to make his return today as the Patriots take on the Jets after missing four games with a high-ankle sprain. The Patriots officially activated the star wide receiver from injured reserve on Saturday, clearing the way for him to return to the fiel",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMl9zNE9RV29uckpET2t0TzhxY2tuM0wwOVhiU3ZYTHJ1eDZZTkh4X19vUTFXQnkzV2xuZmxnNkQ5b2VjTldMZ05JOUd5YTVSaWdPdnN1ZkxwZDlaaXpVSWpONnZtQUhMVF9fNlVfem9hcGhrVXJ2T3FEQ19WSE9LMFk2VjdHZkhRNnoxTHB4anZ3OVIxR212OGViNm4xTklRYTJSbWtNXzdSZEJUbWdKanFuRGlwUzlaaGhKT0FRelByQ3BMM19JWDEtOWFDN0Q0TFdIN3M0WDczZw?oc=5",
-       "source": "Facebook",
-       "published": "2026-10-18T14:19+00:00",
-       "flag": "injury",
-       "team": "Patriots"
+       "title": "NFL news: Chicago Bears defeat Atlanta Falcons 31-23 as quarterback Caleb Williams returns from injury",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObW1yT0o1RmpQZ3VGZ193X1JZSlByVllJZGozRk1ybm93RnVfTk1sVW54Y1pyd2x5QzRmOF9KOUdVSTdFRkJVVU50Rl9kZWswTnpWODgzb2tMOXFMbDZ3Zll2TkkwY3dfb2x2WVJfNmVWYUJrMnA0STJvbGwyNVNJclVDb3hNNXlnRV9abXFUQzFhcldMS0NCTTJPYXhJWVhtRmJIb0FaWERONXRTalNGNDRFZWotb1hVdTNvTm92QVh0UEtkRHY3T0RydVlhZ9IB0wFBVV95cUxPQnFjemVKMF9keC1ZQnF4M2E0Rmhjd3MycmptTWNqaHJ3dHlPamtRRy1yaGI1RklERkZQeElkbXVWT1M4Q1dBZGlOYk5lMVU1bEN2U3p0QklJTERRcFBHMEZFWTZCUTdmMnl4anU1dHpkWkdCWWNtNEUwd1RkbVk0S28tRHE3TjRHcUtJUjZhNEhicDVpRWd3Z25MTDdzVUVmZW9Yank5eTdTcUlxMlMyLVBWNmJocy0ybktGVy1GdFVEUFRHYWZIZXY5bVdid1ZjWllV?oc=5",
+       "source": "ABC7 Chicago",
+       "published": "2026-10-18T16:11+00:00",
+       "flag": "qb",
+       "team": "Bears"
       },
       {
-       "title": "NFL world reacts to Falcons' loss to Chicago Bears in Week 6",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEJOeVFXU05DdlZKS3V1ZTd1S3YybXQwUlVpcl9NMmVYZ0xETy13VHp1T0Q4b1FtRTk1WkM4N0ZoYWVmVWYteDNoMGRaWlVoSks0MHRNSWh6RFk3UzVRcE05bFhVd1A3Q3VoS2xIMWpRYXlCaFd4ZmFUT0xEMy1CbFJHOHA1aXdndkVHMUNmcnZtMFZWbDI0V05zYjc1enRHZGR1VzNKZHBwUHpF?oc=5",
-       "source": "Falcons Wire",
-       "published": "2026-10-18T22:46+00:00",
+       "title": "Chicago Bears vs Atlanta Falcons | 2026 Week 6 Game Preview",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2x4Q05PYlJfSUM1WEtTUHVWWjdFSm9ZRFR4M1VNdjFiZDQyWjJzd1lhdnlNa2lLaVRfcXFxU3JEMFFkeXM3YV9KY3BXWU9Ga0dCRW5Na0JnUDRfYVZkeVFsVEs3WjZiQUNsMG9KbmlrbnZqcGlUakpfYllwUGJRb3pPMjRSX0JvQnFQeU1jaWRRTFBPZWVLY1dqTW9TYVRNRjBV?oc=5",
+       "source": "FOX Sports",
+       "published": "2026-10-18T23:41+00:00",
+       "flag": null,
+       "team": "Bears"
+      },
+      {
+       "title": "Bears 31-23 Falcons (Oct 18, 2026) Game Recap",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YWmkyaFNWTzl0S3lLdmlwa19fTHNIZ25uMm5oV1hrNkczcVFVSzVzQkRuUWVid3hUQ0JHV0RnU2JqcmZ3bmZWb0N0ZTE5YlVkb0VSSjBvU3VGZGs?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T23:33+00:00",
+       "flag": null,
+       "team": "Bears"
+      },
+      {
+       "title": "Kyler Gordon's Historic Week 6 Performance Shows Bears DB Was Worth the Wait",
+       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5paG1oSllOR1F5VnRtV0M4REtFMXdxblhnakVsRjdwQ1lLMWJ5UmVGSG54eE42YU5LNUxWRGliMzVIa3ViMWh4cG1PRElIQjV6RGxEM2pGNVdoeTJXOXVHQUZMUVVJRWo1X2RMc0JjVkVaWWc?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T23:09+00:00",
        "flag": null,
        "team": "Bears"
       },
@@ -1893,30 +1834,90 @@
        "published": "2026-10-18T21:26+00:00",
        "flag": null,
        "team": "Bears"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Patriots": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Callahan: How 3 days in August allowed Patriots to survive injuries and the Jets\u2019 upset bid",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2pNUHR6ZDRNaS1ZUC1HQXBNcnBMRVhHMFlELWxEREZiMG1lR09sMmJvd25WZmhSU3MxYmN2MThsdmZSQnhYaDJYSm0wbXB0UjFPTF9qS2JhNmhmQlRwejdsbF9XMl96OGFrWHhvem5BaUxoUUFLd0xEQUlMQ1U5R2NSRjJaazlqakYzSzVCZ1RmUFFQQlVyZFBWSVYta1QtakdJVGlnWmVpNm9QLV9TeHhsbGZPNk56MjFDMjJ4NzlRZnB2V2hEY0x3?oc=5",
+       "source": "Boston Herald",
+       "published": "2026-10-19T00:02+00:00",
+       "flag": "injury"
       },
       {
-       "title": "Bears Hold Off Manic Falcons Comeback: 3 Takeaways From Chicago's Win",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFpac200T0NuSzhIRGZnYmdVekVSRXVjSDBiM19uSVBVajBNV2g4Xy1PVEFVQjg3cEUxUDlTbW5uc3hOd3ZsSERDNEh4OWNNcUQwWTAyMHJQa3hpM01WR0JkVjJub2xFMUZWa0tQQ2pWakhlbTk1NXRKajBYVTM0V0NZSkZCNGs2Z0RiWlBoR1pwcVlEaUFHVTRxSEZTTXh5?oc=5",
+       "title": "Vrabel implies Patriots\u2019 injured players won\u2019t be ready for Thursday night game",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wN2dHX0s2R2dFcUVtdXE2Tk9ibGVoNFM5aUhGcGJxX3h2Wk91ZEJUamJIdTYzaUxXcE1WQ1F6cXp2MnZkY1Ayc0w4aXAzZTZna0RxZDZLaUFqdlR4anZGaUJmS1phWGZZVndNWTJkM2tnVGNnNUpwT1B1Q01KMG8?oc=5",
+       "source": "98.5 The Sports Hub",
+       "published": "2026-10-18T23:22+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Patriots' A.J. Brown has career-high 3 dropped passes in return from injury",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODVtMmI4LThqTmgxUXpWWFlSdzVjendGbUdTYnp3Z1ktdGx1UmdjcUxnUHBrLUN6MVlGb1hRTXZrSlBNbVNEeHlCLVdhcW92el83WGpHbHNtLVJVWC1DMTdnOUtHT1dJM2ZINDdRRXQxdjZHNDlkMzlFU3NfU1pMVDRBQnNULS00M29WN29YVnRRLVVnS0tjUVNUUVE?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T22:31+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Four key Patriots offensive cogs leave game vs. Jets with injuries",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
+       "source": "Boston Herald",
+       "published": "2026-10-18T22:03+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Patriots Announce Injury to $24 Million Ex-Jets Starter During Game",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTY1ekJ6djN0Qi1NYUF6YUtDUnBOcFhiZE9tOW5IU2Z1MW9rUHBGczBUMDBDaktjRTVxSmJ5MkhSWUVyY2E0dHNwRkVCc2M3UUZVSzkxenVnYXI0ZVNWOUhHMHZUb0xGRThGWFZaR1FBVURiVXJrRExDTG9ocnVwYW93NXpqUkJQMEQyMQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-18T21:21+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Bears": {
+     "qb_alert": true,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "NFL news: Chicago Bears defeat Atlanta Falcons 31-23 as quarterback Caleb Williams returns from injury",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObW1yT0o1RmpQZ3VGZ193X1JZSlByVllJZGozRk1ybm93RnVfTk1sVW54Y1pyd2x5QzRmOF9KOUdVSTdFRkJVVU50Rl9kZWswTnpWODgzb2tMOXFMbDZ3Zll2TkkwY3dfb2x2WVJfNmVWYUJrMnA0STJvbGwyNVNJclVDb3hNNXlnRV9abXFUQzFhcldMS0NCTTJPYXhJWVhtRmJIb0FaWERONXRTalNGNDRFZWotb1hVdTNvTm92QVh0UEtkRHY3T0RydVlhZ9IB0wFBVV95cUxPQnFjemVKMF9keC1ZQnF4M2E0Rmhjd3MycmptTWNqaHJ3dHlPamtRRy1yaGI1RklERkZQeElkbXVWT1M4Q1dBZGlOYk5lMVU1bEN2U3p0QklJTERRcFBHMEZFWTZCUTdmMnl4anU1dHpkWkdCWWNtNEUwd1RkbVk0S28tRHE3TjRHcUtJUjZhNEhicDVpRWd3Z25MTDdzVUVmZW9Yank5eTdTcUlxMlMyLVBWNmJocy0ybktGVy1GdFVEUFRHYWZIZXY5bVdid1ZjWllV?oc=5",
+       "source": "ABC7 Chicago",
+       "published": "2026-10-18T16:11+00:00",
+       "flag": "qb"
+      },
+      {
+       "title": "Chicago Bears vs Atlanta Falcons | 2026 Week 6 Game Preview",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2x4Q05PYlJfSUM1WEtTUHVWWjdFSm9ZRFR4M1VNdjFiZDQyWjJzd1lhdnlNa2lLaVRfcXFxU3JEMFFkeXM3YV9KY3BXWU9Ga0dCRW5Na0JnUDRfYVZkeVFsVEs3WjZiQUNsMG9KbmlrbnZqcGlUakpfYllwUGJRb3pPMjRSX0JvQnFQeU1jaWRRTFBPZWVLY1dqTW9TYVRNRjBV?oc=5",
        "source": "FOX Sports",
-       "published": "2026-10-18T20:35+00:00",
-       "flag": null,
-       "team": "Bears"
+       "published": "2026-10-18T23:41+00:00",
+       "flag": null
       },
       {
-       "title": "Game Breakdown: What happened in Falcons vs. Bears",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2dESzNuZlBLbEY4dnRmaXY3cnliSGFaMHRvQXZaMWU2MHFxRGF6bXZ5c0R6ZXpYb05xY05ib2hBM0JabHlxZF8tZExtdmgtTFVPN1Fqeno1YWI0TVd0UFg2dFUtQ0Nqd21vck5HZG1QNkJ0ZWVlaXFTWTBQckZYaHdaN0F4XzFGdE1FTWRkVU1ENHUyM1ZodjRB?oc=5",
+       "title": "Bears 31-23 Falcons (Oct 18, 2026) Game Recap",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YWmkyaFNWTzl0S3lLdmlwa19fTHNIZ25uMm5oV1hrNkczcVFVSzVzQkRuUWVid3hUQ0JHV0RnU2JqcmZ3bmZWb0N0ZTE5YlVkb0VSSjBvU3VGZGs?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T23:33+00:00",
+       "flag": null
+      },
+      {
+       "title": "Kyler Gordon's Historic Week 6 Performance Shows Bears DB Was Worth the Wait",
+       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5paG1oSllOR1F5VnRtV0M4REtFMXdxblhnakVsRjdwQ1lLMWJ5UmVGSG54eE42YU5LNUxWRGliMzVIa3ViMWh4cG1PRElIQjV6RGxEM2pGNVdoeTJXOXVHQUZMUVVJRWo1X2RMc0JjVkVaWWc?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T23:09+00:00",
+       "flag": null
+      },
+      {
+       "title": "Where to watch Chicago Bears vs. Atlanta Falcons",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQy03eW1jSDV4LVBnTnduSEh0b2NxSDNPd0wtUTFTWkRhXzl0S1hlLXYyanBETUxaQ01FVDlMcUswWXUyOEJaMGVZUmJJMnZOVXFxSWR4ZnlqcE9UWWF6U1JSMGZRajVLX3BieE1WM2g1TEJITmtCUTBzQTNqZS1ZSFozLWNVei1wR2N4RjJRUGl6d2RIVE5KRw?oc=5",
        "source": "Atlanta Falcons",
-       "published": "2026-10-18T20:22+00:00",
-       "flag": null,
-       "team": "Bears"
-      },
-      {
-       "title": "[LIVE\ud835\udc12\ud835\udc13\ud835\udc11\ud835\udc04\ud835\udc00\ud835\udc0c] Chicago Bears vs Atlanta Falcons \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 Updates \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c",
-       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTkFUWE16Sk1LcC1EU25aTWFTSi0wU2Fjbm1wV1JmRlV4QzlXWmFNbi1PSFBkV1VObkRnNm5RM1Vnb3o0MlRRSm9CWXBFVXBpbHlheVlQMDZvZnc4cEd1Z2FQYklUZFd6UEZVOVdXd2dxci05V1hZb2xTbl9EN0ViSWtHazItSVpKeFhla1RXM1Y2b3lxMkctbW01Tk1IX0VNOVdON0Z3b2lEb0VPV1JzWERSZTRPVjkzN1Vaa2hvYkFWMjVhWTRXY0JqSWVXQmJMQnRqRWp2M2ozM05aNkoxb0sxNHphNWdCbl9DUDhaWE1iZEdCSU9sSnNHTEIxMjFWSnhjQkVxVnNoMmpFZnlBeHdrTnRQMWhsZ2NjcXFNS3dOWWE0YjJnNw?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T19:02+00:00",
-       "flag": null,
-       "team": "Bears"
+       "published": "2026-10-18T21:26+00:00",
+       "flag": null
       }
      ]
     }
@@ -2272,90 +2273,6 @@
     "tier": "model",
     "moved_against": 0.0
    },
-   "news": {
-    "Buccaneers": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Baker Mayfield\u2019s status for next week remains unclear after missing Buccaneers\u2019 loss to Steelers",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdF9xWWliQjZoNElyUW95Y1V4Zi1TRF9yaDZEekdYckZfS3hwcEQ2bElWcTVYU1VJZmFBVEhSTmlwRUpEMFBBTkZ6UUQ2YUpubUtYenpxck5UV3VzVTR6dHJ5M1B3czlQLUhSXzVMME0wUjh5c2dmc0NNbVU1SVdIdV9YUnRQTkU?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T21:41+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Buccaneers' Next Game: Bucs Dive Into Division Play with Trip to Carolina",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkRzek5aM1EybjU0d3VURjNlNVJ4eXgzUEk4ZTRoUGZuMVd3enBpeTRDZl96dUFoVjY1bUcwSl94U1V4UDZGSTdlYkZPUmJCb3hfX0FWbEJUeUxhakwyd2tTM0ZHMXlUcDVVekJscnRsUC1ZWFNHeTRLTzFxR0Fmb1NpODNKejJ3Wmc4ZlJoLXFDZ2wxcjFCZWxhc3NZM3FzSWtKbVJhWVVadw?oc=5",
-       "source": "Tampa Bay Buccaneers",
-       "published": "2026-10-18T22:50+00:00",
-       "flag": null
-      },
-      {
-       "title": "Game Highlights: Steelers vs. Buccaneers | Week 6",
-       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zLVVzOER3eG1tN0dEam9uMTdKMm1ZZGFTbVdQZ3BOQlJ5SmdXQ3EtaVlNOGlkTEpJbXNsVm15RVZ6V3o0OHFUZlV4NldTM2x6ZFBXUXlGczhQX0VOMmp0b2owYXYzcWpZaFBzZmVJOV9XS3hTakx6WWlZaEw?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T21:56+00:00",
-       "flag": null
-      },
-      {
-       "title": "Steelers 26-19 Buccaneers (Oct 18, 2026) Game Recap",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UTFhcWJRMGJQWV9BVGJvZ0YyZFZJbUJIVEFsZFVXNjYxSWRxdEhXajdHVDNONkxPY2pBMjVpRFlQNnlzMmFnVmhTT0ZfZHlad0FPd1pyaG95VzA?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T21:48+00:00",
-       "flag": null
-      },
-      {
-       "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers: Game Highlights",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHb0EtYzF4WXJ3LTBXT2hQZUlDR0lSYzJEUjhEckltVGt3a0x4WmxmSEkwb2htcTVPVEp0SUdRLTk5OTBzNEo1Ni1ZOGgzS3FTcll2UlJPWjRIMHQ0Tll3bXlTbTV3a2NhMnVfR2Z3?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:59+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Panthers": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "NFL Week 6 Recap: Carolina Panthers 25, Philadelphia Eagles 14",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFlHeUVoRml4clk4OVpoS29XdGRSVXZsLVV0dFRpR0ljaG11ZlF2RmlNVzczSE02Ym5jZEozQ05jT1g3ZjlPemR6OVE3RmFhWVl2U29INk5PMkFLcHA0UlNXSVcyNTV4ZzNBRE9tSVJkXzBabEhoTGl6N3FuTEJVQUJ3eEktel8tc1J5RTJ3?oc=5",
-       "source": "PFF",
-       "published": "2026-10-18T21:37+00:00",
-       "flag": null
-      },
-      {
-       "title": "Carolina Panthers running back Chuba Hubbard's best plays from 121-yard game vs. Philadelphia Eagles | Week 6",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlo1eFFVTXRSSl85UGxzVVRBOUZ2aW0ycWhIc3AxN0x6Mk5xQzhERFo3MUNkckhWRFBwT1l1bDBydDJlUjBHMUZKZFgtRzdhYl9hRDVEc2RPUlhQS1hheUI3T0t4LWRFUGtERWhNRmpwZktoN1YyeGQtZHZpYXJ5NGJROWt5bHFXZ3NWRnc3Q2NuY0k?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T21:08+00:00",
-       "flag": null
-      },
-      {
-       "title": "Bryce Young, Panthers control banged-up Eagles",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2Nvd2xEV2RwTGtPSnR2bzBPTFhCa3UzdThLbGtRc0w5ZWd1NXR6OW5QWHRtTkdjMEV2N1lsbXd5ZV9Qb2JLYkttcFM5Z3k3eFVycXRnLVhBclpVMGFQQVcwTWlSSmZqNXhRbkVtYmNZR3R6R1hIMFZmSDZvVElfd0RDQ2szUkRGdW9FQ2ZjQUR5eHFpY1p6TW9qZ0Vxdw?oc=5",
-       "source": "Reuters",
-       "published": "2026-10-18T20:55+00:00",
-       "flag": null
-      },
-      {
-       "title": "Panthers 25-14 Eagles (Oct 18, 2026) Game Recap",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YUWl3bS1MTDZ6cGhyZFNpeU16WjJ4Q1pVd1o5blJYMDNXUC1RVW11ODJXZjhUc081OHJuQmJhNDZZX1B4N05STEk5NGx2V3Q4UjUxUmZyb1NGMUU?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:54+00:00",
-       "flag": null
-      },
-      {
-       "title": "Carolina Panthers vs. Philadelphia Eagles: Game Highlights",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMEFadXhicEZKNEdLQXJ5c0tIcHJwSkVlX2VRVjBFWVk0Q0pudGJFWEVla3VUMHladlhBcUFkWmtfbk1hNWZ3Nl82SjI1b1JfRnBHc0Q5aWFOX3Nlb2RYb0Ytd004cnZLMHV5c1hB?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:35+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "total": {
      "summary": "The model projects 48.1 total points; the best Over number is 43.5. That's a 4.6 point gap.",
@@ -2406,17 +2323,24 @@
       }
      ],
      "risks": [
-      "The Buccaneers' most recent starter, J.Daniels, isn't the QB who played most of the season (B.Mayfield). The grades still mostly reflect B.Mayfield.",
-      "Recent headlines mention an injury or absence for the Buccaneers."
+      "The Buccaneers' most recent starter, J.Daniels, isn't the QB who played most of the season (B.Mayfield). The grades still mostly reflect B.Mayfield."
      ],
      "evidence": [],
      "news": [
       {
-       "title": "Baker Mayfield\u2019s status for next week remains unclear after missing Buccaneers\u2019 loss to Steelers",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdF9xWWliQjZoNElyUW95Y1V4Zi1TRF9yaDZEekdYckZfS3hwcEQ2bElWcTVYU1VJZmFBVEhSTmlwRUpEMFBBTkZ6UUQ2YUpubUtYenpxck5UV3VzVTR6dHJ5M1B3czlQLUhSXzVMME0wUjh5c2dmc0NNbVU1SVdIdV9YUnRQTkU?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T21:41+00:00",
-       "flag": "injury",
+       "title": "Pittsburgh Steelers at Tampa Bay Buccaneers - NFL Game Summary - Oct 18, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR1ZrRXNmbi11RTFsVThrZWpCQnVpR3VfTUtnX0VDNGtLM2xUNWgyQWVveWJNQlpSeEthTVZjd1hjTGMtYm9FNG1KMzZab1RBZDZLbldBZkdwc1dvU21jajgyeU5NLWRabTVzQUltZW9vX3lIQWs5YWlWSVRGMk9RYXJ3a0twV3hwbkR5TjAyeENsVE1vdWZySmhZNlh6VEdVSnUzenlyc2YtQnBOWHl6TXVic01BTXU2WmZ0RmtrWjVzeXJMcVNOZWZyOTZZOHpsNUhzaTRmMW1JWGdYLUJWcElzMm1qNWYybFVmcnZ3WQ?oc=5",
+       "source": "USA Today",
+       "published": "2026-10-19T01:00+00:00",
+       "flag": null,
+       "team": "Buccaneers"
+      },
+      {
+       "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers Live Score and Stats - October 18, 2026 Gametracker",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfdDBrdGY1V1VMT2gzT1NNdFRNbHhqVmxDUWN5T2NzdUt0Q3RIdjFiU1l6RGtDYlpyZFB3dkIyS1JIQ3lfY0FxSVE1cV82STkwZ18zVEZlWlFfRzltLXJ4WDl4LUhodUdvRkFMN0xDMHhIb0ZDOHZB?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-19T00:33+00:00",
+       "flag": null,
        "team": "Buccaneers"
       },
       {
@@ -2428,28 +2352,44 @@
        "team": "Buccaneers"
       },
       {
-       "title": "Game Highlights: Steelers vs. Buccaneers | Week 6",
-       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zLVVzOER3eG1tN0dEam9uMTdKMm1ZZGFTbVdQZ3BOQlJ5SmdXQ3EtaVlNOGlkTEpJbXNsVm15RVZ6V3o0OHFUZlV4NldTM2x6ZFBXUXlGczhQX0VOMmp0b2owYXYzcWpZaFBzZmVJOV9XS3hTakx6WWlZaEw?oc=5",
+       "title": "NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWG83SU95S1laWEVsMXdIR0FCV0xwVFE4WTA3bmxSMkttYW1CSWw3anhfd29ocHJsVWxMQmRXTlNJR2FEM3FFN095UE4wbnpkS0lVbEhZYUdzNHA3SXV2d0dueHdPNkNQMGh6UHBjY3UyVnlqU3Q2S2VySHVETkZVX2NQZW1LYUhLV1JBNEM2eWFuUQ?oc=5",
+       "source": "PFF",
+       "published": "2026-10-18T22:22+00:00",
+       "flag": null,
+       "team": "Buccaneers"
+      },
+      {
+       "title": "Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrdE1zNDRoWGRMZW1YU05sYzVmR1RsOUVmRUJoTHhDTUVnd2ZRUU02V0RwVjJVMERqelhNd1gwb0N5QjM0MlRKOG9iaVBNbjRhVkJRNElJVVF1N1pBN09nXzkzQXlTLWJoeXhjWHpnT1dwM3ItUDJoNjc5eU8?oc=5",
        "source": "NFL.com",
-       "published": "2026-10-18T21:56+00:00",
+       "published": "2026-10-18T22:18+00:00",
        "flag": null,
        "team": "Buccaneers"
       },
       {
-       "title": "Steelers 26-19 Buccaneers (Oct 18, 2026) Game Recap",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UTFhcWJRMGJQWV9BVGJvZ0YyZFZJbUJIVEFsZFVXNjYxSWRxdEhXajdHVDNONkxPY2pBMjVpRFlQNnlzMmFnVmhTT0ZfZHlad0FPd1pyaG95VzA?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T21:48+00:00",
+       "title": "Carolina Panthers at Philadelphia Eagles - NFL Game Summary - Oct 18, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWXlTcTVnQ3ZRc3llUDR4ajI1bG5VakMydUc1VzVqWW9oZHBaMzZOUUJlSjBWV18xRGVVV01TZFllRmtadm5uZ19UR09Pak1iclhXTC1iLVVLQmRqUnBrdExxeDd3QTc1WUt4Mmp5ZE14bGlUWkRlR3FZTlYtY3d4NzhLdnJIYURMX0pVSWVvM2ZMeVJ3aGJCOWhLVE5ET3NRSklnc0tUdHM5SDE4S056NWMyWW52MlR4bHByVUdvWU1QSXp2MnJVMkFJUTZMYjVNaFpaWnBab1NJQ2MyMHJhd3k4Qkl1OTN3dVd4WHZOUQ?oc=5",
+       "source": "USA Today",
+       "published": "2026-10-18T23:10+00:00",
        "flag": null,
-       "team": "Buccaneers"
+       "team": "Panthers"
       },
       {
-       "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers: Game Highlights",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHb0EtYzF4WXJ3LTBXT2hQZUlDR0lSYzJEUjhEckltVGt3a0x4WmxmSEkwb2htcTVPVEp0SUdRLTk5OTBzNEo1Ni1ZOGgzS3FTcll2UlJPWjRIMHQ0Tll3bXlTbTV3a2NhMnVfR2Z3?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:59+00:00",
+       "title": "Eagles fall to Panthers for fourth straight loss. Does Tanner McKee have a chance? - The Athletic",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHdJb1BsMDNldGJGdm90bG0wNGpxS2d3cEZ5OHVlb05YYmJZV2YtSllxNjl3aGFMWXBkU0FVem9hWHFUQk95eTdld2FkXy1WX0pwYm9hcUJoeEdydUltbF9QaGIxWVZqRUNYUVdpMFdFYXRma3o4SVRHd21XRHBKRVBJTHVnZE1nYlVlMHdFVVdlaFRUNFBEVUI5OWQ?oc=5",
+       "source": "The New York Times",
+       "published": "2026-10-18T22:16+00:00",
        "flag": null,
-       "team": "Buccaneers"
+       "team": "Panthers"
+      },
+      {
+       "title": "3 Major Takeaways from Panthers' Exceptional Win over Eagles",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnpRMURacmZaZ2RyY1ZLOHdsZ2pOR3Ftak9JQ2hzWXhFaVVic0pCdmotNnB0cmI4WWJlck1yODJkRk1GY0VPbUhqV01fa29NdC1TSW1WcHZsd24wZlpHR2tzOTNhVWhmZWROOWVKMzEyeEtqOWZYMW5yTmp0YVNEZ1VNSXZJeU80TXU4NlVtUzQwM2lWR2RJVW5qYnE?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T22:00+00:00",
+       "flag": null,
+       "team": "Panthers"
       },
       {
        "title": "NFL Week 6 Recap: Carolina Panthers 25, Philadelphia Eagles 14",
@@ -2466,30 +2406,90 @@
        "published": "2026-10-18T21:08+00:00",
        "flag": null,
        "team": "Panthers"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Buccaneers": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Pittsburgh Steelers at Tampa Bay Buccaneers - NFL Game Summary - Oct 18, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR1ZrRXNmbi11RTFsVThrZWpCQnVpR3VfTUtnX0VDNGtLM2xUNWgyQWVveWJNQlpSeEthTVZjd1hjTGMtYm9FNG1KMzZab1RBZDZLbldBZkdwc1dvU21jajgyeU5NLWRabTVzQUltZW9vX3lIQWs5YWlWSVRGMk9RYXJ3a0twV3hwbkR5TjAyeENsVE1vdWZySmhZNlh6VEdVSnUzenlyc2YtQnBOWHl6TXVic01BTXU2WmZ0RmtrWjVzeXJMcVNOZWZyOTZZOHpsNUhzaTRmMW1JWGdYLUJWcElzMm1qNWYybFVmcnZ3WQ?oc=5",
+       "source": "USA Today",
+       "published": "2026-10-19T01:00+00:00",
+       "flag": null
       },
       {
-       "title": "Bryce Young, Panthers control banged-up Eagles",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2Nvd2xEV2RwTGtPSnR2bzBPTFhCa3UzdThLbGtRc0w5ZWd1NXR6OW5QWHRtTkdjMEV2N1lsbXd5ZV9Qb2JLYkttcFM5Z3k3eFVycXRnLVhBclpVMGFQQVcwTWlSSmZqNXhRbkVtYmNZR3R6R1hIMFZmSDZvVElfd0RDQ2szUkRGdW9FQ2ZjQUR5eHFpY1p6TW9qZ0Vxdw?oc=5",
-       "source": "Reuters",
-       "published": "2026-10-18T20:55+00:00",
-       "flag": null,
-       "team": "Panthers"
+       "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers Live Score and Stats - October 18, 2026 Gametracker",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfdDBrdGY1V1VMT2gzT1NNdFRNbHhqVmxDUWN5T2NzdUt0Q3RIdjFiU1l6RGtDYlpyZFB3dkIyS1JIQ3lfY0FxSVE1cV82STkwZ18zVEZlWlFfRzltLXJ4WDl4LUhodUdvRkFMN0xDMHhIb0ZDOHZB?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-19T00:33+00:00",
+       "flag": null
       },
       {
-       "title": "Panthers 25-14 Eagles (Oct 18, 2026) Game Recap",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YUWl3bS1MTDZ6cGhyZFNpeU16WjJ4Q1pVd1o5blJYMDNXUC1RVW11ODJXZjhUc081OHJuQmJhNDZZX1B4N05STEk5NGx2V3Q4UjUxUmZyb1NGMUU?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:54+00:00",
-       "flag": null,
-       "team": "Panthers"
+       "title": "Buccaneers' Next Game: Bucs Dive Into Division Play with Trip to Carolina",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkRzek5aM1EybjU0d3VURjNlNVJ4eXgzUEk4ZTRoUGZuMVd3enBpeTRDZl96dUFoVjY1bUcwSl94U1V4UDZGSTdlYkZPUmJCb3hfX0FWbEJUeUxhakwyd2tTM0ZHMXlUcDVVekJscnRsUC1ZWFNHeTRLTzFxR0Fmb1NpODNKejJ3Wmc4ZlJoLXFDZ2wxcjFCZWxhc3NZM3FzSWtKbVJhWVVadw?oc=5",
+       "source": "Tampa Bay Buccaneers",
+       "published": "2026-10-18T22:50+00:00",
+       "flag": null
       },
       {
-       "title": "Carolina Panthers vs. Philadelphia Eagles: Game Highlights",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMEFadXhicEZKNEdLQXJ5c0tIcHJwSkVlX2VRVjBFWVk0Q0pudGJFWEVla3VUMHladlhBcUFkWmtfbk1hNWZ3Nl82SjI1b1JfRnBHc0Q5aWFOX3Nlb2RYb0Ytd004cnZLMHV5c1hB?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:35+00:00",
-       "flag": null,
-       "team": "Panthers"
+       "title": "NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWG83SU95S1laWEVsMXdIR0FCV0xwVFE4WTA3bmxSMkttYW1CSWw3anhfd29ocHJsVWxMQmRXTlNJR2FEM3FFN095UE4wbnpkS0lVbEhZYUdzNHA3SXV2d0dueHdPNkNQMGh6UHBjY3UyVnlqU3Q2S2VySHVETkZVX2NQZW1LYUhLV1JBNEM2eWFuUQ?oc=5",
+       "source": "PFF",
+       "published": "2026-10-18T22:22+00:00",
+       "flag": null
+      },
+      {
+       "title": "Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrdE1zNDRoWGRMZW1YU05sYzVmR1RsOUVmRUJoTHhDTUVnd2ZRUU02V0RwVjJVMERqelhNd1gwb0N5QjM0MlRKOG9iaVBNbjRhVkJRNElJVVF1N1pBN09nXzkzQXlTLWJoeXhjWHpnT1dwM3ItUDJoNjc5eU8?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T22:18+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Panthers": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Carolina Panthers at Philadelphia Eagles - NFL Game Summary - Oct 18, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWXlTcTVnQ3ZRc3llUDR4ajI1bG5VakMydUc1VzVqWW9oZHBaMzZOUUJlSjBWV18xRGVVV01TZFllRmtadm5uZ19UR09Pak1iclhXTC1iLVVLQmRqUnBrdExxeDd3QTc1WUt4Mmp5ZE14bGlUWkRlR3FZTlYtY3d4NzhLdnJIYURMX0pVSWVvM2ZMeVJ3aGJCOWhLVE5ET3NRSklnc0tUdHM5SDE4S056NWMyWW52MlR4bHByVUdvWU1QSXp2MnJVMkFJUTZMYjVNaFpaWnBab1NJQ2MyMHJhd3k4Qkl1OTN3dVd4WHZOUQ?oc=5",
+       "source": "USA Today",
+       "published": "2026-10-18T23:10+00:00",
+       "flag": null
+      },
+      {
+       "title": "Eagles fall to Panthers for fourth straight loss. Does Tanner McKee have a chance? - The Athletic",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHdJb1BsMDNldGJGdm90bG0wNGpxS2d3cEZ5OHVlb05YYmJZV2YtSllxNjl3aGFMWXBkU0FVem9hWHFUQk95eTdld2FkXy1WX0pwYm9hcUJoeEdydUltbF9QaGIxWVZqRUNYUVdpMFdFYXRma3o4SVRHd21XRHBKRVBJTHVnZE1nYlVlMHdFVVdlaFRUNFBEVUI5OWQ?oc=5",
+       "source": "The New York Times",
+       "published": "2026-10-18T22:16+00:00",
+       "flag": null
+      },
+      {
+       "title": "3 Major Takeaways from Panthers' Exceptional Win over Eagles",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnpRMURacmZaZ2RyY1ZLOHdsZ2pOR3Ftak9JQ2hzWXhFaVVic0pCdmotNnB0cmI4WWJlck1yODJkRk1GY0VPbUhqV01fa29NdC1TSW1WcHZsd24wZlpHR2tzOTNhVWhmZWROOWVKMzEyeEtqOWZYMW5yTmp0YVNEZ1VNSXZJeU80TXU4NlVtUzQwM2lWR2RJVW5qYnE?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T22:00+00:00",
+       "flag": null
+      },
+      {
+       "title": "NFL Week 6 Recap: Carolina Panthers 25, Philadelphia Eagles 14",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFlHeUVoRml4clk4OVpoS29XdGRSVXZsLVV0dFRpR0ljaG11ZlF2RmlNVzczSE02Ym5jZEozQ05jT1g3ZjlPemR6OVE3RmFhWVl2U29INk5PMkFLcHA0UlNXSVcyNTV4ZzNBRE9tSVJkXzBabEhoTGl6N3FuTEJVQUJ3eEktel8tc1J5RTJ3?oc=5",
+       "source": "PFF",
+       "published": "2026-10-18T21:37+00:00",
+       "flag": null
+      },
+      {
+       "title": "Carolina Panthers running back Chuba Hubbard's best plays from 121-yard game vs. Philadelphia Eagles | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlo1eFFVTXRSSl85UGxzVVRBOUZ2aW0ycWhIc3AxN0x6Mk5xQzhERFo3MUNkckhWRFBwT1l1bDBydDJlUjBHMUZKZFgtRzdhYl9hRDVEc2RPUlhQS1hheUI3T0t4LWRFUGtERWhNRmpwZktoN1YyeGQtZHZpYXJ5NGJROWt5bHFXZ3NWRnc3Q2NuY0k?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T21:08+00:00",
+       "flag": null
       }
      ]
     }
@@ -2581,90 +2581,6 @@
     "moved_against": 0.0,
     "pattern": null
    },
-   "news": {
-    "Giants": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Cam Skattebo demotion: Giants RB logs zero touches, responds to apparent benching",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTVEd3JPdmgtYVdQYUdULVo2Mzg5QW5sLW44RFVqX2J5Y181RUo1UmRJOFc5dHZIcm1MWTczX3p0SzdsWElheVROdHpVNG5SbXBMVDNRWGpXMmNSOXZPUnh4eG1sU043RDZTTFF2ei1WS1NUdGdxbVJNNFgwaWZIRFI5UjZZV2VWRndqZ3pSSmk?oc=5",
-       "source": "CBS Sports",
-       "published": "2026-10-18T21:53+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Giants Week 6 Injury Round Up: Newsome, Thomas and Mooney Exit Team's 34-27 Loss to Saints Early",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWxyYVdNLW9od0JERW16TGtOeERib3c2cWc4RlA0V1JEckk0VG9NNTFkMWNXTWdjeEtmVzdqV3JVeG51THJhQWpWR1NWeDdaQThXOFBXX1h5SUZ0SElITGZiYjVvWHhGTndsbmVSUWxwN1ZFVlMtZFNKQ0VrZGNHR2lHWWdwYkFRWmFqcVpteHViUW83SC1LOENpeGlKNkZP?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-18T21:30+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Giants\u2019 J.J. McCarthy rally falls short in wild loss to Saints as Jameis Winston gets benched",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFBYOE53NXNNaVV3RTlZS0hucTZCTzdPbTBBM2FGVU5LbEVEeUZ1TWFDeUZ0Nkc2Uk1OdUxvemgxbDM3UjMxRnJZTUhxNm5FMXMtV3NrWXFoZWozOFJPa3ZCVzRGZEpxRjRiZXJMeEhTaGd3VUJJWm1YTjA0bTU0WjRsNWcyaFFiV2Y3Q2JHTGNVRUhraHJiaGtGSEFpRUFCdHRTVTBTZFBrb1RIandYUVVwUVVNbTU2cXRiTU5OUXY?oc=5",
-       "source": "New York Post",
-       "published": "2026-10-18T20:32+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Latest New York Giants injury updates will certainly help New York's chances of beating the New Orleans Saints in Week 6",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOS1HNGZHN1BhNGE2QVh4b1h1RVc5dkg0a2tUbXRkNGlhYmY1LV95ZlJzbEc1WXVCZTdFMGVuTEVOdlltOFBNUlZxVUxMTjBJbHhVVHV6eDRod1ByVkJwV1kzR3VKUXZ3WUpGS2h4SXFGdGYwVTE1TWR4ZG5xZ2FfaGl0NkM0MVUtUXpJUVlZc3Nkb1hwbnhIdQ?oc=5",
-       "source": "A to Z Sports",
-       "published": "2026-10-18T12:47+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "NFL Week 6 Recap: New Orleans Saints 34, New York Giants 27",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3ZvazZlbEhBRnhlV0dYR2pHdi1aeGp0VVcxelAzeVdWa2Y0LW10Q01zblpSaHZ3ci1CUExzU0tPbFB2d3hGTWpEMWFRMzRVNVRqYXMwZEEtV1ZfZ1VFcWI0WW1aZ2g2WkkybkdGb1c2WU5CV1poN1I0TnBmMERRUF9tY3pjcXdDbUE?oc=5",
-       "source": "PFF",
-       "published": "2026-10-18T22:42+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Texans": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "Texans 34-31 Jaguars (Oct 18, 2026) Game Recap",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZnU1U2kydElfdnYxQXVSckFzTG1RRkFVS1RUenhFS2EyZjJCbnFiQlhYaEZYV2QzTFlFQjBQX3p2aFFDZGoxd3ZjV25YSnYtTzg5WFVVbDlfSG8?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T20:05+00:00",
-       "flag": null
-      },
-      {
-       "title": "How to stream, watch or listen to Texans at Jags in London",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzJRZ1FLb1VER2FMMDZMTDFwd1V3RENSeUpzbU56TmZPdklGcEpKbzAxcnBqQWVMS0JoMTZsUDV5Mld2cFM0VGdScmt6Q2J0akpsQjBmQWkwcVY5V1owbXJ4UnVDeXJtVzNQWEpGc2tTRlpoY3V0bWF4emJJemx4enIxaFdldzBtbzR2RjlsWHJKZVkyYWlZQUJYcmM1TWdld1gxMTBSZFZQT3FiRVhLZ184eGRuZw?oc=5",
-       "source": "Houston Texans",
-       "published": "2026-10-18T18:18+00:00",
-       "flag": null
-      },
-      {
-       "title": "C.J. Stroud: \"Joy Is a Choice\" After Texans Win in London",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmw4aW42MlU1V0xhLVo0Y3BrTnhzX1FuMEs5dW9kSzJ0UHVQVE9ISTduTlI0ZTktQi1TOHdQRTA2Qnc3WUwxaDZVelRxR0VZc1VLNnltdF8xUVBpTEZfazUyakVFMnNmVVM2WVc3SmlHb2x6NEFxamZzNUJpN3I5ZlA2dHZyWXVCV1YtT0NYaDUwTnM?oc=5",
-       "source": "Houston Texans",
-       "published": "2026-10-18T18:14+00:00",
-       "flag": null
-      },
-      {
-       "title": "Houston Texans vs. Jacksonville Jaguars highlights | Week 6",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMWNHWXhpTTg5T04wanBoTVFMSHpVa2hqZWk5RDNOMDFLWmd3MFdxa2lGZElxNndxN0hGWmJvZDNCa24zQTZwQW14U1p2a1RjM0N3RUVHelJvMUtlNFhxX2t3UEZqSi1mWUtlU0lHcw?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T17:32+00:00",
-       "flag": null
-      },
-      {
-       "title": "Houston Texans vs. Jacksonville Jaguars: Game Highlights",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13clg2SUpDemtLOVI0bzd3eU5LNmhtUlJqRFAtamszUkVpbm9jYlNVV28xTDVHNzJDTEc5eWREUDlNYXoxcE5iVjhTa1B6b0JOT1lmczAtU29xUDlFYXpwMVNRLVFyMW1SeWFtakZB?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-18T16:56+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "spread": {
      "summary": "The model has the Texans by 2.7; the market has the Texans by 9.5. That's a 6.8 point gap on Giants +9.5 at DraftKings.",
@@ -2724,6 +2640,14 @@
      ],
      "news": [
       {
+       "title": "McCarthy nearly rallies Giants after Winston benched; Skattebo logs no carries",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTdjZFVkdHZUTUFNLUVEMmwyUndkT2owamZkYzNvbDA5NENMQjMxaE5kNTNXTTNRSU8tUTFqbWJDTXNSMzJ5WktnYkhOUFpKejcwZTc3SUJhcUM1OXdmUjFndS00ZXBZMDkzVlhuenc5a3FTQ1huQVc1N3pwdmN2N1FjZlZUcm0tYmlTZHpnaEJEbDd6ZHdrNXN5Q1NxSXM?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T23:18+00:00",
+       "flag": "injury",
+       "team": "Giants"
+      },
+      {
        "title": "Cam Skattebo demotion: Giants RB logs zero touches, responds to apparent benching",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTVEd3JPdmgtYVdQYUdULVo2Mzg5QW5sLW44RFVqX2J5Y181RUo1UmRJOFc5dHZIcm1MWTczX3p0SzdsWElheVROdHpVNG5SbXBMVDNRWGpXMmNSOXZPUnh4eG1sU043RDZTTFF2ei1WS1NUdGdxbVJNNFgwaWZIRFI5UjZZV2VWRndqZ3pSSmk?oc=5",
        "source": "CBS Sports",
@@ -2748,42 +2672,26 @@
        "team": "Giants"
       },
       {
-       "title": "Latest New York Giants injury updates will certainly help New York's chances of beating the New Orleans Saints in Week 6",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOS1HNGZHN1BhNGE2QVh4b1h1RVc5dkg0a2tUbXRkNGlhYmY1LV95ZlJzbEc1WXVCZTdFMGVuTEVOdlltOFBNUlZxVUxMTjBJbHhVVHV6eDRod1ByVkJwV1kzR3VKUXZ3WUpGS2h4SXFGdGYwVTE1TWR4ZG5xZ2FfaGl0NkM0MVUtUXpJUVlZc3Nkb1hwbnhIdQ?oc=5",
-       "source": "A to Z Sports",
-       "published": "2026-10-18T12:47+00:00",
-       "flag": "injury",
+       "title": "Cam Skattebo understands why he was \u2018punished by Giants \u2014 but one part caught him off guard",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZpbDhadk44Y0k4Zk1OMWlzRjdZR1RwWW1YX2NXakpXekQ3QmREWGRBS0FnaTVNdHhpeVJUQXBScE82cG1oeHZMOW52S0pEYVBCRmhlVVFGUmVNemlNbHptOG5nOEJueUJWZlpVT1dMbjF5NDEza0ctX05lYXN0dDVuQ19FQl8tc29OVnRHRXlfdllxRnhCSzBoWUxwamdRSVdBb09KeXEweGFHdTlvbEp3SQ?oc=5",
+       "source": "New York Post",
+       "published": "2026-10-19T01:07+00:00",
+       "flag": null,
        "team": "Giants"
       },
       {
-       "title": "NFL Week 6 Recap: New Orleans Saints 34, New York Giants 27",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3ZvazZlbEhBRnhlV0dYR2pHdi1aeGp0VVcxelAzeVdWa2Y0LW10Q01zblpSaHZ3ci1CUExzU0tPbFB2d3hGTWpEMWFRMzRVNVRqYXMwZEEtV1ZfZ1VFcWI0WW1aZ2g2WkkybkdGb1c2WU5CV1poN1I0TnBmMERRUF9tY3pjcXdDbUE?oc=5",
-       "source": "PFF",
-       "published": "2026-10-18T22:42+00:00",
+       "title": "How to stream, watch or listen to Texans at Jags in London",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzJRZ1FLb1VER2FMMDZMTDFwd1V3RENSeUpzbU56TmZPdklGcEpKbzAxcnBqQWVMS0JoMTZsUDV5Mld2cFM0VGdScmt6Q2J0akpsQjBmQWkwcVY5V1owbXJ4UnVDeXJtVzNQWEpGc2tTRlpoY3V0bWF4emJJemx4enIxaFdldzBtbzR2RjlsWHJKZVkyYWlZQUJYcmM1TWdld1gxMTBSZFZQT3FiRVhLZ184eGRuZw?oc=5",
+       "source": "Houston Texans",
+       "published": "2026-10-18T23:18+00:00",
        "flag": null,
-       "team": "Giants"
+       "team": "Texans"
       },
       {
        "title": "Texans 34-31 Jaguars (Oct 18, 2026) Game Recap",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZnU1U2kydElfdnYxQXVSckFzTG1RRkFVS1RUenhFS2EyZjJCbnFiQlhYaEZYV2QzTFlFQjBQX3p2aFFDZGoxd3ZjV25YSnYtTzg5WFVVbDlfSG8?oc=5",
        "source": "ESPN",
        "published": "2026-10-18T20:05+00:00",
-       "flag": null,
-       "team": "Texans"
-      },
-      {
-       "title": "How to stream, watch or listen to Texans at Jags in London",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzJRZ1FLb1VER2FMMDZMTDFwd1V3RENSeUpzbU56TmZPdklGcEpKbzAxcnBqQWVMS0JoMTZsUDV5Mld2cFM0VGdScmt6Q2J0akpsQjBmQWkwcVY5V1owbXJ4UnVDeXJtVzNQWEpGc2tTRlpoY3V0bWF4emJJemx4enIxaFdldzBtbzR2RjlsWHJKZVkyYWlZQUJYcmM1TWdld1gxMTBSZFZQT3FiRVhLZ184eGRuZw?oc=5",
-       "source": "Houston Texans",
-       "published": "2026-10-18T18:18+00:00",
-       "flag": null,
-       "team": "Texans"
-      },
-      {
-       "title": "C.J. Stroud: \"Joy Is a Choice\" After Texans Win in London",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmw4aW42MlU1V0xhLVo0Y3BrTnhzX1FuMEs5dW9kSzJ0UHVQVE9ISTduTlI0ZTktQi1TOHdQRTA2Qnc3WUwxaDZVelRxR0VZc1VLNnltdF8xUVBpTEZfazUyakVFMnNmVVM2WVc3SmlHb2x6NEFxamZzNUJpN3I5ZlA2dHZyWXVCV1YtT0NYaDUwTnM?oc=5",
-       "source": "Houston Texans",
-       "published": "2026-10-18T18:14+00:00",
        "flag": null,
        "team": "Texans"
       },
@@ -2802,6 +2710,98 @@
        "published": "2026-10-18T16:56+00:00",
        "flag": null,
        "team": "Texans"
+      },
+      {
+       "title": "C.J. Stroud's 19-yard connection with Woody Marks gets Texans into field goal range in crunch time",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGJQSXZfa214dzV2OE54dkx2LWY0blZpdWtfdHE1WTBjYkpLR2NSUFQwSTMwMUx6MDBRN3RlRk9XVktEYnVKNVR2TlpGakNmSmN2dWNYUUFSYnV5UmhxVlhtU1hidmVSNzQ4dHkzLWFaaE1NRldOdU56X1NGbjJJSmFwclJUeXJWbUIxQjBEM0VuMEExZGxfZG8wZWQ2amFHWUFsNVRNZHVyLU01aWtMbkZHTXpNTUw4X1FoWHNiRGx1UQ?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T16:53+00:00",
+       "flag": null,
+       "team": "Texans"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Giants": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "McCarthy nearly rallies Giants after Winston benched; Skattebo logs no carries",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTdjZFVkdHZUTUFNLUVEMmwyUndkT2owamZkYzNvbDA5NENMQjMxaE5kNTNXTTNRSU8tUTFqbWJDTXNSMzJ5WktnYkhOUFpKejcwZTc3SUJhcUM1OXdmUjFndS00ZXBZMDkzVlhuenc5a3FTQ1huQVc1N3pwdmN2N1FjZlZUcm0tYmlTZHpnaEJEbDd6ZHdrNXN5Q1NxSXM?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T23:18+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Cam Skattebo demotion: Giants RB logs zero touches, responds to apparent benching",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTVEd3JPdmgtYVdQYUdULVo2Mzg5QW5sLW44RFVqX2J5Y181RUo1UmRJOFc5dHZIcm1MWTczX3p0SzdsWElheVROdHpVNG5SbXBMVDNRWGpXMmNSOXZPUnh4eG1sU043RDZTTFF2ei1WS1NUdGdxbVJNNFgwaWZIRFI5UjZZV2VWRndqZ3pSSmk?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-18T21:53+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Giants Week 6 Injury Round Up: Newsome, Thomas and Mooney Exit Team's 34-27 Loss to Saints Early",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWxyYVdNLW9od0JERW16TGtOeERib3c2cWc4RlA0V1JEckk0VG9NNTFkMWNXTWdjeEtmVzdqV3JVeG51THJhQWpWR1NWeDdaQThXOFBXX1h5SUZ0SElITGZiYjVvWHhGTndsbmVSUWxwN1ZFVlMtZFNKQ0VrZGNHR2lHWWdwYkFRWmFqcVpteHViUW83SC1LOENpeGlKNkZP?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-18T21:30+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Giants\u2019 J.J. McCarthy rally falls short in wild loss to Saints as Jameis Winston gets benched",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFBYOE53NXNNaVV3RTlZS0hucTZCTzdPbTBBM2FGVU5LbEVEeUZ1TWFDeUZ0Nkc2Uk1OdUxvemgxbDM3UjMxRnJZTUhxNm5FMXMtV3NrWXFoZWozOFJPa3ZCVzRGZEpxRjRiZXJMeEhTaGd3VUJJWm1YTjA0bTU0WjRsNWcyaFFiV2Y3Q2JHTGNVRUhraHJiaGtGSEFpRUFCdHRTVTBTZFBrb1RIandYUVVwUVVNbTU2cXRiTU5OUXY?oc=5",
+       "source": "New York Post",
+       "published": "2026-10-18T20:32+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Cam Skattebo understands why he was \u2018punished by Giants \u2014 but one part caught him off guard",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZpbDhadk44Y0k4Zk1OMWlzRjdZR1RwWW1YX2NXakpXekQ3QmREWGRBS0FnaTVNdHhpeVJUQXBScE82cG1oeHZMOW52S0pEYVBCRmhlVVFGUmVNemlNbHptOG5nOEJueUJWZlpVT1dMbjF5NDEza0ctX05lYXN0dDVuQ19FQl8tc29OVnRHRXlfdllxRnhCSzBoWUxwamdRSVdBb09KeXEweGFHdTlvbEp3SQ?oc=5",
+       "source": "New York Post",
+       "published": "2026-10-19T01:07+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Texans": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "How to stream, watch or listen to Texans at Jags in London",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzJRZ1FLb1VER2FMMDZMTDFwd1V3RENSeUpzbU56TmZPdklGcEpKbzAxcnBqQWVMS0JoMTZsUDV5Mld2cFM0VGdScmt6Q2J0akpsQjBmQWkwcVY5V1owbXJ4UnVDeXJtVzNQWEpGc2tTRlpoY3V0bWF4emJJemx4enIxaFdldzBtbzR2RjlsWHJKZVkyYWlZQUJYcmM1TWdld1gxMTBSZFZQT3FiRVhLZ184eGRuZw?oc=5",
+       "source": "Houston Texans",
+       "published": "2026-10-18T23:18+00:00",
+       "flag": null
+      },
+      {
+       "title": "Texans 34-31 Jaguars (Oct 18, 2026) Game Recap",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZnU1U2kydElfdnYxQXVSckFzTG1RRkFVS1RUenhFS2EyZjJCbnFiQlhYaEZYV2QzTFlFQjBQX3p2aFFDZGoxd3ZjV25YSnYtTzg5WFVVbDlfSG8?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T20:05+00:00",
+       "flag": null
+      },
+      {
+       "title": "Houston Texans vs. Jacksonville Jaguars highlights | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMWNHWXhpTTg5T04wanBoTVFMSHpVa2hqZWk5RDNOMDFLWmd3MFdxa2lGZElxNndxN0hGWmJvZDNCa24zQTZwQW14U1p2a1RjM0N3RUVHelJvMUtlNFhxX2t3UEZqSi1mWUtlU0lHcw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T17:32+00:00",
+       "flag": null
+      },
+      {
+       "title": "Houston Texans vs. Jacksonville Jaguars: Game Highlights",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13clg2SUpDemtLOVI0bzd3eU5LNmhtUlJqRFAtamszUkVpbm9jYlNVV28xTDVHNzJDTEc5eWREUDlNYXoxcE5iVjhTa1B6b0JOT1lmczAtU29xUDlFYXpwMVNRLVFyMW1SeWFtakZB?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-18T16:56+00:00",
+       "flag": null
+      },
+      {
+       "title": "C.J. Stroud's 19-yard connection with Woody Marks gets Texans into field goal range in crunch time",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGJQSXZfa214dzV2OE54dkx2LWY0blZpdWtfdHE1WTBjYkpLR2NSUFQwSTMwMUx6MDBRN3RlRk9XVktEYnVKNVR2TlpGakNmSmN2dWNYUUFSYnV5UmhxVlhtU1hidmVSNzQ4dHkzLWFaaE1NRldOdU56X1NGbjJJSmFwclJUeXJWbUIxQjBEM0VuMEExZGxfZG8wZWQ2amFHWUFsNVRNZHVyLU01aWtMbkZHTXpNTUw4X1FoWHNiRGx1UQ?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T16:53+00:00",
+       "flag": null
       }
      ]
     }
@@ -2981,90 +2981,6 @@
     "tier": "model",
     "moved_against": 0.0
    },
-   "news": {
-    "Dolphins": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Dolphins-Jets Injury Update: Bye Leaves Key Miami Questions Open",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0J1M0tyTzhyM3piWWpTTnVxcWtWUmJxcXYxZGtpakZPWWRzXzNFRnBaSDJDYnVBTl9jWnlRSmRISVdHVnMzVGl4MURtLThmOEx2eWFXNVJ6X2tMSWZPUXI5N2NrR0FJQkNHQXo4TEZMaGdtb19kMVZabmpIaHRKNTV6NFdjVkd0U1BVSVFISDdlZHlhS2RlcFJVQkFxR0gyMjJxeUhvTktnbTg?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-17T18:07+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "8 Dolphins who could return from injury after bye week",
-       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUEdHWWs2MW85aE4xS0ZpUExjRU9CaGdBN2F2MkxqM3k1QnJmOHZzb0VnQTQ2Yy1ENTR2NUxwZmZJbGhnMndGUVVLcVczOVFrWWRiMXlxcWdvYU9UU01CT1hoRC1jMGJUdkJKMHhSM0RkYi0tSGwyNDJDRnlZektVaXNRX3BaODBpMmx2SDFMNkw1QTY4UEpJZ1lRUkx3T19zYzU0bnhVbDBUMGZuRk1BdFJkdk1sekdiQ1pUU0xfaVF1WHlnRHhQWFhSUUxqVlFhMEZxSmlQTzZJQ09TbVdDVGhONTdKV3R4TkJybnJQQWY1Z2dQMjZvdWlrRGlhSG90bjNj?oc=5",
-       "source": "Dolphins Wire",
-       "published": "2026-10-16T17:30+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "10 Stats That Help Explain the Dolphins' Tough Start (And What Can Be Done About Them)",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUJrWlEwSmp6Z1NjMDNIdFlJcG1vakFlWk5ZWkZmLVFQbG5QU2tlTnFTcjViVUlxY0JfTzhOa1ZNX09GNDNZc29YVmwwVXMyLVhWellvNHYwcTZoVGp2ZHU1RGZ4RFVSdVEtRTREb25Pd1VaUnlhY2JESVFvTl9DOVpxSzUwRkZYcVYxUVFaWFQ3aWdmMUNBZTFqX09UeFpzVjZ2b0kxekxmNGZSVW5JVEx0TlhGd1RVZF94akZmZG1LcWR2RG9NQ1lEd1Y5dw?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-18T20:00+00:00",
-       "flag": null
-      },
-      {
-       "title": "Stephen Ross Sells Dolphins Stake at Record $12.5B+ Valuation",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUlObm1qaUM3U19DUm16WnBtVkVibWxqSmd5Z0swU0RTTlRPUTFxMndDdWk4ZWRSbmxwLTQzbExveDRkWHRoZUZEN2REa1VVckhnd0ZocUN3dzhnTjRmelFDUXBhSkxmNkFqdjQzZklyNEJVZHB0RC0wM1dpQ3NVcG1GWEtLS096am9yVktkM2g0a3pO?oc=5",
-       "source": "Dolphins Talk",
-       "published": "2026-10-18T19:56+00:00",
-       "flag": null
-      },
-      {
-       "title": "NFL Drops Hammer With Punishment Over Miami Dolphins Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1Z0ZTJGQ3oyRGRxRVZLd2pCSDlNVUxyMGk1bVp0akwtRWlvQks1cWNRZnZRZzVQT3BxNk9ZS2JibDhYeHRJTl81OWhwYlVzdnBYTUxJQ3VCSXVqam1SemdSVFVtYnUySldWSE1KVjJLNzNrQ2xkdGFYYzRIUnZwNGZ3NnFCbElB?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T19:52+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Jets": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Four key Patriots offensive cogs leave game vs. Jets with injuries",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
-       "source": "Boston Herald",
-       "published": "2026-10-18T22:03+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "6 Patriots takeaways as Mike Vrabel\u2019s team beats Jets, loses more starters to injuries",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtIUjloeXB2cm93OXVkXzQzU3hFMjN6NHJ3UXhFb3lPcE9zd21sWWs5TVdkdW5PVGpRdERoZUJtUllQVlQwN1prSmd5MlpHa1pvUG90VkMtTkc5X1M0RlZ2QUV6Zk8zVGZiWjJ4Y0F0VDdhX1dIUkMxNGk0ZTBTYXBfX1BpT0llQk12ZVgwX0JwQlBlS1hPYlZmaUREYWFjWkNhUk41aTNnWDVhbDJoZk9JaVBaRjE5VE1KZC1mLWJSQURibmkyS3BjVQ?oc=5",
-       "source": "MassLive.com",
-       "published": "2026-10-18T20:11+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "New York Jets at New England Patriots - NFL Game Summary - Oct 18, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb3V3Tmp2NUlCb3ZLLUZEZzBTSmhZNklVVGRxTG5uQTNmeXA5X0RJX3R0Z1hNU2tQWHZpQjVNVG9sSV9OVTNrSzZDNkpLY2d5X29SUHl1YnpoM3duM2F0ZjRRRlpwcjhWSWY1bllqNnJPa0YyT3MwM3pFcFNmNHdrQXN2M0tKMlNQQTliVFFra2Z4a2RLUmJHSV9IdldxTnNDUzRtWHNKUV94bWVPQTVoU01VazcxSW9EOHlFMVl4cEViTDMxSGotS2t4V1I3VkJ1TkQyQVh0R3JtTUdiSUJPWXdtUWhvS2NqUG1fSlp3?oc=5",
-       "source": "USA Today",
-       "published": "2026-10-18T23:10+00:00",
-       "flag": null
-      },
-      {
-       "title": "Win Cam: Patriots Celebrate Victory Over the Jets",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUxyWXM2ZHJ4alhicGF3VW9LM3U5UEpxRS1abGpBTkZrNnVCV01IR3Exc1RrcVZPQTVENUpnRHJaNXRyTlc5RlJfS2hTUmxPYUVBd0E2OUZuY1VvWXpXMkxhMzJnRl9GcjVPWUtNQ3dCV1Etbzl5clNxMFFaOGlMYnk4dG4wdw?oc=5",
-       "source": "New England Patriots",
-       "published": "2026-10-18T22:29+00:00",
-       "flag": null
-      },
-      {
-       "title": "Jets\u2019 worst enemy strikes again in loss to Patriots: Themselves",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE4yejY4VUJVT1kyNFU4Z2UtUE5LMmtnRVBTcEM0U2NKVDd4M1JIejlpY1ViUS1fM2RqVm1xNVBwelVqNTVPMGZ0ZU9SZ3EyNkQwWk9fUi1zajNQNmhaN2Jra0JNeFNRQW1SbVFYcnhtdHNGVVVva1o5VHhaU3RYdmhfLUdvUmpsTi1iT1F3blVGOUx6NlQxbENpcUtUN1ZQTlBB?oc=5",
-       "source": "New York Daily News",
-       "published": "2026-10-18T22:27+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "total": {
      "summary": "The model projects 42.9 total points; the best Over number is 38.5. That's a 4.4 point gap.",
@@ -3122,14 +3038,6 @@
      "evidence": [],
      "news": [
       {
-       "title": "Dolphins-Jets Injury Update: Bye Leaves Key Miami Questions Open",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0J1M0tyTzhyM3piWWpTTnVxcWtWUmJxcXYxZGtpakZPWWRzXzNFRnBaSDJDYnVBTl9jWnlRSmRISVdHVnMzVGl4MURtLThmOEx2eWFXNVJ6X2tMSWZPUXI5N2NrR0FJQkNHQXo4TEZMaGdtb19kMVZabmpIaHRKNTV6NFdjVkd0U1BVSVFISDdlZHlhS2RlcFJVQkFxR0gyMjJxeUhvTktnbTg?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-17T18:07+00:00",
-       "flag": "injury",
-       "team": "Dolphins"
-      },
-      {
        "title": "8 Dolphins who could return from injury after bye week",
        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUEdHWWs2MW85aE4xS0ZpUExjRU9CaGdBN2F2MkxqM3k1QnJmOHZzb0VnQTQ2Yy1ENTR2NUxwZmZJbGhnMndGUVVLcVczOVFrWWRiMXlxcWdvYU9UU01CT1hoRC1jMGJUdkJKMHhSM0RkYi0tSGwyNDJDRnlZektVaXNRX3BaODBpMmx2SDFMNkw1QTY4UEpJZ1lRUkx3T19zYzU0bnhVbDBUMGZuRk1BdFJkdk1sekdiQ1pUU0xfaVF1WHlnRHhQWFhSUUxqVlFhMEZxSmlQTzZJQ09TbVdDVGhONTdKV3R4TkJybnJQQWY1Z2dQMjZvdWlrRGlhSG90bjNj?oc=5",
        "source": "Dolphins Wire",
@@ -3138,28 +3046,44 @@
        "team": "Dolphins"
       },
       {
-       "title": "10 Stats That Help Explain the Dolphins' Tough Start (And What Can Be Done About Them)",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUJrWlEwSmp6Z1NjMDNIdFlJcG1vakFlWk5ZWkZmLVFQbG5QU2tlTnFTcjViVUlxY0JfTzhOa1ZNX09GNDNZc29YVmwwVXMyLVhWellvNHYwcTZoVGp2ZHU1RGZ4RFVSdVEtRTREb25Pd1VaUnlhY2JESVFvTl9DOVpxSzUwRkZYcVYxUVFaWFQ3aWdmMUNBZTFqX09UeFpzVjZ2b0kxekxmNGZSVW5JVEx0TlhGd1RVZF94akZmZG1LcWR2RG9NQ1lEd1Y5dw?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-18T20:00+00:00",
+       "title": "Miami Dolphins Bye Week Adjustments and Roster Shuffling",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmszNDMwdWUxcUU3dnNaNllpNnFmbWsyYXk4cGJXWWtkVDJGNWpuX3JoTVlheXAtSHliUk1wU0FNQjVZSWRVXzBabnVlWi1fWUl1NTBQTUZrX2dVRFFsbXNPUE50MUJXMGcxUXRmOV9naUd4cl82R2w0a2RxWXplNjJVRzBoR182ZGRZbEtvUVg3VHBQQTNIX1hxQzlBZE1MUUE?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-19T00:11+00:00",
        "flag": null,
        "team": "Dolphins"
       },
       {
-       "title": "Stephen Ross Sells Dolphins Stake at Record $12.5B+ Valuation",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUlObm1qaUM3U19DUm16WnBtVkVibWxqSmd5Z0swU0RTTlRPUTFxMndDdWk4ZWRSbmxwLTQzbExveDRkWHRoZUZEN2REa1VVckhnd0ZocUN3dzhnTjRmelFDUXBhSkxmNkFqdjQzZklyNEJVZHB0RC0wM1dpQ3NVcG1GWEtLS096am9yVktkM2g0a3pO?oc=5",
-       "source": "Dolphins Talk",
-       "published": "2026-10-18T19:56+00:00",
-       "flag": null,
-       "team": "Dolphins"
-      },
-      {
-       "title": "NFL Drops Hammer With Punishment Over Miami Dolphins Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1Z0ZTJGQ3oyRGRxRVZLd2pCSDlNVUxyMGk1bVp0akwtRWlvQks1cWNRZnZRZzVQT3BxNk9ZS2JibDhYeHRJTl81OWhwYlVzdnBYTUxJQ3VCSXVqam1SemdSVFVtYnUySldWSE1KVjJLNzNrQ2xkdGFYYzRIUnZwNGZ3NnFCbElB?oc=5",
+       "title": "5 Dolphins Players Who Are Exceeding Expectations",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamVyMFYtcmM4SFl1SkE5V2YwVjdBbFFaMS16ZTNvSHRvT3FINS1MSWwxd1pwQ0VBWVRGZDJfQjJSR3RxRU1RdWN4NEJfUzFfZFJyLVc2TVhONFVsUVlKUmZLV29fMExER0pxU1JnTmFEN2FYUTlTUmRTSk0zSkxqbmV2WnJJdlIyaU9WVUJ6VjdfWGlf?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-18T19:52+00:00",
+       "published": "2026-10-18T23:53+00:00",
        "flag": null,
        "team": "Dolphins"
+      },
+      {
+       "title": "Dolphins get help during bye week in quest for 1st overall pick",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEdXSWlRbFRrNWVwNHh5c2lLWlZlWGtfT0gxUXRITWZnN2ZrcEZ1MG5IV25DM1pvMjhYcGdlRFR2aGtsc2VJTVNEWkhOV3JWaHk5UmhSRkRWcnNzLVhVUkFLcjlxMjhQNmVLZm1Od3B5SzZNYjdROEVuWVF6OTd6ZVdyR1k?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-18T23:51+00:00",
+       "flag": null,
+       "team": "Dolphins"
+      },
+      {
+       "title": "Updated 2027 NFL Draft Order After Week 6 Results, Who Could Chargers & Dolphins Take?",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd3VPQ0pkcHN6NzVvOG1QZURJYTNxSUlBZ19UNGpiYnBTVHM5ZVBsUzBUZmpzUXlWbE1ZUkdQT0duSUFwUUx5eTBnRUFxZ1J1bDh2ekhUMU9qY3VGMW11d2dIVnBoRDBaRjB0M0REVzl4Y2FNWlkwNm5MeDdKQ3JDbkl1RXVrSEhWLXg0V2sweTVsems4SFZ6RlZwVUVNeEpDOGpNTkljbGhqUU9YWlRMRVI1Ym91NzdjV0hRVkg1V09yTlI1Z0E?oc=5",
+       "source": "Bleacher Report",
+       "published": "2026-10-18T23:46+00:00",
+       "flag": null,
+       "team": "Dolphins"
+      },
+      {
+       "title": "Patriots suffer multiple injuries against Jets",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcC16NS1qbVJKVXVaV2UySUtYdjJLeEIweVpva1B0SHFlMVA1VHVIZjJmdURBY1JSUnRGWGFHQU8zd0JFR2UtTlVra3FEUUpoSFc3WldpbzBnTG05MkI2a2FUc09xVno0Y3lPcUtkMzVIcU4wNVAwSGtnZnVHMFhlbzVkVDNuQ1Zsejl4TTNGTTlmSzEwZ1dvUGU3YVh3UEl2YllOYWFPZ2dHS00?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-19T00:00+00:00",
+       "flag": "injury",
+       "team": "Jets"
       },
       {
        "title": "Four key Patriots offensive cogs leave game vs. Jets with injuries",
@@ -3178,28 +3102,104 @@
        "team": "Jets"
       },
       {
-       "title": "New York Jets at New England Patriots - NFL Game Summary - Oct 18, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb3V3Tmp2NUlCb3ZLLUZEZzBTSmhZNklVVGRxTG5uQTNmeXA5X0RJX3R0Z1hNU2tQWHZpQjVNVG9sSV9OVTNrSzZDNkpLY2d5X29SUHl1YnpoM3duM2F0ZjRRRlpwcjhWSWY1bllqNnJPa0YyT3MwM3pFcFNmNHdrQXN2M0tKMlNQQTliVFFra2Z4a2RLUmJHSV9IdldxTnNDUzRtWHNKUV94bWVPQTVoU01VazcxSW9EOHlFMVl4cEViTDMxSGotS2t4V1I3VkJ1TkQyQVh0R3JtTUdiSUJPWXdtUWhvS2NqUG1fSlp3?oc=5",
-       "source": "USA Today",
-       "published": "2026-10-18T23:10+00:00",
+       "title": "Jets WR Garrett Wilson holds tongue after 'frustrating' loss to Patriots",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUG9jRjdRRDZwWmRRdEU4b01UUTdvSlNaRXI5WlJ6QmNDLTFFdVRhd0xWOGdmWmVJM3ZrYWlSVUxQWEZTOTJqLVp6UnIxb0dMTC16VlFJX3Y1SmhjeUxGMnVNZlY1U1d2SDRqWldMdmQ2RF81WXdDdnE3LXh0S1lWUWFkM1NjcWFkbVVpX3d4X2VoU2dMdnc?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-19T00:42+00:00",
        "flag": null,
        "team": "Jets"
       },
       {
-       "title": "Win Cam: Patriots Celebrate Victory Over the Jets",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUxyWXM2ZHJ4alhicGF3VW9LM3U5UEpxRS1abGpBTkZrNnVCV01IR3Exc1RrcVZPQTVENUpnRHJaNXRyTlc5RlJfS2hTUmxPYUVBd0E2OUZuY1VvWXpXMkxhMzJnRl9GcjVPWUtNQ3dCV1Etbzl5clNxMFFaOGlMYnk4dG4wdw?oc=5",
-       "source": "New England Patriots",
-       "published": "2026-10-18T22:29+00:00",
+       "title": "New York Jets Beaten 26-19 by Difference-Maker Drake Maye and the New England Patriots",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nTE5Ecm8zeUtFaTQ1dFlCTFY1YUdaVGd1SXA2bThrSVpIanhfNzFBdnRvS0Zjb201QUZUcUZIaEg2anktRUlGZnpWUmd6TnJsbTF2aFhzT1lMdUk0Q2pJZ3hsS1FGWjE3RElvWF9iSXI0ejVCNWVWQ3FwOA?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-19T00:22+00:00",
        "flag": null,
        "team": "Jets"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Dolphins": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "8 Dolphins who could return from injury after bye week",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUEdHWWs2MW85aE4xS0ZpUExjRU9CaGdBN2F2MkxqM3k1QnJmOHZzb0VnQTQ2Yy1ENTR2NUxwZmZJbGhnMndGUVVLcVczOVFrWWRiMXlxcWdvYU9UU01CT1hoRC1jMGJUdkJKMHhSM0RkYi0tSGwyNDJDRnlZektVaXNRX3BaODBpMmx2SDFMNkw1QTY4UEpJZ1lRUkx3T19zYzU0bnhVbDBUMGZuRk1BdFJkdk1sekdiQ1pUU0xfaVF1WHlnRHhQWFhSUUxqVlFhMEZxSmlQTzZJQ09TbVdDVGhONTdKV3R4TkJybnJQQWY1Z2dQMjZvdWlrRGlhSG90bjNj?oc=5",
+       "source": "Dolphins Wire",
+       "published": "2026-10-16T17:30+00:00",
+       "flag": "injury"
       },
       {
-       "title": "Jets\u2019 worst enemy strikes again in loss to Patriots: Themselves",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE4yejY4VUJVT1kyNFU4Z2UtUE5LMmtnRVBTcEM0U2NKVDd4M1JIejlpY1ViUS1fM2RqVm1xNVBwelVqNTVPMGZ0ZU9SZ3EyNkQwWk9fUi1zajNQNmhaN2Jra0JNeFNRQW1SbVFYcnhtdHNGVVVva1o5VHhaU3RYdmhfLUdvUmpsTi1iT1F3blVGOUx6NlQxbENpcUtUN1ZQTlBB?oc=5",
-       "source": "New York Daily News",
-       "published": "2026-10-18T22:27+00:00",
-       "flag": null,
-       "team": "Jets"
+       "title": "Miami Dolphins Bye Week Adjustments and Roster Shuffling",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmszNDMwdWUxcUU3dnNaNllpNnFmbWsyYXk4cGJXWWtkVDJGNWpuX3JoTVlheXAtSHliUk1wU0FNQjVZSWRVXzBabnVlWi1fWUl1NTBQTUZrX2dVRFFsbXNPUE50MUJXMGcxUXRmOV9naUd4cl82R2w0a2RxWXplNjJVRzBoR182ZGRZbEtvUVg3VHBQQTNIX1hxQzlBZE1MUUE?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-19T00:11+00:00",
+       "flag": null
+      },
+      {
+       "title": "5 Dolphins Players Who Are Exceeding Expectations",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamVyMFYtcmM4SFl1SkE5V2YwVjdBbFFaMS16ZTNvSHRvT3FINS1MSWwxd1pwQ0VBWVRGZDJfQjJSR3RxRU1RdWN4NEJfUzFfZFJyLVc2TVhONFVsUVlKUmZLV29fMExER0pxU1JnTmFEN2FYUTlTUmRTSk0zSkxqbmV2WnJJdlIyaU9WVUJ6VjdfWGlf?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-18T23:53+00:00",
+       "flag": null
+      },
+      {
+       "title": "Dolphins get help during bye week in quest for 1st overall pick",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEdXSWlRbFRrNWVwNHh5c2lLWlZlWGtfT0gxUXRITWZnN2ZrcEZ1MG5IV25DM1pvMjhYcGdlRFR2aGtsc2VJTVNEWkhOV3JWaHk5UmhSRkRWcnNzLVhVUkFLcjlxMjhQNmVLZm1Od3B5SzZNYjdROEVuWVF6OTd6ZVdyR1k?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-18T23:51+00:00",
+       "flag": null
+      },
+      {
+       "title": "Updated 2027 NFL Draft Order After Week 6 Results, Who Could Chargers & Dolphins Take?",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd3VPQ0pkcHN6NzVvOG1QZURJYTNxSUlBZ19UNGpiYnBTVHM5ZVBsUzBUZmpzUXlWbE1ZUkdQT0duSUFwUUx5eTBnRUFxZ1J1bDh2ekhUMU9qY3VGMW11d2dIVnBoRDBaRjB0M0REVzl4Y2FNWlkwNm5MeDdKQ3JDbkl1RXVrSEhWLXg0V2sweTVsems4SFZ6RlZwVUVNeEpDOGpNTkljbGhqUU9YWlRMRVI1Ym91NzdjV0hRVkg1V09yTlI1Z0E?oc=5",
+       "source": "Bleacher Report",
+       "published": "2026-10-18T23:46+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Jets": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Patriots suffer multiple injuries against Jets",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcC16NS1qbVJKVXVaV2UySUtYdjJLeEIweVpva1B0SHFlMVA1VHVIZjJmdURBY1JSUnRGWGFHQU8zd0JFR2UtTlVra3FEUUpoSFc3WldpbzBnTG05MkI2a2FUc09xVno0Y3lPcUtkMzVIcU4wNVAwSGtnZnVHMFhlbzVkVDNuQ1Zsejl4TTNGTTlmSzEwZ1dvUGU3YVh3UEl2YllOYWFPZ2dHS00?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-19T00:00+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Four key Patriots offensive cogs leave game vs. Jets with injuries",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
+       "source": "Boston Herald",
+       "published": "2026-10-18T22:03+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "6 Patriots takeaways as Mike Vrabel\u2019s team beats Jets, loses more starters to injuries",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtIUjloeXB2cm93OXVkXzQzU3hFMjN6NHJ3UXhFb3lPcE9zd21sWWs5TVdkdW5PVGpRdERoZUJtUllQVlQwN1prSmd5MlpHa1pvUG90VkMtTkc5X1M0RlZ2QUV6Zk8zVGZiWjJ4Y0F0VDdhX1dIUkMxNGk0ZTBTYXBfX1BpT0llQk12ZVgwX0JwQlBlS1hPYlZmaUREYWFjWkNhUk41aTNnWDVhbDJoZk9JaVBaRjE5VE1KZC1mLWJSQURibmkyS3BjVQ?oc=5",
+       "source": "MassLive.com",
+       "published": "2026-10-18T20:11+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jets WR Garrett Wilson holds tongue after 'frustrating' loss to Patriots",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUG9jRjdRRDZwWmRRdEU4b01UUTdvSlNaRXI5WlJ6QmNDLTFFdVRhd0xWOGdmWmVJM3ZrYWlSVUxQWEZTOTJqLVp6UnIxb0dMTC16VlFJX3Y1SmhjeUxGMnVNZlY1U1d2SDRqWldMdmQ2RF81WXdDdnE3LXh0S1lWUWFkM1NjcWFkbVVpX3d4X2VoU2dMdnc?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-19T00:42+00:00",
+       "flag": null
+      },
+      {
+       "title": "New York Jets Beaten 26-19 by Difference-Maker Drake Maye and the New England Patriots",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nTE5Ecm8zeUtFaTQ1dFlCTFY1YUdaVGd1SXA2bThrSVpIanhfNzFBdnRvS0Zjb201QUZUcUZIaEg2anktRUlGZnpWUmd6TnJsbTF2aFhzT1lMdUk0Q2pJZ3hsS1FGWjE3RElvWF9iSXI0ejVCNWVWQ3FwOA?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-19T00:22+00:00",
+       "flag": null
       }
      ]
     }
@@ -3291,90 +3291,6 @@
     "tier": "model",
     "moved_against": 0.0
    },
-   "news": {
-    "Browns": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "Game Highlights: Baltimore Ravens vs. Cleveland Browns | Week 6",
-       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yM3hBS294MHVnelB6YkY4cEY0R1FlS25TUi1EXzE2MnV1UEFIWkNBVHUtc29ZSkZUdGJfd2VNSjI1VHN3S3dvQTdSVXVEZG56Z3pqdnJ6UGFMaXdoVjhfOWNabnNqVjRDcTFOZi11dmNMd1Fa?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T20:57+00:00",
-       "flag": null
-      },
-      {
-       "title": "Browns 13, Ravens 10 | Final Score, Stats & Game Recap",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlpfZjFPQTFPT1lFcFhVWlhDemcyU2xYVzRzM1lkQmNOcDNOQzJzMnFlVDloNUdqMmZaNzd2NHBZcC1YOE5YdG5UM2tITHVJTmZZRF9PRmlZNjBqRkVBSVBuTzBsNVFBOENEVjRhQWVWU3NOa0o3dlJfbXpULXI2ajBYWjU5ZjlQNzZic1hB?oc=5",
-       "source": "Cleveland Browns",
-       "published": "2026-10-18T20:15+00:00",
-       "flag": null
-      },
-      {
-       "title": "Cleveland Browns kicker Andre Szmyt propels Browns into first place in AFC North with game-winning FG",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXROMTVFU0NIOHNtaUF4LUdSUjZ0djkwTmRPWGF0SS1VdExCa2lYRkVySXR1TUxlUk54ZnBDb1JNbHM2M1FhTHVFWkY5VlJfcW92bE5ZaUNkMkJfR3dXUHVoTVcwb2pBemtEek5xZVdMX0I0OEtjc29ZYmNHczhTd1lqd2pxQUZQYUVtd0ozU1dTOTlhbFBXVXF1YW85Mm80RGpvcDlzMA?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T20:13+00:00",
-       "flag": null
-      },
-      {
-       "title": "~$!\u3010Browns vs Ravens\u3011 Cleveland Browns vs Baltimore Ravens NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26",
-       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQNWpMNzV4cHhxcG9QOUhGdkllcERFWk1rWThfamlWNmNlZVlJNDdwVlNXWmo3RUxpbUJNVURHMnNzNTgtR3NUMWpTd2pqX1VoZVFuZ2NBZzVOaGJMT2ZZYXZFOVRxakNDU0Y2bE9wcEhrQXNLbm9zZm5EMVNzRVl1bEVlY1NrR1RydFNwaU9YWmdNVTh4aDg4aFNBM1o2YWlDZDZwUElGM3dROV9Fc1dVTzFqYUs2N3NLa1dSbHBRRkRKeTNXU1ZsTWMxczd1V1FmRnBySE5RdmpHYXRqV0dlM3RhMERQYlFMZkJVYzUyRmEtNFdYRVg5ZXB3TUNPUUpQNnl5TmZQUlZwQ3BLY0x6SzVMcDcxLUpHeWI4UUNLUFV0Ti16VnB4S3V3cHRla2VMN1IwTnNWRjhfZzdtR3c?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T18:19+00:00",
-       "flag": null
-      },
-      {
-       "title": "(nFL)! Cleveland Browns vs Baltimore Ravens NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 On TV",
-       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPaFhmUDFtSF8zVWJwa3ZfRi1yWnY4YkFSeFNRRUE0YUVySnhscU1pWUhmWmpPbE81aUJkZDgyaFloWm1KdnZCdV9GeFl2cmFXVE9KMTQ1d0NWVzNYa01URy1GeU5pVTNMTHZaelQ3VWJBUGZGblNwUFhWVF95RkdJbUN3SWM1OVNHa0dKM05yZ25VaTRfQUdCeU5rTUo4dElxV2tFYk9GV1RRNlNGQnZGNW4tNFVydmFiblpWekhOaWxpUWxya1VIc2dwTEJXd1dBSmtFWmpZZTVDRFdtcFdnT2w3NzgtU3V4Z1lxUmxnOTlpQzBCODNZSmxEbnF3NEJwN3Z4R2JVQlkwdElvOXRrNUIyNDZKQjVaZkRRNFFVWjc3cnVnZU41aFJKaVlMV0xvOGZwU2ZlMmEwMElvbHc?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T18:17+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Titans": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "Unpacking Titans' first win of 2026 and what it means for team",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZ2SExzbGtHMS1YSmUtZHZxSDE4M3V2NWxUQjdGRXpHMTZ3VWctT0JrMmVmNWFHaVZJLXdveVNzdHRob19UdHFFT25wMC1mZnNWb0p3NHdIQjlFNUdJb3lZU09tTnRVYXhuNEVSR3JSSm9NNmxranhTNlNqYmJkY2hzSkhER3c?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T22:08+00:00",
-       "flag": null
-      },
-      {
-       "title": "Where Tennessee Titans rank on updated 2027 NFL Draft order",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSl9jeFUzXzdmRmdSQ1BpYUJPdVJZVkpJWGs1SzBZLUU3T1pkdXFzMG11NzVTS0xSdlVpRzZzWjg1N0V5bU9xZDVIc0xmZWhYNEQwYzFHMVhGU2hMTEhyZXpCa0dUdHFwb3lxcldSSGJ1QmVpcFJXSVZWQVlicTdDcElzQjNmcXE1V1pKT2pxQ3loM0k2Y2hCckZHNUN4TnF4clBYaXFzTzY4MElRZXYzVHZR?oc=5",
-       "source": "The Tennessean",
-       "published": "2026-10-18T21:05+00:00",
-       "flag": null
-      },
-      {
-       "title": "Tennessee Titans vs. Indianapolis Colts highlights | Week 6",
-       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5cnNlUURjNmd3RWFJX2daQ05wQnFjVWxLZkN6ekptdlI4QUg5cGNfQ2Y4ZUJhT2VnTlZwSDhFUkhWSDJQSUU4VTM1M3dwRm05VzIyQlFTYjBKaDB2amM5MHRIb3hZcU1IbllzUg?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T20:51+00:00",
-       "flag": null
-      },
-      {
-       "title": "Titans erase Colts' 13-point lead to capture first win",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNajJoQWU3OVNtcnpSTHZhdDVnQWdlZElMYVJzaXU2cEZ0dlpnQ1EteVpadHdxbTR2OXB4dHh4TUxydUtFY05SVU85bmtjTVcwcFBDOEhPRkxub0hrOExxeDhMMVVsa0RGV2RSWDZ2V3k3bGhWdmducThvWHdWMUtzZzJ1MDk5YVVvb2RadnlFUjNsTDlTSDI4LWVKRFNwUGN4Q3hXOA?oc=5",
-       "source": "Reuters",
-       "published": "2026-10-18T20:34+00:00",
-       "flag": null
-      },
-      {
-       "title": "Joey Slye's 49-yard FG slides just inside the upright to give Titans a late lead",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2p3MHBXRkpycHotWnpxM2tOX2w4dGl4Qy1aU2pfeVYtb3hmamZlZ29nWUZJLV8ydVRvangyRXFtOVNCRmRTYml1c2NOQnQ0VEVET3FhaXRZVVlENG9IaUNsNGdJaWxCRVFIdGZNX2dvd3lXN01JRGtMSTZPTkJOWjlSVHVmek05S0lMbzVVOXczaHoxTTkzQ3p2NWhPWkh0bE9qbGFjaDdmc2c?oc=5",
-       "source": "NFL.com",
-       "published": "2026-10-18T20:07+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "total": {
      "summary": "The model projects 41.0 total points; the best Over number is 36.5. That's a 4.5 point gap.",
@@ -3429,6 +3345,14 @@
      "evidence": [],
      "news": [
       {
+       "title": "Browns atop AFC North after win over Ravens. Can Cleveland continue 4th-quarter magic? - The Athletic",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHlzejRPbnBMM2FxRDhYTnZYZWZEdkQxTk41WE9Ub0RaMkIzbDBHcDVSVzRDWUxoSUx2MVE1ZEtkNFZUQ1RZcHlibGs0c004NXlDeG1tdjNCV253ZWVKTVB0bzhyWjVvTzJDSUZlVllfOXY5VHNqYk9NT3gyT2ljNjVvcnhKc1ZWNGhrY0QxcHh4V0RaRWtsRU1n?oc=5",
+       "source": "The New York Times",
+       "published": "2026-10-18T21:48+00:00",
+       "flag": null,
+       "team": "Browns"
+      },
+      {
        "title": "Game Highlights: Baltimore Ravens vs. Cleveland Browns | Week 6",
        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yM3hBS294MHVnelB6YkY4cEY0R1FlS25TUi1EXzE2MnV1UEFIWkNBVHUtc29ZSkZUdGJfd2VNSjI1VHN3S3dvQTdSVXVEZG56Z3pqdnJ6UGFMaXdoVjhfOWNabnNqVjRDcTFOZi11dmNMd1Fa?oc=5",
        "source": "NFL.com",
@@ -3453,20 +3377,20 @@
        "team": "Browns"
       },
       {
-       "title": "~$!\u3010Browns vs Ravens\u3011 Cleveland Browns vs Baltimore Ravens NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26",
-       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQNWpMNzV4cHhxcG9QOUhGdkllcERFWk1rWThfamlWNmNlZVlJNDdwVlNXWmo3RUxpbUJNVURHMnNzNTgtR3NUMWpTd2pqX1VoZVFuZ2NBZzVOaGJMT2ZZYXZFOVRxakNDU0Y2bE9wcEhrQXNLbm9zZm5EMVNzRVl1bEVlY1NrR1RydFNwaU9YWmdNVTh4aDg4aFNBM1o2YWlDZDZwUElGM3dROV9Fc1dVTzFqYUs2N3NLa1dSbHBRRkRKeTNXU1ZsTWMxczd1V1FmRnBySE5RdmpHYXRqV0dlM3RhMERQYlFMZkJVYzUyRmEtNFdYRVg5ZXB3TUNPUUpQNnl5TmZQUlZwQ3BLY0x6SzVMcDcxLUpHeWI4UUNLUFV0Ti16VnB4S3V3cHRla2VMN1IwTnNWRjhfZzdtR3c?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T18:19+00:00",
-       "flag": null,
-       "team": "Browns"
-      },
-      {
        "title": "(nFL)! Cleveland Browns vs Baltimore Ravens NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 On TV",
        "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPaFhmUDFtSF8zVWJwa3ZfRi1yWnY4YkFSeFNRRUE0YUVySnhscU1pWUhmWmpPbE81aUJkZDgyaFloWm1KdnZCdV9GeFl2cmFXVE9KMTQ1d0NWVzNYa01URy1GeU5pVTNMTHZaelQ3VWJBUGZGblNwUFhWVF95RkdJbUN3SWM1OVNHa0dKM05yZ25VaTRfQUdCeU5rTUo4dElxV2tFYk9GV1RRNlNGQnZGNW4tNFVydmFiblpWekhOaWxpUWxya1VIc2dwTEJXd1dBSmtFWmpZZTVDRFdtcFdnT2w3NzgtU3V4Z1lxUmxnOTlpQzBCODNZSmxEbnF3NEJwN3Z4R2JVQlkwdElvOXRrNUIyNDZKQjVaZkRRNFFVWjc3cnVnZU41aFJKaVlMV0xvOGZwU2ZlMmEwMElvbHc?oc=5",
        "source": "Universidad de C\u00f3rdoba (UCO)",
        "published": "2026-10-18T18:17+00:00",
        "flag": null,
        "team": "Browns"
+      },
+      {
+       "title": "+\u03c9#*[WATCHLIvE]HQ*!] Indianapolis Colts vs Tennessee Titans football Live Free NFL Football in 18 October 2026",
+       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUHI4eDJEUnhSekx6eDdCWUJDUi1RN0FMRVBsbHRZWkx5X0xFS2ZRRS1ZalR6ZDNlczNYUjhrQ2VPX1lFWVlYMS1sekJVMVdIU0tsU3N6M19lTnE2MFNOdzE1WGxQcVpCRVJwVWZTRF9jX1h6azZMX1pQYzhieDhZUkNXZVlYNVNhUjdSQko4d1F6Y2tUQUtYRTdmTUpBYm9XbnZTNUNERmtfWm5qRGpfaGU4RXVyWkJKMU1jWmVQQlJwZmNHdHRBZy1BYVZDY0lZbWpqSE9TeThxWjN1bmpkUkxDTmowcGF1RTkwT0cyUlhKdzlReDZOdHdMU1phS2lQUklBYzFLNVJOSmpfWXNuVFJ1RVhCeTNwTmYweGtMTXAycE56UUNPSTV0LUJ4SDM2b21NUEZ6VmtfLUNBZVB6OGRRR3lBY095NlJlRHg2V2NtdTdLS1lsV0tnU0NRQjA?oc=5",
+       "source": "Universidad de C\u00f3rdoba (UCO)",
+       "published": "2026-10-19T00:02+00:00",
+       "flag": null,
+       "team": "Titans"
       },
       {
        "title": "Unpacking Titans' first win of 2026 and what it means for team",
@@ -3477,7 +3401,7 @@
        "team": "Titans"
       },
       {
-       "title": "Where Tennessee Titans rank on updated 2027 NFL Draft order",
+       "title": "Updated 2027 NFL Draft order, including where Titans are listed",
        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSl9jeFUzXzdmRmdSQ1BpYUJPdVJZVkpJWGs1SzBZLUU3T1pkdXFzMG11NzVTS0xSdlVpRzZzWjg1N0V5bU9xZDVIc0xmZWhYNEQwYzFHMVhGU2hMTEhyZXpCa0dUdHFwb3lxcldSSGJ1QmVpcFJXSVZWQVlicTdDcElzQjNmcXE1V1pKT2pxQ3loM0k2Y2hCckZHNUN4TnF4clBYaXFzTzY4MElRZXYzVHZR?oc=5",
        "source": "The Tennessean",
        "published": "2026-10-18T21:05+00:00",
@@ -3499,14 +3423,90 @@
        "published": "2026-10-18T20:34+00:00",
        "flag": null,
        "team": "Titans"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Browns": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Browns atop AFC North after win over Ravens. Can Cleveland continue 4th-quarter magic? - The Athletic",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHlzejRPbnBMM2FxRDhYTnZYZWZEdkQxTk41WE9Ub0RaMkIzbDBHcDVSVzRDWUxoSUx2MVE1ZEtkNFZUQ1RZcHlibGs0c004NXlDeG1tdjNCV253ZWVKTVB0bzhyWjVvTzJDSUZlVllfOXY5VHNqYk9NT3gyT2ljNjVvcnhKc1ZWNGhrY0QxcHh4V0RaRWtsRU1n?oc=5",
+       "source": "The New York Times",
+       "published": "2026-10-18T21:48+00:00",
+       "flag": null
       },
       {
-       "title": "Joey Slye's 49-yard FG slides just inside the upright to give Titans a late lead",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2p3MHBXRkpycHotWnpxM2tOX2w4dGl4Qy1aU2pfeVYtb3hmamZlZ29nWUZJLV8ydVRvangyRXFtOVNCRmRTYml1c2NOQnQ0VEVET3FhaXRZVVlENG9IaUNsNGdJaWxCRVFIdGZNX2dvd3lXN01JRGtMSTZPTkJOWjlSVHVmek05S0lMbzVVOXczaHoxTTkzQ3p2NWhPWkh0bE9qbGFjaDdmc2c?oc=5",
+       "title": "Game Highlights: Baltimore Ravens vs. Cleveland Browns | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yM3hBS294MHVnelB6YkY4cEY0R1FlS25TUi1EXzE2MnV1UEFIWkNBVHUtc29ZSkZUdGJfd2VNSjI1VHN3S3dvQTdSVXVEZG56Z3pqdnJ6UGFMaXdoVjhfOWNabnNqVjRDcTFOZi11dmNMd1Fa?oc=5",
        "source": "NFL.com",
-       "published": "2026-10-18T20:07+00:00",
-       "flag": null,
-       "team": "Titans"
+       "published": "2026-10-18T20:57+00:00",
+       "flag": null
+      },
+      {
+       "title": "Browns 13, Ravens 10 | Final Score, Stats & Game Recap",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlpfZjFPQTFPT1lFcFhVWlhDemcyU2xYVzRzM1lkQmNOcDNOQzJzMnFlVDloNUdqMmZaNzd2NHBZcC1YOE5YdG5UM2tITHVJTmZZRF9PRmlZNjBqRkVBSVBuTzBsNVFBOENEVjRhQWVWU3NOa0o3dlJfbXpULXI2ajBYWjU5ZjlQNzZic1hB?oc=5",
+       "source": "Cleveland Browns",
+       "published": "2026-10-18T20:15+00:00",
+       "flag": null
+      },
+      {
+       "title": "Cleveland Browns kicker Andre Szmyt propels Browns into first place in AFC North with game-winning FG",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXROMTVFU0NIOHNtaUF4LUdSUjZ0djkwTmRPWGF0SS1VdExCa2lYRkVySXR1TUxlUk54ZnBDb1JNbHM2M1FhTHVFWkY5VlJfcW92bE5ZaUNkMkJfR3dXUHVoTVcwb2pBemtEek5xZVdMX0I0OEtjc29ZYmNHczhTd1lqd2pxQUZQYUVtd0ozU1dTOTlhbFBXVXF1YW85Mm80RGpvcDlzMA?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T20:13+00:00",
+       "flag": null
+      },
+      {
+       "title": "(nFL)! Cleveland Browns vs Baltimore Ravens NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 On TV",
+       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPaFhmUDFtSF8zVWJwa3ZfRi1yWnY4YkFSeFNRRUE0YUVySnhscU1pWUhmWmpPbE81aUJkZDgyaFloWm1KdnZCdV9GeFl2cmFXVE9KMTQ1d0NWVzNYa01URy1GeU5pVTNMTHZaelQ3VWJBUGZGblNwUFhWVF95RkdJbUN3SWM1OVNHa0dKM05yZ25VaTRfQUdCeU5rTUo4dElxV2tFYk9GV1RRNlNGQnZGNW4tNFVydmFiblpWekhOaWxpUWxya1VIc2dwTEJXd1dBSmtFWmpZZTVDRFdtcFdnT2w3NzgtU3V4Z1lxUmxnOTlpQzBCODNZSmxEbnF3NEJwN3Z4R2JVQlkwdElvOXRrNUIyNDZKQjVaZkRRNFFVWjc3cnVnZU41aFJKaVlMV0xvOGZwU2ZlMmEwMElvbHc?oc=5",
+       "source": "Universidad de C\u00f3rdoba (UCO)",
+       "published": "2026-10-18T18:17+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Titans": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "+\u03c9#*[WATCHLIvE]HQ*!] Indianapolis Colts vs Tennessee Titans football Live Free NFL Football in 18 October 2026",
+       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUHI4eDJEUnhSekx6eDdCWUJDUi1RN0FMRVBsbHRZWkx5X0xFS2ZRRS1ZalR6ZDNlczNYUjhrQ2VPX1lFWVlYMS1sekJVMVdIU0tsU3N6M19lTnE2MFNOdzE1WGxQcVpCRVJwVWZTRF9jX1h6azZMX1pQYzhieDhZUkNXZVlYNVNhUjdSQko4d1F6Y2tUQUtYRTdmTUpBYm9XbnZTNUNERmtfWm5qRGpfaGU4RXVyWkJKMU1jWmVQQlJwZmNHdHRBZy1BYVZDY0lZbWpqSE9TeThxWjN1bmpkUkxDTmowcGF1RTkwT0cyUlhKdzlReDZOdHdMU1phS2lQUklBYzFLNVJOSmpfWXNuVFJ1RVhCeTNwTmYweGtMTXAycE56UUNPSTV0LUJ4SDM2b21NUEZ6VmtfLUNBZVB6OGRRR3lBY095NlJlRHg2V2NtdTdLS1lsV0tnU0NRQjA?oc=5",
+       "source": "Universidad de C\u00f3rdoba (UCO)",
+       "published": "2026-10-19T00:02+00:00",
+       "flag": null
+      },
+      {
+       "title": "Unpacking Titans' first win of 2026 and what it means for team",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZ2SExzbGtHMS1YSmUtZHZxSDE4M3V2NWxUQjdGRXpHMTZ3VWctT0JrMmVmNWFHaVZJLXdveVNzdHRob19UdHFFT25wMC1mZnNWb0p3NHdIQjlFNUdJb3lZU09tTnRVYXhuNEVSR3JSSm9NNmxranhTNlNqYmJkY2hzSkhER3c?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-18T22:08+00:00",
+       "flag": null
+      },
+      {
+       "title": "Updated 2027 NFL Draft order, including where Titans are listed",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSl9jeFUzXzdmRmdSQ1BpYUJPdVJZVkpJWGs1SzBZLUU3T1pkdXFzMG11NzVTS0xSdlVpRzZzWjg1N0V5bU9xZDVIc0xmZWhYNEQwYzFHMVhGU2hMTEhyZXpCa0dUdHFwb3lxcldSSGJ1QmVpcFJXSVZWQVlicTdDcElzQjNmcXE1V1pKT2pxQ3loM0k2Y2hCckZHNUN4TnF4clBYaXFzTzY4MElRZXYzVHZR?oc=5",
+       "source": "The Tennessean",
+       "published": "2026-10-18T21:05+00:00",
+       "flag": null
+      },
+      {
+       "title": "Tennessee Titans vs. Indianapolis Colts highlights | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5cnNlUURjNmd3RWFJX2daQ05wQnFjVWxLZkN6ekptdlI4QUg5cGNfQ2Y4ZUJhT2VnTlZwSDhFUkhWSDJQSUU4VTM1M3dwRm05VzIyQlFTYjBKaDB2amM5MHRIb3hZcU1IbllzUg?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-18T20:51+00:00",
+       "flag": null
+      },
+      {
+       "title": "Titans erase Colts' 13-point lead to capture first win",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNajJoQWU3OVNtcnpSTHZhdDVnQWdlZElMYVJzaXU2cEZ0dlpnQ1EteVpadHdxbTR2OXB4dHh4TUxydUtFY05SVU85bmtjTVcwcFBDOEhPRkxub0hrOExxeDhMMVVsa0RGV2RSWDZ2V3k3bGhWdmducThvWHdWMUtzZzJ1MDk5YVVvb2RadnlFUjNsTDlTSDI4LWVKRFNwUGN4Q3hXOA?oc=5",
+       "source": "Reuters",
+       "published": "2026-10-18T20:34+00:00",
+       "flag": null
       }
      ]
     }
@@ -3774,90 +3774,6 @@
     "moved_against": 0.0,
     "pattern": null
    },
-   "news": {
-    "Rams": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Davante Adams injury update: Latest news on Rams WR after exit from Week 6",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGNLQnJSa3pwTkdmV1JYdVI1WDI0UlZYM3I0aWVTVXNKRzY3RDJVdnlxaTh6NFY3b3dpanlWWElnaWhsdzhtMFg2WUtURDBaT3VuRGwwczBzMEF2WFRfUE5FY0lPRzZyUnN3OXc0MHhJUVJ3Y1dpY1FxZjFwbHhWdWdkdEtxLXFL?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T22:59+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Rams are in trouble after losing new kicker Blake Grupe to injury during Cardinals game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlhjYVdzeVEtY3V4SVpyUWZ0STRKU3ljbnJrNVQ1MUlmRFZjMy1LRXNqbUVpaFlLLUZORjk1Q2JpLXBXYUlKMnlULXBXU2M1SndzTnQxNk0ycVYxRUVMUkRDREhZMUNFa2ZQelFzMWpoclFOTnRMU1ZPMFFwbXpOcnVPbHozTHZo?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T20:34+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Star Rams CB Trent McDuffie inactive vs Cardinals after injury during practice",
-       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVmFtUVlSRnQ1Wm9HY3JMek1raVktR0RTQzVCQnladll4ZExjUDNvQndrS0NJTFc3YU1uQTRTLXhSSm9kLU1fUnBudTNIUzNVdEVUZG9aNHRJcHpraXdaRkl0ek84NXYxMVNOdmlWeU13QkF6TDRYek9QZEhQbWs5Si1SUm9uQmR4MlpZZFVycElGa0hYQTFCQ0N4OTBZMXZ6ckktZ2labEluajBwdU9HaF9WdUwtMldoSDdsTUVQV2x5UHh1bkQzbU9McWpfakVYMFRqNzV0TjhOM3ozQXlqS3J6dmhXQU1hSlVIQWtuY3dVcVh4TkxCdEFBcVVRMjJFUjNSbzljdTZuZw?oc=5",
-       "source": "Bozeman Daily Chronicle",
-       "published": "2026-10-18T19:14+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Star Rams CB Trent McDuffie inactive vs Cardinals after injury during practice",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUNjNWFkNnlaU1Bzc1JrZEJlVHJqQllKTE5MRTI1Nk1MZTVYMXFoWW5KUFpOZE1PYWpRdlFlclNlSHhRd2FpTTh0X1dqdUNWS3Z0ZndFem5EV2VHd05HOUVjc3JZMjRIM1JmZkN0ME5pVWdTVnk2eEljRmRDV0JER1lyRUFneGxFRGoxcGR0THZ6NDVVNEQ1M1NwVXZqdnZWM2VlODloZzNmUlFTc1VvX0NmVGJlSnBB?oc=5",
-       "source": "FOX Sports",
-       "published": "2026-10-18T19:14+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "After Cardinals stun Rams in major upset, is it time for Los Angeles to panic?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPODZiVUd4aHJYRjRXV2NRVlI1RFRXWGJNRFhRU28tTDNQdUt3eGZIckJfMUdRSkZHWElZc2prWVRTbGx2QzQwbTZyckp3UE0wWDY3NW1sdm1aemZYSHFaNkdVdm5XVEw1VlhWVVVYWmFkWkpFc3c4c3RmY185cVdiTEVvWi1SWG11X2ZNQXZhcU1CSFQ3cUdwUVRrSQ?oc=5",
-       "source": "The New York Times",
-       "published": "2026-10-18T23:12+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Raiders": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "[WATCHLIVE]TV!] New Las Vegas Raiders vs. Buffalo Bills NFL \ud835\udc0b\ud835\udc08\ud835\udc2f\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc11\ud835\udc1e\ud835\udc00\ud835\udc26 \uff34\uff56\uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 18. October. 2026",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPdTFId2RqcE5KRHFnS0s4clRFdVJ4TXJDd1ZtSEcxODFxWE5aZHd2NjRmaTdRWGdkQmJiUFJOYl9lZnpCUzdaeTZ4V0RtSG9yMUY3OW96WDhocWp2VmdWQkJ1VU9sUUlxb0RIOEg3N3RFQllCREJxdU9vUl9nWEF2NGZHNmo3anFwRzVuS1pxTDQzUU8wQ1ZfYk1YbHVabXdINjJMRl9NdV91WnhuZjRuVWhUTmpjdzNoM0oyQjVxLW9YUm5ya3FLcW1VcF9CLUZYUVpuQzlDM0p6RkNsT3ZPeGpBbmUtTFpHQ204cVl4LWRCbDlzcGVyWHcwMDRmVmtWUW9WMXBHZ0tFRnFLUmtWZF9hVFZvb2FGd0l4Mno5djdja0Y1V1NIQnRaUDloUXpKZmx6ZDZTTG1IalpvV2k2N1ZWMjAtNUphdGEtU2wtTkdJdTM4S3N1WmVzcjhZZ0NnUW4wZ045MzFWcmR1TG04bmNfcnFTNjdIUlV6T3dJWllVWGNiSkY0NGxjS0JneEM0WjRjeVZMTUNaWVNZQ0t6RlNIMmxwelJLLUZONmRlekdkdjcyRHVxcU80ZWJibXBRNFZ5RWdTWGs3blU?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T22:03+00:00",
-       "flag": null
-      },
-      {
-       "title": "[!OffiCial@TV!\u2122] Buffalo Bills - New Las Vegas Raiders NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 18/10/2026",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQeEo1VW5FT3RTY2pmLXJ4Z3J3S2tLVXd2MjRPcHdwTFNicVNPMWs3YmlISFpxUGc0QURPUWJDcnlWTHpXT3VWb2l6UG9SdlFNWHVXQUhfTW9COW5VeEJadzU3WFJVMDgzX3VYaG4xd0RMV3Z5MERVWjM5WWsxcm5YeFJNVXdLNGI0ODZXcWFreUgwVXFMSWxwMG4tZmpueURDS2NrbWx1UkgxZVJVb2VDVkJ0X2lieDlCZHBvWFJUTEtTcVd5enVDVEsyZm5rSmo2a3NtaTBMR2lYU0dwNFVNbENFY1YwYzVLcnQxT3hYcVBSQ3l3OFFVQ0R4THlHdERsTEx2NFJiVmc2N3hwMFN3ZVBkWHY2b0dneFlteEEwUDVkMUF4Qnp2UGRLaHhCY2dIcDRKV25nYnBzT1RHWlpsSWVjdVQzOFRkTHpkaXRxNmxLTHo5NXF2RGZXVHltN2NxOEtSeEFqa2tCNllLQnJ3bXNzYmlCQ3Q0eVY2WHJGaGpyd3RZZkVOR0Z6azBpclpyYllCdGN3cF9XWkJ5MGNBVjU2cGNLbjhrQXU0SU9iREl1MHR4MUhoVmJrbF96cHlvNFRYRS1ualNrWWM?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T22:01+00:00",
-       "flag": null
-      },
-      {
-       "title": "+!+^[Here's Way To Watch] New Las Vegas Raiders v. Buffalo Bills Live Free Where to watch, TV channel",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQWmpWV0NVVUhiUnBlcXFQX0xKczNjajcxekJCWVdpd1MwRVRrUjd6cXIxb21aUWl2V2duQ1ItbnJUdUZ2NWNmTTA3MUZEZGZqNHBUb1FQYkhId1g5MXBwc2IwNE1ZVmM4MF9vQmFDZHhJYWVJOEpzLXdCbTJ2aVd1bTA1SVZqLTh0ZDZFcWNLMUpIdEZUWlZtVzV0XzlrZ0NqRWtYOHh4eXJkY25sek16WDNHbkgzYTJTeUJmcEFOMTMzYW1lSWVETGxYTjBCMHBkTGk2ZU1vOExJM0RnRDlwNC14cXlESVVSdThMSlQ3cHNVVnlMWWtVdHhuZzYwaGpxNXRlVjF6bnFPdExrLWNaRThOcXhXbXlNV0s3emVjcHowVG5mak9SWmhmNHN0NWlCbFJVVTUzWmFkcDRXYnZzU1doZVZPSEhaRE9PUndlNWFIVzJHM0JhTFI1TFh0LU9tdXU0ekxSRHpVMHpXX01aaW0tX0hiRWlzSjlrYUplV2liX3AtWDJ1NXBjUGNMNEljMGVrYTJ0eFBfbjUxVFlENWNvOGVicExaeldHZ2FtX1FYWXNROVB6cWRnUGxvZWlqVHdtbGVnQl9UZlE?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T22:01+00:00",
-       "flag": null
-      },
-      {
-       "title": "[WATCHLIVE]FREE!] New Las Vegas Raiders vs Buffalo Bills Live \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 18 October 2026",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPMV9uX3ZIVmFEQU5UREE0VVNVSVFUYWVobHFGd2h4SUd4b0xtV2N5NXdDZFpvWm03R3UtTzNaUm9UazJSUEJfeFVqanB6dUhOOGJld2ZyTldJOWlHMHl4aUpTb0NzWHZnc3hnbFBGSG5Sa01DSURyc1BSUms5TlMxb21KMDFIVjVqdVc0Ul9uTTlNWEdidHhPY3lOblB3aVVWdnBZUklITTF4V24zS1QtM2JYcWN4eWE2cmEzUzltTThXbXZnRXp0YkpjcHE4QzJ2TXdXZndSOERHZkFBUTNIOE5DSTVKVHVLcG5DcC1TS0s4UUEyN21wem54bERoMGh6b092aE9ySm9mbzdlTTRjclRUNy1oRWp6c0wtbElkMUpZc2J2S2hFeWtvRllsWXU2OHFCWWk5Ui11WVR2aksxMkhKazlSeFRaaENQMTR6Vk1zUHd0QUZ3QmZ0QTgyZV83RTVSaWEwamlrZmt0YkdnNndsU29PdDNOdUhhalpvNmtueUxMUGpkVGl2aWtQemx4WjFoMTQzSzVvcTk0WXRrSmxOLWhQWlhZSVVmNUhpSHRQTkQ4eHFzUUxkVkF2cG1VTEstSzMtTTFRUmc?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T21:56+00:00",
-       "flag": null
-      },
-      {
-       "title": "[WATCHLIVE]TV$!] Buffalo Bills - New Las Vegas Raiders live NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 Stream",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPcm54WmNYWThoUExPVzBfLS1jN2UtcDc3S21hYW5haFRqeXMzbm9ZUENVa3BYLVVTNTFnNEdhUlFjNlI2TG56YmdsMTlQaUxhZ2RLRWtkanBDMFNtTzRaUEQ2aHI5RmxWeGdkTnNfRDZCWldRb2RGZWZTNlpFcWdXY3pZRDhqTDR2aVJKMG1nRmdvRGc3T2lKaEdSa2J3TkVlZjdPX002TUxlYXV4LTNpNnFkNllOYVJTS19jdHJuckIzX1hhS1Zra1pEWjFURm9NVEVkNnVnWTVBbFFEZzk3cWZxa0F6OEFPVnJWV0U3ZUhQQzBJUTBRd2UySlB5WENmUUVfaFAzU2M0TFlfQ1NtTldHdVJXYzB2bVUxcUJqVVRwM1ZYVUllaVVuZzZldkxHb0NaVVZhV2ZZVjdkS09nUzJHOXJKTURNQjR6MEwtY2Z0cjI3anZ4VHBfTFhUdEx2TXBGc2JwVVA3d1pqWXE5Z3dyb1p0ZFZKblZEdnRWVHBwNmJiZVR4NGQxT1ViTVZ1aUs5ZGM0dTJlY1dHbl9PZjRranpqNmFtTEctSERaUmhrNDlqSTUwSHFra1JmeFBlamszSXRnd0c4TDQ?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T21:48+00:00",
-       "flag": null
-      }
-     ]
-    }
-   },
    "why": {
     "spread": {
      "summary": "The model has the Rams by 0.6; the market has the Rams by 6.0. That's a 5.4 point gap on Raiders +6 at DraftKings.",
@@ -3914,58 +3830,64 @@
        "text": "Check the official injury report for both starting quarterbacks before betting."
       }
      ],
-     "risks": [
-      "Recent headlines mention an injury or absence for the Rams."
-     ],
+     "risks": [],
      "evidence": [
       "Live this season: 1-0 (100%), beating the closing line by +0.0 points on average."
      ],
      "news": [
       {
-       "title": "Davante Adams injury update: Latest news on Rams WR after exit from Week 6",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGNLQnJSa3pwTkdmV1JYdVI1WDI0UlZYM3I0aWVTVXNKRzY3RDJVdnlxaTh6NFY3b3dpanlWWElnaWhsdzhtMFg2WUtURDBaT3VuRGwwczBzMEF2WFRfUE5FY0lPRzZyUnN3OXc0MHhJUVJ3Y1dpY1FxZjFwbHhWdWdkdEtxLXFL?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T22:59+00:00",
-       "flag": "injury",
-       "team": "Rams"
-      },
-      {
-       "title": "Rams are in trouble after losing new kicker Blake Grupe to injury during Cardinals game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlhjYVdzeVEtY3V4SVpyUWZ0STRKU3ljbnJrNVQ1MUlmRFZjMy1LRXNqbUVpaFlLLUZORjk1Q2JpLXBXYUlKMnlULXBXU2M1SndzTnQxNk0ycVYxRUVMUkRDREhZMUNFa2ZQelFzMWpoclFOTnRMU1ZPMFFwbXpOcnVPbHozTHZo?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-18T20:34+00:00",
-       "flag": "injury",
-       "team": "Rams"
-      },
-      {
-       "title": "Star Rams CB Trent McDuffie inactive vs Cardinals after injury during practice",
-       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVmFtUVlSRnQ1Wm9HY3JMek1raVktR0RTQzVCQnladll4ZExjUDNvQndrS0NJTFc3YU1uQTRTLXhSSm9kLU1fUnBudTNIUzNVdEVUZG9aNHRJcHpraXdaRkl0ek84NXYxMVNOdmlWeU13QkF6TDRYek9QZEhQbWs5Si1SUm9uQmR4MlpZZFVycElGa0hYQTFCQ0N4OTBZMXZ6ckktZ2labEluajBwdU9HaF9WdUwtMldoSDdsTUVQV2x5UHh1bkQzbU9McWpfakVYMFRqNzV0TjhOM3ozQXlqS3J6dmhXQU1hSlVIQWtuY3dVcVh4TkxCdEFBcVVRMjJFUjNSbzljdTZuZw?oc=5",
-       "source": "Bozeman Daily Chronicle",
-       "published": "2026-10-18T19:14+00:00",
-       "flag": "injury",
-       "team": "Rams"
-      },
-      {
-       "title": "Star Rams CB Trent McDuffie inactive vs Cardinals after injury during practice",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUNjNWFkNnlaU1Bzc1JrZEJlVHJqQllKTE5MRTI1Nk1MZTVYMXFoWW5KUFpOZE1PYWpRdlFlclNlSHhRd2FpTTh0X1dqdUNWS3Z0ZndFem5EV2VHd05HOUVjc3JZMjRIM1JmZkN0ME5pVWdTVnk2eEljRmRDV0JER1lyRUFneGxFRGoxcGR0THZ6NDVVNEQ1M1NwVXZqdnZWM2VlODloZzNmUlFTc1VvX0NmVGJlSnBB?oc=5",
-       "source": "FOX Sports",
-       "published": "2026-10-18T19:14+00:00",
-       "flag": "injury",
-       "team": "Rams"
-      },
-      {
-       "title": "After Cardinals stun Rams in major upset, is it time for Los Angeles to panic?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPODZiVUd4aHJYRjRXV2NRVlI1RFRXWGJNRFhRU28tTDNQdUt3eGZIckJfMUdRSkZHWElZc2prWVRTbGx2QzQwbTZyckp3UE0wWDY3NW1sdm1aemZYSHFaNkdVdm5XVEw1VlhWVVVYWmFkWkpFc3c4c3RmY185cVdiTEVvWi1SWG11X2ZNQXZhcU1CSFQ3cUdwUVRrSQ?oc=5",
-       "source": "The New York Times",
-       "published": "2026-10-18T23:12+00:00",
+       "title": "Cardinals upset Rams 18-16 on Chad Ryland's 6th field goal as time expires",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNi1zVFFyaEN2bzQxc1FoNTBzbmp3NkNhd1hQbXhIT1poR0ttbXRPczlxMUhxUkt3Y2NfbVEtaWl6NXdtN2paX0hGMi1mNHd2ZjVBdVRJT0RjVE5yUVllMUJjUjVSTmpvdjVtUlR1RlZ4S1FaRjlYbUpzdWdyczFHTm1faGx6a2FEY3ZIeFU5amt6Vy1obXREdlJ0dlRxR1RLTFFrQnJsdG5fNUhFN2VhN1pxWG01Yy1ZZ1FXM3kxUWw3TnZyaEVWVENPQTJQQldLT000RWpFMER1Z0hJT24yS0xRT3BCMVB1V1dHQnZXZmRtZjEwdVI2SWd0NEZLamJsWEctSldTaE40SGxl?oc=5",
+       "source": "Rutland Herald",
+       "published": "2026-10-19T01:02+00:00",
        "flag": null,
        "team": "Rams"
       },
       {
-       "title": "[WATCHLIVE]TV!] New Las Vegas Raiders vs. Buffalo Bills NFL \ud835\udc0b\ud835\udc08\ud835\udc2f\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc11\ud835\udc1e\ud835\udc00\ud835\udc26 \uff34\uff56\uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 18. October. 2026",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPdTFId2RqcE5KRHFnS0s4clRFdVJ4TXJDd1ZtSEcxODFxWE5aZHd2NjRmaTdRWGdkQmJiUFJOYl9lZnpCUzdaeTZ4V0RtSG9yMUY3OW96WDhocWp2VmdWQkJ1VU9sUUlxb0RIOEg3N3RFQllCREJxdU9vUl9nWEF2NGZHNmo3anFwRzVuS1pxTDQzUU8wQ1ZfYk1YbHVabXdINjJMRl9NdV91WnhuZjRuVWhUTmpjdzNoM0oyQjVxLW9YUm5ya3FLcW1VcF9CLUZYUVpuQzlDM0p6RkNsT3ZPeGpBbmUtTFpHQ204cVl4LWRCbDlzcGVyWHcwMDRmVmtWUW9WMXBHZ0tFRnFLUmtWZF9hVFZvb2FGd0l4Mno5djdja0Y1V1NIQnRaUDloUXpKZmx6ZDZTTG1IalpvV2k2N1ZWMjAtNUphdGEtU2wtTkdJdTM4S3N1WmVzcjhZZ0NnUW4wZ045MzFWcmR1TG04bmNfcnFTNjdIUlV6T3dJWllVWGNiSkY0NGxjS0JneEM0WjRjeVZMTUNaWVNZQ0t6RlNIMmxwelJLLUZONmRlekdkdjcyRHVxcU80ZWJibXBRNFZ5RWdTWGs3blU?oc=5",
-       "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T22:03+00:00",
+       "title": "Matthew Stafford and Puka Nacua discuss Rams' loss to Cardinals in postgame press conference",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHpmUkhDVVl3UHhHcnF0UkpQR0pua0tIWHNZMlZ6Tm5idTFKVjBVNUI3WGZIaTdvVU5jRWFMdFp3ODg0djdFWVlHQUNZSzBqV0ZVNzNCUFdlZ3FrVzlqWms4a3lCajFPdE53b0VJZFR3OS00MkI5NDZKTnVTR1lmNlJfbTdCUHZoQnNyM3d1Nmo0RnhZeWZnUWJzVW45N2ZuNE00ZzdRbEtnaTk1RXlRZURwbk5hVHZMd2c?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-19T00:38+00:00",
+       "flag": null,
+       "team": "Rams"
+      },
+      {
+       "title": "Cardinals HC Mike LaFleur and Jacoby Brissett Reflect on HUGE Week 6 Win vs Rams in Los Angeles",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcjE3MjRYb3lXbFdZWExBSHMzSU1LRUlCcTFUNGoyTEVIZWVCT1VidzZzQlAzak5DMVRqWXFXTjdJRjFzRy1YUFRDcTIzZFphZlZvMDdUeUVJaGNGemRrdTBn?oc=5",
+       "source": "FOX Sports",
+       "published": "2026-10-19T00:14+00:00",
+       "flag": null,
+       "team": "Rams"
+      },
+      {
+       "title": "Is it time to panic in LA? Winners, losers from Rams' Week 6 loss to Cardinals",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHVOc0NudHNPMVBMTHgzRWhPc1VKeWE3dFJiTzhtcEMzUG8ydGQ3V25CV25ISDhQOFRVMDlCSjhNY0hFRXNNaUY0NlJoMDMzckVwRmxKQlExVTRTY3FfaWZCYTRmekRnS3Q5djBtcE8xYS14RXhsdG5zaTExWVRBN1ZOTHQ0bE1Td3MzWjJJVWliTld0UnUzc0szaWthQ1Q4dXA1bjNMYndQMXM?oc=5",
+       "source": "USA Today",
+       "published": "2026-10-19T00:12+00:00",
+       "flag": null,
+       "team": "Rams"
+      },
+      {
+       "title": "TST Images: Cardinals defeat Rams, 18-16, in Los Angeles",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbTdPaDdEeFd6TUs4ODloYTFXWmlYTlQ2Nkt3MmhPcDNDWGVybVdBS2VjbnBrV0xMQlZVSl9VcUFqRFhsVGpUWGVFaDBERk1ZbnJVNk1rZUR2ajJXaVFiNWt2Y2d3cEVwNFpvWHp1TEtWakVwZ0I1dU93?oc=5",
+       "source": "The Sporting Tribune",
+       "published": "2026-10-19T00:09+00:00",
+       "flag": null,
+       "team": "Rams"
+      },
+      {
+       "title": "Buffalo Bills at Las Vegas Raiders | Where to watch, stream and listen | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmcwU0tjSlBsNTU4VlBUNG4yWmNKVGJ3Q1ZpWlk5NU4yWGx6a3J3Q3ZSTDVRTEtZcGx2UXFUV3hrX0JlNVdNZ3ZuTGR3enE0MFRCeUVCaVphdng0TkdsMUZIUlBNMlExV25LYzVoc0lXTjZuT2QybU02ZnVjN0IwcF9CVEtiUWZJNnozQllGRm9qdHVOdE5QMmRPYVNpSzBUU2FyeEhjQ3lMR0ky?oc=5",
+       "source": "Buffalo Bills",
+       "published": "2026-10-19T00:30+00:00",
+       "flag": null,
+       "team": "Raiders"
+      },
+      {
+       "title": "How to watch, listen to and livestream Raiders vs. Bills",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXJ0LUY5VnZ6Z3ZLeFhUYVcwU1lOY0dJemY1VUpQdkNScW10WlhJb1Q3akROMlRrSnJyU3F0bWE0Q0JEMUxnbm1reGRTWld4NU51MGNvM0hLQm1zWmNvenpkbFU2bGhHRVdjU0J5RU5iUklKZkhzSzUza3FNUlNfNHh3ckVDc2ctWXRMZHN6dHFONUdVRmRIeTZOaDg3NEh4LVdhRjliMGJyeERNbm1qQjNrOVRiUQ?oc=5",
+       "source": "Raiders.com",
+       "published": "2026-10-18T22:55+00:00",
        "flag": null,
        "team": "Raiders"
       },
@@ -3992,14 +3914,90 @@
        "published": "2026-10-18T21:56+00:00",
        "flag": null,
        "team": "Raiders"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Rams": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Cardinals upset Rams 18-16 on Chad Ryland's 6th field goal as time expires",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNi1zVFFyaEN2bzQxc1FoNTBzbmp3NkNhd1hQbXhIT1poR0ttbXRPczlxMUhxUkt3Y2NfbVEtaWl6NXdtN2paX0hGMi1mNHd2ZjVBdVRJT0RjVE5yUVllMUJjUjVSTmpvdjVtUlR1RlZ4S1FaRjlYbUpzdWdyczFHTm1faGx6a2FEY3ZIeFU5amt6Vy1obXREdlJ0dlRxR1RLTFFrQnJsdG5fNUhFN2VhN1pxWG01Yy1ZZ1FXM3kxUWw3TnZyaEVWVENPQTJQQldLT000RWpFMER1Z0hJT24yS0xRT3BCMVB1V1dHQnZXZmRtZjEwdVI2SWd0NEZLamJsWEctSldTaE40SGxl?oc=5",
+       "source": "Rutland Herald",
+       "published": "2026-10-19T01:02+00:00",
+       "flag": null
       },
       {
-       "title": "[WATCHLIVE]TV$!] Buffalo Bills - New Las Vegas Raiders live NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 Stream",
-       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPcm54WmNYWThoUExPVzBfLS1jN2UtcDc3S21hYW5haFRqeXMzbm9ZUENVa3BYLVVTNTFnNEdhUlFjNlI2TG56YmdsMTlQaUxhZ2RLRWtkanBDMFNtTzRaUEQ2aHI5RmxWeGdkTnNfRDZCWldRb2RGZWZTNlpFcWdXY3pZRDhqTDR2aVJKMG1nRmdvRGc3T2lKaEdSa2J3TkVlZjdPX002TUxlYXV4LTNpNnFkNllOYVJTS19jdHJuckIzX1hhS1Zra1pEWjFURm9NVEVkNnVnWTVBbFFEZzk3cWZxa0F6OEFPVnJWV0U3ZUhQQzBJUTBRd2UySlB5WENmUUVfaFAzU2M0TFlfQ1NtTldHdVJXYzB2bVUxcUJqVVRwM1ZYVUllaVVuZzZldkxHb0NaVVZhV2ZZVjdkS09nUzJHOXJKTURNQjR6MEwtY2Z0cjI3anZ4VHBfTFhUdEx2TXBGc2JwVVA3d1pqWXE5Z3dyb1p0ZFZKblZEdnRWVHBwNmJiZVR4NGQxT1ViTVZ1aUs5ZGM0dTJlY1dHbl9PZjRranpqNmFtTEctSERaUmhrNDlqSTUwSHFra1JmeFBlamszSXRnd0c4TDQ?oc=5",
+       "title": "Matthew Stafford and Puka Nacua discuss Rams' loss to Cardinals in postgame press conference",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHpmUkhDVVl3UHhHcnF0UkpQR0pua0tIWHNZMlZ6Tm5idTFKVjBVNUI3WGZIaTdvVU5jRWFMdFp3ODg0djdFWVlHQUNZSzBqV0ZVNzNCUFdlZ3FrVzlqWms4a3lCajFPdE53b0VJZFR3OS00MkI5NDZKTnVTR1lmNlJfbTdCUHZoQnNyM3d1Nmo0RnhZeWZnUWJzVW45N2ZuNE00ZzdRbEtnaTk1RXlRZURwbk5hVHZMd2c?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-19T00:38+00:00",
+       "flag": null
+      },
+      {
+       "title": "Cardinals HC Mike LaFleur and Jacoby Brissett Reflect on HUGE Week 6 Win vs Rams in Los Angeles",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcjE3MjRYb3lXbFdZWExBSHMzSU1LRUlCcTFUNGoyTEVIZWVCT1VidzZzQlAzak5DMVRqWXFXTjdJRjFzRy1YUFRDcTIzZFphZlZvMDdUeUVJaGNGemRrdTBn?oc=5",
+       "source": "FOX Sports",
+       "published": "2026-10-19T00:14+00:00",
+       "flag": null
+      },
+      {
+       "title": "Is it time to panic in LA? Winners, losers from Rams' Week 6 loss to Cardinals",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHVOc0NudHNPMVBMTHgzRWhPc1VKeWE3dFJiTzhtcEMzUG8ydGQ3V25CV25ISDhQOFRVMDlCSjhNY0hFRXNNaUY0NlJoMDMzckVwRmxKQlExVTRTY3FfaWZCYTRmekRnS3Q5djBtcE8xYS14RXhsdG5zaTExWVRBN1ZOTHQ0bE1Td3MzWjJJVWliTld0UnUzc0szaWthQ1Q4dXA1bjNMYndQMXM?oc=5",
+       "source": "USA Today",
+       "published": "2026-10-19T00:12+00:00",
+       "flag": null
+      },
+      {
+       "title": "TST Images: Cardinals defeat Rams, 18-16, in Los Angeles",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbTdPaDdEeFd6TUs4ODloYTFXWmlYTlQ2Nkt3MmhPcDNDWGVybVdBS2VjbnBrV0xMQlZVSl9VcUFqRFhsVGpUWGVFaDBERk1ZbnJVNk1rZUR2ajJXaVFiNWt2Y2d3cEVwNFpvWHp1TEtWakVwZ0I1dU93?oc=5",
+       "source": "The Sporting Tribune",
+       "published": "2026-10-19T00:09+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Raiders": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Buffalo Bills at Las Vegas Raiders | Where to watch, stream and listen | Week 6",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmcwU0tjSlBsNTU4VlBUNG4yWmNKVGJ3Q1ZpWlk5NU4yWGx6a3J3Q3ZSTDVRTEtZcGx2UXFUV3hrX0JlNVdNZ3ZuTGR3enE0MFRCeUVCaVphdng0TkdsMUZIUlBNMlExV25LYzVoc0lXTjZuT2QybU02ZnVjN0IwcF9CVEtiUWZJNnozQllGRm9qdHVOdE5QMmRPYVNpSzBUU2FyeEhjQ3lMR0ky?oc=5",
+       "source": "Buffalo Bills",
+       "published": "2026-10-19T00:30+00:00",
+       "flag": null
+      },
+      {
+       "title": "How to watch, listen to and livestream Raiders vs. Bills",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXJ0LUY5VnZ6Z3ZLeFhUYVcwU1lOY0dJemY1VUpQdkNScW10WlhJb1Q3akROMlRrSnJyU3F0bWE0Q0JEMUxnbm1reGRTWld4NU51MGNvM0hLQm1zWmNvenpkbFU2bGhHRVdjU0J5RU5iUklKZkhzSzUza3FNUlNfNHh3ckVDc2ctWXRMZHN6dHFONUdVRmRIeTZOaDg3NEh4LVdhRjliMGJyeERNbm1qQjNrOVRiUQ?oc=5",
+       "source": "Raiders.com",
+       "published": "2026-10-18T22:55+00:00",
+       "flag": null
+      },
+      {
+       "title": "[!OffiCial@TV!\u2122] Buffalo Bills - New Las Vegas Raiders NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 18/10/2026",
+       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQeEo1VW5FT3RTY2pmLXJ4Z3J3S2tLVXd2MjRPcHdwTFNicVNPMWs3YmlISFpxUGc0QURPUWJDcnlWTHpXT3VWb2l6UG9SdlFNWHVXQUhfTW9COW5VeEJadzU3WFJVMDgzX3VYaG4xd0RMV3Z5MERVWjM5WWsxcm5YeFJNVXdLNGI0ODZXcWFreUgwVXFMSWxwMG4tZmpueURDS2NrbWx1UkgxZVJVb2VDVkJ0X2lieDlCZHBvWFJUTEtTcVd5enVDVEsyZm5rSmo2a3NtaTBMR2lYU0dwNFVNbENFY1YwYzVLcnQxT3hYcVBSQ3l3OFFVQ0R4THlHdERsTEx2NFJiVmc2N3hwMFN3ZVBkWHY2b0dneFlteEEwUDVkMUF4Qnp2UGRLaHhCY2dIcDRKV25nYnBzT1RHWlpsSWVjdVQzOFRkTHpkaXRxNmxLTHo5NXF2RGZXVHltN2NxOEtSeEFqa2tCNllLQnJ3bXNzYmlCQ3Q0eVY2WHJGaGpyd3RZZkVOR0Z6azBpclpyYllCdGN3cF9XWkJ5MGNBVjU2cGNLbjhrQXU0SU9iREl1MHR4MUhoVmJrbF96cHlvNFRYRS1ualNrWWM?oc=5",
        "source": "Universidad de C\u00f3rdoba (UCO)",
-       "published": "2026-10-18T21:48+00:00",
-       "flag": null,
-       "team": "Raiders"
+       "published": "2026-10-18T22:01+00:00",
+       "flag": null
+      },
+      {
+       "title": "+!+^[Here's Way To Watch] New Las Vegas Raiders v. Buffalo Bills Live Free Where to watch, TV channel",
+       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQWmpWV0NVVUhiUnBlcXFQX0xKczNjajcxekJCWVdpd1MwRVRrUjd6cXIxb21aUWl2V2duQ1ItbnJUdUZ2NWNmTTA3MUZEZGZqNHBUb1FQYkhId1g5MXBwc2IwNE1ZVmM4MF9vQmFDZHhJYWVJOEpzLXdCbTJ2aVd1bTA1SVZqLTh0ZDZFcWNLMUpIdEZUWlZtVzV0XzlrZ0NqRWtYOHh4eXJkY25sek16WDNHbkgzYTJTeUJmcEFOMTMzYW1lSWVETGxYTjBCMHBkTGk2ZU1vOExJM0RnRDlwNC14cXlESVVSdThMSlQ3cHNVVnlMWWtVdHhuZzYwaGpxNXRlVjF6bnFPdExrLWNaRThOcXhXbXlNV0s3emVjcHowVG5mak9SWmhmNHN0NWlCbFJVVTUzWmFkcDRXYnZzU1doZVZPSEhaRE9PUndlNWFIVzJHM0JhTFI1TFh0LU9tdXU0ekxSRHpVMHpXX01aaW0tX0hiRWlzSjlrYUplV2liX3AtWDJ1NXBjUGNMNEljMGVrYTJ0eFBfbjUxVFlENWNvOGVicExaeldHZ2FtX1FYWXNROVB6cWRnUGxvZWlqVHdtbGVnQl9UZlE?oc=5",
+       "source": "Universidad de C\u00f3rdoba (UCO)",
+       "published": "2026-10-18T22:01+00:00",
+       "flag": null
+      },
+      {
+       "title": "[WATCHLIVE]FREE!] New Las Vegas Raiders vs Buffalo Bills Live \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 18 October 2026",
+       "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPMV9uX3ZIVmFEQU5UREE0VVNVSVFUYWVobHFGd2h4SUd4b0xtV2N5NXdDZFpvWm03R3UtTzNaUm9UazJSUEJfeFVqanB6dUhOOGJld2ZyTldJOWlHMHl4aUpTb0NzWHZnc3hnbFBGSG5Sa01DSURyc1BSUms5TlMxb21KMDFIVjVqdVc0Ul9uTTlNWEdidHhPY3lOblB3aVVWdnBZUklITTF4V24zS1QtM2JYcWN4eWE2cmEzUzltTThXbXZnRXp0YkpjcHE4QzJ2TXdXZndSOERHZkFBUTNIOE5DSTVKVHVLcG5DcC1TS0s4UUEyN21wem54bERoMGh6b092aE9ySm9mbzdlTTRjclRUNy1oRWp6c0wtbElkMUpZc2J2S2hFeWtvRllsWXU2OHFCWWk5Ui11WVR2aksxMkhKazlSeFRaaENQMTR6Vk1zUHd0QUZ3QmZ0QTgyZV83RTVSaWEwamlrZmt0YkdnNndsU29PdDNOdUhhalpvNmtueUxMUGpkVGl2aWtQemx4WjFoMTQzSzVvcTk0WXRrSmxOLWhQWlhZSVVmNUhpSHRQTkQ4eHFzUUxkVkF2cG1VTEstSzMtTTFRUmc?oc=5",
+       "source": "Universidad de C\u00f3rdoba (UCO)",
+       "published": "2026-10-18T21:56+00:00",
+       "flag": null
       }
      ]
     }
@@ -4170,5 +4168,6 @@
    "game": "2026_06_DAL_GB",
    "text": "Packers moved -0.67 to +0.33 against the Cowboys."
   }
- ]
+ ],
+ "news_checked": "2026-10-19T01:12Z"
 }
