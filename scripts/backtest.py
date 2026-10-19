@@ -78,7 +78,8 @@ def replay(history, games, first, last, min_week=2):
                 "margin": g["home_score"] - g["away_score"], "points": g["home_score"] + g["away_score"],
                 "home_price": g["home_spread_odds"], "away_price": g["away_spread_odds"],
                 "over_price": g["over_odds"], "under_price": g["under_odds"],
-                "roof": g["roof"], "wind": g["wind"], "temp": g["temp"],
+                "roof": g["roof"], "wind": g["wind"], "temp": g["temp"], "weekday": g["weekday"],
+                "home_rest": g["home_rest"], "away_rest": g["away_rest"],
             })
     return out
 

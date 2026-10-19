@@ -57,6 +57,7 @@ You need 52.4% to break even at -110. Before betting, check the injury report an
 
 - Schedules (times in UTC) are in `.github/workflows/`. `docs/bots-explained.md` explains each bot.
 - Pick rules and the research behind them: `nfl_edge/picks.py` and `docs/research/`.
-- Want to test an idea? Change the rule in `nfl_edge/picks.py`, open a pull request, and the **Backtest** workflow replays every season since 2002 with your change. Check its run summary before merging.
+- Every Tuesday the **Backtest** job also runs a rule check: it rates each rule green, yellow or red and looks for new rules that held up on seasons they weren't chosen on. If anything changes, you get a GitHub issue (GitHub emails it to you). The latest report is always in `data/rule_check.md`.
+- Want to act on it? Change the rule in `nfl_edge/picks.py`, open a pull request, and the **Backtest** workflow replays every season with your change. Check its run summary before merging.
 
 Nothing here is a sure thing. Bet only what you can afford to lose. 21+. Gambling problem? Call 1-800-GAMBLER.

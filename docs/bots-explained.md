@@ -16,7 +16,7 @@
 | News watch | Every 2 hours | Re-reads headlines for upcoming games with a pick |
 | Picks email | Wed and Sat night | Optional email with the LOCK, Strong and Lean plays and last week's record |
 | Weekly grading | Tue 8 AM | Grades and archives every pick by week, and works out which kinds of picks are paying this season |
-| Backtest | Tue 9 AM, and on pull requests that change the model | Replays every season since 2002 week by week with the live rules; results in the run summary |
+| Backtest + rule check | Tue 9 AM, and on pull requests that change the model | Replays every season since 1999 week by week with the live rules, then checks each rule's health and searches for new ones; opens a GitHub issue (which GitHub emails you) when a rule changes status or a new candidate appears |
 | Line history | By hand | Every NFL line since 1999 against the final score |
 | Tests | Every code change | Checks the math still works |
 | Deploy website | After every data update | Publishes `site/` to GitHub Pages |
@@ -27,7 +27,13 @@ The `schedule` lines use **cron** in UTC. `0 14 * * *` means "minute 0, hour 14 
 
 1. **Track.** Every pick the dashboard shows is saved before kickoff, then graded.
 2. **Measure.** The Results tab shows the record and CLV by tier and by kind of pick.
-3. **Test.** To try an idea, change `nfl_edge/picks.py` (or the grades) in a pull request. The Backtest job replays every season with the change.
-4. **Decide.** Merge only if it holds up across many seasons, not just this one.
+3. **Watch.** Every Tuesday the rule check (`scripts/rule_check.py`) rates each rule:
+   - 🟢 clearly above break-even
+   - 🟡 weak evidence or a cold last 3 seasons
+   - 🔴 losing: under break-even long-run, or under 50% over the last 5 seasons
+
+   It also tries about 3,600 combinations of game features. A combination only counts as a candidate if it won on 1999–2014 **and** again on 2015–today, seasons it wasn't chosen on. When a rule changes color or a new candidate appears, it opens a GitHub issue, and GitHub emails you.
+4. **Test.** To act on a flag or a candidate, change `nfl_edge/picks.py` in a pull request. The Backtest job replays every season with the change.
+5. **Decide.** Merge only if it holds up across many seasons, and if there's a real reason it should work. Nothing changes on the site by itself.
 
 The danger in sports models is **overfitting**: tuning until the model explains the past perfectly, which makes it worse at the future. One change at a time, judged over many seasons, is how to avoid it.

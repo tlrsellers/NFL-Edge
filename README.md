@@ -35,7 +35,7 @@ NFL team grades, projections and picks, rebuilt from the college-football dashbo
 | News watch | Every 2 hours | Re-reads headlines for games with picks | free |
 | Picks email | Wednesday and Saturday night | Optional newsletter | free |
 | Weekly grading | Tuesday 8 AM | Grades and archives picks | free |
-| Backtest | Tuesday 9 AM | Replays 2002–today, results in the run summary | free |
+| Backtest + rule check | Tuesday 9 AM | Replays 1999–today; flags any rule that's slipping and searches for new rules that hold up on unseen seasons; opens a GitHub issue if anything changed | free |
 | Deploy website | After every data update | Publishes `site/` to GitHub Pages | free |
 
 Public repositories get unlimited free GitHub Actions minutes.
