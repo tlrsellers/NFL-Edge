@@ -1,18 +1,36 @@
 {
  "summary": {
-  "graded": 1,
-  "pending": 11,
+  "graded": 5,
+  "pending": 12,
   "overall": {
-   "wins": 1,
+   "wins": 5,
    "losses": 0,
    "pushes": 0,
    "win_pct": 1.0,
-   "units": 0.91,
-   "avg_clv": 0.0,
-   "beat_close": 0.0
+   "units": 4.55,
+   "avg_clv": 0.34,
+   "beat_close": 0.6
   },
   "by_tier": {
    "spread:model": {
+    "wins": 3,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 2.73,
+    "avg_clv": 0.47,
+    "beat_close": 0.667
+   },
+   "spread:all": {
+    "wins": 3,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 2.73,
+    "avg_clv": 0.47,
+    "beat_close": 0.667
+   },
+   "total:lean": {
     "wins": 1,
     "losses": 0,
     "pushes": 0,
@@ -21,25 +39,34 @@
     "avg_clv": 0.0,
     "beat_close": 0.0
    },
-   "spread:all": {
+   "total:all": {
+    "wins": 2,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 1.82,
+    "avg_clv": 0.15,
+    "beat_close": 0.5
+   },
+   "total:model": {
     "wins": 1,
     "losses": 0,
     "pushes": 0,
     "win_pct": 1.0,
     "units": 0.91,
-    "avg_clv": 0.0,
-    "beat_close": 0.0
+    "avg_clv": 0.3,
+    "beat_close": 1.0
    }
   },
   "by_week": {
    "6": {
-    "wins": 1,
+    "wins": 5,
     "losses": 0,
     "pushes": 0,
     "win_pct": 1.0,
-    "units": 0.91,
-    "avg_clv": 0.0,
-    "beat_close": 0.0
+    "units": 4.55,
+    "avg_clv": 0.34,
+    "beat_close": 0.6
    }
   }
  },
@@ -162,7 +189,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 41.5
+   "close": 41.5,
+   "final": {
+    "home": 22,
+    "away": 6
+   },
+   "margin": 13.5,
+   "result": "win",
+   "clv": 0.0
   },
   "2026_06_BUF_LV:spread": {
    "game": "2026_06_BUF_LV",
@@ -219,7 +253,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 5.33
+   "close": 5.33,
+   "final": {
+    "home": 30,
+    "away": 33
+   },
+   "margin": 2.5,
+   "result": "win",
+   "clv": 0.2
   },
   "2026_06_DAL_GB:total": {
    "game": "2026_06_DAL_GB",
@@ -273,7 +314,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 53.67
+   "close": 53.67,
+   "final": {
+    "home": 23,
+    "away": 13
+   },
+   "margin": 18.0,
+   "result": "win",
+   "clv": 0.3
   },
   "2026_06_WAS_SF:total": {
    "game": "2026_06_WAS_SF",
@@ -328,7 +376,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 52.17
+   "close": 51.67
   },
   "2026_06_DAL_GB:spread": {
    "game": "2026_06_DAL_GB",
@@ -385,7 +433,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 0.33
+   "close": 0.33,
+   "final": {
+    "home": 23,
+    "away": 13
+   },
+   "margin": 11.5,
+   "result": "win",
+   "clv": 1.2
   },
   "2026_07_NE_CHI:total": {
    "game": "2026_07_NE_CHI",
@@ -439,7 +494,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 49.5
+   "close": 49.67
   },
   "2026_07_TB_CAR:total": {
    "game": "2026_07_TB_CAR",
@@ -493,7 +548,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.0
+   "close": 44.5
   },
   "2026_07_NYG_HOU:spread": {
    "game": "2026_07_NYG_HOU",
@@ -546,7 +601,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.0
+   "close": -9.17
   },
   "2026_07_MIA_NYJ:total": {
    "game": "2026_07_MIA_NYJ",
@@ -600,7 +655,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.5
+   "close": 39.17
   },
   "2026_07_CLE_TEN:total": {
    "game": "2026_07_CLE_TEN",
@@ -651,7 +706,7 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 36.5
+   "close": 36.67
   },
   "2026_07_LA_LV:spread": {
    "game": "2026_07_LA_LV",
@@ -708,7 +763,285 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 5.75
+   "close": 5.5
+  },
+  "2026_07_PIT_NO:total": {
+   "game": "2026_07_PIT_NO",
+   "week": 7,
+   "start": "2026-10-25T13:30Z",
+   "home": "Saints",
+   "away": "Steelers",
+   "bet": "total",
+   "side": "Over",
+   "line": 44.0,
+   "book": "bovada",
+   "edge": 3.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 22.9,
+    "away": 24.9,
+    "total": 47.7
+   },
+   "features": {
+    "neutral": true,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.2,
+    "note": null,
+    "factors": [
+     {
+      "label": "Saints defense",
+      "points": 2.1
+     },
+     {
+      "label": "Steelers offense",
+      "points": -0.4
+     },
+     {
+      "label": "Steelers defense",
+      "points": -0.3
+     },
+     {
+      "label": "Saints offense",
+      "points": 0.0
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Steelers.",
+     "Recent headlines mention an injury or absence for the Saints."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 44.33
+  },
+  "2026_07_KC_SEA:spread": {
+   "game": "2026_07_KC_SEA",
+   "week": 7,
+   "start": "2026-10-26T00:20Z",
+   "home": "Seahawks",
+   "away": "Chiefs",
+   "bet": "spread",
+   "side": "Chiefs",
+   "line": 2.5,
+   "book": "draftkings",
+   "edge": 3.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 21.7,
+    "away": 22.8,
+    "total": 44.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 6.0,
+    "side_is_home": false,
+    "moved_against": 0.8,
+    "note": null,
+    "factors": [
+     {
+      "label": "Seahawks defense",
+      "points": -2.1
+     },
+     {
+      "label": "Chiefs offense",
+      "points": 2.1
+     },
+     {
+      "label": "Chiefs defense",
+      "points": 1.5
+     },
+     {
+      "label": "Home field",
+      "points": -0.6
+     },
+     {
+      "label": "Seahawks offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Chiefs."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -2.33
+  },
+  "2026_07_KC_SEA:total": {
+   "game": "2026_07_KC_SEA",
+   "week": 7,
+   "start": "2026-10-26T00:20Z",
+   "home": "Seahawks",
+   "away": "Chiefs",
+   "bet": "total",
+   "side": "Over",
+   "line": 41.5,
+   "book": "fanduel",
+   "edge": 3.0,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.504,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 21.7,
+    "away": 22.8,
+    "total": 44.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 6.0,
+    "side_is_home": null,
+    "moved_against": 1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Seahawks defense",
+      "points": -2.1
+     },
+     {
+      "label": "Chiefs offense",
+      "points": 2.1
+     },
+     {
+      "label": "Chiefs defense",
+      "points": -1.5
+     },
+     {
+      "label": "Seahawks offense",
+      "points": -0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Chiefs."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 42.0
+  },
+  "2026_07_DAL_PHI:spread": {
+   "game": "2026_07_DAL_PHI",
+   "week": 7,
+   "start": "2026-10-27T00:15Z",
+   "home": "Eagles",
+   "away": "Cowboys",
+   "bet": "spread",
+   "side": "Eagles",
+   "line": 4.5,
+   "book": "draftkings",
+   "edge": 4.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 23.7,
+    "away": 24.1,
+    "total": 47.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cowboys defense",
+      "points": 2.4
+     },
+     {
+      "label": "Eagles offense",
+      "points": -2.2
+     },
+     {
+      "label": "Cowboys offense",
+      "points": -0.9
+     },
+     {
+      "label": "Home field",
+      "points": 0.6
+     },
+     {
+      "label": "Eagles defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+     "Recent headlines mention an injury or absence for the Cowboys."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 4.5
+  },
+  "2026_07_DAL_PHI:total": {
+   "game": "2026_07_DAL_PHI",
+   "week": 7,
+   "start": "2026-10-27T00:15Z",
+   "home": "Eagles",
+   "away": "Cowboys",
+   "bet": "total",
+   "side": "Over",
+   "line": 44.5,
+   "book": "draftkings",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 23.7,
+    "away": 24.1,
+    "total": 47.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cowboys defense",
+      "points": 2.4
+     },
+     {
+      "label": "Eagles offense",
+      "points": -2.2
+     },
+     {
+      "label": "Cowboys offense",
+      "points": 0.9
+     },
+     {
+      "label": "Eagles defense",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+     "Recent headlines mention an injury or absence for the Cowboys."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 44.5
   }
  }
 }
