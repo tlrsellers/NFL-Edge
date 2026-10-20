@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 6,
-  "pending": 12,
+  "pending": 13,
   "overall": {
    "wins": 6,
    "losses": 0,
@@ -501,7 +501,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 50.5
+   "close": 50.67
   },
   "2026_07_TB_CAR:total": {
    "game": "2026_07_TB_CAR",
@@ -609,7 +609,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.67
+   "close": -9.83
   },
   "2026_07_MIA_NYJ:total": {
    "game": "2026_07_MIA_NYJ",
@@ -771,7 +771,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 4.5
+   "close": 4.33
   },
   "2026_07_PIT_NO:total": {
    "game": "2026_07_PIT_NO",
@@ -825,7 +825,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.33
+   "close": 44.5
   },
   "2026_07_KC_SEA:spread": {
    "game": "2026_07_KC_SEA",
@@ -935,7 +935,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.17
+   "close": 42.5
   },
   "2026_07_DAL_PHI:spread": {
    "game": "2026_07_DAL_PHI",
@@ -1049,7 +1049,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 44.5
+   "close": 44.33
   },
   "2026_07_NYG_HOU:total": {
    "game": "2026_07_NYG_HOU",
@@ -1103,7 +1103,61 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.83
+   "close": 43.0
+  },
+  "2026_07_GB_DET:total": {
+   "game": "2026_07_GB_DET",
+   "week": 7,
+   "start": "2026-10-25T20:25Z",
+   "home": "Lions",
+   "away": "Packers",
+   "bet": "total",
+   "side": "Under",
+   "line": 53.5,
+   "book": "draftkings",
+   "edge": 3.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-20T14:27Z",
+   "projection": {
+    "home": 25.2,
+    "away": 24.5,
+    "total": 49.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.7,
+    "note": null,
+    "factors": [
+     {
+      "label": "Lions offense",
+      "points": -2.7
+     },
+     {
+      "label": "Lions defense",
+      "points": -1.9
+     },
+     {
+      "label": "Packers defense",
+      "points": 0.9
+     },
+     {
+      "label": "Packers offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Packers.",
+     "Recent headlines mention an injury or absence for the Lions."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 53.17
   }
  }
 }
