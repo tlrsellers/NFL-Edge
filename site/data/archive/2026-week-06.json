@@ -1,0 +1,455 @@
+{
+ "season": 2026,
+ "week": 6,
+ "summary": {
+  "graded": 6,
+  "pending": 0,
+  "overall": {
+   "wins": 6,
+   "losses": 0,
+   "pushes": 0,
+   "win_pct": 1.0,
+   "units": 5.45,
+   "avg_clv": 0.45,
+   "beat_close": 0.667
+  },
+  "by_tier": {
+   "spread:model": {
+    "wins": 3,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 2.73,
+    "avg_clv": 0.47,
+    "beat_close": 0.667
+   },
+   "spread:all": {
+    "wins": 3,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 2.73,
+    "avg_clv": 0.47,
+    "beat_close": 0.667
+   },
+   "total:lean": {
+    "wins": 2,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 1.82,
+    "avg_clv": 0.5,
+    "beat_close": 0.5
+   },
+   "total:all": {
+    "wins": 3,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 2.73,
+    "avg_clv": 0.43,
+    "beat_close": 0.667
+   },
+   "total:model": {
+    "wins": 1,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 0.91,
+    "avg_clv": 0.3,
+    "beat_close": 1.0
+   }
+  },
+  "by_week": {
+   "6": {
+    "wins": 6,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 5.45,
+    "avg_clv": 0.45,
+    "beat_close": 0.667
+   }
+  }
+ },
+ "picks": [
+  {
+   "game": "2026_06_ARI_LA",
+   "week": 6,
+   "start": "2026-10-18T20:05Z",
+   "home": "Rams",
+   "away": "Cardinals",
+   "bet": "spread",
+   "side": "Cardinals",
+   "line": 12.5,
+   "book": "draftkings",
+   "edge": 6.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.51,
+   "called": "2026-10-18T19:06Z",
+   "projection": {
+    "home": 27.4,
+    "away": 21.7,
+    "total": 49.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cardinals defense",
+      "points": -2.8
+     },
+     {
+      "label": "Home field",
+      "points": -0.9
+     },
+     {
+      "label": "Rams offense",
+      "points": -0.9
+     },
+     {
+      "label": "Cardinals offense",
+      "points": -0.8
+     },
+     {
+      "label": "Rams defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Cardinals.",
+     "Recent headlines mention an injury or absence for the Rams."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -12.5,
+   "final": {
+    "home": 16,
+    "away": 18
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": 0.0
+  },
+  {
+   "game": "2026_06_BUF_LV",
+   "week": 6,
+   "start": "2026-10-18T20:25Z",
+   "home": "Raiders",
+   "away": "Bills",
+   "bet": "spread",
+   "side": "Raiders",
+   "line": 5.5,
+   "book": "draftkings",
+   "edge": 4.2,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-18T19:06Z",
+   "projection": {
+    "home": 26.7,
+    "away": 28.0,
+    "total": 54.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Bills offense",
+      "points": -3.7
+     },
+     {
+      "label": "Bills defense",
+      "points": 2.0
+     },
+     {
+      "label": "Raiders defense",
+      "points": -1.4
+     },
+     {
+      "label": "Raiders offense",
+      "points": 1.0
+     },
+     {
+      "label": "Home field",
+      "points": 0.9
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Bills."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 5.33,
+   "final": {
+    "home": 30,
+    "away": 33
+   },
+   "margin": 2.5,
+   "result": "win",
+   "clv": 0.2
+  },
+  {
+   "game": "2026_06_LAC_KC",
+   "week": 6,
+   "start": "2026-10-18T20:25Z",
+   "home": "Chiefs",
+   "away": "Chargers",
+   "bet": "total",
+   "side": "Under",
+   "line": 41.5,
+   "book": "draftkings",
+   "edge": -2.5,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-10-18T19:06Z",
+   "projection": {
+    "home": 25.9,
+    "away": 18.1,
+    "total": 44.0
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 12.0,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Chargers offense",
+      "points": 3.9
+     },
+     {
+      "label": "Chiefs offense",
+      "points": -2.0
+     },
+     {
+      "label": "Chiefs defense",
+      "points": 0.8
+     },
+     {
+      "label": "Chargers defense",
+      "points": -0.2
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "Recent headlines mention an injury or absence for the Chargers.",
+     "Recent headlines mention an injury or absence for the Chiefs."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 41.5,
+   "final": {
+    "home": 22,
+    "away": 6
+   },
+   "margin": 13.5,
+   "result": "win",
+   "clv": 0.0
+  },
+  {
+   "game": "2026_06_DAL_GB",
+   "week": 6,
+   "start": "2026-10-19T00:20Z",
+   "home": "Packers",
+   "away": "Cowboys",
+   "bet": "spread",
+   "side": "Packers",
+   "line": 1.5,
+   "book": "draftkings",
+   "edge": 3.2,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-18T23:16Z",
+   "projection": {
+    "home": 26.0,
+    "away": 24.3,
+    "total": 50.3
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 9.0,
+    "side_is_home": true,
+    "moved_against": 1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cowboys defense",
+      "points": 2.5
+     },
+     {
+      "label": "Cowboys offense",
+      "points": -1.6
+     },
+     {
+      "label": "Home field",
+      "points": 0.8
+     },
+     {
+      "label": "Packers defense",
+      "points": 0.2
+     },
+     {
+      "label": "Packers offense",
+      "points": -0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Cowboys."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 0.33,
+   "final": {
+    "home": 23,
+    "away": 13
+   },
+   "margin": 11.5,
+   "result": "win",
+   "clv": 1.2
+  },
+  {
+   "game": "2026_06_DAL_GB",
+   "week": 6,
+   "start": "2026-10-19T00:20Z",
+   "home": "Packers",
+   "away": "Cowboys",
+   "bet": "total",
+   "side": "Under",
+   "line": 54.0,
+   "book": "bovada",
+   "edge": 3.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-18T19:06Z",
+   "projection": {
+    "home": 26.0,
+    "away": 24.3,
+    "total": 50.3
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 9.0,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cowboys defense",
+      "points": -2.5
+     },
+     {
+      "label": "Cowboys offense",
+      "points": -1.6
+     },
+     {
+      "label": "Packers defense",
+      "points": 0.2
+     },
+     {
+      "label": "Packers offense",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Cowboys.",
+     "Recent headlines mention an injury or absence for the Packers."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 53.67,
+   "final": {
+    "home": 23,
+    "away": 13
+   },
+   "margin": 18.0,
+   "result": "win",
+   "clv": 0.3
+  },
+  {
+   "game": "2026_06_WAS_SF",
+   "week": 6,
+   "start": "2026-10-20T00:15Z",
+   "home": "49ers",
+   "away": "Commanders",
+   "bet": "total",
+   "side": "Under",
+   "line": 52.5,
+   "book": "draftkings",
+   "edge": 1.9,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-10-18T19:06Z",
+   "projection": {
+    "home": 29.1,
+    "away": 21.5,
+    "total": 50.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 13.0,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "49ers offense",
+      "points": -3.5
+     },
+     {
+      "label": "Commanders defense",
+      "points": -1.9
+     },
+     {
+      "label": "49ers defense",
+      "points": 0.9
+     },
+     {
+      "label": "Commanders offense",
+      "points": 0.4
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "Recent headlines mention an injury or absence for the Commanders.",
+     "Recent headlines mention an injury or absence for the 49ers."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 51.5,
+   "final": {
+    "home": 23,
+    "away": 17
+   },
+   "margin": 12.5,
+   "result": "win",
+   "clv": 1.0
+  }
+ ]
+}

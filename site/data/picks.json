@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 5,
-  "pending": 13,
+  "graded": 6,
+  "pending": 12,
   "overall": {
-   "wins": 5,
+   "wins": 6,
    "losses": 0,
    "pushes": 0,
    "win_pct": 1.0,
-   "units": 4.55,
-   "avg_clv": 0.34,
-   "beat_close": 0.6
+   "units": 5.45,
+   "avg_clv": 0.45,
+   "beat_close": 0.667
   },
   "by_tier": {
    "spread:model": {
@@ -31,22 +31,22 @@
     "beat_close": 0.667
    },
    "total:lean": {
-    "wins": 1,
-    "losses": 0,
-    "pushes": 0,
-    "win_pct": 1.0,
-    "units": 0.91,
-    "avg_clv": 0.0,
-    "beat_close": 0.0
-   },
-   "total:all": {
     "wins": 2,
     "losses": 0,
     "pushes": 0,
     "win_pct": 1.0,
     "units": 1.82,
-    "avg_clv": 0.15,
+    "avg_clv": 0.5,
     "beat_close": 0.5
+   },
+   "total:all": {
+    "wins": 3,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": 1.0,
+    "units": 2.73,
+    "avg_clv": 0.43,
+    "beat_close": 0.667
    },
    "total:model": {
     "wins": 1,
@@ -60,13 +60,13 @@
   },
   "by_week": {
    "6": {
-    "wins": 5,
+    "wins": 6,
     "losses": 0,
     "pushes": 0,
     "win_pct": 1.0,
-    "units": 4.55,
-    "avg_clv": 0.34,
-    "beat_close": 0.6
+    "units": 5.45,
+    "avg_clv": 0.45,
+    "beat_close": 0.667
    }
   }
  },
@@ -376,7 +376,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 51.5
+   "close": 51.5,
+   "final": {
+    "home": 23,
+    "away": 17
+   },
+   "margin": 12.5,
+   "result": "win",
+   "clv": 1.0
   },
   "2026_06_DAL_GB:spread": {
    "game": "2026_06_DAL_GB",
