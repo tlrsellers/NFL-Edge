@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 6,
-  "pending": 13,
+  "pending": 14,
   "overall": {
    "wins": 6,
    "losses": 0,
@@ -501,7 +501,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 50.5
+   "close": 50.67
   },
   "2026_07_TB_CAR:total": {
    "game": "2026_07_TB_CAR",
@@ -771,7 +771,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 4.33
+   "close": 4.0
   },
   "2026_07_PIT_NO:total": {
    "game": "2026_07_PIT_NO",
@@ -882,7 +882,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.5
+   "close": -2.67
   },
   "2026_07_KC_SEA:total": {
    "game": "2026_07_KC_SEA",
@@ -1158,6 +1158,64 @@
     "news_injury": true
    },
    "close": 53.17
+  },
+  "2026_08_CAR_GB:spread": {
+   "game": "2026_08_CAR_GB",
+   "week": 8,
+   "start": "2026-10-30T00:15Z",
+   "home": "Packers",
+   "away": "Panthers",
+   "bet": "spread",
+   "side": "Panthers",
+   "line": 3.0,
+   "book": "draftkings",
+   "edge": 3.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-22T14:29Z",
+   "projection": {
+    "home": 23.7,
+    "away": 24.4,
+    "total": 48.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Panthers offense",
+      "points": 2.5
+     },
+     {
+      "label": "Packers defense",
+      "points": -0.9
+     },
+     {
+      "label": "Home field",
+      "points": -0.6
+     },
+     {
+      "label": "Panthers defense",
+      "points": -0.6
+     },
+     {
+      "label": "Packers offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Panthers.",
+     "Recent headlines mention an injury or absence for the Packers."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -3.0
   }
  }
 }
