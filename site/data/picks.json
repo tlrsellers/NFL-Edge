@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 6,
-  "pending": 14,
+  "graded": 7,
+  "pending": 13,
   "overall": {
    "wins": 6,
-   "losses": 0,
+   "losses": 1,
    "pushes": 0,
-   "win_pct": 1.0,
-   "units": 5.45,
-   "avg_clv": 0.45,
-   "beat_close": 0.667
+   "win_pct": 0.857,
+   "units": 4.45,
+   "avg_clv": 0.21,
+   "beat_close": 0.571
   },
   "by_tier": {
    "spread:model": {
@@ -41,21 +41,21 @@
    },
    "total:all": {
     "wins": 3,
-    "losses": 0,
+    "losses": 1,
     "pushes": 0,
-    "win_pct": 1.0,
-    "units": 2.73,
-    "avg_clv": 0.43,
-    "beat_close": 0.667
+    "win_pct": 0.75,
+    "units": 1.73,
+    "avg_clv": 0.03,
+    "beat_close": 0.5
    },
    "total:model": {
     "wins": 1,
-    "losses": 0,
+    "losses": 1,
     "pushes": 0,
-    "win_pct": 1.0,
-    "units": 0.91,
-    "avg_clv": 0.3,
-    "beat_close": 1.0
+    "win_pct": 0.5,
+    "units": -0.09,
+    "avg_clv": -0.45,
+    "beat_close": 0.5
    }
   },
   "by_week": {
@@ -67,6 +67,15 @@
     "units": 5.45,
     "avg_clv": 0.45,
     "beat_close": 0.667
+   },
+   "7": {
+    "wins": 0,
+    "losses": 1,
+    "pushes": 0,
+    "win_pct": 0.0,
+    "units": -1.0,
+    "avg_clv": -1.2,
+    "beat_close": 0.0
    }
   }
  },
@@ -501,7 +510,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 50.67
+   "close": 50.67,
+   "final": {
+    "home": 30,
+    "away": 24
+   },
+   "margin": -4.5,
+   "result": "loss",
+   "clv": -1.2
   },
   "2026_07_TB_CAR:total": {
    "game": "2026_07_TB_CAR",
