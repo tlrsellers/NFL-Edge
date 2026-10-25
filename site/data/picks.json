@@ -1,61 +1,61 @@
 {
  "summary": {
-  "graded": 8,
-  "pending": 23,
+  "graded": 14,
+  "pending": 18,
   "overall": {
-   "wins": 6,
-   "losses": 2,
+   "wins": 10,
+   "losses": 4,
    "pushes": 0,
-   "win_pct": 0.75,
-   "units": 3.45,
-   "avg_clv": 0.25,
-   "beat_close": 0.625
+   "win_pct": 0.714,
+   "units": 5.09,
+   "avg_clv": 0.21,
+   "beat_close": 0.643
   },
   "by_tier": {
    "spread:model": {
-    "wins": 3,
-    "losses": 0,
+    "wins": 4,
+    "losses": 1,
     "pushes": 0,
-    "win_pct": 1.0,
-    "units": 2.73,
-    "avg_clv": 0.47,
-    "beat_close": 0.667
+    "win_pct": 0.8,
+    "units": 2.64,
+    "avg_clv": 0.18,
+    "beat_close": 0.6
    },
    "spread:all": {
-    "wins": 3,
-    "losses": 0,
+    "wins": 4,
+    "losses": 1,
     "pushes": 0,
-    "win_pct": 1.0,
-    "units": 2.73,
-    "avg_clv": 0.47,
-    "beat_close": 0.667
+    "win_pct": 0.8,
+    "units": 2.64,
+    "avg_clv": 0.18,
+    "beat_close": 0.6
    },
    "total:lean": {
     "wins": 2,
-    "losses": 0,
+    "losses": 1,
     "pushes": 0,
-    "win_pct": 1.0,
-    "units": 1.82,
-    "avg_clv": 0.5,
-    "beat_close": 0.5
+    "win_pct": 0.667,
+    "units": 0.82,
+    "avg_clv": 0.27,
+    "beat_close": 0.333
    },
    "total:all": {
-    "wins": 3,
-    "losses": 2,
+    "wins": 6,
+    "losses": 3,
     "pushes": 0,
-    "win_pct": 0.6,
-    "units": 0.73,
-    "avg_clv": 0.12,
-    "beat_close": 0.6
+    "win_pct": 0.667,
+    "units": 2.45,
+    "avg_clv": 0.23,
+    "beat_close": 0.667
    },
    "total:model": {
-    "wins": 1,
+    "wins": 4,
     "losses": 2,
     "pushes": 0,
-    "win_pct": 0.333,
-    "units": -1.09,
-    "avg_clv": -0.13,
-    "beat_close": 0.667
+    "win_pct": 0.667,
+    "units": 1.64,
+    "avg_clv": 0.22,
+    "beat_close": 0.833
    }
   },
   "by_week": {
@@ -69,13 +69,13 @@
     "beat_close": 0.667
    },
    "7": {
-    "wins": 0,
-    "losses": 2,
+    "wins": 4,
+    "losses": 4,
     "pushes": 0,
-    "win_pct": 0.0,
-    "units": -2.0,
-    "avg_clv": -0.35,
-    "beat_close": 0.5
+    "win_pct": 0.5,
+    "units": -0.36,
+    "avg_clv": 0.04,
+    "beat_close": 0.625
    }
   }
  },
@@ -572,7 +572,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.67
+   "close": 44.67,
+   "final": {
+    "home": 13,
+    "away": 43
+   },
+   "margin": -11.5,
+   "result": "loss",
+   "clv": -0.2
   },
   "2026_07_NYG_HOU:spread": {
    "game": "2026_07_NYG_HOU",
@@ -625,7 +632,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -10.17
+   "close": -10.17,
+   "final": {
+    "home": 21,
+    "away": 27
+   },
+   "margin": 15.5,
+   "result": "win",
+   "clv": -0.7
   },
   "2026_07_MIA_NYJ:total": {
    "game": "2026_07_MIA_NYJ",
@@ -679,7 +693,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.5
+   "close": 39.5,
+   "final": {
+    "home": 25,
+    "away": 28
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": 1.0
   },
   "2026_07_CLE_TEN:total": {
    "game": "2026_07_CLE_TEN",
@@ -730,7 +751,14 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 37.0
+   "close": 37.0,
+   "final": {
+    "home": 24,
+    "away": 27
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": 0.5
   },
   "2026_07_LA_LV:spread": {
    "game": "2026_07_LA_LV",
@@ -958,7 +986,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.5
+   "close": 43.17
   },
   "2026_07_DAL_PHI:spread": {
    "game": "2026_07_DAL_PHI",
@@ -1126,7 +1154,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.67
+   "close": 42.67,
+   "final": {
+    "home": 21,
+    "away": 27
+   },
+   "margin": 5.5,
+   "result": "win",
+   "clv": 0.2
   },
   "2026_07_GB_DET:total": {
    "game": "2026_07_GB_DET",
@@ -1297,7 +1332,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 2.83
+   "close": 2.83,
+   "final": {
+    "home": 13,
+    "away": 35
+   },
+   "margin": -19.0,
+   "result": "loss",
+   "clv": 0.2
   },
   "2026_08_TEN_CIN:spread": {
    "game": "2026_08_TEN_CIN",
@@ -1579,7 +1621,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 38.5
+   "close": 39.5
   },
   "2026_08_LAC_LA:total": {
    "game": "2026_08_LAC_LA",
@@ -1691,7 +1733,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 8.5
+   "close": 7.5
   },
   "2026_07_GB_DET:spread": {
    "game": "2026_07_GB_DET",
@@ -1864,6 +1906,57 @@
     "news_injury": true
    },
    "close": 41.0
+  },
+  "2026_08_TEN_CIN:total": {
+   "game": "2026_08_TEN_CIN",
+   "week": 8,
+   "start": "2026-11-01T18:00Z",
+   "home": "Bengals",
+   "away": "Titans",
+   "bet": "total",
+   "side": "Under",
+   "line": 47.5,
+   "book": "draftkings",
+   "edge": 3.4,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-25T23:18Z",
+   "projection": {
+    "home": 25.6,
+    "away": 18.6,
+    "total": 44.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Titans offense",
+      "points": 3.8
+     },
+     {
+      "label": "Bengals offense",
+      "points": -1.6
+     },
+     {
+      "label": "Titans defense",
+      "points": -0.6
+     },
+     {
+      "label": "Bengals defense",
+      "points": 0.5
+     }
+    ],
+    "risks": [],
+    "news_qb": false,
+    "news_injury": false
+   },
+   "close": 47.0
   }
  }
 }
