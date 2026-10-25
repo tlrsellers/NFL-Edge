@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 7,
-  "pending": 24,
+  "graded": 8,
+  "pending": 23,
   "overall": {
    "wins": 6,
-   "losses": 1,
+   "losses": 2,
    "pushes": 0,
-   "win_pct": 0.857,
-   "units": 4.45,
-   "avg_clv": 0.21,
-   "beat_close": 0.571
+   "win_pct": 0.75,
+   "units": 3.45,
+   "avg_clv": 0.25,
+   "beat_close": 0.625
   },
   "by_tier": {
    "spread:model": {
@@ -41,21 +41,21 @@
    },
    "total:all": {
     "wins": 3,
-    "losses": 1,
+    "losses": 2,
     "pushes": 0,
-    "win_pct": 0.75,
-    "units": 1.73,
-    "avg_clv": 0.03,
-    "beat_close": 0.5
+    "win_pct": 0.6,
+    "units": 0.73,
+    "avg_clv": 0.12,
+    "beat_close": 0.6
    },
    "total:model": {
     "wins": 1,
-    "losses": 1,
+    "losses": 2,
     "pushes": 0,
-    "win_pct": 0.5,
-    "units": -0.09,
-    "avg_clv": -0.45,
-    "beat_close": 0.5
+    "win_pct": 0.333,
+    "units": -1.09,
+    "avg_clv": -0.13,
+    "beat_close": 0.667
    }
   },
   "by_week": {
@@ -70,12 +70,12 @@
    },
    "7": {
     "wins": 0,
-    "losses": 1,
+    "losses": 2,
     "pushes": 0,
     "win_pct": 0.0,
-    "units": -1.0,
-    "avg_clv": -1.2,
-    "beat_close": 0.0
+    "units": -2.0,
+    "avg_clv": -0.35,
+    "beat_close": 0.5
    }
   }
  },
@@ -841,7 +841,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.5
+   "close": 44.5,
+   "final": {
+    "home": 10,
+    "away": 16
+   },
+   "margin": -18.0,
+   "result": "loss",
+   "clv": 0.5
   },
   "2026_07_KC_SEA:spread": {
    "game": "2026_07_KC_SEA",
