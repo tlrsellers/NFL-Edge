@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 7,
-  "pending": 21,
+  "pending": 24,
   "overall": {
    "wins": 6,
    "losses": 1,
@@ -625,7 +625,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -10.25
+   "close": -10.5
   },
   "2026_07_MIA_NYJ:total": {
    "game": "2026_07_MIA_NYJ",
@@ -787,7 +787,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 3.25
+   "close": 3.5
   },
   "2026_07_PIT_NO:total": {
    "game": "2026_07_PIT_NO",
@@ -1065,7 +1065,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 44.5
+   "close": 44.0
   },
   "2026_07_NYG_HOU:total": {
    "game": "2026_07_NYG_HOU",
@@ -1173,7 +1173,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 54.0
+   "close": 55.5
   },
   "2026_08_CAR_GB:spread": {
    "game": "2026_08_CAR_GB",
@@ -1290,7 +1290,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 2.75
+   "close": 2.83
   },
   "2026_08_TEN_CIN:spread": {
    "game": "2026_08_TEN_CIN",
@@ -1685,6 +1685,178 @@
     "news_injury": true
    },
    "close": 8.5
+  },
+  "2026_07_GB_DET:spread": {
+   "game": "2026_07_GB_DET",
+   "week": 7,
+   "start": "2026-10-25T20:25Z",
+   "home": "Lions",
+   "away": "Packers",
+   "bet": "spread",
+   "side": "Packers",
+   "line": 4.0,
+   "book": "bovada",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-25T14:21Z",
+   "projection": {
+    "home": 25.2,
+    "away": 24.5,
+    "total": 49.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.4,
+    "note": null,
+    "factors": [
+     {
+      "label": "Lions offense",
+      "points": -2.7
+     },
+     {
+      "label": "Lions defense",
+      "points": 1.9
+     },
+     {
+      "label": "Packers defense",
+      "points": 1.0
+     },
+     {
+      "label": "Home field",
+      "points": -0.6
+     },
+     {
+      "label": "Packers offense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Packers.",
+     "Recent headlines mention an injury or absence for the Lions."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -3.67
+  },
+  "2026_08_PHI_WAS:spread": {
+   "game": "2026_08_PHI_WAS",
+   "week": 8,
+   "start": "2026-11-02T01:20Z",
+   "home": "Commanders",
+   "away": "Eagles",
+   "bet": "spread",
+   "side": "Eagles",
+   "line": 3.5,
+   "book": "draftkings",
+   "edge": 3.2,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-25T14:21Z",
+   "projection": {
+    "home": 23.0,
+    "away": 22.7,
+    "total": 45.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Eagles offense",
+      "points": -2.2
+     },
+     {
+      "label": "Commanders defense",
+      "points": 2.0
+     },
+     {
+      "label": "Commanders offense",
+      "points": 0.8
+     },
+     {
+      "label": "Home field",
+      "points": -0.6
+     },
+     {
+      "label": "Eagles defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Commanders. Read them below before betting.",
+     "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -3.5
+  },
+  "2026_08_PHI_WAS:total": {
+   "game": "2026_08_PHI_WAS",
+   "week": 8,
+   "start": "2026-11-02T01:20Z",
+   "home": "Commanders",
+   "away": "Eagles",
+   "bet": "total",
+   "side": "Over",
+   "line": 40.5,
+   "book": "fanduel",
+   "edge": 5.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.508,
+   "called": "2026-10-25T14:21Z",
+   "projection": {
+    "home": 23.0,
+    "away": 22.7,
+    "total": 45.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Eagles offense",
+      "points": -2.2
+     },
+     {
+      "label": "Commanders defense",
+      "points": 2.0
+     },
+     {
+      "label": "Commanders offense",
+      "points": -0.8
+     },
+     {
+      "label": "Eagles defense",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Commanders. Read them below before betting.",
+     "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 41.0
   }
  }
 }
