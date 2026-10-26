@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 19,
-  "pending": 17,
+  "pending": 18,
   "overall": {
    "wins": 12,
    "losses": 7,
@@ -1066,7 +1066,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 4.5
+   "close": 4.33
   },
   "2026_07_DAL_PHI:total": {
    "game": "2026_07_DAL_PHI",
@@ -1301,7 +1301,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -3.67
+   "close": -3.5
   },
   "2026_07_CIN_BAL:spread": {
    "game": "2026_07_CIN_BAL",
@@ -1483,7 +1483,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -6.5
+   "close": -6.25
   },
   "2026_08_MIN_DET:spread": {
    "game": "2026_08_MIN_DET",
@@ -1595,7 +1595,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 44.5
+   "close": 45.33
   },
   "2026_08_CLE_PIT:total": {
    "game": "2026_08_CLE_PIT",
@@ -1649,7 +1649,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 38.5
+   "close": 39.33
   },
   "2026_08_LAC_LA:total": {
    "game": "2026_08_LAC_LA",
@@ -1703,7 +1703,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.5
+   "close": 44.33
   },
   "2026_08_NE_MIA:spread": {
    "game": "2026_08_NE_MIA",
@@ -1761,7 +1761,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 7.17
+   "close": 7.33
   },
   "2026_07_GB_DET:spread": {
    "game": "2026_07_GB_DET",
@@ -2044,7 +2044,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 53.5
+   "close": 54.0
   },
   "2026_08_IND_JAX:total": {
    "game": "2026_08_IND_JAX",
@@ -2208,6 +2208,60 @@
     "news_injury": true
    },
    "close": 46.5
+  },
+  "2026_08_KC_DEN:total": {
+   "game": "2026_08_KC_DEN",
+   "week": 8,
+   "start": "2026-11-01T21:25Z",
+   "home": "Broncos",
+   "away": "Chiefs",
+   "bet": "total",
+   "side": "Over",
+   "line": 40.5,
+   "book": "fanduel",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-26T22:58Z",
+   "projection": {
+    "home": 21.1,
+    "away": 22.7,
+    "total": 43.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 6.0,
+    "side_is_home": null,
+    "moved_against": 1.5,
+    "note": null,
+    "factors": [
+     {
+      "label": "Broncos defense",
+      "points": -1.4
+     },
+     {
+      "label": "Chiefs defense",
+      "points": -1.4
+     },
+     {
+      "label": "Chiefs offense",
+      "points": 1.1
+     },
+     {
+      "label": "Broncos offense",
+      "points": -0.4
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Chiefs.",
+     "Recent headlines mention an injury or absence for the Broncos."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 41.0
   }
  }
 }
