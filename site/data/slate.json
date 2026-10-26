@@ -1251,7 +1251,7 @@
      "factors": [
       {
        "label": "Cowboys defense",
-       "points": 2.4
+       "points": 2.3
       },
       {
        "label": "Eagles offense",
@@ -1262,18 +1262,18 @@
        "points": -0.9
       },
       {
-       "label": "Home field",
-       "points": 0.6
+       "label": "Eagles defense",
+       "points": -0.2
       },
       {
-       "label": "Eagles defense",
-       "points": -0.3
+       "label": "Home field",
+       "points": -0.1
       }
      ],
      "factor_note": "How the model gets to its number, in points for the Eagles. Built only from this season's games, opponent-adjusted; pace is 55 plays a side.",
      "reasons": [
       "Model leans are shown so you can see what the numbers say, but they're unproven: in 27 seasons of week-by-week replays, the model's side against the closing line won about 50%.",
-      "The Cowboys defense is worse than average, worth 2.4 points for the Eagles.",
+      "The Cowboys defense is worse than average, worth 2.3 points for the Eagles.",
       "The Eagles offense is worse than average, worth 2.2 points against the Eagles.",
       "The Cowboys offense is better than average, worth 0.9 points against the Eagles."
      ],
@@ -1300,14 +1300,22 @@
       }
      ],
      "risks": [
+      "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
       "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
-      "Recent headlines mention an injury or absence for the Cowboys.",
-      "Recent headlines mention an injury or absence for the Eagles."
+      "Recent headlines mention an injury or absence for the Cowboys."
      ],
      "evidence": [
       "Live this season: 4-1 (80%), beating the closing line by +0.2 points on average."
      ],
      "news": [
+      {
+       "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVRGZjhDeHZPcmJlNlNFbXRrTllRNzJwNFIyVHhiOWpMUktHN3Y3N2p3Yk85MUdCNF93djAxS243N0FjOVhucURqU3NEQm8teGJJelcxcXl4MDROakw4czN5aDNlaTNOeWUxQjZuQkpTNUlFT0toeFhzSlpHSElXcm81MkowXzduZlpWSko5MVlWMFF2eUd4S2xpQzY?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-26T11:51+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
       {
        "title": "Is George Pickens Playing Tonight? (Injury Update, Betting Impact for Cowboys vs. Eagles in NFL Week 7)",
        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUlDZ2ExNjZxZTJpUDNIMVpmQU03M0ZaX1dHV3FsY1BUczRzYkgzb0tSU2NrMlRmUk5GWGNqS0NBOGpHRWhEbWIzb0VrRmd0Q2hDNmZkT0ZtcncwNTV3NE1TTlFIN3dZRERTUmdmcnU3VlRNRUNBTkFfZmctWlV2bm1nVk1YSzZCREgxSGFtWWxCN3AweUN3S1RMOTFITUtIcU5yMjM4VDhYS0R5aDhjdA?oc=5",
@@ -1333,20 +1341,28 @@
        "team": "Cowboys"
       },
       {
-       "title": "Will Saquon Barkley play for the Eagles agains the Cowboys in Monday Night Football? Philadelphia RB injury st",
-       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
-       "source": "Diario AS",
-       "published": "2026-10-25T23:29+00:00",
-       "flag": "injury",
+       "title": "Cardinals vs Cowboys picks, predictions, odds for NFL Week 8 game",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWM3N3dWWWt2VWdZVm9UVk9ONFNtZk5GVERfTFY5M19adGpZUWE1V1JneVZDbUEySmhxamk0Y0IteEY0c2xzZGVFWGdFN0VSUmRwNnpQbGxreTl5YjlVNGxBNV9HX3R0Qm53b1RDSUNLaDU5b2RMZnc0UE9EQzFpWll4Zlp6UW9ZalVUUy0tQTViczNENE1QY0t4X3pjQmpibDlRSHdwSkRnaFp2VFFwcTNCSUxkR2VibHB5NXBOaElWU2Yxd2VJbWdaR0ZZZw?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:40+00:00",
+       "flag": null,
        "team": "Cowboys"
       },
       {
-       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
+       "title": "Who is Tanner McKee? Eagles QB starting with Jalen Hurts sidelined by blood clots",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnNVQm5JS2owUFNDUXY5c3JzUDN2Z2J5bERnQ21zVnpRRm9RNkE1cDdsaXpGU3d2OTdhTFFBNDRFVGducTdsNi00VlVYTmNKVGpjdUJhMVhuN2JhdGwzRkU0SWl3TlhMZS1zcGJtazdBS0dfbDNlN2hLOUtSc1VGaXZ2TWt4ejA?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-25T21:39+00:00",
+       "published": "2026-10-26T12:05+00:00",
+       "flag": "qb",
+       "team": "Eagles"
+      },
+      {
+       "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVRGZjhDeHZPcmJlNlNFbXRrTllRNzJwNFIyVHhiOWpMUktHN3Y3N2p3Yk85MUdCNF93djAxS243N0FjOVhucURqU3NEQm8teGJJelcxcXl4MDROakw4czN5aDNlaTNOeWUxQjZuQkpTNUlFT0toeFhzSlpHSElXcm81MkowXzduZlpWSko5MVlWMFF2eUd4S2xpQzY?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-26T11:51+00:00",
        "flag": "injury",
-       "team": "Cowboys"
+       "team": "Eagles"
       },
       {
        "title": "Is DeVonta Smith Playing Tonight? (Injury Update, Betting Impact for Cowboys vs. Eagles in NFL Week 7)",
@@ -1371,22 +1387,6 @@
        "published": "2026-10-25T23:29+00:00",
        "flag": "injury",
        "team": "Eagles"
-      },
-      {
-       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T21:39+00:00",
-       "flag": "injury",
-       "team": "Eagles"
-      },
-      {
-       "title": "Saquon Barkley Injury Update: Eagles RB\u2019s Week 7 Status Revealed",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlFWVlNxaml4Wkt4dnVRTU5MQTgzVzNXaXo4YS14alFaNDdSUXFUNE1Ca1JVVmFLOGZiYWpPVkRKZXNjTU1BN0Z6TE9UcGd1OTVfWDFEcTluVXRLWDE5b2V5V1BwVEZSaVNhclBiTnY4bFFZcGxQWFljYTFRTW9vOVNJUEZWcDg?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T11:59+00:00",
-       "flag": "injury",
-       "team": "Eagles"
       }
      ]
     },
@@ -1395,7 +1395,7 @@
      "factors": [
       {
        "label": "Cowboys defense",
-       "points": 2.4
+       "points": 2.3
       },
       {
        "label": "Eagles offense",
@@ -1407,13 +1407,13 @@
       },
       {
        "label": "Eagles defense",
-       "points": 0.3
+       "points": 0.2
       }
      ],
      "factor_note": "Points each unit adds to (or takes from) the Over, compared with two average teams.",
      "reasons": [
       "Model leans are shown so you can see what the numbers say, but they're unproven: in 27 seasons of week-by-week replays, the model's side against the closing line won about 50%.",
-      "The Cowboys defense pushes toward the Over by 2.4 points.",
+      "The Cowboys defense pushes toward the Over by 2.3 points.",
       "The Eagles offense works against the Over by 2.2 points."
      ],
      "checks": [
@@ -1439,14 +1439,22 @@
       }
      ],
      "risks": [
+      "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
       "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
-      "Recent headlines mention an injury or absence for the Cowboys.",
-      "Recent headlines mention an injury or absence for the Eagles."
+      "Recent headlines mention an injury or absence for the Cowboys."
      ],
      "evidence": [
       "Live this season: 4-2 (67%), beating the closing line by +0.2 points on average."
      ],
      "news": [
+      {
+       "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVRGZjhDeHZPcmJlNlNFbXRrTllRNzJwNFIyVHhiOWpMUktHN3Y3N2p3Yk85MUdCNF93djAxS243N0FjOVhucURqU3NEQm8teGJJelcxcXl4MDROakw4czN5aDNlaTNOeWUxQjZuQkpTNUlFT0toeFhzSlpHSElXcm81MkowXzduZlpWSko5MVlWMFF2eUd4S2xpQzY?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-26T11:51+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
       {
        "title": "Is George Pickens Playing Tonight? (Injury Update, Betting Impact for Cowboys vs. Eagles in NFL Week 7)",
        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUlDZ2ExNjZxZTJpUDNIMVpmQU03M0ZaX1dHV3FsY1BUczRzYkgzb0tSU2NrMlRmUk5GWGNqS0NBOGpHRWhEbWIzb0VrRmd0Q2hDNmZkT0ZtcncwNTV3NE1TTlFIN3dZRERTUmdmcnU3VlRNRUNBTkFfZmctWlV2bm1nVk1YSzZCREgxSGFtWWxCN3AweUN3S1RMOTFITUtIcU5yMjM4VDhYS0R5aDhjdA?oc=5",
@@ -1472,20 +1480,28 @@
        "team": "Cowboys"
       },
       {
-       "title": "Will Saquon Barkley play for the Eagles agains the Cowboys in Monday Night Football? Philadelphia RB injury st",
-       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
-       "source": "Diario AS",
-       "published": "2026-10-25T23:29+00:00",
-       "flag": "injury",
+       "title": "Cardinals vs Cowboys picks, predictions, odds for NFL Week 8 game",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWM3N3dWWWt2VWdZVm9UVk9ONFNtZk5GVERfTFY5M19adGpZUWE1V1JneVZDbUEySmhxamk0Y0IteEY0c2xzZGVFWGdFN0VSUmRwNnpQbGxreTl5YjlVNGxBNV9HX3R0Qm53b1RDSUNLaDU5b2RMZnc0UE9EQzFpWll4Zlp6UW9ZalVUUy0tQTViczNENE1QY0t4X3pjQmpibDlRSHdwSkRnaFp2VFFwcTNCSUxkR2VibHB5NXBOaElWU2Yxd2VJbWdaR0ZZZw?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:40+00:00",
+       "flag": null,
        "team": "Cowboys"
       },
       {
-       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
+       "title": "Who is Tanner McKee? Eagles QB starting with Jalen Hurts sidelined by blood clots",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnNVQm5JS2owUFNDUXY5c3JzUDN2Z2J5bERnQ21zVnpRRm9RNkE1cDdsaXpGU3d2OTdhTFFBNDRFVGducTdsNi00VlVYTmNKVGpjdUJhMVhuN2JhdGwzRkU0SWl3TlhMZS1zcGJtazdBS0dfbDNlN2hLOUtSc1VGaXZ2TWt4ejA?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-25T21:39+00:00",
+       "published": "2026-10-26T12:05+00:00",
+       "flag": "qb",
+       "team": "Eagles"
+      },
+      {
+       "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVRGZjhDeHZPcmJlNlNFbXRrTllRNzJwNFIyVHhiOWpMUktHN3Y3N2p3Yk85MUdCNF93djAxS243N0FjOVhucURqU3NEQm8teGJJelcxcXl4MDROakw4czN5aDNlaTNOeWUxQjZuQkpTNUlFT0toeFhzSlpHSElXcm81MkowXzduZlpWSko5MVlWMFF2eUd4S2xpQzY?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-26T11:51+00:00",
        "flag": "injury",
-       "team": "Cowboys"
+       "team": "Eagles"
       },
       {
        "title": "Is DeVonta Smith Playing Tonight? (Injury Update, Betting Impact for Cowboys vs. Eagles in NFL Week 7)",
@@ -1508,22 +1524,6 @@
        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
        "source": "Diario AS",
        "published": "2026-10-25T23:29+00:00",
-       "flag": "injury",
-       "team": "Eagles"
-      },
-      {
-       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T21:39+00:00",
-       "flag": "injury",
-       "team": "Eagles"
-      },
-      {
-       "title": "Saquon Barkley Injury Update: Eagles RB\u2019s Week 7 Status Revealed",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlFWVlNxaml4Wkt4dnVRTU5MQTgzVzNXaXo4YS14alFaNDdSUXFUNE1Ca1JVVmFLOGZiYWpPVkRKZXNjTU1BN0Z6TE9UcGd1OTVfWDFEcTluVXRLWDE5b2V5V1BwVEZSaVNhclBiTnY4bFFZcGxQWFljYTFRTW9vOVNJUEZWcDg?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T11:59+00:00",
        "flag": "injury",
        "team": "Eagles"
       }
@@ -1536,6 +1536,13 @@
      "injury": true,
      "headlines": [
       {
+       "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVRGZjhDeHZPcmJlNlNFbXRrTllRNzJwNFIyVHhiOWpMUktHN3Y3N2p3Yk85MUdCNF93djAxS243N0FjOVhucURqU3NEQm8teGJJelcxcXl4MDROakw4czN5aDNlaTNOeWUxQjZuQkpTNUlFT0toeFhzSlpHSElXcm81MkowXzduZlpWSko5MVlWMFF2eUd4S2xpQzY?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-26T11:51+00:00",
+       "flag": "injury"
+      },
+      {
        "title": "Is George Pickens Playing Tonight? (Injury Update, Betting Impact for Cowboys vs. Eagles in NFL Week 7)",
        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUlDZ2ExNjZxZTJpUDNIMVpmQU03M0ZaX1dHV3FsY1BUczRzYkgzb0tSU2NrMlRmUk5GWGNqS0NBOGpHRWhEbWIzb0VrRmd0Q2hDNmZkT0ZtcncwNTV3NE1TTlFIN3dZRERTUmdmcnU3VlRNRUNBTkFfZmctWlV2bm1nVk1YSzZCREgxSGFtWWxCN3AweUN3S1RMOTFITUtIcU5yMjM4VDhYS0R5aDhjdA?oc=5",
        "source": "Sports Illustrated",
@@ -1557,25 +1564,32 @@
        "flag": "injury"
       },
       {
-       "title": "Will Saquon Barkley play for the Eagles agains the Cowboys in Monday Night Football? Philadelphia RB injury st",
-       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
-       "source": "Diario AS",
-       "published": "2026-10-25T23:29+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T21:39+00:00",
-       "flag": "injury"
+       "title": "Cardinals vs Cowboys picks, predictions, odds for NFL Week 8 game",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWM3N3dWWWt2VWdZVm9UVk9ONFNtZk5GVERfTFY5M19adGpZUWE1V1JneVZDbUEySmhxamk0Y0IteEY0c2xzZGVFWGdFN0VSUmRwNnpQbGxreTl5YjlVNGxBNV9HX3R0Qm53b1RDSUNLaDU5b2RMZnc0UE9EQzFpWll4Zlp6UW9ZalVUUy0tQTViczNENE1QY0t4X3pjQmpibDlRSHdwSkRnaFp2VFFwcTNCSUxkR2VibHB5NXBOaElWU2Yxd2VJbWdaR0ZZZw?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:40+00:00",
+       "flag": null
       }
      ]
     },
     "Eagles": {
-     "qb_alert": false,
+     "qb_alert": true,
      "injury": true,
      "headlines": [
+      {
+       "title": "Who is Tanner McKee? Eagles QB starting with Jalen Hurts sidelined by blood clots",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnNVQm5JS2owUFNDUXY5c3JzUDN2Z2J5bERnQ21zVnpRRm9RNkE1cDdsaXpGU3d2OTdhTFFBNDRFVGducTdsNi00VlVYTmNKVGpjdUJhMVhuN2JhdGwzRkU0SWl3TlhMZS1zcGJtazdBS0dfbDNlN2hLOUtSc1VGaXZ2TWt4ejA?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-26T12:05+00:00",
+       "flag": "qb"
+      },
+      {
+       "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVRGZjhDeHZPcmJlNlNFbXRrTllRNzJwNFIyVHhiOWpMUktHN3Y3N2p3Yk85MUdCNF93djAxS243N0FjOVhucURqU3NEQm8teGJJelcxcXl4MDROakw4czN5aDNlaTNOeWUxQjZuQkpTNUlFT0toeFhzSlpHSElXcm81MkowXzduZlpWSko5MVlWMFF2eUd4S2xpQzY?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-26T11:51+00:00",
+       "flag": "injury"
+      },
       {
        "title": "Is DeVonta Smith Playing Tonight? (Injury Update, Betting Impact for Cowboys vs. Eagles in NFL Week 7)",
        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVN0THRsWFBsOEFRTmdJX1dWWWZiMFozMHpITlU3ZUp5MExMQ3JfU1NXWGJzc29fZnNXSnowMVZFSzViUUpDdGU5SHk2RU5oUDVsYW1qTk1aUGx0NGhnVkQzNGFsY3dQSU9xTjN3bW5JcGNhaUJhUjlMR0FNZUlPQU5ZbFNNMENXOWxKSW5mdnRzRDhuV094U2tqZ0tFZ3ZlX1FUUDQyTkM0R0FSc3Jv?oc=5",
@@ -1595,20 +1609,6 @@
        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
        "source": "Diario AS",
        "published": "2026-10-25T23:29+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T21:39+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Saquon Barkley Injury Update: Eagles RB\u2019s Week 7 Status Revealed",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlFWVlNxaml4Wkt4dnVRTU5MQTgzVzNXaXo4YS14alFaNDdSUXFUNE1Ca1JVVmFLOGZiYWpPVkRKZXNjTU1BN0Z6TE9UcGd1OTVfWDFEcTluVXRLWDE5b2V5V1BwVEZSaVNhclBiTnY4bFFZcGxQWFljYTFRTW9vOVNJUEZWcDg?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-25T11:59+00:00",
        "flag": "injury"
       }
      ]
@@ -1910,33 +1910,33 @@
      "factors": [
       {
        "label": "Titans offense",
-       "points": -3.8
+       "points": -3.6
       },
       {
        "label": "Bengals offense",
-       "points": -1.6
+       "points": -2.4
       },
       {
        "label": "Titans defense",
-       "points": -0.6
-      },
-      {
-       "label": "Home field",
-       "points": -0.6
+       "points": -1.0
       },
       {
        "label": "Bengals defense",
-       "points": -0.5
+       "points": -1.0
+      },
+      {
+       "label": "Home field",
+       "points": 0.1
       }
      ],
-     "factor_note": "How the model gets to its number, in points for the Titans. Built only from this season's games, opponent-adjusted; pace is 49 plays a side.",
+     "factor_note": "How the model gets to its number, in points for the Titans. Built only from this season's games, opponent-adjusted; pace is 50 plays a side.",
      "reasons": [
       "Model leans are shown so you can see what the numbers say, but they're unproven: in 27 seasons of week-by-week replays, the model's side against the closing line won about 50%.",
-      "The Titans offense is worse than average, worth 3.8 points against the Titans.",
-      "The Bengals offense is better than average, worth 1.6 points against the Titans.",
-      "The Titans defense is worse than average, worth 0.6 points against the Titans.",
-      "The Bengals pass defense (5.7) should shut down the Titans pass offense (2.0).",
-      "The Bengals pass offense (6.6) should beat the Titans pass defense (2.9)."
+      "The Titans offense is worse than average, worth 3.6 points against the Titans.",
+      "The Bengals offense is better than average, worth 2.4 points against the Titans.",
+      "The Titans defense is worse than average, worth 1.0 points against the Titans.",
+      "The Bengals pass offense (7.4) should beat the Titans pass defense (2.6).",
+      "The Bengals run offense (6.7) should beat the Titans run defense (2.5)."
      ],
      "checks": [
       {
@@ -1961,6 +1961,7 @@
       }
      ],
      "risks": [
+      "Recent headlines mention an injury or absence for the Titans.",
       "Recent headlines mention an injury or absence for the Bengals."
      ],
      "evidence": [
@@ -1968,42 +1969,42 @@
      ],
      "news": [
       {
-       "title": "What we learned from Tennessee Titans' 27-24 loss to Cleveland Browns",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1hFVWQ4anpKUDh3RXlvWENnQVdVQVl3MW1pTVNubk5FODZ4bzBsc2x0Vk83WlZDRmpjSzduaTRkTVhBRVZyX0lwT1lWNjVmbUdiQ2FuSmFpM2gzaHV6UXB6M3JIVXhtMjBsRGhwbjl4X1AwV1JsTU1NOFg3ajhzcXI0RlAzU2dtMDF4S196NDJodnZlY1o4THU0OEJuc3NJWlhHMXFxM3lJSjNYMDVnMnFXMnNRd2JjZ2xOVkVNR1lBT0pkRWt3UmxKdHFCNzEwTC1ReVJtMnoyeWM1QnA4VVNR?oc=5",
-       "source": "Titans Wire",
-       "published": "2026-10-26T11:05+00:00",
-       "flag": null,
-       "team": "Titans"
-      },
-      {
-       "title": "Tennessee Titans news: Loss vs. Browns kills momentum",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXpqZDRxVzVJQ1Y0bFhnY1VQa080MVpGNmZqZWlVTUx3VTQwNnZ3MHV2TlkycHZBLU1IWFg2eFhLTTNyOTUtQ19CaEo5ZHkwamRKX29WUTQyRU1vNk9aTFIwUWNMSU53WTNDZmdneXYzQzQtZEtXSnpSYlk3OVdlOVRWNk4?oc=5",
+       "title": "4 Painful Takeaways From Titans' 27-24 Loss to Browns as Cam Ward's Deep Ball Stays Missing",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWp2bjZmaWZfTms2RHNtZV9LTkFOTFVGZGhTV1Y1WkZLZ0ZETDRtQnFUT2tkY3lla05FeHUzd1RmYWRMeFFwTjJLNGxGSUdEbDBlWG9YbEFjeUVBc0RaaXlCTFVPeVBYa0hXRHJTMVo2ZW5ZUjJNVTA3VUpFNF9wajNELWc?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-26T11:00+00:00",
+       "published": "2026-10-25T23:00+00:00",
+       "flag": "injury",
+       "team": "Titans"
+      },
+      {
+       "title": "Titans vs Bengals picks, predictions, odds for NFL Week 8 game Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3B2M3hudnR4bVhpYTY5REpDU2hCajdsNmxmRl9nRlVwbHI2OVZvM2tFZWJDeDhTSGJGdGVfMUxsNFhqMS1kcVctbzlsUmtiWi1YdTNCVU1JUHF6Tko3Yk9PMVVXXzM4T2xjcHlWbVR4YXNHeko4eDZJVzl2SWdsd2FKeUwyMlhOLUJENzFrQlR5bjZpMGxzeFBJbWJoTm81S0loTU5jNkRlNFkydFpnN0JfcFpwcW02YnFMakhRNjZNOHdueHBPSVIxLVN3QW1mVEE?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null,
        "team": "Titans"
       },
       {
-       "title": "NFL officials did Titans no favors in Sunday's loss to Browns",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXFSWXJlSGpINTRHX1hUTkNBb0ExcHdzVm92OTdWYkxJUUFBNjBOLWJva1lKa3ZPemctb1VRZ3Vvb3VBQTVPVks5X3E5RURpYy11d0otUzM2WXdabDNPSzNSemhYRkhUd2R3LUl6LXZSZ3RuMF94ZVBnV0hKM3FaY084RjlDMlpHYURsTWNSakxtQzBteDZzMDBRa2N2ZmdYNFJZRnVHR0d0RndXeXZsdlpoeHFwU1AzUzRCZlM2aw?oc=5",
+       "title": "Titans stock report: Whose is up, down after Week 7 loss to Browns?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1dycEFMakZKY3R5OHBkclY5Tm5aMzNHTjJlUk51U0drYXJhS2FicDBEUFN1Sk8xZk5HSnVGMl9hQ20yVTVTTkh5SUF2WG1KaTlRaElWcDZBNVFFN19MYWlGRVVWNHFSY2toM1VoUWRFUDhCZGxNZ09nX0lZNzIzS0hnSHd2dGpfZWc3OGxZVmZWWDg1RzJDUXJ0dU43bjRvVTN2eFBoeGZMQ1hYNWhmR1l3UFRnTHZPa2c1VF81WE9YWXZvMFhndHI1bWhfLW5JeFE4aw?oc=5",
        "source": "Titans Wire",
-       "published": "2026-10-26T10:10+00:00",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null,
        "team": "Titans"
       },
       {
-       "title": "The new Brian Sipe? Deshaun Watson's heroics tops Browns-Titans overreactions",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3FNZEdYTFZJa2tLTERNbG55S3FfX2hTY3VrOUo5MVRWa1daTEF0MWtpZS1oWDdoZ200Y0dfMk5DYk50VnNUZzBtWWFmMERwaEM4WF9mV2piVlNvaHlHWmp2WHlycUJTcDZYem9zeG5kTWFSbHpKNnNVdW0wN2ViTF9ibnRPUkF6WjRj?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-26T10:08+00:00",
+       "title": "Winners and losers from the Browns\u2019 27-24 win over the Titans",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk8zU2FZYUhsWXlJc3puc0NZSlRwOUc5d2J0Vmoxb24zOXRNTEhhQkVlRXcwbkU5eV95ZEFKbFE1UjFJVzFldEFMOUU3alhtTmo3ZE1GRFRkc0NFMVYtZ2tGUmt4aVdzX3h6anFTdk5RMVdIa213REpROW1VeTRxVmVadmprd2VaaE5pSjRoSE5fZGx5cVUxQUh0YUNJVFI1WmszT1RodWNaUQ?oc=5",
+       "source": "Cleveland.com",
+       "published": "2026-10-26T14:33+00:00",
        "flag": null,
        "team": "Titans"
       },
       {
-       "title": "Tennessee Titans blow 14-0 lead, fall 27-24 to Cleveland Browns on walk-off field goal",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVFDVng3bmdkdEZUY05XQ2d3dmdaQzJWQkVJN21JMGwtdlUtOFBmNXBOV05vV2p5WUxnQ29weDF2Vkx5TWp2bjlOUmhTTldyLVZ6TkxSSEhQQU9MeS1jSktKc2JQempQUFhOTFVqTy1zTlNiWTBnWHNrUFdiVlhCSVRQa3pNUmdxWGdMdFBxNFZaZDR4Ty1NMVZIUEpfSVgxMXdMR2J3LXh0QkVDbHBWVUtlSUotclZhZ01sWlNsdTdZV2JGamtNUmxRc3hJZW5NaHJMS1JMdWlSTm9ObU9hZGN4S2dnX0hKV2RQaVlCcTI?oc=5",
-       "source": "Local 3 News",
-       "published": "2026-10-26T05:55+00:00",
+       "title": "Titans report card: How we graded Tennessee in loss to Browns",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc2RPYlFxZGhVNTRrYzJYT0hxenZQYzl0ZUF6X3B5eWRBV3N0c2JwMHozdEhLX3dZSFY1WHlTU0t2b09UWXU2cHJ3S3dzWjJqc013NVM4ZVF2RTFTTkdDMG1TZW5XcVdxdVZ4cGk2SlREMS1GODUyajctUlBva21OdWRTYnZvX3Nlb1l6ZjYwNVpjVWQtaXAzczYtODdyZnNtT01Cekd1ZkZ5QTd6VFFlMklGVE9kcTI4cDMtVG14ZHBSeHd5blhYV1FZQzQwRzBjU09lZXVoR3NyUDNZSUFQSmY1dkF5X3d3OV9Ta3B4cGNmUQ?oc=5",
+       "source": "Titans Wire",
+       "published": "2026-10-26T12:11+00:00",
        "flag": null,
        "team": "Titans"
       },
@@ -2040,10 +2041,10 @@
        "team": "Bengals"
       },
       {
-       "title": "Bengals Insider Delivers Reality Check on Shemar Stewart Trade",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDhnLUpsV0gxb0RjOW8tR0t6RFJTcVFBQ083YTlRWHpmamxtQjNEWGNIRlZSSEk2LUpJWlMzS3ZoNVI2V25wS2VJTGU5ZzZVZmFPTlhlWHJMcGw0bXFVR1JwVnVoT0xyOFROVHpuZWRab3p4aWtxT1A0cVhFX1BxNQ?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-26T11:03+00:00",
+       "title": "Titans vs Bengals picks, predictions, odds for NFL Week 8 game Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3B2M3hudnR4bVhpYTY5REpDU2hCajdsNmxmRl9nRlVwbHI2OVZvM2tFZWJDeDhTSGJGdGVfMUxsNFhqMS1kcVctbzlsUmtiWi1YdTNCVU1JUHF6Tko3Yk9PMVVXXzM4T2xjcHlWbVR4YXNHeko4eDZJVzl2SWdsd2FKeUwyMlhOLUJENzFrQlR5bjZpMGxzeFBJbWJoTm81S0loTU5jNkRlNFkydFpnN0JfcFpwcW02YnFMakhRNjZNOHdueHBPSVIxLVN3QW1mVEE?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null,
        "team": "Bengals"
       }
@@ -2054,27 +2055,27 @@
      "factors": [
       {
        "label": "Titans offense",
-       "points": 3.8
+       "points": 3.6
       },
       {
        "label": "Bengals offense",
-       "points": -1.6
+       "points": -2.4
       },
       {
        "label": "Titans defense",
-       "points": -0.6
+       "points": -1.0
       },
       {
        "label": "Bengals defense",
-       "points": 0.5
+       "points": 1.0
       }
      ],
      "factor_note": "Points each unit adds to (or takes from) the Under, compared with two average teams.",
      "reasons": [
       "Model leans are shown so you can see what the numbers say, but they're unproven: in 27 seasons of week-by-week replays, the model's side against the closing line won about 50%.",
-      "These teams average 49 plays against an NFL average of 54, so the game should be slower than usual.",
-      "The Titans offense pushes toward the Under by 3.8 points.",
-      "The Bengals offense works against the Under by 1.6 points."
+      "These teams average 50 plays against an NFL average of 54, so the game should be slower than usual.",
+      "The Titans offense pushes toward the Under by 3.6 points.",
+      "The Bengals offense works against the Under by 2.4 points."
      ],
      "checks": [
       {
@@ -2099,6 +2100,7 @@
       }
      ],
      "risks": [
+      "Recent headlines mention an injury or absence for the Titans.",
       "Recent headlines mention an injury or absence for the Bengals."
      ],
      "evidence": [
@@ -2106,42 +2108,42 @@
      ],
      "news": [
       {
-       "title": "What we learned from Tennessee Titans' 27-24 loss to Cleveland Browns",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1hFVWQ4anpKUDh3RXlvWENnQVdVQVl3MW1pTVNubk5FODZ4bzBsc2x0Vk83WlZDRmpjSzduaTRkTVhBRVZyX0lwT1lWNjVmbUdiQ2FuSmFpM2gzaHV6UXB6M3JIVXhtMjBsRGhwbjl4X1AwV1JsTU1NOFg3ajhzcXI0RlAzU2dtMDF4S196NDJodnZlY1o4THU0OEJuc3NJWlhHMXFxM3lJSjNYMDVnMnFXMnNRd2JjZ2xOVkVNR1lBT0pkRWt3UmxKdHFCNzEwTC1ReVJtMnoyeWM1QnA4VVNR?oc=5",
-       "source": "Titans Wire",
-       "published": "2026-10-26T11:05+00:00",
-       "flag": null,
-       "team": "Titans"
-      },
-      {
-       "title": "Tennessee Titans news: Loss vs. Browns kills momentum",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXpqZDRxVzVJQ1Y0bFhnY1VQa080MVpGNmZqZWlVTUx3VTQwNnZ3MHV2TlkycHZBLU1IWFg2eFhLTTNyOTUtQ19CaEo5ZHkwamRKX29WUTQyRU1vNk9aTFIwUWNMSU53WTNDZmdneXYzQzQtZEtXSnpSYlk3OVdlOVRWNk4?oc=5",
+       "title": "4 Painful Takeaways From Titans' 27-24 Loss to Browns as Cam Ward's Deep Ball Stays Missing",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWp2bjZmaWZfTms2RHNtZV9LTkFOTFVGZGhTV1Y1WkZLZ0ZETDRtQnFUT2tkY3lla05FeHUzd1RmYWRMeFFwTjJLNGxGSUdEbDBlWG9YbEFjeUVBc0RaaXlCTFVPeVBYa0hXRHJTMVo2ZW5ZUjJNVTA3VUpFNF9wajNELWc?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-26T11:00+00:00",
+       "published": "2026-10-25T23:00+00:00",
+       "flag": "injury",
+       "team": "Titans"
+      },
+      {
+       "title": "Titans vs Bengals picks, predictions, odds for NFL Week 8 game Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3B2M3hudnR4bVhpYTY5REpDU2hCajdsNmxmRl9nRlVwbHI2OVZvM2tFZWJDeDhTSGJGdGVfMUxsNFhqMS1kcVctbzlsUmtiWi1YdTNCVU1JUHF6Tko3Yk9PMVVXXzM4T2xjcHlWbVR4YXNHeko4eDZJVzl2SWdsd2FKeUwyMlhOLUJENzFrQlR5bjZpMGxzeFBJbWJoTm81S0loTU5jNkRlNFkydFpnN0JfcFpwcW02YnFMakhRNjZNOHdueHBPSVIxLVN3QW1mVEE?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null,
        "team": "Titans"
       },
       {
-       "title": "NFL officials did Titans no favors in Sunday's loss to Browns",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXFSWXJlSGpINTRHX1hUTkNBb0ExcHdzVm92OTdWYkxJUUFBNjBOLWJva1lKa3ZPemctb1VRZ3Vvb3VBQTVPVks5X3E5RURpYy11d0otUzM2WXdabDNPSzNSemhYRkhUd2R3LUl6LXZSZ3RuMF94ZVBnV0hKM3FaY084RjlDMlpHYURsTWNSakxtQzBteDZzMDBRa2N2ZmdYNFJZRnVHR0d0RndXeXZsdlpoeHFwU1AzUzRCZlM2aw?oc=5",
+       "title": "Titans stock report: Whose is up, down after Week 7 loss to Browns?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1dycEFMakZKY3R5OHBkclY5Tm5aMzNHTjJlUk51U0drYXJhS2FicDBEUFN1Sk8xZk5HSnVGMl9hQ20yVTVTTkh5SUF2WG1KaTlRaElWcDZBNVFFN19MYWlGRVVWNHFSY2toM1VoUWRFUDhCZGxNZ09nX0lZNzIzS0hnSHd2dGpfZWc3OGxZVmZWWDg1RzJDUXJ0dU43bjRvVTN2eFBoeGZMQ1hYNWhmR1l3UFRnTHZPa2c1VF81WE9YWXZvMFhndHI1bWhfLW5JeFE4aw?oc=5",
        "source": "Titans Wire",
-       "published": "2026-10-26T10:10+00:00",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null,
        "team": "Titans"
       },
       {
-       "title": "The new Brian Sipe? Deshaun Watson's heroics tops Browns-Titans overreactions",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3FNZEdYTFZJa2tLTERNbG55S3FfX2hTY3VrOUo5MVRWa1daTEF0MWtpZS1oWDdoZ200Y0dfMk5DYk50VnNUZzBtWWFmMERwaEM4WF9mV2piVlNvaHlHWmp2WHlycUJTcDZYem9zeG5kTWFSbHpKNnNVdW0wN2ViTF9ibnRPUkF6WjRj?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-26T10:08+00:00",
+       "title": "Winners and losers from the Browns\u2019 27-24 win over the Titans",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk8zU2FZYUhsWXlJc3puc0NZSlRwOUc5d2J0Vmoxb24zOXRNTEhhQkVlRXcwbkU5eV95ZEFKbFE1UjFJVzFldEFMOUU3alhtTmo3ZE1GRFRkc0NFMVYtZ2tGUmt4aVdzX3h6anFTdk5RMVdIa213REpROW1VeTRxVmVadmprd2VaaE5pSjRoSE5fZGx5cVUxQUh0YUNJVFI1WmszT1RodWNaUQ?oc=5",
+       "source": "Cleveland.com",
+       "published": "2026-10-26T14:33+00:00",
        "flag": null,
        "team": "Titans"
       },
       {
-       "title": "Tennessee Titans blow 14-0 lead, fall 27-24 to Cleveland Browns on walk-off field goal",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVFDVng3bmdkdEZUY05XQ2d3dmdaQzJWQkVJN21JMGwtdlUtOFBmNXBOV05vV2p5WUxnQ29weDF2Vkx5TWp2bjlOUmhTTldyLVZ6TkxSSEhQQU9MeS1jSktKc2JQempQUFhOTFVqTy1zTlNiWTBnWHNrUFdiVlhCSVRQa3pNUmdxWGdMdFBxNFZaZDR4Ty1NMVZIUEpfSVgxMXdMR2J3LXh0QkVDbHBWVUtlSUotclZhZ01sWlNsdTdZV2JGamtNUmxRc3hJZW5NaHJMS1JMdWlSTm9ObU9hZGN4S2dnX0hKV2RQaVlCcTI?oc=5",
-       "source": "Local 3 News",
-       "published": "2026-10-26T05:55+00:00",
+       "title": "Titans report card: How we graded Tennessee in loss to Browns",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc2RPYlFxZGhVNTRrYzJYT0hxenZQYzl0ZUF6X3B5eWRBV3N0c2JwMHozdEhLX3dZSFY1WHlTU0t2b09UWXU2cHJ3S3dzWjJqc013NVM4ZVF2RTFTTkdDMG1TZW5XcVdxdVZ4cGk2SlREMS1GODUyajctUlBva21OdWRTYnZvX3Nlb1l6ZjYwNVpjVWQtaXAzczYtODdyZnNtT01Cekd1ZkZ5QTd6VFFlMklGVE9kcTI4cDMtVG14ZHBSeHd5blhYV1FZQzQwRzBjU09lZXVoR3NyUDNZSUFQSmY1dkF5X3d3OV9Ta3B4cGNmUQ?oc=5",
+       "source": "Titans Wire",
+       "published": "2026-10-26T12:11+00:00",
        "flag": null,
        "team": "Titans"
       },
@@ -2178,10 +2180,10 @@
        "team": "Bengals"
       },
       {
-       "title": "Bengals Insider Delivers Reality Check on Shemar Stewart Trade",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDhnLUpsV0gxb0RjOW8tR0t6RFJTcVFBQ083YTlRWHpmamxtQjNEWGNIRlZSSEk2LUpJWlMzS3ZoNVI2V25wS2VJTGU5ZzZVZmFPTlhlWHJMcGw0bXFVR1JwVnVoT0xyOFROVHpuZWRab3p4aWtxT1A0cVhFX1BxNQ?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-26T11:03+00:00",
+       "title": "Titans vs Bengals picks, predictions, odds for NFL Week 8 game Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3B2M3hudnR4bVhpYTY5REpDU2hCajdsNmxmRl9nRlVwbHI2OVZvM2tFZWJDeDhTSGJGdGVfMUxsNFhqMS1kcVctbzlsUmtiWi1YdTNCVU1JUHF6Tko3Yk9PMVVXXzM4T2xjcHlWbVR4YXNHeko4eDZJVzl2SWdsd2FKeUwyMlhOLUJENzFrQlR5bjZpMGxzeFBJbWJoTm81S0loTU5jNkRlNFkydFpnN0JfcFpwcW02YnFMakhRNjZNOHdueHBPSVIxLVN3QW1mVEE?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null,
        "team": "Bengals"
       }
@@ -2191,41 +2193,41 @@
    "news": {
     "Titans": {
      "qb_alert": false,
-     "injury": false,
+     "injury": true,
      "headlines": [
       {
-       "title": "What we learned from Tennessee Titans' 27-24 loss to Cleveland Browns",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1hFVWQ4anpKUDh3RXlvWENnQVdVQVl3MW1pTVNubk5FODZ4bzBsc2x0Vk83WlZDRmpjSzduaTRkTVhBRVZyX0lwT1lWNjVmbUdiQ2FuSmFpM2gzaHV6UXB6M3JIVXhtMjBsRGhwbjl4X1AwV1JsTU1NOFg3ajhzcXI0RlAzU2dtMDF4S196NDJodnZlY1o4THU0OEJuc3NJWlhHMXFxM3lJSjNYMDVnMnFXMnNRd2JjZ2xOVkVNR1lBT0pkRWt3UmxKdHFCNzEwTC1ReVJtMnoyeWM1QnA4VVNR?oc=5",
-       "source": "Titans Wire",
-       "published": "2026-10-26T11:05+00:00",
-       "flag": null
-      },
-      {
-       "title": "Tennessee Titans news: Loss vs. Browns kills momentum",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXpqZDRxVzVJQ1Y0bFhnY1VQa080MVpGNmZqZWlVTUx3VTQwNnZ3MHV2TlkycHZBLU1IWFg2eFhLTTNyOTUtQ19CaEo5ZHkwamRKX29WUTQyRU1vNk9aTFIwUWNMSU53WTNDZmdneXYzQzQtZEtXSnpSYlk3OVdlOVRWNk4?oc=5",
+       "title": "4 Painful Takeaways From Titans' 27-24 Loss to Browns as Cam Ward's Deep Ball Stays Missing",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWp2bjZmaWZfTms2RHNtZV9LTkFOTFVGZGhTV1Y1WkZLZ0ZETDRtQnFUT2tkY3lla05FeHUzd1RmYWRMeFFwTjJLNGxGSUdEbDBlWG9YbEFjeUVBc0RaaXlCTFVPeVBYa0hXRHJTMVo2ZW5ZUjJNVTA3VUpFNF9wajNELWc?oc=5",
        "source": "Yahoo Sports",
-       "published": "2026-10-26T11:00+00:00",
+       "published": "2026-10-25T23:00+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Titans vs Bengals picks, predictions, odds for NFL Week 8 game Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3B2M3hudnR4bVhpYTY5REpDU2hCajdsNmxmRl9nRlVwbHI2OVZvM2tFZWJDeDhTSGJGdGVfMUxsNFhqMS1kcVctbzlsUmtiWi1YdTNCVU1JUHF6Tko3Yk9PMVVXXzM4T2xjcHlWbVR4YXNHeko4eDZJVzl2SWdsd2FKeUwyMlhOLUJENzFrQlR5bjZpMGxzeFBJbWJoTm81S0loTU5jNkRlNFkydFpnN0JfcFpwcW02YnFMakhRNjZNOHdueHBPSVIxLVN3QW1mVEE?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null
       },
       {
-       "title": "NFL officials did Titans no favors in Sunday's loss to Browns",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXFSWXJlSGpINTRHX1hUTkNBb0ExcHdzVm92OTdWYkxJUUFBNjBOLWJva1lKa3ZPemctb1VRZ3Vvb3VBQTVPVks5X3E5RURpYy11d0otUzM2WXdabDNPSzNSemhYRkhUd2R3LUl6LXZSZ3RuMF94ZVBnV0hKM3FaY084RjlDMlpHYURsTWNSakxtQzBteDZzMDBRa2N2ZmdYNFJZRnVHR0d0RndXeXZsdlpoeHFwU1AzUzRCZlM2aw?oc=5",
+       "title": "Titans stock report: Whose is up, down after Week 7 loss to Browns?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1dycEFMakZKY3R5OHBkclY5Tm5aMzNHTjJlUk51U0drYXJhS2FicDBEUFN1Sk8xZk5HSnVGMl9hQ20yVTVTTkh5SUF2WG1KaTlRaElWcDZBNVFFN19MYWlGRVVWNHFSY2toM1VoUWRFUDhCZGxNZ09nX0lZNzIzS0hnSHd2dGpfZWc3OGxZVmZWWDg1RzJDUXJ0dU43bjRvVTN2eFBoeGZMQ1hYNWhmR1l3UFRnTHZPa2c1VF81WE9YWXZvMFhndHI1bWhfLW5JeFE4aw?oc=5",
        "source": "Titans Wire",
-       "published": "2026-10-26T10:10+00:00",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null
       },
       {
-       "title": "The new Brian Sipe? Deshaun Watson's heroics tops Browns-Titans overreactions",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3FNZEdYTFZJa2tLTERNbG55S3FfX2hTY3VrOUo5MVRWa1daTEF0MWtpZS1oWDdoZ200Y0dfMk5DYk50VnNUZzBtWWFmMERwaEM4WF9mV2piVlNvaHlHWmp2WHlycUJTcDZYem9zeG5kTWFSbHpKNnNVdW0wN2ViTF9ibnRPUkF6WjRj?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-26T10:08+00:00",
+       "title": "Winners and losers from the Browns\u2019 27-24 win over the Titans",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk8zU2FZYUhsWXlJc3puc0NZSlRwOUc5d2J0Vmoxb24zOXRNTEhhQkVlRXcwbkU5eV95ZEFKbFE1UjFJVzFldEFMOUU3alhtTmo3ZE1GRFRkc0NFMVYtZ2tGUmt4aVdzX3h6anFTdk5RMVdIa213REpROW1VeTRxVmVadmprd2VaaE5pSjRoSE5fZGx5cVUxQUh0YUNJVFI1WmszT1RodWNaUQ?oc=5",
+       "source": "Cleveland.com",
+       "published": "2026-10-26T14:33+00:00",
        "flag": null
       },
       {
-       "title": "Tennessee Titans blow 14-0 lead, fall 27-24 to Cleveland Browns on walk-off field goal",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVFDVng3bmdkdEZUY05XQ2d3dmdaQzJWQkVJN21JMGwtdlUtOFBmNXBOV05vV2p5WUxnQ29weDF2Vkx5TWp2bjlOUmhTTldyLVZ6TkxSSEhQQU9MeS1jSktKc2JQempQUFhOTFVqTy1zTlNiWTBnWHNrUFdiVlhCSVRQa3pNUmdxWGdMdFBxNFZaZDR4Ty1NMVZIUEpfSVgxMXdMR2J3LXh0QkVDbHBWVUtlSUotclZhZ01sWlNsdTdZV2JGamtNUmxRc3hJZW5NaHJMS1JMdWlSTm9ObU9hZGN4S2dnX0hKV2RQaVlCcTI?oc=5",
-       "source": "Local 3 News",
-       "published": "2026-10-26T05:55+00:00",
+       "title": "Titans report card: How we graded Tennessee in loss to Browns",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc2RPYlFxZGhVNTRrYzJYT0hxenZQYzl0ZUF6X3B5eWRBV3N0c2JwMHozdEhLX3dZSFY1WHlTU0t2b09UWXU2cHJ3S3dzWjJqc013NVM4ZVF2RTFTTkdDMG1TZW5XcVdxdVZ4cGk2SlREMS1GODUyajctUlBva21OdWRTYnZvX3Nlb1l6ZjYwNVpjVWQtaXAzczYtODdyZnNtT01Cekd1ZkZ5QTd6VFFlMklGVE9kcTI4cDMtVG14ZHBSeHd5blhYV1FZQzQwRzBjU09lZXVoR3NyUDNZSUFQSmY1dkF5X3d3OV9Ta3B4cGNmUQ?oc=5",
+       "source": "Titans Wire",
+       "published": "2026-10-26T12:11+00:00",
        "flag": null
       }
      ]
@@ -2263,10 +2265,10 @@
        "flag": "injury"
       },
       {
-       "title": "Bengals Insider Delivers Reality Check on Shemar Stewart Trade",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDhnLUpsV0gxb0RjOW8tR0t6RFJTcVFBQ083YTlRWHpmamxtQjNEWGNIRlZSSEk2LUpJWlMzS3ZoNVI2V25wS2VJTGU5ZzZVZmFPTlhlWHJMcGw0bXFVR1JwVnVoT0xyOFROVHpuZWRab3p4aWtxT1A0cVhFX1BxNQ?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-26T11:03+00:00",
+       "title": "Titans vs Bengals picks, predictions, odds for NFL Week 8 game Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3B2M3hudnR4bVhpYTY5REpDU2hCajdsNmxmRl9nRlVwbHI2OVZvM2tFZWJDeDhTSGJGdGVfMUxsNFhqMS1kcVctbzlsUmtiWi1YdTNCVU1JUHF6Tko3Yk9PMVVXXzM4T2xjcHlWbVR4YXNHeko4eDZJVzl2SWdsd2FKeUwyMlhOLUJENzFrQlR5bjZpMGxzeFBJbWJoTm81S0loTU5jNkRlNFkydFpnN0JfcFpwcW02YnFMakhRNjZNOHdueHBPSVIxLVN3QW1mVEE?oc=5",
+       "source": "azcentral.com and The Arizona Republic",
+       "published": "2026-10-26T14:37+00:00",
        "flag": null
       }
      ]
@@ -3324,5 +3326,5 @@
    "text": "Packers moved -0.67 to +0.33 against the Cowboys."
   }
  ],
- "news_checked": "2026-10-26T11:11Z"
+ "news_checked": "2026-10-26T15:02Z"
 }
