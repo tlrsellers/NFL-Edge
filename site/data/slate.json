@@ -1245,7 +1245,6 @@
     "moved_against": 0.0,
     "pattern": null
    },
-   "news": {},
    "why": {
     "spread": {
      "summary": "The model has the Cowboys by 0.3; the market has the Cowboys by 4.5. That's a 4.2 point gap on Eagles +4.5 at DraftKings.",
@@ -1301,12 +1300,95 @@
       }
      ],
      "risks": [
-      "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts."
+      "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+      "Recent headlines mention an injury or absence for the Cowboys.",
+      "Recent headlines mention an injury or absence for the Eagles."
      ],
      "evidence": [
       "Live this season: 4-1 (80%), beating the closing line by +0.2 points on average."
      ],
-     "news": []
+     "news": [
+      {
+       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T21:39+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
+      {
+       "title": "Recent injury news piles more pressure on Brian Schottenheimer and the Dallas Cowboys ahead of Week 7 matchup versus the Eagles",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX21Hc25wNS1vbHZFWHpUazJZQzZUYnpmTy15dHBhZENVSWlRMS1QdDY4UUF5RlJQYmk4UTdCWkluNU1fR1BQZmpkRmpjNEM2elNnYnVZWFd2Q05NVFI0TDdRX2tSRUJndV9MWDdvQm1ONWMtNXVxdDJoNm1hX2k0WktzSHFWWTc4MGY5dnJBaXhsZ1ZNRy1DMDhReG1kMHYtaFg2LWZMQ0h0VGNaakdabWxNUQ?oc=5",
+       "source": "A to Z Sports",
+       "published": "2026-10-25T16:08+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
+      {
+       "title": "Eagles RB Saquon Barkley (hamstring) logs full practice, questionable to play Monday vs. Cowboys",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdNLXRScXFlVkJHa2QtZDN1dE9qRGlUN0tCRG9MMl84SFNwVVRKSjFiRkhqeFE0SVFnSUtYOUdSOUZlR1ZSVWNZX202UWJvcnZhUUVwTW5BQU9TY1lTTktkeEFONUNIYmhfSlVuZTB6NDFqRE91NUpZSWZmaTlpVW5RRnBZd25POGV6enVvaGNDVHBMTmtEMjU4U0JMM0pmc0k5MTZSbGdnU0FDT042anByUkdXVG1PU0E?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-24T20:40+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
+      {
+       "title": "Wild Cowboys Dak Prescott Trade Floated by Ex-NFL MVP",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2ZZUHNnQXc5MGhHNmcxcFU1dkJnMVVTVXRNM2gzWllZUDMwNWwxdUVzcWtqdWpWSWJLRG95ZU1Pb3JNWlV4cVNkMzlPREJOWm1VS3VsYWhDOFlvWjZ6Qjc0aUtBMFI4LURGaHh3MFFDeHYzdC1WTk9IQmNFeTFCQzViTE43R19sRkprRzB3?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-26T01:18+00:00",
+       "flag": null,
+       "team": "Cowboys"
+      },
+      {
+       "title": "Dallas Cowboys vs. Philadelphia Eagles Fantasy Football Matchup Breakdown For Week 7",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VUWGdTQ1QyVTZJUjRTUWJ2V19CaF9wVXhRVXRvRWt5SWRzM0hOYTkzUGRoczJ3MG96dXVHRTRVLUVwUjUwbUNiYXJzUVVOQ29odWZXWWlPYTMzeDlVeXpkVDFIR1lWcHYxZTN4dUdEQnAxdG1ULW02d0NaRG9XN0JMODZwXy1nd3ZaYmRmNDZhLXJWaTlpYmFUbnhxMW5NVzVOTWdZaUotNzd6b0dwUHVNM1V4NHFCZUxNR0NTM253M1h5akFr?oc=5",
+       "source": "FantasyLife",
+       "published": "2026-10-26T01:13+00:00",
+       "flag": null,
+       "team": "Cowboys"
+      },
+      {
+       "title": "Will Saquon Barkley play for the Eagles agains the Cowboys in Monday Night Football? Philadelphia RB injury st",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
+       "source": "Diario AS",
+       "published": "2026-10-25T23:29+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Will Saquon Barkley play in Week 7? Injury update, start-or-sit advice for Eagles RB",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm5aWnk4bjU0OHZHVzZpUjJwQ1BSRGJSTldNc18tRE1iZ0IwLUIzWXc0ZWVCcy02WnFoUHcwRmxGMktKMVk0YmxKRU9Fc3gxeW54U3NNSHdESHZnV2lUN3FWcS1HMFBpWk1tQkVWOS1YQnJVY2lqSTc3ZXE0U2JZdkFkTFFObUpHRjRoNW1JRHA3THAwN1Bv?oc=5",
+       "source": "The Big Lead",
+       "published": "2026-10-25T13:52+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Saquon Barkley Injury Update: Eagles RB\u2019s Week 7 Status Revealed",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlFWVlNxaml4Wkt4dnVRTU5MQTgzVzNXaXo4YS14alFaNDdSUXFUNE1Ca1JVVmFLOGZiYWpPVkRKZXNjTU1BN0Z6TE9UcGd1OTVfWDFEcTluVXRLWDE5b2V5V1BwVEZSaVNhclBiTnY4bFFZcGxQWFljYTFRTW9vOVNJUEZWcDg?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T11:59+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Eagles rule Devonta Smith out against Cowboys with hamstring injury",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYy1NRnMybGNZNXBPV2tmd3hWOGo0MGFJTWNjVUdwalhwSWNkeFdWV3p6QVk4eWtpYmN6LUZpXzVDclZvY3BZSkk0VmJ2R21yU28tcm0wbjZkMWY2djRTOWpqVWY0cnZnZ3N6SmJDZWdWaUxxWmRkMTRFa3BIZU9tQWtqdWRraUNUNkFyeFpoRTdjNGF0aGtDeDZwUEx3ZVBaWkcxNjRzdjY?oc=5",
+       "source": "Sportsnet.ca",
+       "published": "2026-10-24T23:56+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Eagles short-handed vs. Dallas as Smith sits again with a hamstring injury",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnJKUl9XQmtTcnNmYmtGTHVEb011RmpzbjZVUERvY0hMY2g1bmZxcFo4bW84T0RjTXJEZlpva1VWTmdra0RuV2p3YXFRX0dkZ3o5Z1BhalJMODB2REZyMnU0S3BCamhZaGtwallQVHJ5anJlaWVNSGhoX2gwYUt0SC1ZRDRiWEhPbFlwSWNYS21hYUU1Mzh3Y1dIM1JtWnkyREY5QXZRSTY?oc=5",
+       "source": "TSN",
+       "published": "2026-10-24T23:52+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      }
+     ]
     },
     "total": {
      "summary": "The model projects 47.7 total points; the best Over number is 43.5. That's a 4.2 point gap.",
@@ -1357,12 +1439,179 @@
       }
      ],
      "risks": [
-      "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts."
+      "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+      "Recent headlines mention an injury or absence for the Cowboys.",
+      "Recent headlines mention an injury or absence for the Eagles."
      ],
      "evidence": [
       "Live this season: 4-2 (67%), beating the closing line by +0.2 points on average."
      ],
-     "news": []
+     "news": [
+      {
+       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T21:39+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
+      {
+       "title": "Recent injury news piles more pressure on Brian Schottenheimer and the Dallas Cowboys ahead of Week 7 matchup versus the Eagles",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX21Hc25wNS1vbHZFWHpUazJZQzZUYnpmTy15dHBhZENVSWlRMS1QdDY4UUF5RlJQYmk4UTdCWkluNU1fR1BQZmpkRmpjNEM2elNnYnVZWFd2Q05NVFI0TDdRX2tSRUJndV9MWDdvQm1ONWMtNXVxdDJoNm1hX2k0WktzSHFWWTc4MGY5dnJBaXhsZ1ZNRy1DMDhReG1kMHYtaFg2LWZMQ0h0VGNaakdabWxNUQ?oc=5",
+       "source": "A to Z Sports",
+       "published": "2026-10-25T16:08+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
+      {
+       "title": "Eagles RB Saquon Barkley (hamstring) logs full practice, questionable to play Monday vs. Cowboys",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdNLXRScXFlVkJHa2QtZDN1dE9qRGlUN0tCRG9MMl84SFNwVVRKSjFiRkhqeFE0SVFnSUtYOUdSOUZlR1ZSVWNZX202UWJvcnZhUUVwTW5BQU9TY1lTTktkeEFONUNIYmhfSlVuZTB6NDFqRE91NUpZSWZmaTlpVW5RRnBZd25POGV6enVvaGNDVHBMTmtEMjU4U0JMM0pmc0k5MTZSbGdnU0FDT042anByUkdXVG1PU0E?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-24T20:40+00:00",
+       "flag": "injury",
+       "team": "Cowboys"
+      },
+      {
+       "title": "Wild Cowboys Dak Prescott Trade Floated by Ex-NFL MVP",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2ZZUHNnQXc5MGhHNmcxcFU1dkJnMVVTVXRNM2gzWllZUDMwNWwxdUVzcWtqdWpWSWJLRG95ZU1Pb3JNWlV4cVNkMzlPREJOWm1VS3VsYWhDOFlvWjZ6Qjc0aUtBMFI4LURGaHh3MFFDeHYzdC1WTk9IQmNFeTFCQzViTE43R19sRkprRzB3?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-26T01:18+00:00",
+       "flag": null,
+       "team": "Cowboys"
+      },
+      {
+       "title": "Dallas Cowboys vs. Philadelphia Eagles Fantasy Football Matchup Breakdown For Week 7",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VUWGdTQ1QyVTZJUjRTUWJ2V19CaF9wVXhRVXRvRWt5SWRzM0hOYTkzUGRoczJ3MG96dXVHRTRVLUVwUjUwbUNiYXJzUVVOQ29odWZXWWlPYTMzeDlVeXpkVDFIR1lWcHYxZTN4dUdEQnAxdG1ULW02d0NaRG9XN0JMODZwXy1nd3ZaYmRmNDZhLXJWaTlpYmFUbnhxMW5NVzVOTWdZaUotNzd6b0dwUHVNM1V4NHFCZUxNR0NTM253M1h5akFr?oc=5",
+       "source": "FantasyLife",
+       "published": "2026-10-26T01:13+00:00",
+       "flag": null,
+       "team": "Cowboys"
+      },
+      {
+       "title": "Will Saquon Barkley play for the Eagles agains the Cowboys in Monday Night Football? Philadelphia RB injury st",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
+       "source": "Diario AS",
+       "published": "2026-10-25T23:29+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Will Saquon Barkley play in Week 7? Injury update, start-or-sit advice for Eagles RB",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm5aWnk4bjU0OHZHVzZpUjJwQ1BSRGJSTldNc18tRE1iZ0IwLUIzWXc0ZWVCcy02WnFoUHcwRmxGMktKMVk0YmxKRU9Fc3gxeW54U3NNSHdESHZnV2lUN3FWcS1HMFBpWk1tQkVWOS1YQnJVY2lqSTc3ZXE0U2JZdkFkTFFObUpHRjRoNW1JRHA3THAwN1Bv?oc=5",
+       "source": "The Big Lead",
+       "published": "2026-10-25T13:52+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Saquon Barkley Injury Update: Eagles RB\u2019s Week 7 Status Revealed",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlFWVlNxaml4Wkt4dnVRTU5MQTgzVzNXaXo4YS14alFaNDdSUXFUNE1Ca1JVVmFLOGZiYWpPVkRKZXNjTU1BN0Z6TE9UcGd1OTVfWDFEcTluVXRLWDE5b2V5V1BwVEZSaVNhclBiTnY4bFFZcGxQWFljYTFRTW9vOVNJUEZWcDg?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T11:59+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Eagles rule Devonta Smith out against Cowboys with hamstring injury",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYy1NRnMybGNZNXBPV2tmd3hWOGo0MGFJTWNjVUdwalhwSWNkeFdWV3p6QVk4eWtpYmN6LUZpXzVDclZvY3BZSkk0VmJ2R21yU28tcm0wbjZkMWY2djRTOWpqVWY0cnZnZ3N6SmJDZWdWaUxxWmRkMTRFa3BIZU9tQWtqdWRraUNUNkFyeFpoRTdjNGF0aGtDeDZwUEx3ZVBaWkcxNjRzdjY?oc=5",
+       "source": "Sportsnet.ca",
+       "published": "2026-10-24T23:56+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      },
+      {
+       "title": "Eagles short-handed vs. Dallas as Smith sits again with a hamstring injury",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnJKUl9XQmtTcnNmYmtGTHVEb011RmpzbjZVUERvY0hMY2g1bmZxcFo4bW84T0RjTXJEZlpva1VWTmdra0RuV2p3YXFRX0dkZ3o5Z1BhalJMODB2REZyMnU0S3BCamhZaGtwallQVHJ5anJlaWVNSGhoX2gwYUt0SC1ZRDRiWEhPbFlwSWNYS21hYUU1Mzh3Y1dIM1JtWnkyREY5QXZRSTY?oc=5",
+       "source": "TSN",
+       "published": "2026-10-24T23:52+00:00",
+       "flag": "injury",
+       "team": "Eagles"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Cowboys": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Cowboys Announce Final Decisions on 2 Injured Defenders 24 Hours Before Eagles Game",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnNnMUJIcGZBTWgtRVY4cWRvMGdrc3ZUcjBIR0V4XzZiWnROMjdXUXNSRkZFSV90QUFFcEsxY2gtZWk5U2wzcTRrWnYxUjBlamgwbEdxRXRQanVCQ3lLblFxazM0Q1I0YUtEQ2Vzd3k4V2RFSHlHYjJLTnZHSTh0Q0I0ZUFoQnNaR0hR?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T21:39+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Recent injury news piles more pressure on Brian Schottenheimer and the Dallas Cowboys ahead of Week 7 matchup versus the Eagles",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX21Hc25wNS1vbHZFWHpUazJZQzZUYnpmTy15dHBhZENVSWlRMS1QdDY4UUF5RlJQYmk4UTdCWkluNU1fR1BQZmpkRmpjNEM2elNnYnVZWFd2Q05NVFI0TDdRX2tSRUJndV9MWDdvQm1ONWMtNXVxdDJoNm1hX2k0WktzSHFWWTc4MGY5dnJBaXhsZ1ZNRy1DMDhReG1kMHYtaFg2LWZMQ0h0VGNaakdabWxNUQ?oc=5",
+       "source": "A to Z Sports",
+       "published": "2026-10-25T16:08+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles RB Saquon Barkley (hamstring) logs full practice, questionable to play Monday vs. Cowboys",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGdNLXRScXFlVkJHa2QtZDN1dE9qRGlUN0tCRG9MMl84SFNwVVRKSjFiRkhqeFE0SVFnSUtYOUdSOUZlR1ZSVWNZX202UWJvcnZhUUVwTW5BQU9TY1lTTktkeEFONUNIYmhfSlVuZTB6NDFqRE91NUpZSWZmaTlpVW5RRnBZd25POGV6enVvaGNDVHBMTmtEMjU4U0JMM0pmc0k5MTZSbGdnU0FDT042anByUkdXVG1PU0E?oc=5",
+       "source": "NFL.com",
+       "published": "2026-10-24T20:40+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Wild Cowboys Dak Prescott Trade Floated by Ex-NFL MVP",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2ZZUHNnQXc5MGhHNmcxcFU1dkJnMVVTVXRNM2gzWllZUDMwNWwxdUVzcWtqdWpWSWJLRG95ZU1Pb3JNWlV4cVNkMzlPREJOWm1VS3VsYWhDOFlvWjZ6Qjc0aUtBMFI4LURGaHh3MFFDeHYzdC1WTk9IQmNFeTFCQzViTE43R19sRkprRzB3?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-26T01:18+00:00",
+       "flag": null
+      },
+      {
+       "title": "Dallas Cowboys vs. Philadelphia Eagles Fantasy Football Matchup Breakdown For Week 7",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VUWGdTQ1QyVTZJUjRTUWJ2V19CaF9wVXhRVXRvRWt5SWRzM0hOYTkzUGRoczJ3MG96dXVHRTRVLUVwUjUwbUNiYXJzUVVOQ29odWZXWWlPYTMzeDlVeXpkVDFIR1lWcHYxZTN4dUdEQnAxdG1ULW02d0NaRG9XN0JMODZwXy1nd3ZaYmRmNDZhLXJWaTlpYmFUbnhxMW5NVzVOTWdZaUotNzd6b0dwUHVNM1V4NHFCZUxNR0NTM253M1h5akFr?oc=5",
+       "source": "FantasyLife",
+       "published": "2026-10-26T01:13+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Eagles": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Will Saquon Barkley play for the Eagles agains the Cowboys in Monday Night Football? Philadelphia RB injury st",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazJWR0pqT2x3TGVmRXdtZGlrTHF1STJZbmtpeldRRm5wOG51NUVjUHRWbWYyaTNRb3d4U2lvc1Z1cDAxNk55SUNZMjRmQ3l6WFQ1bkVaX1h0TldVZi1XWU52RktMeFduMUk4X2xiSF9jeHdsTlRuM0ZWeWsyOWFSREJBWmtLLVRIamhlTGNnVm5wVjVrTF9TME9tT3RvSzBxalgtZzJTeDk5YUdpeTNTT0xqTV9iVnpOXzlid2E3SmtETXk5c3Fyd1NMdEFndmtqZXFEUVpJczdfOF96NnUw0gHzAUFVX3lxTFBhWkowQzhYUnpUakNtbEo4bUZXN05sbzJ3aEQxaWs3UTdlVHBMSUl5TWZScUFDalJhTFhOSnJWOWU5bjBZUkFfSTlISVlWLWFiT1ljOEJ2dElsYTlqLUdzRjRkSEJCYzh2MUUzc2N4aThUQlFxb0tMS0JPeHRkZDdLVjZZTHRsZXRHWFVOMWdGSVZMTVc1a1FPSnY5ODhPRk9qYzhVUzJtWm1ncU1IQmM5R1o5ZGJaaExNNVp3aGdLOWFwMlJxaVloejQtQWQycUlRRmJ5VFFaeE9Nd2dJMG41Qll0cUZ3TWl1YjZoV0Jta3h3OA?oc=5",
+       "source": "Diario AS",
+       "published": "2026-10-25T23:29+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Will Saquon Barkley play in Week 7? Injury update, start-or-sit advice for Eagles RB",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm5aWnk4bjU0OHZHVzZpUjJwQ1BSRGJSTldNc18tRE1iZ0IwLUIzWXc0ZWVCcy02WnFoUHcwRmxGMktKMVk0YmxKRU9Fc3gxeW54U3NNSHdESHZnV2lUN3FWcS1HMFBpWk1tQkVWOS1YQnJVY2lqSTc3ZXE0U2JZdkFkTFFObUpHRjRoNW1JRHA3THAwN1Bv?oc=5",
+       "source": "The Big Lead",
+       "published": "2026-10-25T13:52+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Saquon Barkley Injury Update: Eagles RB\u2019s Week 7 Status Revealed",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlFWVlNxaml4Wkt4dnVRTU5MQTgzVzNXaXo4YS14alFaNDdSUXFUNE1Ca1JVVmFLOGZiYWpPVkRKZXNjTU1BN0Z6TE9UcGd1OTVfWDFEcTluVXRLWDE5b2V5V1BwVEZSaVNhclBiTnY4bFFZcGxQWFljYTFRTW9vOVNJUEZWcDg?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T11:59+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles rule Devonta Smith out against Cowboys with hamstring injury",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYy1NRnMybGNZNXBPV2tmd3hWOGo0MGFJTWNjVUdwalhwSWNkeFdWV3p6QVk4eWtpYmN6LUZpXzVDclZvY3BZSkk0VmJ2R21yU28tcm0wbjZkMWY2djRTOWpqVWY0cnZnZ3N6SmJDZWdWaUxxWmRkMTRFa3BIZU9tQWtqdWRraUNUNkFyeFpoRTdjNGF0aGtDeDZwUEx3ZVBaWkcxNjRzdjY?oc=5",
+       "source": "Sportsnet.ca",
+       "published": "2026-10-24T23:56+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles short-handed vs. Dallas as Smith sits again with a hamstring injury",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnJKUl9XQmtTcnNmYmtGTHVEb011RmpzbjZVUERvY0hMY2g1bmZxcFo4bW84T0RjTXJEZlpva1VWTmdra0RuV2p3YXFRX0dkZ3o5Z1BhalJMODB2REZyMnU0S3BCamhZaGtwallQVHJ5anJlaWVNSGhoX2gwYUt0SC1ZRDRiWEhPbFlwSWNYS21hYUU1Mzh3Y1dIM1JtWnkyREY5QXZRSTY?oc=5",
+       "source": "TSN",
+       "published": "2026-10-24T23:52+00:00",
+       "flag": "injury"
+      }
+     ]
     }
    }
   },
@@ -1655,7 +1904,6 @@
     "moved_against": 0.0,
     "pattern": null
    },
-   "news": {},
    "why": {
     "spread": {
      "summary": "The model has the Bengals by 7.0; the market has the Bengals by 10.5. That's a 3.5 point gap on Titans +10.5 at FanDuel.",
@@ -1712,11 +1960,94 @@
        "text": "Check the official injury report for both starting quarterbacks before betting."
       }
      ],
-     "risks": [],
+     "risks": [
+      "Recent headlines mention an injury or absence for the Bengals."
+     ],
      "evidence": [
       "Live this season: 4-1 (80%), beating the closing line by +0.2 points on average."
      ],
-     "news": []
+     "news": [
+      {
+       "title": "Quinshon Judkins' 2 Touchdowns Leave the Titans Second-Guessing Their 2025 Trade Down",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjQ3eDNTdVRsNGpTdlVIMGViZUpZRThfbmw0ODBCX3dGaFFiekNXcVBubnF0Umg4M1pPbENreGF6aTZ5ZXlpUHRuSFdZS0VuVFkzY2ZGNUJkS1lDTUh4ZGZyMUhvU0lwQ29zM3BuSHo0T1EzcTdBYklMUXRBRW9aWmstOXEwZ0ZPOXdnQUQ2cENmeVFJUHc?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-26T01:00+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Browns' KC Concepcion looking to keep 'stacking weeks' after Titans win",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGVRRV83TVljeWk2NTJTMjk1elVPSXNXN2s2dHpEN1dhVjVwS2lwazRRdDMxLWxKMXdlNkRSb2dHVGFYeUVZRDJsc0tCV2g5ZXYwc2tudVA0blJoVDJTSXdRUjRNWGJHQUlERmR4VV9ORHFTdTM4TlY3aWQwOU1mNGlSZ1dpeWpPa2c?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-26T00:45+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "How Browns turned early mistakes into winning plays late against Titans",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkU1Z2lSVGFkbFl5Y1Vhd2dWRlVSWDdUUWJfMV9HVm9ER24yakdTY1JkOTZ0dWhzR2ZMOE9DOGVJSUpsQkR3bjF5ZjUtN1FoZ3VuQ0xlV1V6R2JCOHc1cDRLNC1QalRGYzM3VUlXTDdUdjNFTEZidDVkZmRDaS16VWdPTHA1WlZfNF9vYnNB?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T23:56+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Cleveland Browns vs. Tennessee Titans Live Score and Stats - October 25, 2026 Gametracker",
+       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iT2xWWWNXZnc2SW5PZDlBbl9SN3o0M3hZRW9mREFFZzNOU0VjY2F6ZWVLZjZ3ZHNFdUNfZmgyWEphbUk2SmpLUkZtUlh2ZXQ2TS1kX29NVVdYckVuVEI4Z2NSazRDdVdGdTd6ZFRWbkNvNk5zekF6UQ?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-25T23:10+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Tennessee Titans\u2019 Quarterback Problem Is Dictating Everything",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEZoRjFvU1dNRWVCdDFkOUZfd3JuVjJrdjFUZzdoQm5FRUFXU2p3WHR4RWFtY0lsWFlja1h5RkMyM2w1YUstei1MYmYzeGRFek5vQ2lYWW0yM1ZLSW9yVDZmeHJfem5yRGpsU0FSVVF4end0S0lzUlFZWUM4YWFETDJRTnE1TE1Yend5WGVEQ0Z3X0JEMG8xeDdKQ1VWTllwN0Z6bm9WZTRReFk4Q2J6UU1R?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-25T22:14+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Bengals safety Kyle Dugger injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTZEa1VLWE45SnpQSUtweWdlSEVTdFVUcm12eDJRbEZmVmpSYzJLOWFHcmw3V0ZQZkZSOWdpQzhILW1PQWxRZVEtamFGRXVjc083Vk1WQnU4SUtmcFgwM0RGeEZ4RmJ0SlBpd3RKWnB2cWJKajZXcUt3UW9kNzJjY3pWTUJITkhYNkVwYUxocHFHRzBSUGZLc1kwUEM0bUtGVktoZVd2dmxiclRkRXZR?oc=5",
+       "source": "Cincinnati Enquirer",
+       "published": "2026-10-25T22:55+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "Bengals safety Bryan Cook injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZU5rUk5ZRWw4TktBREl1YWtUS0dBTldGRXluWlRvZl9sSGxpOFAzMGNUMXRYRXloZE9rTG9pWW5UaDE3M2ZrTmNTR2JuM2doSEtMQk8tNFZZUUc1bHdIRE4yMGFKQVFDMG9ZUFVya1hicFg1dzdTTU5JNUNaai15emp4UGRZS0hrQ2xfUU5JVkgxZ1d3cEN1NmJTVTZiZ19leElONk4taUhjY2I4?oc=5",
+       "source": "Cincinnati Enquirer",
+       "published": "2026-10-25T19:33+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "Ravens linebacker Roquan Smith injured vs Bengals in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGdBbVRsZjlRcFNrS3phSG1Kekg5d0UxeFAtdmxyNGVHcVFEcE9FdVJCUmNZMFh5LXF2cU5Yc1JmSVZvRlZIZTZZem15dEJkMlViVzJDUUNvRmIwR21iSTZ4QXMwTkV6bmRZX2JzVS0zSkI5Sjk5SWdSTlB0dVBCbENLdWNNUzM0R2lma1FfZmc?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T19:17+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "Bengals safety Kyle Dugger injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXR4ZjZFbzhiSTU0QjIxUzRzUFc0YjB3YTlIWkFXYnJNNFNUR0E0S1VKOHJObW9NTDhpclBfeHVCS2pyRVNtZjE3a0tIU1Q3WVcyVGRGRmRROFVJbjBaSlVZWko3akRZeWVTekkzS3NFZVNIc2lpWmxMX1FuUHUyc2tRNTQtX0l5NzZn?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T18:55+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "6 Winners and 2 Losers From Bengals' Dominant Comeback Win Over Ravens",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamdoUlU5SjYzWDNXSWswbXB6ZTZ4My1pMzdiVEFLVEIycXNpbXNJSnR1Y1ZqVWt5N1AzbUNoOGprUElkM1QzVEhjbWlwdUpiYmZXN3NUc051RHprRW9pSmp5SUZvVXVYb0ZpWVZ4T1JSRWFrbmhEeFRGTkxUWkQxVHc2alJtNS1BTHo2d21LcnlRdzd1WlNVNngtczhVTnNWRlpUeGt4SmxxTlV0a013aXFhU3Y5OXplY0E?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-26T00:17+00:00",
+       "flag": null,
+       "team": "Bengals"
+      }
+     ]
     },
     "total": {
      "summary": "The model projects 44.1 total points; the best Under number is 47.5. That's a 3.4 point gap.",
@@ -1767,11 +2098,178 @@
        "text": "Check the official injury report for both starting quarterbacks before betting."
       }
      ],
-     "risks": [],
+     "risks": [
+      "Recent headlines mention an injury or absence for the Bengals."
+     ],
      "evidence": [
       "Live this season: 4-2 (67%), beating the closing line by +0.2 points on average."
      ],
-     "news": []
+     "news": [
+      {
+       "title": "Quinshon Judkins' 2 Touchdowns Leave the Titans Second-Guessing Their 2025 Trade Down",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjQ3eDNTdVRsNGpTdlVIMGViZUpZRThfbmw0ODBCX3dGaFFiekNXcVBubnF0Umg4M1pPbENreGF6aTZ5ZXlpUHRuSFdZS0VuVFkzY2ZGNUJkS1lDTUh4ZGZyMUhvU0lwQ29zM3BuSHo0T1EzcTdBYklMUXRBRW9aWmstOXEwZ0ZPOXdnQUQ2cENmeVFJUHc?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-26T01:00+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Browns' KC Concepcion looking to keep 'stacking weeks' after Titans win",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGVRRV83TVljeWk2NTJTMjk1elVPSXNXN2s2dHpEN1dhVjVwS2lwazRRdDMxLWxKMXdlNkRSb2dHVGFYeUVZRDJsc0tCV2g5ZXYwc2tudVA0blJoVDJTSXdRUjRNWGJHQUlERmR4VV9ORHFTdTM4TlY3aWQwOU1mNGlSZ1dpeWpPa2c?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-26T00:45+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "How Browns turned early mistakes into winning plays late against Titans",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkU1Z2lSVGFkbFl5Y1Vhd2dWRlVSWDdUUWJfMV9HVm9ER24yakdTY1JkOTZ0dWhzR2ZMOE9DOGVJSUpsQkR3bjF5ZjUtN1FoZ3VuQ0xlV1V6R2JCOHc1cDRLNC1QalRGYzM3VUlXTDdUdjNFTEZidDVkZmRDaS16VWdPTHA1WlZfNF9vYnNB?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T23:56+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Cleveland Browns vs. Tennessee Titans Live Score and Stats - October 25, 2026 Gametracker",
+       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iT2xWWWNXZnc2SW5PZDlBbl9SN3o0M3hZRW9mREFFZzNOU0VjY2F6ZWVLZjZ3ZHNFdUNfZmgyWEphbUk2SmpLUkZtUlh2ZXQ2TS1kX29NVVdYckVuVEI4Z2NSazRDdVdGdTd6ZFRWbkNvNk5zekF6UQ?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-25T23:10+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Tennessee Titans\u2019 Quarterback Problem Is Dictating Everything",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEZoRjFvU1dNRWVCdDFkOUZfd3JuVjJrdjFUZzdoQm5FRUFXU2p3WHR4RWFtY0lsWFlja1h5RkMyM2w1YUstei1MYmYzeGRFek5vQ2lYWW0yM1ZLSW9yVDZmeHJfem5yRGpsU0FSVVF4end0S0lzUlFZWUM4YWFETDJRTnE1TE1Yend5WGVEQ0Z3X0JEMG8xeDdKQ1VWTllwN0Z6bm9WZTRReFk4Q2J6UU1R?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-25T22:14+00:00",
+       "flag": null,
+       "team": "Titans"
+      },
+      {
+       "title": "Bengals safety Kyle Dugger injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTZEa1VLWE45SnpQSUtweWdlSEVTdFVUcm12eDJRbEZmVmpSYzJLOWFHcmw3V0ZQZkZSOWdpQzhILW1PQWxRZVEtamFGRXVjc083Vk1WQnU4SUtmcFgwM0RGeEZ4RmJ0SlBpd3RKWnB2cWJKajZXcUt3UW9kNzJjY3pWTUJITkhYNkVwYUxocHFHRzBSUGZLc1kwUEM0bUtGVktoZVd2dmxiclRkRXZR?oc=5",
+       "source": "Cincinnati Enquirer",
+       "published": "2026-10-25T22:55+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "Bengals safety Bryan Cook injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZU5rUk5ZRWw4TktBREl1YWtUS0dBTldGRXluWlRvZl9sSGxpOFAzMGNUMXRYRXloZE9rTG9pWW5UaDE3M2ZrTmNTR2JuM2doSEtMQk8tNFZZUUc1bHdIRE4yMGFKQVFDMG9ZUFVya1hicFg1dzdTTU5JNUNaai15emp4UGRZS0hrQ2xfUU5JVkgxZ1d3cEN1NmJTVTZiZ19leElONk4taUhjY2I4?oc=5",
+       "source": "Cincinnati Enquirer",
+       "published": "2026-10-25T19:33+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "Ravens linebacker Roquan Smith injured vs Bengals in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGdBbVRsZjlRcFNrS3phSG1Kekg5d0UxeFAtdmxyNGVHcVFEcE9FdVJCUmNZMFh5LXF2cU5Yc1JmSVZvRlZIZTZZem15dEJkMlViVzJDUUNvRmIwR21iSTZ4QXMwTkV6bmRZX2JzVS0zSkI5Sjk5SWdSTlB0dVBCbENLdWNNUzM0R2lma1FfZmc?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T19:17+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "Bengals safety Kyle Dugger injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXR4ZjZFbzhiSTU0QjIxUzRzUFc0YjB3YTlIWkFXYnJNNFNUR0E0S1VKOHJObW9NTDhpclBfeHVCS2pyRVNtZjE3a0tIU1Q3WVcyVGRGRmRROFVJbjBaSlVZWko3akRZeWVTekkzS3NFZVNIc2lpWmxMX1FuUHUyc2tRNTQtX0l5NzZn?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T18:55+00:00",
+       "flag": "injury",
+       "team": "Bengals"
+      },
+      {
+       "title": "6 Winners and 2 Losers From Bengals' Dominant Comeback Win Over Ravens",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamdoUlU5SjYzWDNXSWswbXB6ZTZ4My1pMzdiVEFLVEIycXNpbXNJSnR1Y1ZqVWt5N1AzbUNoOGprUElkM1QzVEhjbWlwdUpiYmZXN3NUc051RHprRW9pSmp5SUZvVXVYb0ZpWVZ4T1JSRWFrbmhEeFRGTkxUWkQxVHc2alJtNS1BTHo2d21LcnlRdzd1WlNVNngtczhVTnNWRlpUeGt4SmxxTlV0a013aXFhU3Y5OXplY0E?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-26T00:17+00:00",
+       "flag": null,
+       "team": "Bengals"
+      }
+     ]
+    }
+   },
+   "news": {
+    "Titans": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Quinshon Judkins' 2 Touchdowns Leave the Titans Second-Guessing Their 2025 Trade Down",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjQ3eDNTdVRsNGpTdlVIMGViZUpZRThfbmw0ODBCX3dGaFFiekNXcVBubnF0Umg4M1pPbENreGF6aTZ5ZXlpUHRuSFdZS0VuVFkzY2ZGNUJkS1lDTUh4ZGZyMUhvU0lwQ29zM3BuSHo0T1EzcTdBYklMUXRBRW9aWmstOXEwZ0ZPOXdnQUQ2cENmeVFJUHc?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-26T01:00+00:00",
+       "flag": null
+      },
+      {
+       "title": "Browns' KC Concepcion looking to keep 'stacking weeks' after Titans win",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGVRRV83TVljeWk2NTJTMjk1elVPSXNXN2s2dHpEN1dhVjVwS2lwazRRdDMxLWxKMXdlNkRSb2dHVGFYeUVZRDJsc0tCV2g5ZXYwc2tudVA0blJoVDJTSXdRUjRNWGJHQUlERmR4VV9ORHFTdTM4TlY3aWQwOU1mNGlSZ1dpeWpPa2c?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-26T00:45+00:00",
+       "flag": null
+      },
+      {
+       "title": "How Browns turned early mistakes into winning plays late against Titans",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkU1Z2lSVGFkbFl5Y1Vhd2dWRlVSWDdUUWJfMV9HVm9ER24yakdTY1JkOTZ0dWhzR2ZMOE9DOGVJSUpsQkR3bjF5ZjUtN1FoZ3VuQ0xlV1V6R2JCOHc1cDRLNC1QalRGYzM3VUlXTDdUdjNFTEZidDVkZmRDaS16VWdPTHA1WlZfNF9vYnNB?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T23:56+00:00",
+       "flag": null
+      },
+      {
+       "title": "Cleveland Browns vs. Tennessee Titans Live Score and Stats - October 25, 2026 Gametracker",
+       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iT2xWWWNXZnc2SW5PZDlBbl9SN3o0M3hZRW9mREFFZzNOU0VjY2F6ZWVLZjZ3ZHNFdUNfZmgyWEphbUk2SmpLUkZtUlh2ZXQ2TS1kX29NVVdYckVuVEI4Z2NSazRDdVdGdTd6ZFRWbkNvNk5zekF6UQ?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-25T23:10+00:00",
+       "flag": null
+      },
+      {
+       "title": "Tennessee Titans\u2019 Quarterback Problem Is Dictating Everything",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEZoRjFvU1dNRWVCdDFkOUZfd3JuVjJrdjFUZzdoQm5FRUFXU2p3WHR4RWFtY0lsWFlja1h5RkMyM2w1YUstei1MYmYzeGRFek5vQ2lYWW0yM1ZLSW9yVDZmeHJfem5yRGpsU0FSVVF4end0S0lzUlFZWUM4YWFETDJRTnE1TE1Yend5WGVEQ0Z3X0JEMG8xeDdKQ1VWTllwN0Z6bm9WZTRReFk4Q2J6UU1R?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-25T22:14+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Bengals": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Bengals safety Kyle Dugger injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTZEa1VLWE45SnpQSUtweWdlSEVTdFVUcm12eDJRbEZmVmpSYzJLOWFHcmw3V0ZQZkZSOWdpQzhILW1PQWxRZVEtamFGRXVjc083Vk1WQnU4SUtmcFgwM0RGeEZ4RmJ0SlBpd3RKWnB2cWJKajZXcUt3UW9kNzJjY3pWTUJITkhYNkVwYUxocHFHRzBSUGZLc1kwUEM0bUtGVktoZVd2dmxiclRkRXZR?oc=5",
+       "source": "Cincinnati Enquirer",
+       "published": "2026-10-25T22:55+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Bengals safety Bryan Cook injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZU5rUk5ZRWw4TktBREl1YWtUS0dBTldGRXluWlRvZl9sSGxpOFAzMGNUMXRYRXloZE9rTG9pWW5UaDE3M2ZrTmNTR2JuM2doSEtMQk8tNFZZUUc1bHdIRE4yMGFKQVFDMG9ZUFVya1hicFg1dzdTTU5JNUNaai15emp4UGRZS0hrQ2xfUU5JVkgxZ1d3cEN1NmJTVTZiZ19leElONk4taUhjY2I4?oc=5",
+       "source": "Cincinnati Enquirer",
+       "published": "2026-10-25T19:33+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Ravens linebacker Roquan Smith injured vs Bengals in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGdBbVRsZjlRcFNrS3phSG1Kekg5d0UxeFAtdmxyNGVHcVFEcE9FdVJCUmNZMFh5LXF2cU5Yc1JmSVZvRlZIZTZZem15dEJkMlViVzJDUUNvRmIwR21iSTZ4QXMwTkV6bmRZX2JzVS0zSkI5Sjk5SWdSTlB0dVBCbENLdWNNUzM0R2lma1FfZmc?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T19:17+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Bengals safety Kyle Dugger injured vs Ravens in NFL Week 7",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXR4ZjZFbzhiSTU0QjIxUzRzUFc0YjB3YTlIWkFXYnJNNFNUR0E0S1VKOHJObW9NTDhpclBfeHVCS2pyRVNtZjE3a0tIU1Q3WVcyVGRGRmRROFVJbjBaSlVZWko3akRZeWVTekkzS3NFZVNIc2lpWmxMX1FuUHUyc2tRNTQtX0l5NzZn?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-25T18:55+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "6 Winners and 2 Losers From Bengals' Dominant Comeback Win Over Ravens",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamdoUlU5SjYzWDNXSWswbXB6ZTZ4My1pMzdiVEFLVEIycXNpbXNJSnR1Y1ZqVWt5N1AzbUNoOGprUElkM1QzVEhjbWlwdUpiYmZXN3NUc051RHprRW9pSmp5SUZvVXVYb0ZpWVZ4T1JSRWFrbmhEeFRGTkxUWkQxVHc2alJtNS1BTHo2d21LcnlRdzd1WlNVNngtczhVTnNWRlpUeGt4SmxxTlV0a013aXFhU3Y5OXplY0E?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-26T00:17+00:00",
+       "flag": null
+      }
+     ]
     }
    }
   },
@@ -2825,5 +3323,6 @@
    "game": "2026_06_DAL_GB",
    "text": "Packers moved -0.67 to +0.33 against the Cowboys."
   }
- ]
+ ],
+ "news_checked": "2026-10-26T01:23Z"
 }
