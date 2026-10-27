@@ -1,0 +1,1009 @@
+{
+ "season": 2026,
+ "week": 7,
+ "summary": {
+  "graded": 15,
+  "pending": 0,
+  "overall": {
+   "wins": 7,
+   "losses": 8,
+   "pushes": 0,
+   "win_pct": 0.467,
+   "units": -1.64,
+   "avg_clv": 0.11,
+   "beat_close": 0.6
+  },
+  "by_tier": {
+   "total:model": {
+    "wins": 5,
+    "losses": 3,
+    "pushes": 0,
+    "win_pct": 0.625,
+    "units": 1.55,
+    "avg_clv": -0.04,
+    "beat_close": 0.625
+   },
+   "total:all": {
+    "wins": 5,
+    "losses": 4,
+    "pushes": 0,
+    "win_pct": 0.556,
+    "units": 0.55,
+    "avg_clv": -0.06,
+    "beat_close": 0.556
+   },
+   "spread:model": {
+    "wins": 2,
+    "losses": 4,
+    "pushes": 0,
+    "win_pct": 0.333,
+    "units": -2.18,
+    "avg_clv": 0.37,
+    "beat_close": 0.667
+   },
+   "spread:all": {
+    "wins": 2,
+    "losses": 4,
+    "pushes": 0,
+    "win_pct": 0.333,
+    "units": -2.18,
+    "avg_clv": 0.37,
+    "beat_close": 0.667
+   },
+   "total:lean": {
+    "wins": 0,
+    "losses": 1,
+    "pushes": 0,
+    "win_pct": 0.0,
+    "units": -1.0,
+    "avg_clv": -0.2,
+    "beat_close": 0.0
+   }
+  },
+  "by_week": {
+   "7": {
+    "wins": 7,
+    "losses": 8,
+    "pushes": 0,
+    "win_pct": 0.467,
+    "units": -1.64,
+    "avg_clv": 0.11,
+    "beat_close": 0.6
+   }
+  }
+ },
+ "picks": [
+  {
+   "game": "2026_07_NE_CHI",
+   "week": 7,
+   "start": "2026-10-23T00:15Z",
+   "home": "Bears",
+   "away": "Patriots",
+   "bet": "total",
+   "side": "Under",
+   "line": 49.5,
+   "book": "draftkings",
+   "edge": 4.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-10-18T23:16Z",
+   "projection": {
+    "home": 22.6,
+    "away": 22.2,
+    "total": 44.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 5.0,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Patriots defense",
+      "points": 1.7
+     },
+     {
+      "label": "Bears defense",
+      "points": 1.2
+     },
+     {
+      "label": "Bears offense",
+      "points": -0.6
+     },
+     {
+      "label": "Patriots offense",
+      "points": -0.6
+     }
+    ],
+    "risks": [
+     "The Bears' most recent starter, T.Bagent, isn't the QB who played most of the season (C.Williams). The grades still mostly reflect C.Williams.",
+     "Recent headlines mention an injury or absence for the Patriots."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 50.67,
+   "final": {
+    "home": 30,
+    "away": 24
+   },
+   "margin": -4.5,
+   "result": "loss",
+   "clv": -1.2
+  },
+  {
+   "game": "2026_07_PIT_NO",
+   "week": 7,
+   "start": "2026-10-25T13:30Z",
+   "home": "Saints",
+   "away": "Steelers",
+   "bet": "total",
+   "side": "Over",
+   "line": 44.0,
+   "book": "bovada",
+   "edge": 3.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 22.9,
+    "away": 24.9,
+    "total": 47.7
+   },
+   "features": {
+    "neutral": true,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.2,
+    "note": null,
+    "factors": [
+     {
+      "label": "Saints defense",
+      "points": 2.1
+     },
+     {
+      "label": "Steelers offense",
+      "points": -0.4
+     },
+     {
+      "label": "Steelers defense",
+      "points": -0.3
+     },
+     {
+      "label": "Saints offense",
+      "points": 0.0
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Steelers.",
+     "Recent headlines mention an injury or absence for the Saints."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 44.5,
+   "final": {
+    "home": 10,
+    "away": 16
+   },
+   "margin": -18.0,
+   "result": "loss",
+   "clv": 0.5
+  },
+  {
+   "game": "2026_07_CIN_BAL",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Ravens",
+   "away": "Bengals",
+   "bet": "spread",
+   "side": "Ravens",
+   "line": 3.0,
+   "book": "draftkings",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-24T23:17Z",
+   "projection": {
+    "home": 24.5,
+    "away": 24.2,
+    "total": 48.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 2.0,
+    "side_is_home": true,
+    "moved_against": 6.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Bengals offense",
+      "points": -1.7
+     },
+     {
+      "label": "Ravens offense",
+      "points": 1.6
+     },
+     {
+      "label": "Home field",
+      "points": 0.6
+     },
+     {
+      "label": "Bengals defense",
+      "points": -0.5
+     },
+     {
+      "label": "Ravens defense",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Ravens. Read them below before betting.",
+     "The Ravens' most recent starter, T.Huntley, isn't the QB who played most of the season (L.Jackson). The grades still mostly reflect L.Jackson.",
+     "Recent headlines mention an injury or absence for the Bengals."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 2.83,
+   "final": {
+    "home": 13,
+    "away": 35
+   },
+   "margin": -19.0,
+   "result": "loss",
+   "clv": 0.2
+  },
+  {
+   "game": "2026_07_CLE_TEN",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Titans",
+   "away": "Browns",
+   "bet": "total",
+   "side": "Over",
+   "line": 36.5,
+   "book": "draftkings",
+   "edge": 4.5,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-10-18T23:16Z",
+   "projection": {
+    "home": 19.5,
+    "away": 21.5,
+    "total": 41.0
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Titans offense",
+      "points": -3.9
+     },
+     {
+      "label": "Browns offense",
+      "points": -2.2
+     },
+     {
+      "label": "Titans defense",
+      "points": 0.9
+     },
+     {
+      "label": "Browns defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [],
+    "news_qb": false,
+    "news_injury": false
+   },
+   "close": 37.0,
+   "final": {
+    "home": 24,
+    "away": 27
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": 0.5
+  },
+  {
+   "game": "2026_07_MIA_NYJ",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Jets",
+   "away": "Dolphins",
+   "bet": "total",
+   "side": "Over",
+   "line": 38.5,
+   "book": "draftkings",
+   "edge": 4.4,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-10-18T23:16Z",
+   "projection": {
+    "home": 23.8,
+    "away": 19.1,
+    "total": 42.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Dolphins offense",
+      "points": -2.4
+     },
+     {
+      "label": "Dolphins defense",
+      "points": 1.7
+     },
+     {
+      "label": "Jets offense",
+      "points": -1.5
+     },
+     {
+      "label": "Jets defense",
+      "points": -1.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Dolphins.",
+     "Recent headlines mention an injury or absence for the Jets."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 39.5,
+   "final": {
+    "home": 25,
+    "away": 28
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": 1.0
+  },
+  {
+   "game": "2026_07_NYG_HOU",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Texans",
+   "away": "Giants",
+   "bet": "spread",
+   "side": "Giants",
+   "line": 9.5,
+   "book": "draftkings",
+   "edge": 6.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.51,
+   "called": "2026-10-18T23:16Z",
+   "projection": {
+    "home": 23.1,
+    "away": 20.4,
+    "total": 43.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Giants offense",
+      "points": -1.6
+     },
+     {
+      "label": "Home field",
+      "points": -0.9
+     },
+     {
+      "label": "Texans defense",
+      "points": -0.8
+     },
+     {
+      "label": "Texans offense",
+      "points": 0.7
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Giants."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -10.17,
+   "final": {
+    "home": 21,
+    "away": 27
+   },
+   "margin": 15.5,
+   "result": "win",
+   "clv": -0.7
+  },
+  {
+   "game": "2026_07_NYG_HOU",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Texans",
+   "away": "Giants",
+   "bet": "total",
+   "side": "Over",
+   "line": 42.5,
+   "book": "draftkings",
+   "edge": 3.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-19T22:52Z",
+   "projection": {
+    "home": 24.9,
+    "away": 21.3,
+    "total": 46.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": -1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Giants offense",
+      "points": -1.3
+     },
+     {
+      "label": "Giants defense",
+      "points": 1.0
+     },
+     {
+      "label": "Texans offense",
+      "points": 0.4
+     },
+     {
+      "label": "Texans defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Giants.",
+     "Recent headlines mention an injury or absence for the Texans."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 42.67,
+   "final": {
+    "home": 21,
+    "away": 27
+   },
+   "margin": 5.5,
+   "result": "win",
+   "clv": 0.2
+  },
+  {
+   "game": "2026_07_TB_CAR",
+   "week": 7,
+   "start": "2026-10-25T17:00Z",
+   "home": "Panthers",
+   "away": "Buccaneers",
+   "bet": "total",
+   "side": "Under",
+   "line": 44.5,
+   "book": "draftkings",
+   "edge": -2.8,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-10-19T22:52Z",
+   "projection": {
+    "home": 25.4,
+    "away": 22.0,
+    "total": 47.3
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 12.0,
+    "side_is_home": null,
+    "moved_against": 0.5,
+    "note": null,
+    "factors": [
+     {
+      "label": "Panthers offense",
+      "points": -2.6
+     },
+     {
+      "label": "Buccaneers offense",
+      "points": 1.5
+     },
+     {
+      "label": "Buccaneers defense",
+      "points": 0.6
+     },
+     {
+      "label": "Panthers defense",
+      "points": -0.6
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "The Buccaneers' most recent starter, J.Daniels, isn't the QB who played most of the season (B.Mayfield). The grades still mostly reflect B.Mayfield.",
+     "Recent headlines mention an injury or absence for the Buccaneers."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 44.67,
+   "final": {
+    "home": 13,
+    "away": 43
+   },
+   "margin": -11.5,
+   "result": "loss",
+   "clv": -0.2
+  },
+  {
+   "game": "2026_07_GB_DET",
+   "week": 7,
+   "start": "2026-10-25T20:25Z",
+   "home": "Lions",
+   "away": "Packers",
+   "bet": "spread",
+   "side": "Packers",
+   "line": 4.0,
+   "book": "bovada",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-25T14:21Z",
+   "projection": {
+    "home": 25.2,
+    "away": 24.5,
+    "total": 49.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.4,
+    "note": null,
+    "factors": [
+     {
+      "label": "Lions offense",
+      "points": -2.7
+     },
+     {
+      "label": "Lions defense",
+      "points": 1.9
+     },
+     {
+      "label": "Packers defense",
+      "points": 1.0
+     },
+     {
+      "label": "Home field",
+      "points": -0.6
+     },
+     {
+      "label": "Packers offense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Packers.",
+     "Recent headlines mention an injury or absence for the Lions."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -3.67,
+   "final": {
+    "home": 20,
+    "away": 17
+   },
+   "margin": 1.0,
+   "result": "win",
+   "clv": 0.3
+  },
+  {
+   "game": "2026_07_GB_DET",
+   "week": 7,
+   "start": "2026-10-25T20:25Z",
+   "home": "Lions",
+   "away": "Packers",
+   "bet": "total",
+   "side": "Under",
+   "line": 53.5,
+   "book": "draftkings",
+   "edge": 3.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-20T14:27Z",
+   "projection": {
+    "home": 25.2,
+    "away": 24.5,
+    "total": 49.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.7,
+    "note": null,
+    "factors": [
+     {
+      "label": "Lions offense",
+      "points": -2.7
+     },
+     {
+      "label": "Lions defense",
+      "points": -1.9
+     },
+     {
+      "label": "Packers defense",
+      "points": 0.9
+     },
+     {
+      "label": "Packers offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Packers.",
+     "Recent headlines mention an injury or absence for the Lions."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 55.5,
+   "final": {
+    "home": 20,
+    "away": 17
+   },
+   "margin": 16.5,
+   "result": "win",
+   "clv": -2.0
+  },
+  {
+   "game": "2026_07_LA_LV",
+   "week": 7,
+   "start": "2026-10-25T20:25Z",
+   "home": "Raiders",
+   "away": "Rams",
+   "bet": "spread",
+   "side": "Raiders",
+   "line": 6.0,
+   "book": "draftkings",
+   "edge": 5.4,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.508,
+   "called": "2026-10-18T23:16Z",
+   "projection": {
+    "home": 24.5,
+    "away": 25.1,
+    "total": 49.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Raiders defense",
+      "points": -1.4
+     },
+     {
+      "label": "Raiders offense",
+      "points": 1.0
+     },
+     {
+      "label": "Home field",
+      "points": 0.9
+     },
+     {
+      "label": "Rams offense",
+      "points": -0.9
+     },
+     {
+      "label": "Rams defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Rams."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 3.33,
+   "final": {
+    "home": 21,
+    "away": 35
+   },
+   "margin": -8.0,
+   "result": "loss",
+   "clv": 2.7
+  },
+  {
+   "game": "2026_07_KC_SEA",
+   "week": 7,
+   "start": "2026-10-26T00:20Z",
+   "home": "Seahawks",
+   "away": "Chiefs",
+   "bet": "spread",
+   "side": "Chiefs",
+   "line": 2.5,
+   "book": "draftkings",
+   "edge": 3.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 21.7,
+    "away": 22.8,
+    "total": 44.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 6.0,
+    "side_is_home": false,
+    "moved_against": 0.8,
+    "note": null,
+    "factors": [
+     {
+      "label": "Seahawks defense",
+      "points": -2.1
+     },
+     {
+      "label": "Chiefs offense",
+      "points": 2.1
+     },
+     {
+      "label": "Chiefs defense",
+      "points": 1.5
+     },
+     {
+      "label": "Home field",
+      "points": -0.6
+     },
+     {
+      "label": "Seahawks offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Chiefs."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -3.0,
+   "final": {
+    "home": 20,
+    "away": 3
+   },
+   "margin": -14.5,
+   "result": "loss",
+   "clv": -0.5
+  },
+  {
+   "game": "2026_07_KC_SEA",
+   "week": 7,
+   "start": "2026-10-26T00:20Z",
+   "home": "Seahawks",
+   "away": "Chiefs",
+   "bet": "total",
+   "side": "Over",
+   "line": 41.5,
+   "book": "fanduel",
+   "edge": 3.0,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.504,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 21.7,
+    "away": 22.8,
+    "total": 44.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 6.0,
+    "side_is_home": null,
+    "moved_against": 1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Seahawks defense",
+      "points": -2.1
+     },
+     {
+      "label": "Chiefs offense",
+      "points": 2.1
+     },
+     {
+      "label": "Chiefs defense",
+      "points": -1.5
+     },
+     {
+      "label": "Seahawks offense",
+      "points": -0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Chiefs."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 43.17,
+   "final": {
+    "home": 20,
+    "away": 3
+   },
+   "margin": -18.5,
+   "result": "loss",
+   "clv": 1.7
+  },
+  {
+   "game": "2026_07_DAL_PHI",
+   "week": 7,
+   "start": "2026-10-27T00:15Z",
+   "home": "Eagles",
+   "away": "Cowboys",
+   "bet": "spread",
+   "side": "Eagles",
+   "line": 4.5,
+   "book": "draftkings",
+   "edge": 4.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 23.7,
+    "away": 24.1,
+    "total": 47.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cowboys defense",
+      "points": 2.4
+     },
+     {
+      "label": "Eagles offense",
+      "points": -2.2
+     },
+     {
+      "label": "Cowboys offense",
+      "points": -0.9
+     },
+     {
+      "label": "Home field",
+      "points": 0.6
+     },
+     {
+      "label": "Eagles defense",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+     "Recent headlines mention an injury or absence for the Cowboys."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 4.33,
+   "final": {
+    "home": 21,
+    "away": 38
+   },
+   "margin": -12.5,
+   "result": "loss",
+   "clv": 0.2
+  },
+  {
+   "game": "2026_07_DAL_PHI",
+   "week": 7,
+   "start": "2026-10-27T00:15Z",
+   "home": "Eagles",
+   "away": "Cowboys",
+   "bet": "total",
+   "side": "Over",
+   "line": 44.5,
+   "book": "draftkings",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-19T14:32Z",
+   "projection": {
+    "home": 23.7,
+    "away": 24.1,
+    "total": 47.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cowboys defense",
+      "points": 2.4
+     },
+     {
+      "label": "Eagles offense",
+      "points": -2.2
+     },
+     {
+      "label": "Cowboys offense",
+      "points": 0.9
+     },
+     {
+      "label": "Eagles defense",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Eagles. Read them below before betting.",
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+     "Recent headlines mention an injury or absence for the Cowboys."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 43.5,
+   "final": {
+    "home": 21,
+    "away": 38
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": -1.0
+  }
+ ]
+}

@@ -1,34 +1,34 @@
 {
  "summary": {
-  "graded": 19,
-  "pending": 18,
+  "graded": 21,
+  "pending": 16,
   "overall": {
-   "wins": 12,
-   "losses": 7,
+   "wins": 13,
+   "losses": 8,
    "pushes": 0,
-   "win_pct": 0.632,
-   "units": 3.91,
-   "avg_clv": 0.27,
-   "beat_close": 0.632
+   "win_pct": 0.619,
+   "units": 3.82,
+   "avg_clv": 0.21,
+   "beat_close": 0.619
   },
   "by_tier": {
    "spread:model": {
     "wins": 5,
-    "losses": 3,
+    "losses": 4,
     "pushes": 0,
-    "win_pct": 0.625,
-    "units": 1.55,
-    "avg_clv": 0.43,
-    "beat_close": 0.625
+    "win_pct": 0.556,
+    "units": 0.55,
+    "avg_clv": 0.4,
+    "beat_close": 0.667
    },
    "spread:all": {
     "wins": 5,
-    "losses": 3,
+    "losses": 4,
     "pushes": 0,
-    "win_pct": 0.625,
-    "units": 1.55,
-    "avg_clv": 0.43,
-    "beat_close": 0.625
+    "win_pct": 0.556,
+    "units": 0.55,
+    "avg_clv": 0.4,
+    "beat_close": 0.667
    },
    "total:lean": {
     "wins": 2,
@@ -40,22 +40,22 @@
     "beat_close": 0.333
    },
    "total:all": {
-    "wins": 7,
+    "wins": 8,
     "losses": 4,
     "pushes": 0,
-    "win_pct": 0.636,
-    "units": 2.36,
-    "avg_clv": 0.16,
-    "beat_close": 0.636
+    "win_pct": 0.667,
+    "units": 3.27,
+    "avg_clv": 0.07,
+    "beat_close": 0.583
    },
    "total:model": {
-    "wins": 5,
+    "wins": 6,
     "losses": 3,
     "pushes": 0,
-    "win_pct": 0.625,
-    "units": 1.55,
-    "avg_clv": 0.12,
-    "beat_close": 0.75
+    "win_pct": 0.667,
+    "units": 2.45,
+    "avg_clv": 0.0,
+    "beat_close": 0.667
    }
   },
   "by_week": {
@@ -69,13 +69,13 @@
     "beat_close": 0.667
    },
    "7": {
-    "wins": 6,
-    "losses": 7,
+    "wins": 7,
+    "losses": 8,
     "pushes": 0,
-    "win_pct": 0.462,
-    "units": -1.55,
-    "avg_clv": 0.19,
-    "beat_close": 0.615
+    "win_pct": 0.467,
+    "units": -1.64,
+    "avg_clv": 0.11,
+    "beat_close": 0.6
    }
   }
  },
@@ -1066,7 +1066,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 4.33
+   "close": 4.33,
+   "final": {
+    "home": 21,
+    "away": 38
+   },
+   "margin": -12.5,
+   "result": "loss",
+   "clv": 0.2
   },
   "2026_07_DAL_PHI:total": {
    "game": "2026_07_DAL_PHI",
@@ -1121,7 +1128,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.5
+   "close": 43.5,
+   "final": {
+    "home": 21,
+    "away": 38
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": -1.0
   },
   "2026_07_NYG_HOU:total": {
    "game": "2026_07_NYG_HOU",
