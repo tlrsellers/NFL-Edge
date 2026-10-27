@@ -8,7 +8,7 @@ Every NFL game since 1999, settled against the closing line at -110 (52.4% break
 |---|---|---|---|---|---|---|
 | LOCK: Under, outdoor wind 15+ mph | 🟡 YELLOW | 371-279 (57.1%) | 36-25 (59.0%) | 18-17 (51.4%) | 15 of 27 | no bets |
 | Strong: playoff underdog the model likes | 🟡 YELLOW | 136-109 (55.5%) | 21-15 (58.3%) | 9-9 (50.0%) | 16 of 27 | no bets |
-| Lean: Under, outdoor wind 10-14 mph | 🟡 YELLOW | 605-528 (53.4%) | 85-65 (56.7%) | 40-41 (49.4%) | 16 of 28 | 2-0 (100.0%) |
+| Lean: Under, outdoor wind 10-14 mph | 🟡 YELLOW | 605-528 (53.4%) | 85-65 (56.7%) | 40-41 (49.4%) | 16 of 28 | 2-1 (66.7%) |
 
 - **LOCK: Under, outdoor wind 15+ mph**: The last 3 seasons are under break-even. Worth watching, not yet a reason to change.
 - **Strong: playoff underdog the model likes**: Profitable long-run, but the sample is small enough that it could be luck. Keep it at a lower tier and watch it.
