@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "through_week": 7,
- "updated": "2026-10-26T11:31+00:00",
+ "updated": "2026-10-27T11:28+00:00",
  "teams": [
   {
    "team": "Jaguars",
@@ -12,16 +12,16 @@
    "record": "4-2",
    "games": 6,
    "grades": {
-    "off": 7.7,
-    "pass": 7.8,
-    "rush": 7.3,
-    "qb": 7.4,
+    "off": 7.6,
+    "pass": 7.7,
+    "rush": 7.2,
+    "qb": 7.3,
     "def": 8.4,
     "passD": 7.5,
-    "rushD": 8.4,
+    "rushD": 8.5,
     "st": 4.3,
     "pace": 4.5,
-    "ovr": 8.8
+    "ovr": 8.7
    },
    "qb": {
     "name": "T.Lawrence",
@@ -31,12 +31,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.088,
+    "epa_per_play": 0.086,
     "epa_allowed": -0.099,
-    "success_rate": 0.031,
+    "success_rate": 0.03,
     "success_allowed": -0.022,
-    "points_per_game": 24.8,
-    "points_allowed": 20.4,
+    "points_per_game": 24.7,
+    "points_allowed": 20.5,
     "plays_per_game": 53.0
    }
   },
@@ -68,8 +68,8 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.128,
-    "epa_allowed": -0.017,
+    "epa_per_play": 0.127,
+    "epa_allowed": -0.018,
     "success_rate": 0.067,
     "success_allowed": 0.007,
     "points_per_game": 25.5,
@@ -86,13 +86,13 @@
    "record": "5-2",
    "games": 7,
    "grades": {
-    "off": 6.5,
-    "pass": 7.4,
-    "rush": 5.2,
-    "qb": 7.9,
+    "off": 6.4,
+    "pass": 7.3,
+    "rush": 5.1,
+    "qb": 7.8,
     "def": 6.8,
     "passD": 7.8,
-    "rushD": 3.1,
+    "rushD": 3.3,
     "st": 9.2,
     "pace": 5.5,
     "ovr": 7.7
@@ -105,12 +105,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.047,
-    "epa_allowed": -0.051,
-    "success_rate": 0.026,
+    "epa_per_play": 0.045,
+    "epa_allowed": -0.052,
+    "success_rate": 0.025,
     "success_allowed": -0.014,
-    "points_per_game": 25.0,
-    "points_allowed": 21.9,
+    "points_per_game": 24.9,
+    "points_allowed": 22.0,
     "plays_per_game": 54.9
    }
   },
@@ -124,13 +124,13 @@
    "games": 6,
    "grades": {
     "off": 7.8,
-    "pass": 7.4,
+    "pass": 7.3,
     "rush": 6.7,
-    "qb": 7.5,
+    "qb": 7.4,
     "def": 5.9,
     "passD": 5.5,
     "rushD": 8.1,
-    "st": 4.6,
+    "st": 4.7,
     "pace": 4.6,
     "ovr": 7.5
    },
@@ -142,12 +142,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.085,
+    "epa_per_play": 0.084,
     "epa_allowed": -0.025,
     "success_rate": 0.038,
-    "success_allowed": -0.006,
-    "points_per_game": 25.3,
-    "points_allowed": 21.7,
+    "success_allowed": -0.007,
+    "points_per_game": 25.4,
+    "points_allowed": 21.8,
     "plays_per_game": 53.3
    }
   },
@@ -162,12 +162,12 @@
    "grades": {
     "off": 4.2,
     "pass": 6.2,
-    "rush": 2.2,
+    "rush": 2.1,
     "qb": 4.7,
     "def": 9.1,
-    "passD": 8.7,
+    "passD": 8.8,
     "rushD": 9.9,
-    "st": 8.6,
+    "st": 8.7,
     "pace": 6.4,
     "ovr": 7.3
    },
@@ -184,7 +184,7 @@
     "success_rate": -0.006,
     "success_allowed": -0.046,
     "points_per_game": 23.6,
-    "points_allowed": 20.5,
+    "points_allowed": 20.6,
     "plays_per_game": 56.4
    }
   },
@@ -216,50 +216,13 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.068,
+    "epa_per_play": 0.067,
     "epa_allowed": -0.012,
-    "success_rate": 0.025,
+    "success_rate": 0.024,
     "success_allowed": -0.012,
     "points_per_game": 23.2,
     "points_allowed": 20.6,
     "plays_per_game": 51.5
-   }
-  },
-  {
-   "team": "Rams",
-   "abbr": "LA",
-   "name": "Los Angeles Rams",
-   "conference": "NFC West",
-   "color": "#003594",
-   "record": "3-4",
-   "games": 7,
-   "grades": {
-    "off": 6.9,
-    "pass": 6.6,
-    "rush": 7.3,
-    "qb": 6.3,
-    "def": 6.6,
-    "passD": 6.3,
-    "rushD": 5.3,
-    "st": 1.6,
-    "pace": 6.9,
-    "ovr": 6.8
-   },
-   "qb": {
-    "name": "M.Stafford",
-    "epa_per_dropback": 0.164,
-    "dropbacks": 266,
-    "season_leader": "M.Stafford",
-    "changed": false
-   },
-   "adjusted": {
-    "epa_per_play": 0.051,
-    "epa_allowed": -0.048,
-    "success_rate": 0.036,
-    "success_allowed": -0.007,
-    "points_per_game": 23.2,
-    "points_allowed": 22.6,
-    "plays_per_game": 57.3
    }
   },
   {
@@ -271,13 +234,13 @@
    "record": "5-1",
    "games": 6,
    "grades": {
-    "off": 8.4,
+    "off": 8.3,
     "pass": 7.7,
     "rush": 7.9,
     "qb": 8.4,
     "def": 3.3,
     "passD": 3.9,
-    "rushD": 4.0,
+    "rushD": 4.1,
     "st": 7.1,
     "pace": 6.2,
     "ovr": 6.7
@@ -291,12 +254,86 @@
    },
    "adjusted": {
     "epa_per_play": 0.095,
-    "epa_allowed": 0.044,
+    "epa_allowed": 0.043,
     "success_rate": 0.023,
     "success_allowed": 0.016,
-    "points_per_game": 27.6,
+    "points_per_game": 27.7,
     "points_allowed": 25.7,
     "plays_per_game": 56.0
+   }
+  },
+  {
+   "team": "Rams",
+   "abbr": "LA",
+   "name": "Los Angeles Rams",
+   "conference": "NFC West",
+   "color": "#003594",
+   "record": "3-4",
+   "games": 7,
+   "grades": {
+    "off": 6.8,
+    "pass": 6.5,
+    "rush": 7.2,
+    "qb": 6.3,
+    "def": 6.7,
+    "passD": 6.3,
+    "rushD": 5.4,
+    "st": 1.6,
+    "pace": 6.9,
+    "ovr": 6.7
+   },
+   "qb": {
+    "name": "M.Stafford",
+    "epa_per_dropback": 0.164,
+    "dropbacks": 266,
+    "season_leader": "M.Stafford",
+    "changed": false
+   },
+   "adjusted": {
+    "epa_per_play": 0.049,
+    "epa_allowed": -0.049,
+    "success_rate": 0.035,
+    "success_allowed": -0.007,
+    "points_per_game": 23.1,
+    "points_allowed": 22.6,
+    "plays_per_game": 57.3
+   }
+  },
+  {
+   "team": "Ravens",
+   "abbr": "BAL",
+   "name": "Baltimore Ravens",
+   "conference": "AFC North",
+   "color": "#241773",
+   "record": "4-3",
+   "games": 7,
+   "grades": {
+    "off": 7.1,
+    "pass": 7.4,
+    "rush": 4.8,
+    "qb": 6.3,
+    "def": 4.8,
+    "passD": 5.0,
+    "rushD": 5.0,
+    "st": 4.3,
+    "pace": 4.9,
+    "ovr": 6.3
+   },
+   "qb": {
+    "name": "T.Huntley",
+    "epa_per_dropback": 0.162,
+    "dropbacks": 112,
+    "season_leader": "T.Huntley",
+    "changed": false
+   },
+   "adjusted": {
+    "epa_per_play": 0.066,
+    "epa_allowed": 0.004,
+    "success_rate": 0.015,
+    "success_allowed": -0.001,
+    "points_per_game": 23.3,
+    "points_allowed": 23.6,
+    "plays_per_game": 53.7
    }
   },
   {
@@ -308,9 +345,9 @@
    "record": "5-2",
    "games": 7,
    "grades": {
-    "off": 4.9,
+    "off": 4.8,
     "pass": 3.8,
-    "rush": 6.3,
+    "rush": 6.2,
     "qb": 3.6,
     "def": 7.5,
     "passD": 8.0,
@@ -337,43 +374,6 @@
    }
   },
   {
-   "team": "Ravens",
-   "abbr": "BAL",
-   "name": "Baltimore Ravens",
-   "conference": "AFC North",
-   "color": "#241773",
-   "record": "4-3",
-   "games": 7,
-   "grades": {
-    "off": 7.1,
-    "pass": 7.4,
-    "rush": 4.8,
-    "qb": 6.3,
-    "def": 4.7,
-    "passD": 4.9,
-    "rushD": 4.8,
-    "st": 4.3,
-    "pace": 4.9,
-    "ovr": 6.2
-   },
-   "qb": {
-    "name": "T.Huntley",
-    "epa_per_dropback": 0.162,
-    "dropbacks": 112,
-    "season_leader": "T.Huntley",
-    "changed": false
-   },
-   "adjusted": {
-    "epa_per_play": 0.067,
-    "epa_allowed": 0.007,
-    "success_rate": 0.015,
-    "success_allowed": -0.0,
-    "points_per_game": 23.3,
-    "points_allowed": 23.6,
-    "plays_per_game": 53.7
-   }
-  },
-  {
    "team": "Buccaneers",
    "abbr": "TB",
    "name": "Tampa Bay Buccaneers",
@@ -383,12 +383,12 @@
    "games": 7,
    "grades": {
     "off": 4.1,
-    "pass": 2.6,
-    "rush": 6.6,
-    "qb": 1.8,
-    "def": 7.6,
-    "passD": 7.2,
-    "rushD": 5.9,
+    "pass": 2.7,
+    "rush": 6.5,
+    "qb": 1.9,
+    "def": 7.7,
+    "passD": 7.3,
+    "rushD": 6.0,
     "st": 6.6,
     "pace": 5.6,
     "ovr": 6.1
@@ -401,11 +401,11 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.035,
-    "epa_allowed": -0.08,
+    "epa_per_play": -0.036,
+    "epa_allowed": -0.082,
     "success_rate": -0.011,
     "success_allowed": -0.012,
-    "points_per_game": 23.6,
+    "points_per_game": 23.7,
     "points_allowed": 22.2,
     "plays_per_game": 55.0
    }
@@ -424,9 +424,9 @@
     "rush": 2.7,
     "qb": 4.1,
     "def": 8.8,
-    "passD": 8.8,
-    "rushD": 7.6,
-    "st": 8.4,
+    "passD": 8.9,
+    "rushD": 7.5,
+    "st": 8.5,
     "pace": 6.4,
     "ovr": 6.1
    },
@@ -442,8 +442,8 @@
     "epa_allowed": -0.096,
     "success_rate": -0.043,
     "success_allowed": -0.041,
-    "points_per_game": 21.7,
-    "points_allowed": 17.7,
+    "points_per_game": 21.8,
+    "points_allowed": 17.8,
     "plays_per_game": 56.3
    }
   },
@@ -458,7 +458,7 @@
    "grades": {
     "off": 6.4,
     "pass": 7.6,
-    "rush": 4.1,
+    "rush": 4.0,
     "qb": 7.6,
     "def": 5.1,
     "passD": 4.9,
@@ -475,11 +475,11 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.054,
+    "epa_per_play": 0.053,
     "epa_allowed": -0.003,
     "success_rate": 0.018,
     "success_allowed": -0.007,
-    "points_per_game": 23.1,
+    "points_per_game": 23.2,
     "points_allowed": 21.0,
     "plays_per_game": 51.4
    }
@@ -495,7 +495,7 @@
    "grades": {
     "off": 6.7,
     "pass": 6.3,
-    "rush": 5.5,
+    "rush": 5.4,
     "qb": 6.9,
     "def": 3.6,
     "passD": 3.3,
@@ -517,7 +517,7 @@
     "success_rate": 0.021,
     "success_allowed": 0.002,
     "points_per_game": 26.1,
-    "points_allowed": 25.0,
+    "points_allowed": 25.1,
     "plays_per_game": 56.8
    }
   },
@@ -534,12 +534,12 @@
     "pass": 6.3,
     "rush": 2.2,
     "qb": 6.4,
-    "def": 5.4,
-    "passD": 5.3,
-    "rushD": 4.4,
+    "def": 5.5,
+    "passD": 5.4,
+    "rushD": 4.6,
     "st": 2.3,
     "pace": 6.2,
-    "ovr": 5.1
+    "ovr": 5.2
    },
    "qb": {
     "name": "C.Stroud",
@@ -549,10 +549,10 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.012,
-    "epa_allowed": 0.001,
+    "epa_per_play": 0.011,
+    "epa_allowed": -0.002,
     "success_rate": -0.004,
-    "success_allowed": -0.022,
+    "success_allowed": -0.023,
     "points_per_game": 23.1,
     "points_allowed": 23.3,
     "plays_per_game": 56.0
@@ -575,8 +575,8 @@
     "passD": 4.6,
     "rushD": 6.7,
     "st": 5.6,
-    "pace": 7.5,
-    "ovr": 5.0
+    "pace": 7.6,
+    "ovr": 5.1
    },
    "qb": {
     "name": "A.Rodgers",
@@ -587,9 +587,9 @@
    },
    "adjusted": {
     "epa_per_play": -0.012,
-    "epa_allowed": 0.001,
+    "epa_allowed": 0.0,
     "success_rate": -0.01,
-    "success_allowed": 0.001,
+    "success_allowed": 0.0,
     "points_per_game": 22.4,
     "points_allowed": 21.1,
     "plays_per_game": 58.4
@@ -606,14 +606,14 @@
    "grades": {
     "off": 4.1,
     "pass": 5.6,
-    "rush": 2.5,
+    "rush": 2.4,
     "qb": 5.4,
-    "def": 5.7,
+    "def": 5.8,
     "passD": 6.6,
-    "rushD": 5.1,
+    "rushD": 5.3,
     "st": 5.7,
-    "pace": 3.2,
-    "ovr": 4.9
+    "pace": 3.1,
+    "ovr": 5.0
    },
    "qb": {
     "name": "J.Love",
@@ -623,11 +623,11 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.001,
-    "epa_allowed": -0.038,
+    "epa_per_play": 0.0,
+    "epa_allowed": -0.04,
     "success_rate": -0.016,
-    "success_allowed": 0.008,
-    "points_per_game": 21.9,
+    "success_allowed": 0.007,
+    "points_per_game": 22.0,
     "points_allowed": 21.4,
     "plays_per_game": 50.7
    }
@@ -641,16 +641,16 @@
    "record": "3-3",
    "games": 6,
    "grades": {
-    "off": 6.0,
-    "pass": 5.7,
-    "rush": 6.7,
+    "off": 5.9,
+    "pass": 5.6,
+    "rush": 6.6,
     "qb": 6.0,
     "def": 4.1,
     "passD": 5.2,
-    "rushD": 3.5,
+    "rushD": 3.6,
     "st": 2.6,
     "pace": 3.8,
-    "ovr": 4.9
+    "ovr": 4.8
    },
    "qb": {
     "name": "B.Young",
@@ -660,11 +660,11 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.028,
+    "epa_per_play": 0.026,
     "epa_allowed": 0.033,
     "success_rate": 0.008,
     "success_allowed": 0.009,
-    "points_per_game": 24.8,
+    "points_per_game": 24.7,
     "points_allowed": 25.2,
     "plays_per_game": 51.8
    }
@@ -684,7 +684,7 @@
     "qb": 4.7,
     "def": 4.7,
     "passD": 4.2,
-    "rushD": 5.5,
+    "rushD": 5.4,
     "st": 5.3,
     "pace": 5.0,
     "ovr": 4.5
@@ -698,12 +698,49 @@
    },
    "adjusted": {
     "epa_per_play": -0.02,
-    "epa_allowed": -0.011,
+    "epa_allowed": -0.012,
     "success_rate": 0.007,
     "success_allowed": 0.005,
     "points_per_game": 21.3,
-    "points_allowed": 22.5,
+    "points_allowed": 22.6,
     "plays_per_game": 54.0
+   }
+  },
+  {
+   "team": "Cowboys",
+   "abbr": "DAL",
+   "name": "Dallas Cowboys",
+   "conference": "NFC East",
+   "color": "#003594",
+   "record": "3-4",
+   "games": 7,
+   "grades": {
+    "off": 6.7,
+    "pass": 6.0,
+    "rush": 6.2,
+    "qb": 5.9,
+    "def": 1.6,
+    "passD": 1.4,
+    "rushD": 1.8,
+    "st": 6.2,
+    "pace": 5.1,
+    "ovr": 4.4
+   },
+   "qb": {
+    "name": "D.Prescott",
+    "epa_per_dropback": 0.147,
+    "dropbacks": 249,
+    "season_leader": "D.Prescott",
+    "changed": false
+   },
+   "adjusted": {
+    "epa_per_play": 0.045,
+    "epa_allowed": 0.09,
+    "success_rate": 0.026,
+    "success_allowed": 0.028,
+    "points_per_game": 25.0,
+    "points_allowed": 24.8,
+    "plays_per_game": 54.1
    }
   },
   {
@@ -717,7 +754,7 @@
    "grades": {
     "off": 4.0,
     "pass": 3.2,
-    "rush": 6.1,
+    "rush": 6.0,
     "qb": 4.0,
     "def": 6.0,
     "passD": 5.8,
@@ -737,9 +774,9 @@
     "epa_per_play": -0.055,
     "epa_allowed": -0.029,
     "success_rate": -0.004,
-    "success_allowed": -0.006,
-    "points_per_game": 23.8,
-    "points_allowed": 23.5,
+    "success_allowed": -0.007,
+    "points_per_game": 23.9,
+    "points_allowed": 23.6,
     "plays_per_game": 48.0
    }
   },
@@ -753,12 +790,12 @@
    "games": 7,
    "grades": {
     "off": 3.8,
-    "pass": 2.4,
+    "pass": 2.5,
     "rush": 6.9,
-    "qb": 2.0,
-    "def": 4.2,
+    "qb": 2.1,
+    "def": 4.3,
     "passD": 4.8,
-    "rushD": 2.0,
+    "rushD": 2.1,
     "st": 5.2,
     "pace": 9.1,
     "ovr": 3.8
@@ -776,82 +813,8 @@
     "success_rate": -0.006,
     "success_allowed": -0.007,
     "points_per_game": 22.9,
-    "points_allowed": 24.9,
+    "points_allowed": 25.0,
     "plays_per_game": 61.1
-   }
-  },
-  {
-   "team": "Cowboys",
-   "abbr": "DAL",
-   "name": "Dallas Cowboys",
-   "conference": "NFC East",
-   "color": "#003594",
-   "record": "2-4",
-   "games": 6,
-   "grades": {
-    "off": 5.8,
-    "pass": 5.3,
-    "rush": 5.2,
-    "qb": 5.3,
-    "def": 1.6,
-    "passD": 0.9,
-    "rushD": 2.5,
-    "st": 6.1,
-    "pace": 4.8,
-    "ovr": 3.8
-   },
-   "qb": {
-    "name": "D.Prescott",
-    "epa_per_dropback": 0.109,
-    "dropbacks": 221,
-    "season_leader": "D.Prescott",
-    "changed": false
-   },
-   "adjusted": {
-    "epa_per_play": 0.024,
-    "epa_allowed": 0.088,
-    "success_rate": 0.017,
-    "success_allowed": 0.031,
-    "points_per_game": 23.9,
-    "points_allowed": 24.8,
-    "plays_per_game": 53.7
-   }
-  },
-  {
-   "team": "Eagles",
-   "abbr": "PHI",
-   "name": "Philadelphia Eagles",
-   "conference": "NFC East",
-   "color": "#004C54",
-   "record": "2-4",
-   "games": 6,
-   "grades": {
-    "off": 3.0,
-    "pass": 2.9,
-    "rush": 2.6,
-    "qb": 3.5,
-    "def": 4.9,
-    "passD": 4.8,
-    "rushD": 5.4,
-    "st": 7.3,
-    "pace": 6.1,
-    "ovr": 3.8
-   },
-   "qb": {
-    "name": "T.McKee",
-    "epa_per_dropback": -0.116,
-    "dropbacks": 46,
-    "season_leader": "J.Hurts",
-    "changed": true
-   },
-   "adjusted": {
-    "epa_per_play": -0.053,
-    "epa_allowed": 0.021,
-    "success_rate": -0.032,
-    "success_allowed": -0.005,
-    "points_per_game": 20.2,
-    "points_allowed": 22.8,
-    "plays_per_game": 55.8
    }
   },
   {
@@ -865,12 +828,12 @@
    "grades": {
     "off": 3.8,
     "pass": 3.8,
-    "rush": 4.6,
+    "rush": 4.5,
     "qb": 3.2,
     "def": 3.9,
     "passD": 2.8,
     "rushD": 5.5,
-    "st": 4.3,
+    "st": 4.4,
     "pace": 7.4,
     "ovr": 3.4
    },
@@ -883,10 +846,10 @@
    },
    "adjusted": {
     "epa_per_play": -0.033,
-    "epa_allowed": 0.045,
+    "epa_allowed": 0.044,
     "success_rate": -0.003,
     "success_allowed": -0.005,
-    "points_per_game": 21.7,
+    "points_per_game": 21.8,
     "points_allowed": 26.6,
     "plays_per_game": 58.1
    }
@@ -902,11 +865,11 @@
    "grades": {
     "off": 4.4,
     "pass": 4.7,
-    "rush": 2.3,
-    "qb": 4.5,
+    "rush": 2.2,
+    "qb": 4.4,
     "def": 2.7,
     "passD": 3.4,
-    "rushD": 1.7,
+    "rushD": 1.8,
     "st": 6.0,
     "pace": 7.0,
     "ovr": 3.4
@@ -923,7 +886,7 @@
     "epa_allowed": 0.047,
     "success_rate": -0.008,
     "success_allowed": 0.033,
-    "points_per_game": 23.1,
+    "points_per_game": 23.2,
     "points_allowed": 25.3,
     "plays_per_game": 57.4
    }
@@ -938,7 +901,7 @@
    "games": 7,
    "grades": {
     "off": 2.2,
-    "pass": 2.9,
+    "pass": 3.0,
     "rush": 2.8,
     "qb": 3.7,
     "def": 5.7,
@@ -975,15 +938,15 @@
    "games": 7,
    "grades": {
     "off": 3.3,
-    "pass": 4.0,
-    "rush": 3.7,
+    "pass": 4.1,
+    "rush": 3.6,
     "qb": 4.9,
-    "def": 3.6,
+    "def": 3.7,
     "passD": 4.6,
-    "rushD": 3.3,
-    "st": 6.7,
+    "rushD": 3.5,
+    "st": 6.8,
     "pace": 7.7,
-    "ovr": 3.2
+    "ovr": 3.3
    },
    "qb": {
     "name": "J.McCarthy",
@@ -994,12 +957,49 @@
    },
    "adjusted": {
     "epa_per_play": -0.025,
-    "epa_allowed": 0.027,
+    "epa_allowed": 0.025,
     "success_rate": -0.022,
-    "success_allowed": 0.004,
-    "points_per_game": 22.3,
+    "success_allowed": 0.003,
+    "points_per_game": 22.4,
     "points_allowed": 23.3,
     "plays_per_game": 58.7
+   }
+  },
+  {
+   "team": "Eagles",
+   "abbr": "PHI",
+   "name": "Philadelphia Eagles",
+   "conference": "NFC East",
+   "color": "#004C54",
+   "record": "2-5",
+   "games": 7,
+   "grades": {
+    "off": 3.0,
+    "pass": 2.5,
+    "rush": 3.1,
+    "qb": 3.2,
+    "def": 3.8,
+    "passD": 4.0,
+    "rushD": 4.1,
+    "st": 6.9,
+    "pace": 5.8,
+    "ovr": 3.2
+   },
+   "qb": {
+    "name": "T.McKee",
+    "epa_per_dropback": -0.082,
+    "dropbacks": 77,
+    "season_leader": "J.Hurts",
+    "changed": true
+   },
+   "adjusted": {
+    "epa_per_play": -0.052,
+    "epa_allowed": 0.042,
+    "success_rate": -0.034,
+    "success_allowed": 0.004,
+    "points_per_game": 20.2,
+    "points_allowed": 23.9,
+    "plays_per_game": 55.3
    }
   },
   {
@@ -1011,13 +1011,13 @@
    "record": "1-4-1",
    "games": 6,
    "grades": {
-    "off": 3.8,
+    "off": 3.7,
     "pass": 4.2,
-    "rush": 3.5,
+    "rush": 3.4,
     "qb": 4.8,
-    "def": 3.3,
+    "def": 3.4,
     "passD": 4.2,
-    "rushD": 4.3,
+    "rushD": 4.5,
     "st": 4.2,
     "pace": 6.1,
     "ovr": 3.0
@@ -1030,12 +1030,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.03,
-    "epa_allowed": 0.038,
-    "success_rate": -0.022,
-    "success_allowed": 0.021,
-    "points_per_game": 22.5,
-    "points_allowed": 25.8,
+    "epa_per_play": -0.033,
+    "epa_allowed": 0.035,
+    "success_rate": -0.023,
+    "success_allowed": 0.02,
+    "points_per_game": 22.4,
+    "points_allowed": 25.7,
     "plays_per_game": 55.8
    }
   },
@@ -1048,14 +1048,14 @@
    "record": "3-4",
    "games": 7,
    "grades": {
-    "off": 3.8,
+    "off": 3.7,
     "pass": 4.8,
     "rush": 2.3,
     "qb": 5.4,
-    "def": 1.9,
+    "def": 2.0,
     "passD": 1.8,
-    "rushD": 3.5,
-    "st": 4.0,
+    "rushD": 3.6,
+    "st": 4.1,
     "pace": 3.3,
     "ovr": 2.2
    },
@@ -1067,11 +1067,11 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.019,
+    "epa_per_play": -0.02,
     "epa_allowed": 0.067,
     "success_rate": -0.016,
     "success_allowed": 0.032,
-    "points_per_game": 24.5,
+    "points_per_game": 24.6,
     "points_allowed": 25.9,
     "plays_per_game": 51.0
    }
@@ -1090,8 +1090,8 @@
     "rush": 5.1,
     "qb": 3.8,
     "def": 1.1,
-    "passD": 0.6,
-    "rushD": 2.9,
+    "passD": 0.5,
+    "rushD": 3.0,
     "st": 2.0,
     "pace": 0.5,
     "ovr": 1.8
@@ -1104,7 +1104,7 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.019,
+    "epa_per_play": -0.02,
     "epa_allowed": 0.101,
     "success_rate": -0.018,
     "success_allowed": 0.047,
@@ -1122,13 +1122,13 @@
    "record": "1-6",
    "games": 7,
    "grades": {
-    "off": 2.3,
+    "off": 2.2,
     "pass": 1.7,
-    "rush": 4.8,
+    "rush": 4.7,
     "qb": 1.9,
     "def": 2.5,
-    "passD": 2.6,
-    "rushD": 2.5,
+    "passD": 2.5,
+    "rushD": 2.6,
     "st": 3.8,
     "pace": 0.4,
     "ovr": 1.5
@@ -1141,12 +1141,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.104,
+    "epa_per_play": -0.106,
     "epa_allowed": 0.066,
     "success_rate": -0.025,
     "success_allowed": 0.024,
     "points_per_game": 18.8,
-    "points_allowed": 23.1,
+    "points_allowed": 23.2,
     "plays_per_game": 45.9
    }
   },
@@ -1163,9 +1163,9 @@
     "pass": 1.2,
     "rush": 3.0,
     "qb": 0.6,
-    "def": 4.1,
+    "def": 4.2,
     "passD": 5.0,
-    "rushD": 2.3,
+    "rushD": 2.4,
     "st": 2.7,
     "pace": 4.5,
     "ovr": 1.1
@@ -1178,8 +1178,8 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.146,
-    "epa_allowed": 0.002,
+    "epa_per_play": -0.147,
+    "epa_allowed": 0.001,
     "success_rate": -0.039,
     "success_allowed": 0.013,
     "points_per_game": 18.8,
@@ -1190,147 +1190,147 @@
  ],
  "model": {
   "points": {
-   "mean": 22.983,
-   "hfa": -0.022,
+   "mean": 23.041,
+   "hfa": -0.077,
    "off": {
-    "49ers": 2.4836,
-    "Bears": 1.9915,
-    "Bengals": 2.341,
-    "Bills": 4.6274,
-    "Broncos": -0.9192,
-    "Browns": -1.9298,
-    "Buccaneers": 0.6234,
-    "Cardinals": -1.2507,
-    "Chargers": -4.2231,
-    "Chiefs": 0.1871,
-    "Colts": -0.0915,
-    "Commanders": -0.5045,
-    "Cowboys": 0.9439,
-    "Dolphins": -2.6675,
-    "Eagles": -2.7476,
-    "Falcons": 0.8473,
-    "Giants": -0.6528,
-    "Jaguars": 1.8119,
-    "Jets": -1.6711,
-    "Lions": 3.118,
-    "Packers": -1.0596,
-    "Panthers": 1.7948,
-    "Patriots": 0.155,
-    "Raiders": 1.5378,
-    "Rams": 0.2059,
-    "Ravens": 0.279,
-    "Saints": 0.1395,
-    "Seahawks": 0.5701,
-    "Steelers": -0.5828,
-    "Texans": 0.0801,
-    "Titans": -4.1885,
-    "Vikings": -1.2486
+    "49ers": 2.4747,
+    "Bears": 1.8971,
+    "Bengals": 2.3325,
+    "Bills": 4.613,
+    "Broncos": -0.9456,
+    "Browns": -1.9436,
+    "Buccaneers": 0.6145,
+    "Cardinals": -1.2724,
+    "Chargers": -4.2449,
+    "Chiefs": 0.1651,
+    "Colts": -0.093,
+    "Commanders": -0.6045,
+    "Cowboys": 1.9647,
+    "Dolphins": -2.6992,
+    "Eagles": -2.8323,
+    "Falcons": 0.8423,
+    "Giants": -0.6514,
+    "Jaguars": 1.7074,
+    "Jets": -1.6941,
+    "Lions": 3.1023,
+    "Packers": -1.0757,
+    "Panthers": 1.6927,
+    "Patriots": 0.1279,
+    "Raiders": 1.5194,
+    "Rams": 0.1081,
+    "Ravens": 0.2605,
+    "Saints": 0.1296,
+    "Seahawks": 0.5568,
+    "Steelers": -0.6017,
+    "Texans": 0.0763,
+    "Titans": -4.2703,
+    "Vikings": -1.2562
    },
    "def": {
-    "49ers": -1.4003,
-    "Bears": -1.0746,
-    "Bengals": -1.283,
-    "Bills": 2.6859,
-    "Broncos": -1.5109,
-    "Browns": -0.9941,
-    "Buccaneers": -0.7815,
-    "Cardinals": 3.5816,
-    "Chargers": 0.696,
-    "Chiefs": -2.4252,
-    "Colts": 1.9308,
-    "Commanders": 2.8017,
-    "Cowboys": 1.8634,
-    "Dolphins": 1.2932,
-    "Eagles": -0.1691,
-    "Falcons": 0.5426,
-    "Giants": 0.3595,
-    "Jaguars": -2.5729,
-    "Jets": -0.4827,
-    "Lions": 2.0437,
-    "Packers": -1.5739,
-    "Panthers": 2.1835,
-    "Patriots": -2.0109,
-    "Raiders": 2.8981,
-    "Rams": -0.3813,
-    "Ravens": 0.62,
-    "Saints": 2.2941,
-    "Seahawks": -2.4483,
-    "Steelers": -1.9203,
-    "Texans": 0.3297,
-    "Titans": 0.1411,
-    "Vikings": -5.236
+    "49ers": -1.4175,
+    "Bears": -1.0899,
+    "Bengals": -1.2874,
+    "Bills": 2.6721,
+    "Broncos": -1.5157,
+    "Browns": -0.9937,
+    "Buccaneers": -0.8828,
+    "Cardinals": 3.5685,
+    "Chargers": 0.6765,
+    "Chiefs": -2.445,
+    "Colts": 1.9188,
+    "Commanders": 2.701,
+    "Cowboys": 1.7754,
+    "Dolphins": 1.2806,
+    "Eagles": 0.851,
+    "Falcons": 0.5276,
+    "Giants": 0.2696,
+    "Jaguars": -2.5884,
+    "Jets": -0.4883,
+    "Lions": 2.0301,
+    "Packers": -1.6677,
+    "Panthers": 2.1728,
+    "Patriots": -2.016,
+    "Raiders": 2.8797,
+    "Rams": -0.3994,
+    "Ravens": 0.5193,
+    "Saints": 2.2691,
+    "Seahawks": -2.4665,
+    "Steelers": -1.9459,
+    "Texans": 0.2274,
+    "Titans": 0.1164,
+    "Vikings": -5.2516
    }
   },
   "epa": {
-   "hfa": -0.004,
-   "scale": 0.5741,
+   "hfa": -0.0049,
+   "scale": 0.5769,
    "off": {
-    "49ers": 0.1275,
-    "Bears": 0.0467,
-    "Bengals": 0.0846,
-    "Bills": 0.0949,
-    "Broncos": 0.0022,
-    "Browns": -0.0908,
-    "Buccaneers": -0.0353,
-    "Cardinals": -0.0328,
-    "Chargers": -0.1463,
-    "Chiefs": 0.0678,
-    "Colts": -0.0437,
-    "Commanders": -0.0303,
-    "Cowboys": 0.0245,
-    "Dolphins": -0.019,
-    "Eagles": -0.0535,
-    "Falcons": -0.0553,
-    "Giants": -0.0247,
-    "Jaguars": 0.0882,
-    "Jets": -0.0196,
-    "Lions": 0.0414,
-    "Packers": 0.001,
-    "Panthers": 0.028,
-    "Patriots": 0.054,
-    "Raiders": -0.0193,
-    "Rams": 0.0507,
-    "Ravens": 0.0672,
-    "Saints": -0.026,
-    "Seahawks": -0.023,
-    "Steelers": -0.0119,
-    "Texans": 0.0118,
-    "Titans": -0.104,
-    "Vikings": -0.055
+    "49ers": 0.1273,
+    "Bears": 0.0447,
+    "Bengals": 0.0844,
+    "Bills": 0.0946,
+    "Broncos": 0.0016,
+    "Browns": -0.0911,
+    "Buccaneers": -0.0358,
+    "Cardinals": -0.0333,
+    "Chargers": -0.1468,
+    "Chiefs": 0.0673,
+    "Colts": -0.0438,
+    "Commanders": -0.0327,
+    "Cowboys": 0.0454,
+    "Dolphins": -0.0197,
+    "Eagles": -0.0521,
+    "Falcons": -0.0554,
+    "Giants": -0.0249,
+    "Jaguars": 0.086,
+    "Jets": -0.0201,
+    "Lions": 0.041,
+    "Packers": 0.0003,
+    "Panthers": 0.0259,
+    "Patriots": 0.0534,
+    "Raiders": -0.0197,
+    "Rams": 0.0486,
+    "Ravens": 0.0665,
+    "Saints": -0.0263,
+    "Seahawks": -0.0233,
+    "Steelers": -0.0124,
+    "Texans": 0.0115,
+    "Titans": -0.1057,
+    "Vikings": -0.0552
    },
    "def": {
-    "49ers": -0.0172,
-    "Bears": -0.0515,
-    "Bengals": -0.025,
-    "Bills": 0.0437,
-    "Broncos": -0.0456,
+    "49ers": -0.0176,
+    "Bears": -0.0521,
+    "Bengals": -0.0251,
+    "Bills": 0.0434,
+    "Broncos": -0.0458,
     "Browns": -0.0129,
-    "Buccaneers": -0.0803,
-    "Cardinals": 0.0447,
-    "Chargers": 0.0019,
-    "Chiefs": -0.0119,
-    "Colts": 0.0384,
-    "Commanders": 0.0376,
-    "Cowboys": 0.0885,
-    "Dolphins": 0.1013,
-    "Eagles": 0.0211,
-    "Falcons": -0.0287,
-    "Giants": 0.027,
-    "Jaguars": -0.0987,
-    "Jets": -0.0113,
-    "Lions": 0.0468,
-    "Packers": -0.0379,
-    "Panthers": 0.0332,
-    "Patriots": -0.003,
-    "Raiders": 0.0674,
-    "Rams": -0.0482,
-    "Ravens": 0.0065,
-    "Saints": 0.0472,
-    "Seahawks": -0.1049,
-    "Steelers": 0.0007,
-    "Texans": 0.0006,
-    "Titans": 0.0663,
-    "Vikings": -0.0959
+    "Buccaneers": -0.0824,
+    "Cardinals": 0.0443,
+    "Chargers": 0.0015,
+    "Chiefs": -0.0124,
+    "Colts": 0.0382,
+    "Commanders": 0.0352,
+    "Cowboys": 0.0898,
+    "Dolphins": 0.101,
+    "Eagles": 0.042,
+    "Falcons": -0.029,
+    "Giants": 0.0251,
+    "Jaguars": -0.0993,
+    "Jets": -0.0115,
+    "Lions": 0.0465,
+    "Packers": -0.0399,
+    "Panthers": 0.0327,
+    "Patriots": -0.0032,
+    "Raiders": 0.067,
+    "Rams": -0.0488,
+    "Ravens": 0.0044,
+    "Saints": 0.0466,
+    "Seahawks": -0.1053,
+    "Steelers": 0.0001,
+    "Texans": -0.0016,
+    "Titans": 0.0655,
+    "Vikings": -0.0963
    }
   },
   "pace": {
@@ -1346,7 +1346,7 @@
    "Bears": 54.86,
    "Browns": 53.43,
    "Jaguars": 53.0,
-   "Cowboys": 53.67,
+   "Cowboys": 54.14,
    "Giants": 58.71,
    "Broncos": 51.57,
    "Chiefs": 51.5,
@@ -1364,10 +1364,10 @@
    "49ers": 50.29,
    "Bengals": 53.33,
    "Buccaneers": 55.0,
-   "Eagles": 55.83,
+   "Eagles": 55.29,
    "Commanders": 55.83
   },
-  "league_plays": 53.98,
+  "league_plays": 53.99,
   "games": {
    "Cardinals": 7,
    "Chargers": 6,
@@ -1381,7 +1381,7 @@
    "Bears": 7,
    "Browns": 7,
    "Jaguars": 6,
-   "Cowboys": 6,
+   "Cowboys": 7,
    "Giants": 7,
    "Broncos": 7,
    "Chiefs": 6,
@@ -1399,7 +1399,7 @@
    "49ers": 7,
    "Bengals": 6,
    "Buccaneers": 7,
-   "Eagles": 6,
+   "Eagles": 7,
    "Commanders": 6
   }
  },
