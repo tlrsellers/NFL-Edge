@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 21,
-  "pending": 17,
+  "pending": 18,
   "overall": {
    "wins": 13,
    "losses": 8,
@@ -1439,7 +1439,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -10.17
+   "close": -10.33
   },
   "2026_08_ARI_DAL:spread": {
    "game": "2026_08_ARI_DAL",
@@ -1717,7 +1717,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 45.0
+   "close": 45.33
   },
   "2026_08_NE_MIA:spread": {
    "game": "2026_08_NE_MIA",
@@ -1775,7 +1775,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 6.83
+   "close": 7.0
   },
   "2026_07_GB_DET:spread": {
    "game": "2026_07_GB_DET",
@@ -1899,7 +1899,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -5.5
+   "close": -5.83
   },
   "2026_08_PHI_WAS:total": {
    "game": "2026_08_PHI_WAS",
@@ -2331,7 +2331,63 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 45.33
+   "close": 45.0
+  },
+  "2026_08_NE_MIA:total": {
+   "game": "2026_08_NE_MIA",
+   "week": 8,
+   "start": "2026-11-01T21:25Z",
+   "home": "Dolphins",
+   "away": "Patriots",
+   "bet": "total",
+   "side": "Under",
+   "line": 44.5,
+   "book": "fanduel",
+   "edge": -1.8,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-10-28T23:28Z",
+   "projection": {
+    "home": 20.3,
+    "away": 26.0,
+    "total": 46.3
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 12.0,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Dolphins defense",
+      "points": -2.1
+     },
+     {
+      "label": "Dolphins offense",
+      "points": 1.6
+     },
+     {
+      "label": "Patriots defense",
+      "points": 1.1
+     },
+     {
+      "label": "Patriots offense",
+      "points": -0.8
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "75% chance of rain, which also tends to slow scoring.",
+     "Recent headlines mention an injury or absence for the Patriots.",
+     "Recent headlines mention an injury or absence for the Dolphins."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 44.0
   }
  }
 }
