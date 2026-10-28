@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 21,
-  "pending": 16,
+  "pending": 17,
   "overall": {
    "wins": 13,
    "losses": 8,
@@ -1439,7 +1439,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -10.33
+   "close": -10.17
   },
   "2026_08_ARI_DAL:spread": {
    "game": "2026_08_ARI_DAL",
@@ -1497,7 +1497,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -6.5
+   "close": -6.83
   },
   "2026_08_MIN_DET:spread": {
    "game": "2026_08_MIN_DET",
@@ -1717,7 +1717,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 45.17
+   "close": 45.0
   },
   "2026_08_NE_MIA:spread": {
    "game": "2026_08_NE_MIA",
@@ -1775,7 +1775,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 7.0
+   "close": 6.83
   },
   "2026_07_GB_DET:spread": {
    "game": "2026_07_GB_DET",
@@ -2071,22 +2071,22 @@
    "line": 46.5,
    "book": "draftkings",
    "edge": 0.3,
-   "tier": "lean",
-   "pattern": "wind10",
-   "cover": 0.538,
-   "called": "2026-10-26T15:32Z",
+   "tier": "strong",
+   "pattern": "wind15",
+   "cover": 0.57,
+   "called": "2026-10-28T14:46Z",
    "projection": {
-    "home": 26.9,
-    "away": 19.4,
+    "home": 26.8,
+    "away": 19.5,
     "total": 46.2
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 12.0,
+    "wind": 15.0,
     "side_is_home": null,
     "moved_against": -1.0,
-    "note": null,
+    "note": "Wind forecast of 15 mph, but kickoff is 99 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
     "factors": [
      {
       "label": "Jaguars defense",
@@ -2094,7 +2094,7 @@
      },
      {
       "label": "Jaguars offense",
-      "points": -2.4
+      "points": -2.3
      },
      {
       "label": "Colts defense",
@@ -2106,11 +2106,11 @@
      }
     ],
     "risks": [
-     "Recent headlines mention a quarterback issue for the Colts. Read them below before betting.",
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "Recent headlines mention an injury or absence for the Jaguars."
+     "57% chance of rain, which also tends to slow scoring.",
+     "Recent headlines mention an injury or absence for the Colts."
     ],
-    "news_qb": true,
+    "news_qb": false,
     "news_injury": true
    },
    "close": 46.5
@@ -2275,7 +2275,63 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 40.83
+   "close": 40.5
+  },
+  "2026_08_ATL_TB:total": {
+   "game": "2026_08_ATL_TB",
+   "week": 8,
+   "start": "2026-11-01T18:00Z",
+   "home": "Buccaneers",
+   "away": "Falcons",
+   "bet": "total",
+   "side": "Under",
+   "line": 45.5,
+   "book": "draftkings",
+   "edge": 1.9,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-10-28T14:46Z",
+   "projection": {
+    "home": 22.5,
+    "away": 21.1,
+    "total": 43.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 10.0,
+    "side_is_home": null,
+    "moved_against": 0.3,
+    "note": null,
+    "factors": [
+     {
+      "label": "Buccaneers defense",
+      "points": 1.7
+     },
+     {
+      "label": "Falcons offense",
+      "points": 0.4
+     },
+     {
+      "label": "Buccaneers offense",
+      "points": 0.2
+     },
+     {
+      "label": "Falcons defense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "56% chance of rain, which also tends to slow scoring.",
+     "Recent headlines mention an injury or absence for the Falcons.",
+     "Recent headlines mention an injury or absence for the Buccaneers."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 45.33
   }
  }
 }
