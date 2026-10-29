@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 21,
-  "pending": 18,
+  "pending": 19,
   "overall": {
    "wins": 13,
    "losses": 8,
@@ -1439,7 +1439,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -10.33
+   "close": -10.5
   },
   "2026_08_ARI_DAL:spread": {
    "game": "2026_08_ARI_DAL",
@@ -2331,7 +2331,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 45.0
+   "close": 44.67
   },
   "2026_08_NE_MIA:total": {
    "game": "2026_08_NE_MIA",
@@ -2387,7 +2387,66 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.0
+   "close": 43.5
+  },
+  "2026_09_JAX_BAL:spread": {
+   "game": "2026_09_JAX_BAL",
+   "week": 9,
+   "start": "2026-11-06T01:15Z",
+   "home": "Ravens",
+   "away": "Jaguars",
+   "bet": "spread",
+   "side": "Jaguars",
+   "line": 3.0,
+   "book": "draftkings",
+   "edge": 7.4,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.511,
+   "called": "2026-10-29T14:48Z",
+   "projection": {
+    "home": 21.3,
+    "away": 25.7,
+    "total": 46.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Jaguars defense",
+      "points": 2.8
+     },
+     {
+      "label": "Jaguars offense",
+      "points": 2.2
+     },
+     {
+      "label": "Ravens offense",
+      "points": -1.2
+     },
+     {
+      "label": "Ravens defense",
+      "points": 0.3
+     },
+     {
+      "label": "Home field",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Ravens. Read them below before betting.",
+     "A 7.4 point gap with an NFL line is unusually large. It usually means the market knows something the stats don't (an injury, a QB change). Check the injury report.",
+     "Recent headlines mention an injury or absence for the Jaguars."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -3.0
   }
  }
 }
