@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T14:48Z",
+ "updated": "2026-10-30T23:28Z",
  "week": 8,
  "season": 2026,
  "sample": false,
@@ -22,7 +22,7 @@
     "temp": 63,
     "short": "Partly Sunny",
     "rain": 0,
-    "checked": "2026-10-30T14:48Z"
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -35,8 +35,8 @@
     },
     "fanduel": {
      "spread_home": -3.0,
-     "spread_home_price": -115,
-     "spread_away_price": -105,
+     "spread_home_price": -118,
+     "spread_away_price": -104,
      "total": 54.5,
      "over_price": -105,
      "under_price": -115
@@ -130,6 +130,11 @@
      "2026-10-30T14:48Z",
      -3.0,
      54.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -3.0,
+     54.5
     ]
    ],
    "projection": {
@@ -192,16 +197,16 @@
    "weather": {
     "wind": 3.0,
     "wind_text": "3 mph",
-    "temp": 67,
-    "short": "Chance Light Rain",
-    "rain": 41,
-    "checked": "2026-10-30T14:48Z"
+    "temp": 68,
+    "short": "Slight Chance Light Rain",
+    "rain": 20,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
      "spread_home": -12.5,
-     "spread_home_price": -105,
-     "spread_away_price": -115,
+     "spread_home_price": -108,
+     "spread_away_price": -112,
      "total": 46.5,
      "over_price": -110,
      "under_price": -110
@@ -215,12 +220,12 @@
      "under_price": -105
     },
     "bovada": {
-     "spread_home": -12.0,
-     "spread_home_price": -110,
-     "spread_away_price": -110,
+     "spread_home": -12.5,
+     "spread_home_price": -108,
+     "spread_away_price": -112,
      "total": 46.5,
-     "over_price": -110,
-     "under_price": -110
+     "over_price": -108,
+     "under_price": -112
     }
    },
    "open": {
@@ -303,6 +308,11 @@
      "2026-10-30T14:48Z",
      -12.33,
      46.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -12.5,
+     46.5
     ]
    ],
    "projection": {
@@ -321,7 +331,7 @@
      "label": "Titans +12.5",
      "cover": 0.507,
      "tier": "model",
-     "moved_against": 2.1,
+     "moved_against": 2.2,
      "pattern": null
     },
     "total": {
@@ -346,8 +356,92 @@
     "label": "Titans +12.5",
     "cover": 0.507,
     "tier": "model",
-    "moved_against": 2.1,
+    "moved_against": 2.2,
     "pattern": null
+   },
+   "news": {
+    "Titans": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Titans' Carnell Tate out, John Franklin-Myers questionable for Week 8",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYWRRMEJxQVFaYmtyMlZ5Q19DOU1QWTk1cER1U0xvT01jcXJ2UVQ1czFtZHVFUXpUcElLZndlUnhrdmktLXlMaWRMYUE2VVVQNTNyQ3hmZGZ0Sm5Ec0VDRHN1aVNOY1hkRmxxaDBWZWJFVFpPaXRWZDYySl9PQVloSTBHWTRQbTdTY1VkQUR1S2E3amdfM1VneTNWZzZCZTRkSkVmQUk3T1JjQTBpSU05M3lJYjJpODVNNkpfaUdaaXlqTDVFY0ZRbGdQYnJpUnFaTzdIYm9OeWh1YUJSVmZWX0FqUlluV1pCQ1FTbk9VV3dUSk9HalJUdlFKdFBfOE5TYjFmcGNTZw?oc=5",
+       "source": "Titans Wire",
+       "published": "2026-10-30T20:40+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Titans' leading receiver misses practice again of Bengals' game",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdE1aVVhVMktvMnczS050b2YtdlZPcTB3d3Z0THlvR2dMRHVFN2JzTWVQaTk0MnlCUkZuQWs4a2loRHBOV0ZzUk1oNnQyZXhlUG1CQjRKQXhYWVFmYU9QV2JTbWpfZ3cwb0FzZWtuZTJUUHQ0ZmZCb2gxQzZpNkpGX0E1c0NLaEZOWEI1bmNDUHE4QQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T03:47+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "What former Titans DT Jeffery Simmons said after 1st Chicago Bears practice",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUdiaE4xbU1hOXlDaF9sZFJ1enhBVUV5UzZNblVReF9WX1d0ZWlOYWwzVl9tekE3cExxYmNSUVZETEN3blZ5NVZEckF5SjFKaGU1X0s5UTdBY0l3RkRCOTI2cWdKdXJTRWEwSVlmWF9URXNGWU5MeE9zZUNCVnJTcEFLY3pOVXlFWm9RdkZpZG55VXhQTzA4a2ozYktqV0V5dVgxV291RHJnLWtVcmhvd1htT1ZncEk3SDZzR0RTRnRSYThqSTh2WHRmRkx3dXlpeE9TSHkyaXJRdw?oc=5",
+       "source": "The Tennessean",
+       "published": "2026-10-30T21:31+00:00",
+       "flag": null
+      },
+      {
+       "title": "Jeffery Simmons sends heartfelt message to Titans fans and Nashville",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTHA1Y0JlUUpJeXR2dU04VnVEZkpqN041OE9KY0hiR25qcHVpZnBGWUtJbTV0RFdmUnZETTNzUzVDbFpMVTRoRTFic2ZpUWZzWDluTUFfNWd6LXBPa191aVcweDNQVnR5R3FsQ01IUktaeHN0dy1LTGE0b3BiTGU4bi1nVzE3cUh1XzEzempqVHpPMWFvbUtjSkNoRmNkdFVKQnBwQy1NRnBvd3o3ejRqUzlCN3hNZUdJZzZIbHc5ZHNQNG9qZ29TV1hUZG5oQXR5dWUydllIWGtZY29BWXRsSjE3UWpQdUNuUkdpeUFXOA?oc=5",
+       "source": "Titans Wire",
+       "published": "2026-10-30T20:39+00:00",
+       "flag": null
+      },
+      {
+       "title": "Bengals vs. Titans odds, expert picks, and our prediction for Week 8 matchup",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmFNeTlVWHE3Wlp3TjJFMi1Fb1lCMkxnOW9YV2RiZVl5SFpsSHF3TzdWX0ZIYXV1eXlFRlI3SVNlNGtyeC1JVlBMQW5pQWZBLUhEN2dJcV9PdlBORlgtY3JNV05ucTdNZ0puQ3N2cldvZ21lSFhFdGtYdGhtTkk2T0F6U0g?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:08+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Bengals": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Bengals officially declare one player out, another questionable for Week 8 matchup against Titans",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM21sQ3hWeFhKanU4QVI2SnlHeFVTdE1uSmlKSHVmcGNsWVpORy0xTkN1RFFtZG5wdEg2OXVscmNQMGZBZWgyekxac2Z2UEhxMzFmcUlHWmJQWUNNYnprYlhEN3NmcTEwNFRHZnY5MTZvdlBGcW5NMFJ3V2ZLMmdlLUt6Q2phU0xmQ2hRanlZY2xhNDdkSVlNaUlGNnc2ZzhoaS0xQVZzS1VBVU1xb3IwNHJ5R1FmRUNSWkVaeG5LbzdmcmhYSkR6UnFn?oc=5",
+       "source": "A to Z Sports",
+       "published": "2026-10-30T21:15+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Zac Taylor provides final injury update ahead of Bengals vs. Titans",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWs4SkZNX294cGNNYU9mWmFWRUxFUWJXZWZMc1VGR0xTOHpoeEJFQjRNcjQ5TjZXLTJtSWdiQ05YSmZ5b2RJZ2ZuRWpkbktPclBjUTFjN3RpRU5PZ05ZMzNNRGF6Yjd4a196UXJITHZXTnRLcDBmZjBjUnBiMjlzNXEzNmJQYWps?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T17:26+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Cincinnati Bengals Get New Saquon Barkley Trade Report",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzFiLVYxcW0tcEpGcUlqTzNIanFfakRNNGp3OE5hWnZ6aGQtRWFwWVNJVEV2em05UUpjTDB3NmZjUWFtd2tOdk1JS2xpRUFnTGV6a1hWdkI0QTgtR1lBTjdrRlJlUkRNZ3doNGZJbEJNNmFlX0lLWnliREV2VEVwMlpNTVN6RTczSms2S3pmRWpqZw?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T23:01+00:00",
+       "flag": null
+      },
+      {
+       "title": "Bengals QB Makes Surprising Offer to Cover Caleb Williams\u2019 $23K NFL Fine",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejBPdVRIRWhKbXJVa3VzaUhCYk9weTlXaW40anRwWDk5YmtCeWxrN1RtSUpZNVRnVTJiTDFqSEJyZnoyTzB3T2JjWEJDTF84dXNNWTJ2MVdWb3JPbkJicWNla3dLaTA1azVtZlp2MGp6bUxWTF9qU0x5WkhPYUpoVVhuVHUtLVhYd2pZYkpvTDdaelgxUUV5T3BqZkVsMk9ROWVmVUR6STVtbi1hMElPZlkyV0RDQXhZbGxn?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T20:33+00:00",
+       "flag": null
+      },
+      {
+       "title": "Bengals vs. Titans odds, expert picks, and our prediction for Week 8 matchup",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmFNeTlVWHE3Wlp3TjJFMi1Fb1lCMkxnOW9YV2RiZVl5SFpsSHF3TzdWX0ZIYXV1eXlFRlI3SVNlNGtyeC1JVlBMQW5pQWZBLUhEN2dJcV9PdlBORlgtY3JNV05ucTdNZ0puQ3N2cldvZ21lSFhFdGtYdGhtTkk2T0F6U0g?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:08+00:00",
+       "flag": null
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -398,7 +492,7 @@
       },
       {
        "ok": null,
-       "text": "The line has moved 2.1 against this side since it opened."
+       "text": "The line has moved 2.2 against this side since it opened."
       },
       {
        "ok": null,
@@ -422,6 +516,14 @@
        "team": "Titans"
       },
       {
+       "title": "Titans' leading receiver misses practice again of Bengals' game",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdE1aVVhVMktvMnczS050b2YtdlZPcTB3d3Z0THlvR2dMRHVFN2JzTWVQaTk0MnlCUkZuQWs4a2loRHBOV0ZzUk1oNnQyZXhlUG1CQjRKQXhYWVFmYU9QV2JTbWpfZ3cwb0FzZWtuZTJUUHQ0ZmZCb2gxQzZpNkpGX0E1c0NLaEZOWEI1bmNDUHE4QQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T03:47+00:00",
+       "flag": "injury",
+       "team": "Titans"
+      },
+      {
        "title": "What former Titans DT Jeffery Simmons said after 1st Chicago Bears practice",
        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUdiaE4xbU1hOXlDaF9sZFJ1enhBVUV5UzZNblVReF9WX1d0ZWlOYWwzVl9tekE3cExxYmNSUVZETEN3blZ5NVZEckF5SjFKaGU1X0s5UTdBY0l3RkRCOTI2cWdKdXJTRWEwSVlmWF9URXNGWU5MeE9zZUNCVnJTcEFLY3pOVXlFWm9RdkZpZG55VXhQTzA4a2ozYktqV0V5dVgxV291RHJnLWtVcmhvd1htT1ZncEk3SDZzR0RTRnRSYThqSTh2WHRmRkx3dXlpeE9TSHkyaXJRdw?oc=5",
        "source": "The Tennessean",
@@ -434,14 +536,6 @@
        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTHA1Y0JlUUpJeXR2dU04VnVEZkpqN041OE9KY0hiR25qcHVpZnBGWUtJbTV0RFdmUnZETTNzUzVDbFpMVTRoRTFic2ZpUWZzWDluTUFfNWd6LXBPa191aVcweDNQVnR5R3FsQ01IUktaeHN0dy1LTGE0b3BiTGU4bi1nVzE3cUh1XzEzempqVHpPMWFvbUtjSkNoRmNkdFVKQnBwQy1NRnBvd3o3ejRqUzlCN3hNZUdJZzZIbHc5ZHNQNG9qZ29TV1hUZG5oQXR5dWUydllIWGtZY29BWXRsSjE3UWpQdUNuUkdpeUFXOA?oc=5",
        "source": "Titans Wire",
        "published": "2026-10-30T20:39+00:00",
-       "flag": null,
-       "team": "Titans"
-      },
-      {
-       "title": "Tennessee Titans @ Cincinnati Bengals: Live game updates, stats, play-by-play",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWp1ejhrX2ZWN2ZQR09wT2FaRERSOFhxUENoSFpoY1lfZXR2eThoOEdlWi1zeENxQ29kWDJROGpVNlg5QjJlT044Tm9JdFhPd3AtdzE1RzhTVl9VaE9BcEZwRVRBMm9MMTgwbC1CYlBsVFZlNzktOGlYeFNrOE5lYUFmUQ?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:33+00:00",
        "flag": null,
        "team": "Titans"
       },
@@ -470,6 +564,14 @@
        "team": "Bengals"
       },
       {
+       "title": "Cincinnati Bengals Get New Saquon Barkley Trade Report",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzFiLVYxcW0tcEpGcUlqTzNIanFfakRNNGp3OE5hWnZ6aGQtRWFwWVNJVEV2em05UUpjTDB3NmZjUWFtd2tOdk1JS2xpRUFnTGV6a1hWdkI0QTgtR1lBTjdrRlJlUkRNZ3doNGZJbEJNNmFlX0lLWnliREV2VEVwMlpNTVN6RTczSms2S3pmRWpqZw?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T23:01+00:00",
+       "flag": null,
+       "team": "Bengals"
+      },
+      {
        "title": "Bengals QB Makes Surprising Offer to Cover Caleb Williams\u2019 $23K NFL Fine",
        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejBPdVRIRWhKbXJVa3VzaUhCYk9weTlXaW40anRwWDk5YmtCeWxrN1RtSUpZNVRnVTJiTDFqSEJyZnoyTzB3T2JjWEJDTF84dXNNWTJ2MVdWb3JPbkJicWNla3dLaTA1azVtZlp2MGp6bUxWTF9qU0x5WkhPYUpoVVhuVHUtLVhYd2pZYkpvTDdaelgxUUV5T3BqZkVsMk9ROWVmVUR6STVtbi1hMElPZlkyV0RDQXhZbGxn?oc=5",
        "source": "Heavy.com",
@@ -484,98 +586,6 @@
        "published": "2026-10-30T20:08+00:00",
        "flag": null,
        "team": "Bengals"
-      },
-      {
-       "title": "Cincinnati Bengals Get New Saquon Barkley Trade Report",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObjRSLWNyUE9pODBra00zLWxGNGs1S1duTFNrS3NvR3hWQUg2bjBCRzIwUmYwdlVjWFIxRDlzbkxDakFzYkpYMjY4S2JuMHZ3LWExLW5Reko2VHhuRE1SVjdFZ29rTWFTSGxsN1ZpXzRlRm1hRm1WM3JaWTE5ZlptdWJVVVVlTnM?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T20:01+00:00",
-       "flag": null,
-       "team": "Bengals"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Titans": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Titans' Carnell Tate out, John Franklin-Myers questionable for Week 8",
-       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYWRRMEJxQVFaYmtyMlZ5Q19DOU1QWTk1cER1U0xvT01jcXJ2UVQ1czFtZHVFUXpUcElLZndlUnhrdmktLXlMaWRMYUE2VVVQNTNyQ3hmZGZ0Sm5Ec0VDRHN1aVNOY1hkRmxxaDBWZWJFVFpPaXRWZDYySl9PQVloSTBHWTRQbTdTY1VkQUR1S2E3amdfM1VneTNWZzZCZTRkSkVmQUk3T1JjQTBpSU05M3lJYjJpODVNNkpfaUdaaXlqTDVFY0ZRbGdQYnJpUnFaTzdIYm9OeWh1YUJSVmZWX0FqUlluV1pCQ1FTbk9VV3dUSk9HalJUdlFKdFBfOE5TYjFmcGNTZw?oc=5",
-       "source": "Titans Wire",
-       "published": "2026-10-30T20:40+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "What former Titans DT Jeffery Simmons said after 1st Chicago Bears practice",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUdiaE4xbU1hOXlDaF9sZFJ1enhBVUV5UzZNblVReF9WX1d0ZWlOYWwzVl9tekE3cExxYmNSUVZETEN3blZ5NVZEckF5SjFKaGU1X0s5UTdBY0l3RkRCOTI2cWdKdXJTRWEwSVlmWF9URXNGWU5MeE9zZUNCVnJTcEFLY3pOVXlFWm9RdkZpZG55VXhQTzA4a2ozYktqV0V5dVgxV291RHJnLWtVcmhvd1htT1ZncEk3SDZzR0RTRnRSYThqSTh2WHRmRkx3dXlpeE9TSHkyaXJRdw?oc=5",
-       "source": "The Tennessean",
-       "published": "2026-10-30T21:31+00:00",
-       "flag": null
-      },
-      {
-       "title": "Jeffery Simmons sends heartfelt message to Titans fans and Nashville",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTHA1Y0JlUUpJeXR2dU04VnVEZkpqN041OE9KY0hiR25qcHVpZnBGWUtJbTV0RFdmUnZETTNzUzVDbFpMVTRoRTFic2ZpUWZzWDluTUFfNWd6LXBPa191aVcweDNQVnR5R3FsQ01IUktaeHN0dy1LTGE0b3BiTGU4bi1nVzE3cUh1XzEzempqVHpPMWFvbUtjSkNoRmNkdFVKQnBwQy1NRnBvd3o3ejRqUzlCN3hNZUdJZzZIbHc5ZHNQNG9qZ29TV1hUZG5oQXR5dWUydllIWGtZY29BWXRsSjE3UWpQdUNuUkdpeUFXOA?oc=5",
-       "source": "Titans Wire",
-       "published": "2026-10-30T20:39+00:00",
-       "flag": null
-      },
-      {
-       "title": "Tennessee Titans @ Cincinnati Bengals: Live game updates, stats, play-by-play",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWp1ejhrX2ZWN2ZQR09wT2FaRERSOFhxUENoSFpoY1lfZXR2eThoOEdlWi1zeENxQ29kWDJROGpVNlg5QjJlT044Tm9JdFhPd3AtdzE1RzhTVl9VaE9BcEZwRVRBMm9MMTgwbC1CYlBsVFZlNzktOGlYeFNrOE5lYUFmUQ?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:33+00:00",
-       "flag": null
-      },
-      {
-       "title": "Bengals vs. Titans odds, expert picks, and our prediction for Week 8 matchup",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmFNeTlVWHE3Wlp3TjJFMi1Fb1lCMkxnOW9YV2RiZVl5SFpsSHF3TzdWX0ZIYXV1eXlFRlI3SVNlNGtyeC1JVlBMQW5pQWZBLUhEN2dJcV9PdlBORlgtY3JNV05ucTdNZ0puQ3N2cldvZ21lSFhFdGtYdGhtTkk2T0F6U0g?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:08+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Bengals": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Bengals officially declare one player out, another questionable for Week 8 matchup against Titans",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM21sQ3hWeFhKanU4QVI2SnlHeFVTdE1uSmlKSHVmcGNsWVpORy0xTkN1RFFtZG5wdEg2OXVscmNQMGZBZWgyekxac2Z2UEhxMzFmcUlHWmJQWUNNYnprYlhEN3NmcTEwNFRHZnY5MTZvdlBGcW5NMFJ3V2ZLMmdlLUt6Q2phU0xmQ2hRanlZY2xhNDdkSVlNaUlGNnc2ZzhoaS0xQVZzS1VBVU1xb3IwNHJ5R1FmRUNSWkVaeG5LbzdmcmhYSkR6UnFn?oc=5",
-       "source": "A to Z Sports",
-       "published": "2026-10-30T21:15+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Zac Taylor provides final injury update ahead of Bengals vs. Titans",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWs4SkZNX294cGNNYU9mWmFWRUxFUWJXZWZMc1VGR0xTOHpoeEJFQjRNcjQ5TjZXLTJtSWdiQ05YSmZ5b2RJZ2ZuRWpkbktPclBjUTFjN3RpRU5PZ05ZMzNNRGF6Yjd4a196UXJITHZXTnRLcDBmZjBjUnBiMjlzNXEzNmJQYWps?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T17:26+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Bengals QB Makes Surprising Offer to Cover Caleb Williams\u2019 $23K NFL Fine",
-       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejBPdVRIRWhKbXJVa3VzaUhCYk9weTlXaW40anRwWDk5YmtCeWxrN1RtSUpZNVRnVTJiTDFqSEJyZnoyTzB3T2JjWEJDTF84dXNNWTJ2MVdWb3JPbkJicWNla3dLaTA1azVtZlp2MGp6bUxWTF9qU0x5WkhPYUpoVVhuVHUtLVhYd2pZYkpvTDdaelgxUUV5T3BqZkVsMk9ROWVmVUR6STVtbi1hMElPZlkyV0RDQXhZbGxn?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T20:33+00:00",
-       "flag": null
-      },
-      {
-       "title": "Bengals vs. Titans odds, expert picks, and our prediction for Week 8 matchup",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmFNeTlVWHE3Wlp3TjJFMi1Fb1lCMkxnOW9YV2RiZVl5SFpsSHF3TzdWX0ZIYXV1eXlFRlI3SVNlNGtyeC1JVlBMQW5pQWZBLUhEN2dJcV9PdlBORlgtY3JNV05ucTdNZ0puQ3N2cldvZ21lSFhFdGtYdGhtTkk2T0F6U0g?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:08+00:00",
-       "flag": null
-      },
-      {
-       "title": "Cincinnati Bengals Get New Saquon Barkley Trade Report",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObjRSLWNyUE9pODBra00zLWxGNGs1S1duTFNrS3NvR3hWQUg2bjBCRzIwUmYwdlVjWFIxRDlzbkxDakFzYkpYMjY4S2JuMHZ3LWExLW5Reko2VHhuRE1SVjdFZ29rTWFTSGxsN1ZpXzRlRm1hRm1WM3JaWTE5ZlptdWJVVVVlTnM?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T20:01+00:00",
-       "flag": null
       }
      ]
     }
@@ -612,11 +622,11 @@
     },
     "bovada": {
      "spread_home": -7.0,
-     "spread_home_price": -112,
-     "spread_away_price": -108,
+     "spread_home_price": -110,
+     "spread_away_price": -110,
      "total": 54.5,
-     "over_price": -115,
-     "under_price": -105
+     "over_price": -110,
+     "under_price": -110
     }
    },
    "open": {
@@ -694,6 +704,11 @@
      "2026-10-30T14:48Z",
      -7.0,
      54.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -7.0,
+     54.5
     ]
    ],
    "projection": {
@@ -739,6 +754,90 @@
     "tier": "model",
     "moved_against": 0.5,
     "pattern": null
+   },
+   "news": {
+    "Cardinals": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Jeremiyah Love Injury Update: Cardinals RB\u2019s Week 8 Status Revealed",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODVPMjdzOGl6dUZ4djJCVWxyTlVldXFpY1VIWFJlNDRVQ0tvUzVhYjluWGh2VzdnemZKSUJha21TQXdkd0VMY0hFMXhaV01kUlpCeGpnMGdfQVo2YU5SZ1FKOU41SlR5Ry11Q0JGQ3NnSmlaX25wZUxTZEt5MkYyVlRoZzl2alpoMW1N?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T01:03+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Walter Nolen III Gets Injury Update Ahead of Cardinals-Cowboys",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUNpa0xxZkM0OWhHM0hOSTBlQzNlel9nRkJlbW5waDVKUEMzeUprR3BZSi1zN0h3UHA2YlIxMTJ4UE9FSzhIbzZ0aDQzcFdVMFl4eW5uWnRibW1hWDBiZ3I4bF96RG1wanZuNDliS2RTaGswaENlS3F4YTd3bzV4b2VMUQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T21:23+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Cardinals vs. Cowboys prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkg4V1kxSnlQQjkxcVEyaWFkM29LTFhXOTUwS0dQZGk1X1g4Uk9PMEczZzBub2k1aUdpbkE5V3VSSGRQMElNeGpOMmtOZkpRa01Cc3lDNGtZUkdMYkxtLTVVSG9pUjhrU3doTkxXYU9sMkllSTZXOVNUd3hZbDdaWWlMM3A1TFFSYmN1UkExVDVFYzZsSFdLZXpKZFd5REdnWjRLRlRfRmhIZG8wN0tIRHc3dzl6YzE1cXNwSkozYnl4TVJudndGZWZ3QU1FUUE?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-28T16:16+00:00",
+       "flag": "qb"
+      },
+      {
+       "title": "Arizona Cardinals bringing back WR Zay Jones after Jalen Brooks' injury",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0xMOWU3WFk5QWhTS1VKc2U1ekFpaUc0ZVhNaDdULVR5eUljS3dLWURxNTRLN0dLajk0Y1liREkzNWF6bmF3Wl9VOVFENmtCLXNNZFpLRXpXa2xXY0w4OHRhblBrVDlYTUpwT1BZUnRSZlNsS1pkOUhNSktleVRsc1NCQzFUa1oyZm53?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T12:44+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Arizona Cardinals place Jalen Brooks on injured reserve, add two players to practice squad",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnhlcU1iQUNsUFkwakVraWJLV29BTmRpMEFWSEliRzFxYjhWaEtTUzEyQUlIQXM5c3owM3pjT2hpRWxOOVE4S2ktQ0xxVEZTZlZKWDN2ZnI0ODJ1TS1iZ2ZOcVVnY0Q4enlpNjJZcXlUZnRDQ2xKeFZpSmZTZC0yMHFOYkJkUlN1MC1jUVl3?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-27T20:54+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Cowboys": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Cowboys Issue Good News on Injured Starters",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWW1uZGVFZHVPWHI4Um04Rlltd3NPdTVKa05RMU1NbXdIenpKTjdOSDBSd3BGejE1VWNZOGU1aVpvbUZqeXhMOWlobFVhb3BxQ3huMWFNVEhlamNnSTROWlhiektrQkRCckg4NWNSdG9LM055VXdIa1h5OEFZYmM?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T21:07+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Cowboys News: Injury updates; Trade rumors; Cardinals Showdown",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTM3T18tNjJmYjJ2M1k0QXV5SjhrTWZWNjFSSTM1VlNaVHhEd3pHSnp1dHRtVmFFc2o5cUJJZWxCaHJuUk53OVZ2M2FQZ2VrLWpSU20tOTd1YV8yMHdkM3BIT0ZKd0QtaHJIdEV5MzJqOWF1cFlvc25WUFZtdDRLWWtVa2NnMU5TQTlXazIwUzZVdHBCejVjYmMzOW42ZHhqYUxpWlEwUkdySnluQklIeTU0UHlaWXJZeWo1c2g1WnVSdGhrcUtpd0gyeE9XWkVidTNBU2ZseFVtOE94dzIxM0l5SQ?oc=5",
+       "source": "Cowboys Wire",
+       "published": "2026-10-30T17:59+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Cowboys Delay Decision Amid Growing Injury Concerns",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmFFenpXMHNPMXVfcHhqeURGN1dINnhmb1Jqbm5PWWlyb3VsV3FhYXdfa3piWDhBR1pIcEJlSWRoekhib2hseVlhaXpBZEZ0Z0lmeERuNjVUQVhhZGtjRDVVb1RKYUpBY0U0dmw2NEJ5bG9PTDhYUkc5TWR1ZDNDR1U3aFJTTWZoUWN3bQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T17:13+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "NFL predictions: 3 bold takes on the Cowboys vs Cardinals game",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDZtSEI2UFNKVTViWk9BWFdNSlhnZzQ4TmRIaVRWeUJuVnN0bU1DTE5OVTR4Umo1d1MtSmlLX2oyWGFfTnc2Y1lqLWhiNXpIOU1iR1I2WXRyOTZLY3duQ2JFQWd5ME5WQ1B3OGt4RElzNmswTU83WmNlS2Jhc2N2MEpRbw?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T22:30+00:00",
+       "flag": null
+      },
+      {
+       "title": "5 final thoughts on Cowboys-Cardinals: Dallas seeks first win vs. pesky Arizona since 2017",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVhYRFZWMkh2cVBDZVZZdVUtYkhDX0pkdEljNm1TY0lkeWVEakdzY3VSeG8yTlhHNDlsTzJQUVlNYTE0UVY1UW02b3dlNU90cGNPbmhUOFNoV25mSFlnS0JFZUhiV1FGY3Byc3dWYU5EQ3l2Q3duZEswQlV4V0pHeHpDYVZoTlJ0TXVLeUY1VnM4R0xRVXdtanRBQ1VCVi1FV2JUZjY1RDk4X2pHZm1BcF9hUQ?oc=5",
+       "source": "Dallas News",
+       "published": "2026-10-30T22:24+00:00",
+       "flag": null
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -797,7 +896,7 @@
       }
      ],
      "risks": [
-      "Recent headlines mention an injury or absence for the Cardinals.",
+      "Recent headlines mention a quarterback issue for the Cardinals. Read them below before betting.",
       "Recent headlines mention an injury or absence for the Cowboys."
      ],
      "evidence": [
@@ -805,43 +904,43 @@
      ],
      "news": [
       {
+       "title": "Jeremiyah Love Injury Update: Cardinals RB\u2019s Week 8 Status Revealed",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODVPMjdzOGl6dUZ4djJCVWxyTlVldXFpY1VIWFJlNDRVQ0tvUzVhYjluWGh2VzdnemZKSUJha21TQXdkd0VMY0hFMXhaV01kUlpCeGpnMGdfQVo2YU5SZ1FKOU41SlR5Ry11Q0JGQ3NnSmlaX25wZUxTZEt5MkYyVlRoZzl2alpoMW1N?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T01:03+00:00",
+       "flag": "injury",
+       "team": "Cardinals"
+      },
+      {
+       "title": "Walter Nolen III Gets Injury Update Ahead of Cardinals-Cowboys",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUNpa0xxZkM0OWhHM0hOSTBlQzNlel9nRkJlbW5waDVKUEMzeUprR3BZSi1zN0h3UHA2YlIxMTJ4UE9FSzhIbzZ0aDQzcFdVMFl4eW5uWnRibW1hWDBiZ3I4bF96RG1wanZuNDliS2RTaGswaENlS3F4YTd3bzV4b2VMUQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T21:23+00:00",
+       "flag": "injury",
+       "team": "Cardinals"
+      },
+      {
+       "title": "Cardinals vs. Cowboys prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkg4V1kxSnlQQjkxcVEyaWFkM29LTFhXOTUwS0dQZGk1X1g4Uk9PMEczZzBub2k1aUdpbkE5V3VSSGRQMElNeGpOMmtOZkpRa01Cc3lDNGtZUkdMYkxtLTVVSG9pUjhrU3doTkxXYU9sMkllSTZXOVNUd3hZbDdaWWlMM3A1TFFSYmN1UkExVDVFYzZsSFdLZXpKZFd5REdnWjRLRlRfRmhIZG8wN0tIRHc3dzl6YzE1cXNwSkozYnl4TVJudndGZWZ3QU1FUUE?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-28T16:16+00:00",
+       "flag": "qb",
+       "team": "Cardinals"
+      },
+      {
+       "title": "Arizona Cardinals bringing back WR Zay Jones after Jalen Brooks' injury",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0xMOWU3WFk5QWhTS1VKc2U1ekFpaUc0ZVhNaDdULVR5eUljS3dLWURxNTRLN0dLajk0Y1liREkzNWF6bmF3Wl9VOVFENmtCLXNNZFpLRXpXa2xXY0w4OHRhblBrVDlYTUpwT1BZUnRSZlNsS1pkOUhNSktleVRsc1NCQzFUa1oyZm53?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T12:44+00:00",
+       "flag": "injury",
+       "team": "Cardinals"
+      },
+      {
        "title": "Arizona Cardinals place Jalen Brooks on injured reserve, add two players to practice squad",
        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnhlcU1iQUNsUFkwakVraWJLV29BTmRpMEFWSEliRzFxYjhWaEtTUzEyQUlIQXM5c3owM3pjT2hpRWxOOVE4S2ktQ0xxVEZTZlZKWDN2ZnI0ODJ1TS1iZ2ZOcVVnY0Q4enlpNjJZcXlUZnRDQ2xKeFZpSmZTZC0yMHFOYkJkUlN1MC1jUVl3?oc=5",
        "source": "Yahoo Sports",
        "published": "2026-10-27T20:54+00:00",
        "flag": "injury",
-       "team": "Cardinals"
-      },
-      {
-       "title": "Jalen Brooks injury: Arizona Cardinals WR out for season",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNano5alF2WHczWWVjRGlLZnRhWWVIUHo5T19XU0o1MTlnTVMtVWctME13M3RJd0FwajgyTkU1Z25SRVpINlBZUlFEcFBoQXcwTDJBbXBpQXhObDdJRGRtTTloZS15cGp2YjhQdG5tdVhJZDFvb0hhd1NQTHljcUtDWXpnMDdiZTRlOTdwZXdfYw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-27T03:25+00:00",
-       "flag": "injury",
-       "team": "Cardinals"
-      },
-      {
-       "title": "5 final thoughts on Cowboys-Cardinals: Dallas seeks first win vs. pesky Arizona since 2017",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVhYRFZWMkh2cVBDZVZZdVUtYkhDX0pkdEljNm1TY0lkeWVEakdzY3VSeG8yTlhHNDlsTzJQUVlNYTE0UVY1UW02b3dlNU90cGNPbmhUOFNoV25mSFlnS0JFZUhiV1FGY3Byc3dWYU5EQ3l2Q3duZEswQlV4V0pHeHpDYVZoTlJ0TXVLeUY1VnM4R0xRVXdtanRBQ1VCVi1FV2JUZjY1RDk4X2pHZm1BcF9hUQ?oc=5",
-       "source": "Dallas News",
-       "published": "2026-10-30T22:24+00:00",
-       "flag": null,
-       "team": "Cardinals"
-      },
-      {
-       "title": "Cardinals vs. Cowboys: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVTFkTzVhbDdEc1NTNnVTVUU2Qmk5ZFVWSk85TWdYbUVaeHJrUUV0ZGRuWW8zLWs1NzY5aHRXcDMxWWpkeXVCaUNvWks1QVJOaWdwNjNVNFQ0eGgwQnFXb2lna2N1VUF1STJoZ2Jmbw?oc=5",
-       "source": "SiriusXM",
-       "published": "2026-10-30T20:50+00:00",
-       "flag": null,
-       "team": "Cardinals"
-      },
-      {
-       "title": "Arizona Cardinals @ Dallas Cowboys: Live game updates, stats, play-by-play",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRjJnRS1nSXdCaWtlWlJVaHM2WWJ3czZENGoteXNyNUVRcEtNcVhETEtILTcxbkp4VVZOVnNWeHdPcmIwSmxFcVIxenlEdFdUZDc4N3ZDMWxScjZNUUlrNlpnUDhMQ21BMzQtZzROMUNsMGNCUV9EcjJOZ1d6eEE?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:32+00:00",
-       "flag": null,
        "team": "Cardinals"
       },
       {
@@ -870,8 +969,8 @@
       },
       {
        "title": "NFL predictions: 3 bold takes on the Cowboys vs Cardinals game",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOE9qMmdoWlVZb0VWRVZQUkdjRVVmZ0R4T2tKbTlBOURCeXJGeHMwWVBXREhaR0Q0SzRZRFBVVzVSR0FJR0FQc2FCb3J6eUJ1WXVmdGU3MkxlUWJKVFpQc2JIcUNQRFRQOUx4NkJyMk5GX29Zd3FwY1AzaTVhVS15Nmw5cjZUbm1ENmpVM1JHNTAyMUNtSGdtQTl6elZvZXlwV1JmMkotRQ?oc=5",
-       "source": "Blogging The Boys",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDZtSEI2UFNKVTViWk9BWFdNSlhnZzQ4TmRIaVRWeUJuVnN0bU1DTE5OVTR4Umo1d1MtSmlLX2oyWGFfTnc2Y1lqLWhiNXpIOU1iR1I2WXRyOTZLY3duQ2JFQWd5ME5WQ1B3OGt4RElzNmswTU83WmNlS2Jhc2N2MEpRbw?oc=5",
+       "source": "Yahoo Sports",
        "published": "2026-10-30T22:30+00:00",
        "flag": null,
        "team": "Cowboys"
@@ -935,7 +1034,7 @@
       }
      ],
      "risks": [
-      "Recent headlines mention an injury or absence for the Cardinals.",
+      "Recent headlines mention a quarterback issue for the Cardinals. Read them below before betting.",
       "Recent headlines mention an injury or absence for the Cowboys."
      ],
      "evidence": [
@@ -943,43 +1042,43 @@
      ],
      "news": [
       {
+       "title": "Jeremiyah Love Injury Update: Cardinals RB\u2019s Week 8 Status Revealed",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODVPMjdzOGl6dUZ4djJCVWxyTlVldXFpY1VIWFJlNDRVQ0tvUzVhYjluWGh2VzdnemZKSUJha21TQXdkd0VMY0hFMXhaV01kUlpCeGpnMGdfQVo2YU5SZ1FKOU41SlR5Ry11Q0JGQ3NnSmlaX25wZUxTZEt5MkYyVlRoZzl2alpoMW1N?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T01:03+00:00",
+       "flag": "injury",
+       "team": "Cardinals"
+      },
+      {
+       "title": "Walter Nolen III Gets Injury Update Ahead of Cardinals-Cowboys",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUNpa0xxZkM0OWhHM0hOSTBlQzNlel9nRkJlbW5waDVKUEMzeUprR3BZSi1zN0h3UHA2YlIxMTJ4UE9FSzhIbzZ0aDQzcFdVMFl4eW5uWnRibW1hWDBiZ3I4bF96RG1wanZuNDliS2RTaGswaENlS3F4YTd3bzV4b2VMUQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T21:23+00:00",
+       "flag": "injury",
+       "team": "Cardinals"
+      },
+      {
+       "title": "Cardinals vs. Cowboys prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkg4V1kxSnlQQjkxcVEyaWFkM29LTFhXOTUwS0dQZGk1X1g4Uk9PMEczZzBub2k1aUdpbkE5V3VSSGRQMElNeGpOMmtOZkpRa01Cc3lDNGtZUkdMYkxtLTVVSG9pUjhrU3doTkxXYU9sMkllSTZXOVNUd3hZbDdaWWlMM3A1TFFSYmN1UkExVDVFYzZsSFdLZXpKZFd5REdnWjRLRlRfRmhIZG8wN0tIRHc3dzl6YzE1cXNwSkozYnl4TVJudndGZWZ3QU1FUUE?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-28T16:16+00:00",
+       "flag": "qb",
+       "team": "Cardinals"
+      },
+      {
+       "title": "Arizona Cardinals bringing back WR Zay Jones after Jalen Brooks' injury",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0xMOWU3WFk5QWhTS1VKc2U1ekFpaUc0ZVhNaDdULVR5eUljS3dLWURxNTRLN0dLajk0Y1liREkzNWF6bmF3Wl9VOVFENmtCLXNNZFpLRXpXa2xXY0w4OHRhblBrVDlYTUpwT1BZUnRSZlNsS1pkOUhNSktleVRsc1NCQzFUa1oyZm53?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T12:44+00:00",
+       "flag": "injury",
+       "team": "Cardinals"
+      },
+      {
        "title": "Arizona Cardinals place Jalen Brooks on injured reserve, add two players to practice squad",
        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnhlcU1iQUNsUFkwakVraWJLV29BTmRpMEFWSEliRzFxYjhWaEtTUzEyQUlIQXM5c3owM3pjT2hpRWxOOVE4S2ktQ0xxVEZTZlZKWDN2ZnI0ODJ1TS1iZ2ZOcVVnY0Q4enlpNjJZcXlUZnRDQ2xKeFZpSmZTZC0yMHFOYkJkUlN1MC1jUVl3?oc=5",
        "source": "Yahoo Sports",
        "published": "2026-10-27T20:54+00:00",
        "flag": "injury",
-       "team": "Cardinals"
-      },
-      {
-       "title": "Jalen Brooks injury: Arizona Cardinals WR out for season",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNano5alF2WHczWWVjRGlLZnRhWWVIUHo5T19XU0o1MTlnTVMtVWctME13M3RJd0FwajgyTkU1Z25SRVpINlBZUlFEcFBoQXcwTDJBbXBpQXhObDdJRGRtTTloZS15cGp2YjhQdG5tdVhJZDFvb0hhd1NQTHljcUtDWXpnMDdiZTRlOTdwZXdfYw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-27T03:25+00:00",
-       "flag": "injury",
-       "team": "Cardinals"
-      },
-      {
-       "title": "5 final thoughts on Cowboys-Cardinals: Dallas seeks first win vs. pesky Arizona since 2017",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVhYRFZWMkh2cVBDZVZZdVUtYkhDX0pkdEljNm1TY0lkeWVEakdzY3VSeG8yTlhHNDlsTzJQUVlNYTE0UVY1UW02b3dlNU90cGNPbmhUOFNoV25mSFlnS0JFZUhiV1FGY3Byc3dWYU5EQ3l2Q3duZEswQlV4V0pHeHpDYVZoTlJ0TXVLeUY1VnM4R0xRVXdtanRBQ1VCVi1FV2JUZjY1RDk4X2pHZm1BcF9hUQ?oc=5",
-       "source": "Dallas News",
-       "published": "2026-10-30T22:24+00:00",
-       "flag": null,
-       "team": "Cardinals"
-      },
-      {
-       "title": "Cardinals vs. Cowboys: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVTFkTzVhbDdEc1NTNnVTVUU2Qmk5ZFVWSk85TWdYbUVaeHJrUUV0ZGRuWW8zLWs1NzY5aHRXcDMxWWpkeXVCaUNvWks1QVJOaWdwNjNVNFQ0eGgwQnFXb2lna2N1VUF1STJoZ2Jmbw?oc=5",
-       "source": "SiriusXM",
-       "published": "2026-10-30T20:50+00:00",
-       "flag": null,
-       "team": "Cardinals"
-      },
-      {
-       "title": "Arizona Cardinals @ Dallas Cowboys: Live game updates, stats, play-by-play",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRjJnRS1nSXdCaWtlWlJVaHM2WWJ3czZENGoteXNyNUVRcEtNcVhETEtILTcxbkp4VVZOVnNWeHdPcmIwSmxFcVIxenlEdFdUZDc4N3ZDMWxScjZNUUlrNlpnUDhMQ21BMzQtZzROMUNsMGNCUV9EcjJOZ1d6eEE?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:32+00:00",
-       "flag": null,
        "team": "Cardinals"
       },
       {
@@ -1008,8 +1107,8 @@
       },
       {
        "title": "NFL predictions: 3 bold takes on the Cowboys vs Cardinals game",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOE9qMmdoWlVZb0VWRVZQUkdjRVVmZ0R4T2tKbTlBOURCeXJGeHMwWVBXREhaR0Q0SzRZRFBVVzVSR0FJR0FQc2FCb3J6eUJ1WXVmdGU3MkxlUWJKVFpQc2JIcUNQRFRQOUx4NkJyMk5GX29Zd3FwY1AzaTVhVS15Nmw5cjZUbm1ENmpVM1JHNTAyMUNtSGdtQTl6elZvZXlwV1JmMkotRQ?oc=5",
-       "source": "Blogging The Boys",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDZtSEI2UFNKVTViWk9BWFdNSlhnZzQ4TmRIaVRWeUJuVnN0bU1DTE5OVTR4Umo1d1MtSmlLX2oyWGFfTnc2Y1lqLWhiNXpIOU1iR1I2WXRyOTZLY3duQ2JFQWd5ME5WQ1B3OGt4RElzNmswTU83WmNlS2Jhc2N2MEpRbw?oc=5",
+       "source": "Yahoo Sports",
        "published": "2026-10-30T22:30+00:00",
        "flag": null,
        "team": "Cowboys"
@@ -1021,90 +1120,6 @@
        "published": "2026-10-30T22:24+00:00",
        "flag": null,
        "team": "Cowboys"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Cardinals": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Arizona Cardinals place Jalen Brooks on injured reserve, add two players to practice squad",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnhlcU1iQUNsUFkwakVraWJLV29BTmRpMEFWSEliRzFxYjhWaEtTUzEyQUlIQXM5c3owM3pjT2hpRWxOOVE4S2ktQ0xxVEZTZlZKWDN2ZnI0ODJ1TS1iZ2ZOcVVnY0Q4enlpNjJZcXlUZnRDQ2xKeFZpSmZTZC0yMHFOYkJkUlN1MC1jUVl3?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-27T20:54+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jalen Brooks injury: Arizona Cardinals WR out for season",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNano5alF2WHczWWVjRGlLZnRhWWVIUHo5T19XU0o1MTlnTVMtVWctME13M3RJd0FwajgyTkU1Z25SRVpINlBZUlFEcFBoQXcwTDJBbXBpQXhObDdJRGRtTTloZS15cGp2YjhQdG5tdVhJZDFvb0hhd1NQTHljcUtDWXpnMDdiZTRlOTdwZXdfYw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-27T03:25+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "5 final thoughts on Cowboys-Cardinals: Dallas seeks first win vs. pesky Arizona since 2017",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVhYRFZWMkh2cVBDZVZZdVUtYkhDX0pkdEljNm1TY0lkeWVEakdzY3VSeG8yTlhHNDlsTzJQUVlNYTE0UVY1UW02b3dlNU90cGNPbmhUOFNoV25mSFlnS0JFZUhiV1FGY3Byc3dWYU5EQ3l2Q3duZEswQlV4V0pHeHpDYVZoTlJ0TXVLeUY1VnM4R0xRVXdtanRBQ1VCVi1FV2JUZjY1RDk4X2pHZm1BcF9hUQ?oc=5",
-       "source": "Dallas News",
-       "published": "2026-10-30T22:24+00:00",
-       "flag": null
-      },
-      {
-       "title": "Cardinals vs. Cowboys: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVTFkTzVhbDdEc1NTNnVTVUU2Qmk5ZFVWSk85TWdYbUVaeHJrUUV0ZGRuWW8zLWs1NzY5aHRXcDMxWWpkeXVCaUNvWks1QVJOaWdwNjNVNFQ0eGgwQnFXb2lna2N1VUF1STJoZ2Jmbw?oc=5",
-       "source": "SiriusXM",
-       "published": "2026-10-30T20:50+00:00",
-       "flag": null
-      },
-      {
-       "title": "Arizona Cardinals @ Dallas Cowboys: Live game updates, stats, play-by-play",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRjJnRS1nSXdCaWtlWlJVaHM2WWJ3czZENGoteXNyNUVRcEtNcVhETEtILTcxbkp4VVZOVnNWeHdPcmIwSmxFcVIxenlEdFdUZDc4N3ZDMWxScjZNUUlrNlpnUDhMQ21BMzQtZzROMUNsMGNCUV9EcjJOZ1d6eEE?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:32+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Cowboys": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Cowboys Issue Good News on Injured Starters",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWW1uZGVFZHVPWHI4Um04Rlltd3NPdTVKa05RMU1NbXdIenpKTjdOSDBSd3BGejE1VWNZOGU1aVpvbUZqeXhMOWlobFVhb3BxQ3huMWFNVEhlamNnSTROWlhiektrQkRCckg4NWNSdG9LM055VXdIa1h5OEFZYmM?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T21:07+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Cowboys News: Injury updates; Trade rumors; Cardinals Showdown",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTM3T18tNjJmYjJ2M1k0QXV5SjhrTWZWNjFSSTM1VlNaVHhEd3pHSnp1dHRtVmFFc2o5cUJJZWxCaHJuUk53OVZ2M2FQZ2VrLWpSU20tOTd1YV8yMHdkM3BIT0ZKd0QtaHJIdEV5MzJqOWF1cFlvc25WUFZtdDRLWWtVa2NnMU5TQTlXazIwUzZVdHBCejVjYmMzOW42ZHhqYUxpWlEwUkdySnluQklIeTU0UHlaWXJZeWo1c2g1WnVSdGhrcUtpd0gyeE9XWkVidTNBU2ZseFVtOE94dzIxM0l5SQ?oc=5",
-       "source": "Cowboys Wire",
-       "published": "2026-10-30T17:59+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Cowboys Delay Decision Amid Growing Injury Concerns",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmFFenpXMHNPMXVfcHhqeURGN1dINnhmb1Jqbm5PWWlyb3VsV3FhYXdfa3piWDhBR1pIcEJlSWRoekhib2hseVlhaXpBZEZ0Z0lmeERuNjVUQVhhZGtjRDVVb1RKYUpBY0U0dmw2NEJ5bG9PTDhYUkc5TWR1ZDNDR1U3aFJTTWZoUWN3bQ?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T17:13+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "NFL predictions: 3 bold takes on the Cowboys vs Cardinals game",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOE9qMmdoWlVZb0VWRVZQUkdjRVVmZ0R4T2tKbTlBOURCeXJGeHMwWVBXREhaR0Q0SzRZRFBVVzVSR0FJR0FQc2FCb3J6eUJ1WXVmdGU3MkxlUWJKVFpQc2JIcUNQRFRQOUx4NkJyMk5GX29Zd3FwY1AzaTVhVS15Nmw5cjZUbm1ENmpVM1JHNTAyMUNtSGdtQTl6elZvZXlwV1JmMkotRQ?oc=5",
-       "source": "Blogging The Boys",
-       "published": "2026-10-30T22:30+00:00",
-       "flag": null
-      },
-      {
-       "title": "5 final thoughts on Cowboys-Cardinals: Dallas seeks first win vs. pesky Arizona since 2017",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVhYRFZWMkh2cVBDZVZZdVUtYkhDX0pkdEljNm1TY0lkeWVEakdzY3VSeG8yTlhHNDlsTzJQUVlNYTE0UVY1UW02b3dlNU90cGNPbmhUOFNoV25mSFlnS0JFZUhiV1FGY3Byc3dWYU5EQ3l2Q3duZEswQlV4V0pHeHpDYVZoTlJ0TXVLeUY1VnM4R0xRVXdtanRBQ1VCVi1FV2JUZjY1RDk4X2pHZm1BcF9hUQ?oc=5",
-       "source": "Dallas News",
-       "published": "2026-10-30T22:24+00:00",
-       "flag": null
       }
      ]
     }
@@ -1223,6 +1238,11 @@
      "2026-10-30T14:48Z",
      -3.33,
      46.17
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -3.33,
+     46.17
     ]
    ],
    "projection": {
@@ -1268,6 +1288,90 @@
     "tier": "model",
     "moved_against": 0.6,
     "pattern": null
+   },
+   "news": {
+    "Vikings": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Vikings Final Injury Report vs Lions: Only One Player Questionable",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFpnR2RsbGs1NzRtS1VvWklxNFRCZHcxczZkeFBERmNlaTNSTzlrYVdsd2p1N2pnN0FGODlCMjNJY1FXWTFQZ3NwVXQ1S2c3eFRPelpJYzJKTmI3UlFWS01Cb0hMSmY0QUh6dXBMczUxT1BkTUdDcXVGaUJlZjJXZFUya0dudw?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T19:10+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Vikings Get Encouraging Aaron Jones Injury Update: Report",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjQ4OUVyR2lVVm44ZGlmd25UaFNjVEp5cWc0aEl2OHg5NWRqT1hmTGVjRTRheDBrUEVaaEp4TUYzQkQwdTlJLWcyMDBRTlQya0NZVHpCb0RiaGJGVWw0czhrWlVMd1NlS0RMbk5vUkJiWDZHeWdnSjhQak1IZ1JyUVZGWTJaQWVZNmc?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T18:12+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Minnesota Vikings\u2019 Rival Tried to Poach Brian Flores This Offseason",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MWVpdEItNDlZNzQ4SFpoRklDMFlldVViWWExX1pmU3lSQ2g2YjFISDFmSnRrd2FTTFVzREdwTTVVaEQtREQzRlVSOXVMZXpsMS1oSkFFTzFfLURYenVuTlU4eWY4My1uQ0RiX0pjN2pMT3JpLV9ZQmN4UTVaWFE?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T23:06+00:00",
+       "flag": null
+      },
+      {
+       "title": "Colts Vikings Football",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHNnazZnb0Zib2dIQTd6RTh6eXh4ZU45SDFHVEc0RzJyd3pPUWF6STYzcXFZaFFQeVpiU2J0bklNTlNsek56NHlvNl85RS1SMjJ4UzNYWlNwR3VTOXllQWNYRUxmMGVzT1lKYVRhQm5neG5MSHBxNjl0eDl1X3lNYnBLSEJKRDl3UUZtNlF0VU9pLUFONXA5UWdqb2UzNlN3NGRSTmJvX2RORkxPWTh2X19RS0xkamhqSmJhandXVQ?oc=5",
+       "source": "chronicleonline.com",
+       "published": "2026-10-30T22:21+00:00",
+       "flag": null
+      },
+      {
+       "title": "Final Vikings at Lions Injury Report for Week 8 of 2026",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zXzBhVUpNM0Y5b09JMGtXMVlVWDVKenU3dzh6Z3FrbGJPb2lxWndHSDZjY0F0VDltWUpVSmdzWFlXM19yYUFMT25rWlV0WVRrQXVIQ25jdzJINnJkMTg1WEQ4enlOM0tza2ZCX2VTSFA3WWdTLW9XUDJNcw?oc=5",
+       "source": "Minnesota Vikings",
+       "published": "2026-10-30T22:19+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Lions": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Kerby Joseph injury update: Lions S has no timetable on playing in game",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVJSYzQwdGN5RDVlbEhTOXBjcE1hNlBxMWlsVXVfTlFvdDJkRXotQVQtWTU4ME4zcHdHQWY1dzc3ZnExTW5WVW9fenB6SXgybFY3S2lFQlFDemI2czFIbUI0MnlwelZ3c0FZeXNOWXF4eEZKLTZxcjRxTTd0dXpJRGhxMWZVTUFlMlFWNnRyMGVmVmpnTWFrb2dvMEZGUnZvUE5UVWN0WnVETTVpUWV3ZFFQYm5mSHBRcXRiMHF6ZDlmWVZ2UTVvQkdB?oc=5",
+       "source": "Detroit Free Press",
+       "published": "2026-10-30T21:12+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Detroit Lions Rule CB Questionable Against Vikings",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEswR3ZSVXBSZ21KRjRMcmFsUlZDWFU0REJTUUdfS0NHZzhlQjk3LUZZNk9Cb29vbUtWNVRGak9mRWdtRjQxMGt6Z1kxVXlXclZxT2VCMzdUNTFMUmpZR0JzbXVBaE42ZXBhT2VPQ3JtQ2hLSEhRUnlEbDVucFpJNXNqLUJoLVBhWHZDazN2MmxBQQ?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-30T19:41+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Detroit Lions Injury Updates: Pacheco, Branch, Joseph, Harper",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUZPOXBqN3dWZHhVay14UTlaYWdRWFlob1VKcXN0MnJMRWVBOVZueU9pNjZfd3JhWHZQdnRyblU1UGRhNWVGUFMyUE5NcFFIbndxUGdvOEdiRzkxUTBzQ2tGMl94b01zaWtJTDRlaFVjbzk1bTVjLTBaclltblFydDRnR0YzY1dJR1AyOEEyV2ZWZmZhcXUw?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-30T16:21+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Detroit Lions Reveal Surprise Jahmyr Gibbs Injury",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblhVOFpvN3d3TVM2SFZkc3E2T3JIcmxicEhYMi1rSzlNenpFVkowN3Nia25UTk82b1NWUDkxcjRyOUFJYXNBb1d5UmJTaXI5UmNiU2I1SFhUNnlnbjNGQ0dfS29vb01QMEVUX3d5ZXZtRXZ4d2dQZ2NoQVVrTmdEbWZoUkRzaE1IcW5Z?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-28T22:43+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "How Lions' heavy rotation at CB came to be. Will it continue?",
+       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcG12NTY3bUpNZ2VpQ2RGUTMzSzY0MC1WaHlrNWNheGZlOVZfdzFvNjZkNTdiZkNDZHVMVmd6YTdlM0FxU2JYOEZOOTJ6VmN1c1paY1JLamtpSEhYX1JNa1JGRDBTVG11S2VsdVZmTnlyYlRMcFR0RVd6eXBtVHVzdmRnOUQyZUF5eEFCREl5WVZ6OWd1dU90bW1zWlFnOWNkXzlVS3NOUTJ0eUE5aWlYOGtWQV9UM1RMZjE2SzdZbmlZdGRfbmR1MGlyelpJdXNfODdJbjhCd2FoLW5ZT25MblFIdmFqTTNZMDM2SHZNTTFpWmk0dTRYVjA3QQ?oc=5",
+       "source": "The Detroit News",
+       "published": "2026-10-30T23:12+00:00",
+       "flag": null
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -1350,6 +1454,14 @@
        "team": "Vikings"
       },
       {
+       "title": "Minnesota Vikings\u2019 Rival Tried to Poach Brian Flores This Offseason",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MWVpdEItNDlZNzQ4SFpoRklDMFlldVViWWExX1pmU3lSQ2g2YjFISDFmSnRrd2FTTFVzREdwTTVVaEQtREQzRlVSOXVMZXpsMS1oSkFFTzFfLURYenVuTlU4eWY4My1uQ0RiX0pjN2pMT3JpLV9ZQmN4UTVaWFE?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T23:06+00:00",
+       "flag": null,
+       "team": "Vikings"
+      },
+      {
        "title": "Colts Vikings Football",
        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHNnazZnb0Zib2dIQTd6RTh6eXh4ZU45SDFHVEc0RzJyd3pPUWF6STYzcXFZaFFQeVpiU2J0bklNTlNsek56NHlvNl85RS1SMjJ4UzNYWlNwR3VTOXllQWNYRUxmMGVzT1lKYVRhQm5neG5MSHBxNjl0eDl1X3lNYnBLSEJKRDl3UUZtNlF0VU9pLUFONXA5UWdqb2UzNlN3NGRSTmJvX2RORkxPWTh2X19RS0xkamhqSmJhandXVQ?oc=5",
        "source": "chronicleonline.com",
@@ -1362,14 +1474,6 @@
        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zXzBhVUpNM0Y5b09JMGtXMVlVWDVKenU3dzh6Z3FrbGJPb2lxWndHSDZjY0F0VDltWUpVSmdzWFlXM19yYUFMT25rWlV0WVRrQXVIQ25jdzJINnJkMTg1WEQ4enlOM0tza2ZCX2VTSFA3WWdTLW9XUDJNcw?oc=5",
        "source": "Minnesota Vikings",
        "published": "2026-10-30T22:19+00:00",
-       "flag": null,
-       "team": "Vikings"
-      },
-      {
-       "title": "Sneaky Trade Opportunity Could Solve Vikings' RB Needs as Deadline Nears",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFpfU1Z2SkVtYkMtUWxjNy1ucDVDc1BCZE1jR3JqTTVUTnl2RHNxR05nbUgzR3ZUUHMzd1FRcHZobzhTbWZneG1rMnFtaGh6Mm83WVdZNU5NUTk2VU5oeUlNdThLOFd1M0cycVMyaS1LV0VsbWdHSnlHcmJmQnBtN2hjNUJZdTBFeEZINGVnNkh3VHlEamdSdEY1bEs2eXFDeUhmZHdGS1NDRGJHRU11OQ?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T22:00+00:00",
        "flag": null,
        "team": "Vikings"
       },
@@ -1398,104 +1502,20 @@
        "team": "Lions"
       },
       {
-       "title": "Detroit Lions Get Great Injury News Ahead of Showdown With Vikings",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzBtYUdqUU81RkJSaGd1ZTVIQ3NoS2RwOTFwdmY3b2FUTVZBY2FFTG5FdTBtekphRTBBTi1DUWRCSjM2SFM1WXN4ZmN1Rk1JQVo2dXRoQTF1MWF5UTN0NlBra3l6TTQ4Z2NKMDhwMG1fd09nZ2psSmRpNVprM3hmLUc0dnZRd0k?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T17:32+00:00",
+       "title": "Detroit Lions Reveal Surprise Jahmyr Gibbs Injury",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblhVOFpvN3d3TVM2SFZkc3E2T3JIcmxicEhYMi1rSzlNenpFVkowN3Nia25UTk82b1NWUDkxcjRyOUFJYXNBb1d5UmJTaXI5UmNiU2I1SFhUNnlnbjNGQ0dfS29vb01QMEVUX3d5ZXZtRXZ4d2dQZ2NoQVVrTmdEbWZoUkRzaE1IcW5Z?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-28T22:43+00:00",
        "flag": "injury",
        "team": "Lions"
       },
       {
-       "title": "Maxx Crosby to Lions Suddenly Looks More Possible After Latest Development",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVY4MDFQU25aY3d1RkpKV1B2dkJEUk1RZ09DQkZPVmtWd3dFS3Rya2JieXE3NVU0QnR3Qk9BbzEwYURRNDRUY2tvVk5OWnVIOU5FTl80MVhQQzF2SjhhUm8zQjB3aFNYdkpQWkhjajBIUzBlc3dsWmZYV05uQ2J4a0t5REFSY3RZVHRWS1RDc01BQURjSlpOZw?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T22:50+00:00",
+       "title": "How Lions' heavy rotation at CB came to be. Will it continue?",
+       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcG12NTY3bUpNZ2VpQ2RGUTMzSzY0MC1WaHlrNWNheGZlOVZfdzFvNjZkNTdiZkNDZHVMVmd6YTdlM0FxU2JYOEZOOTJ6VmN1c1paY1JLamtpSEhYX1JNa1JGRDBTVG11S2VsdVZmTnlyYlRMcFR0RVd6eXBtVHVzdmRnOUQyZUF5eEFCREl5WVZ6OWd1dU90bW1zWlFnOWNkXzlVS3NOUTJ0eUE5aWlYOGtWQV9UM1RMZjE2SzdZbmlZdGRfbmR1MGlyelpJdXNfODdJbjhCd2FoLW5ZT25MblFIdmFqTTNZMDM2SHZNTTFpWmk0dTRYVjA3QQ?oc=5",
+       "source": "The Detroit News",
+       "published": "2026-10-30T23:12+00:00",
        "flag": null,
        "team": "Lions"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Vikings": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Vikings Final Injury Report vs Lions: Only One Player Questionable",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFpnR2RsbGs1NzRtS1VvWklxNFRCZHcxczZkeFBERmNlaTNSTzlrYVdsd2p1N2pnN0FGODlCMjNJY1FXWTFQZ3NwVXQ1S2c3eFRPelpJYzJKTmI3UlFWS01Cb0hMSmY0QUh6dXBMczUxT1BkTUdDcXVGaUJlZjJXZFUya0dudw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T19:10+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Vikings Get Encouraging Aaron Jones Injury Update: Report",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjQ4OUVyR2lVVm44ZGlmd25UaFNjVEp5cWc0aEl2OHg5NWRqT1hmTGVjRTRheDBrUEVaaEp4TUYzQkQwdTlJLWcyMDBRTlQya0NZVHpCb0RiaGJGVWw0czhrWlVMd1NlS0RMbk5vUkJiWDZHeWdnSjhQak1IZ1JyUVZGWTJaQWVZNmc?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T18:12+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Colts Vikings Football",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHNnazZnb0Zib2dIQTd6RTh6eXh4ZU45SDFHVEc0RzJyd3pPUWF6STYzcXFZaFFQeVpiU2J0bklNTlNsek56NHlvNl85RS1SMjJ4UzNYWlNwR3VTOXllQWNYRUxmMGVzT1lKYVRhQm5neG5MSHBxNjl0eDl1X3lNYnBLSEJKRDl3UUZtNlF0VU9pLUFONXA5UWdqb2UzNlN3NGRSTmJvX2RORkxPWTh2X19RS0xkamhqSmJhandXVQ?oc=5",
-       "source": "chronicleonline.com",
-       "published": "2026-10-30T22:21+00:00",
-       "flag": null
-      },
-      {
-       "title": "Final Vikings at Lions Injury Report for Week 8 of 2026",
-       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zXzBhVUpNM0Y5b09JMGtXMVlVWDVKenU3dzh6Z3FrbGJPb2lxWndHSDZjY0F0VDltWUpVSmdzWFlXM19yYUFMT25rWlV0WVRrQXVIQ25jdzJINnJkMTg1WEQ4enlOM0tza2ZCX2VTSFA3WWdTLW9XUDJNcw?oc=5",
-       "source": "Minnesota Vikings",
-       "published": "2026-10-30T22:19+00:00",
-       "flag": null
-      },
-      {
-       "title": "Sneaky Trade Opportunity Could Solve Vikings' RB Needs as Deadline Nears",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFpfU1Z2SkVtYkMtUWxjNy1ucDVDc1BCZE1jR3JqTTVUTnl2RHNxR05nbUgzR3ZUUHMzd1FRcHZobzhTbWZneG1rMnFtaGh6Mm83WVdZNU5NUTk2VU5oeUlNdThLOFd1M0cycVMyaS1LV0VsbWdHSnlHcmJmQnBtN2hjNUJZdTBFeEZINGVnNkh3VHlEamdSdEY1bEs2eXFDeUhmZHdGS1NDRGJHRU11OQ?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T22:00+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Lions": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Kerby Joseph injury update: Lions S has no timetable on playing in game",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVJSYzQwdGN5RDVlbEhTOXBjcE1hNlBxMWlsVXVfTlFvdDJkRXotQVQtWTU4ME4zcHdHQWY1dzc3ZnExTW5WVW9fenB6SXgybFY3S2lFQlFDemI2czFIbUI0MnlwelZ3c0FZeXNOWXF4eEZKLTZxcjRxTTd0dXpJRGhxMWZVTUFlMlFWNnRyMGVmVmpnTWFrb2dvMEZGUnZvUE5UVWN0WnVETTVpUWV3ZFFQYm5mSHBRcXRiMHF6ZDlmWVZ2UTVvQkdB?oc=5",
-       "source": "Detroit Free Press",
-       "published": "2026-10-30T21:12+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Detroit Lions Rule CB Questionable Against Vikings",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEswR3ZSVXBSZ21KRjRMcmFsUlZDWFU0REJTUUdfS0NHZzhlQjk3LUZZNk9Cb29vbUtWNVRGak9mRWdtRjQxMGt6Z1kxVXlXclZxT2VCMzdUNTFMUmpZR0JzbXVBaE42ZXBhT2VPQ3JtQ2hLSEhRUnlEbDVucFpJNXNqLUJoLVBhWHZDazN2MmxBQQ?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T19:41+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Detroit Lions Injury Updates: Pacheco, Branch, Joseph, Harper",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUZPOXBqN3dWZHhVay14UTlaYWdRWFlob1VKcXN0MnJMRWVBOVZueU9pNjZfd3JhWHZQdnRyblU1UGRhNWVGUFMyUE5NcFFIbndxUGdvOEdiRzkxUTBzQ2tGMl94b01zaWtJTDRlaFVjbzk1bTVjLTBaclltblFydDRnR0YzY1dJR1AyOEEyV2ZWZmZhcXUw?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T16:21+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Detroit Lions Get Great Injury News Ahead of Showdown With Vikings",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzBtYUdqUU81RkJSaGd1ZTVIQ3NoS2RwOTFwdmY3b2FUTVZBY2FFTG5FdTBtekphRTBBTi1DUWRCSjM2SFM1WXN4ZmN1Rk1JQVo2dXRoQTF1MWF5UTN0NlBra3l6TTQ4Z2NKMDhwMG1fd09nZ2psSmRpNVprM3hmLUc0dnZRd0k?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T17:32+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Maxx Crosby to Lions Suddenly Looks More Possible After Latest Development",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVY4MDFQU25aY3d1RkpKV1B2dkJEUk1RZ09DQkZPVmtWd3dFS3Rya2JieXE3NVU0QnR3Qk9BbzEwYURRNDRUY2tvVk5OWnVIOU5FTl80MVhQQzF2SjhhUm8zQjB3aFNYdkpQWkhjajBIUzBlc3dsWmZYV05uQ2J4a0t5REFSY3RZVHRWS1RDc01BQURjSlpOZw?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T22:50+00:00",
-       "flag": null
       }
      ]
     }
@@ -1513,18 +1533,18 @@
    "venue": "EverBank Stadium",
    "roof": "outdoors",
    "weather": {
-    "wind": 16.0,
-    "wind_text": "16 mph",
+    "wind": 18.0,
+    "wind_text": "18 mph",
     "temp": 75,
     "short": "Chance Rain Showers",
-    "rain": 54,
-    "checked": "2026-10-30T14:48Z"
+    "rain": 50,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
      "spread_home": -10.0,
-     "spread_home_price": -108,
-     "spread_away_price": -112,
+     "spread_home_price": -105,
+     "spread_away_price": -115,
      "total": 46.5,
      "over_price": -110,
      "under_price": -110
@@ -1539,8 +1559,8 @@
     },
     "bovada": {
      "spread_home": -10.0,
-     "spread_home_price": -112,
-     "spread_away_price": -108,
+     "spread_home_price": -110,
+     "spread_away_price": -110,
      "total": 46.5,
      "over_price": -110,
      "under_price": -110
@@ -1626,6 +1646,11 @@
      "2026-10-30T14:48Z",
      -10.17,
      46.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -10.17,
+     46.5
     ]
    ],
    "projection": {
@@ -1656,10 +1681,10 @@
      "label": "Under 46.5",
      "cover": 0.57,
      "pattern": "wind15",
-     "wind": 16.0,
+     "wind": 18.0,
      "moved_against": -1.0,
      "tier": "strong",
-     "note": "Wind forecast of 16 mph, but kickoff is 51 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours."
+     "note": "Wind forecast of 18 mph, but kickoff is 43 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours."
     }
    },
    "best": {
@@ -1671,10 +1696,94 @@
     "label": "Under 46.5",
     "cover": 0.57,
     "pattern": "wind15",
-    "wind": 16.0,
+    "wind": 18.0,
     "moved_against": -1.0,
     "tier": "strong",
-    "note": "Wind forecast of 16 mph, but kickoff is 51 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours."
+    "note": "Wind forecast of 18 mph, but kickoff is 43 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours."
+   },
+   "news": {
+    "Colts": {
+     "qb_alert": false,
+     "injury": false,
+     "headlines": [
+      {
+       "title": "Indianapolis Colts Poach San Francisco 49ers Defender After DeForest Buckner Trade",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFN0YVRlNldJcFpiN1prTFBaUFFfbk1zNE5lMGZSTkFfOGtYTjl4aVBaOU5qZUFkOTEtMjhSUUJycUUxcE1vQnk0NkVSZk4wbTBjZ1M1VFFkbkdKQlI2SFBZVHgwSDllVmo3ZWU1UThPVVVCZ2NyTnhaSnVyMFZHeEVETURjSUtjY2xlcVIzNGlYZHFKMUs4?oc=5",
+       "source": "roundtable.io",
+       "published": "2026-10-30T22:01+00:00",
+       "flag": null
+      },
+      {
+       "title": "Colts reportedly hesitant about Jonathan Taylor trade despite heavy interest from many NFL teams",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdktDMFVxemM1WmpKNVpBSFpySnZNeThpM3l0NzU1aWRtRldYMEEwNEZBcVpSdWdtZGFqZnlRMGdVQWhSTWs4OEJIZHhkQmkzREx1LUg4VTF5VG1FVFMwN3czQV95dWQzZjJCLTdRa0VrdE5KZlByOXhtbXZ1ck1aa2x2NnB3eU5FOGw3NUZ5c083TWhwT0lTbEYyUExoSm1WUS1GT2hYV1E3Qkg4Qk5CSzZLSzhKZFp2ZmZrZ2pOZkLSAcYBQVVfeXFMT3NlRjF1bV90T1k0bnNDdFppYUQwZFhkTXN5aEtIMzZmODdLWWlDWWl2Q1VjZnc0TVJPSUh4dUJGWTlvV18wT2JlcDNEeC1MZ3BJQ2pMSE5BWWRkMVI5d2xVQldCUG5fLXkzUTJBZUpDXzBfdkVaZEoxbmJRdV9oNEhGQllfem5lQ1JnM2htWTVwNmdIOWU3UGVuZ2t4Y3NaU1pLbmVhcFRsRjhVbG52OWNydElFVHBkcmJfd016eHdxTTBxZlpR?oc=5",
+       "source": "Bolavip US",
+       "published": "2026-10-30T21:13+00:00",
+       "flag": null
+      },
+      {
+       "title": "Colts vs. Jaguars: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
+       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xY2Y4akw5dXNGTDdFNEJheTF5ZDZxMjRfU0RCUWFrZHJGZk4wVE4xdW50Ym13b1B3VEU3bEdaSzV2YW5QS21OM2Y1WTFpd3Q5dGJWdnBMMmx2SE85U0YxeXh4WU9mR210cXc?oc=5",
+       "source": "SiriusXM",
+       "published": "2026-10-30T21:10+00:00",
+       "flag": null
+      },
+      {
+       "title": "Despite his trade request, Colts expect WR Josh Downs to show up and do his job",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGR6ejhTRFBkMnBWWjVUNzRScG1LNThZNGJ4NTRjczVTNHFZMVdxWUIwNkJfbGVGSlJ5NGdSTUgyUWJpc0FkTGFxUW5UdGVRc0x3UWxQLWc4dW44TUx3SnFXMmlaY1pKeEhGQW9QT09YbHlua0ZoQVM2SE5WamFTOGtucE93T2x5ZXhGNkdiX195eFRlYjhRcjBmVkhRVzJuUmwydktfdkxNU2pGZVVR0gG0AUFVX3lxTE00YWszcHZjWUZEQzBacFdIQVpLdVpiVkpPOGhULXVyMHV3aXR1ZGxHRkR2ajE5Zl9wWFV5M0NleGtRZERGOS12aTNIQ1lPWk5xZEx2UzZhZXB3cl9ILXAtWGp6OHNhNUFfQ2t5d3NmcTZ2dUNhT3ozdTlqcXJ6Z3drUXNjclhQMUFCcUttQUNtRmJyaUs4T0ZCbFdNY0w2UWdHSTZwQ1ZnRDdNdXBzRERTTUM1dw?oc=5",
+       "source": "Fox 59",
+       "published": "2026-10-30T21:04+00:00",
+       "flag": null
+      },
+      {
+       "title": "Indianapolis Colts Could Turn Their Best Player Into Their Next Big Bet",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmpqWnZ2OGU3ekhJYmxJWFlqX1JJTGo0TnBaYnBDcDlsc29sUjluVUVrQmtrWmoxN3VyOE9qOWE2aWU2LUNLZlp3SWlmUDZlQXVGV1d0LVFIdTJPczhFNnBaYWlVbUphY2J3aDMzZUFvbTdWaUtlNWtZTm1CbzVhSHUzS2c0ak1udzlqSTZZSnpvNThxUnplNmZXcnprelJlSE85djhXaW90OHAwN1JQNnlsNXltQjJ6b1dFaA?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-30T20:50+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Jaguars": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Jaguars vs. Colts, odds, injuries, key matchup as Jags return to EverBank",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFU2d0w4NnhPalB3SkxmTWlOVWVMdUpKZmppbGRrSkxLZElTSmViSXRSeW5fekNtRUh3WERCTTZrX1VabDdQb3I3Um9laldGWE1za3BRd2psQ3VaTlNYWHNlN3c4OGhfX2hmSWVCVnl3d3hUS1BKMTZjVFpQWUNMRTNKMkduMVJnWGRCQmw5dzduZ0RxMFpQOFR1LXZqSHc3eEpCYkNGNEJ1c2JXcDdLVVdidmNReV95dUJLR09oYVhWNGN0VTN0emF2bVBmRjdUUlhraUhkdFBTVFUzVnlDRw?oc=5",
+       "source": "FL Times-Union",
+       "published": "2026-10-30T20:05+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jakobi Meyers Questionable, Antonio Johnson Out as the Jaguars Return From Their Bye",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5mVFpFNjdHc3N6VUViRmptTG04NF9oN3d5VnRfRFU4V290cUg5TzJLbU1aNVAyZ0o5elFHN3Z1UzBZZGRpSGNkZnNnM24zQjhwOTR3Y0R2Wl9IbndlOXhTek0wcDlFdWFZVjgtOTZjcmxqbDEzS3NTWTAwSnVZVGFoYTdsU3pfQWdPbGNqZDVSODFZeXIybkdUczM1ZDg4SVFNMUNLSXlKSmFqR0tn?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-30T19:35+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jaguars games status: Jakobi Meyers questionable ahead of Colts game",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21wQnRNS3VYNDVqZVQtZHFfYVgtRTY1S016SDM5VDUteVA4cDZHUUFvZURMX2xFd1kwWThWSUhIVW0yc2ttVUt5M1F4a3hwalR4NXl4LUxRUndOQVlDVzZGZjZmNVc1cmNQRTZQWmdyelA0djhwVGhXMGNiNTFOdzQ4NEJFNHV0WXM1eElGV0VHSXlqMmI3cjltWHN0d2hHUmF5SnRHUnZVcWY2aGM1VnFjOGp5NERXT05GTjRPTTE1aGZhUk1pRWJRb2hJc05CWEE?oc=5",
+       "source": "FL Times-Union",
+       "published": "2026-10-30T19:33+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Trevor Lawrence Gets Candid on Jaguars Benching Brian Thomas",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHBnSmhKN2s3cG5aZlY4MjU3eW91cmJIZ2pZYnVzdl9BZW1Iajk4SExmRDBfWnNNLVFtd2RoU0lOaDlCTVNoZk4wNElTWldlSU9FOXRDSVVnM2FzcVJGQ1U4SUxkb1hoOTZxM0NLSlJXTDlISXdJcnBlWUU1ajNkTllEcVg2SktEbVVheld3?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T12:06+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jaguars injury report: Antonio Johnson (ankle) misses practice",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEZpUHRWZDdHZVIwb3lEMmw5WnBQTE85OWQ4d0l6ZzlBYlpXVkpMV3RHZVhQcEdiSm01T0QyTHp0UERBREJCbkNzQmcwYWFfY05LYU9MbGFJd1Vncy02MVlTLXFxMl9jeXVsOVlfQTE2UjdBb09ZWXo0QVA0Rk1DY3Z2OTd6b21qQkpVa0RaRFVKSjVIcEVnOEhPZExKSnpVQWx1eVBiTjVjLTZ0ZC1XalNWVkZrSFE3Y3IxUGJGeEpIT2l1V2FDT1FWaWM?oc=5",
+       "source": "FL Times-Union",
+       "published": "2026-10-29T20:51+00:00",
+       "flag": "injury"
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -1822,7 +1931,7 @@
      ]
     },
     "total": {
-     "summary": "The forecast calls for 16 mph wind at kickoff in an outdoor stadium. Best Under number: 46.5 at DraftKings.",
+     "summary": "The forecast calls for 18 mph wind at kickoff in an outdoor stadium. Best Under number: 46.5 at DraftKings.",
      "factors": [
       {
        "label": "Jaguars defense",
@@ -1856,11 +1965,11 @@
       },
       {
        "ok": true,
-       "text": "Forecast wind 16 mph (LOCK needs 15+, Lean 10+)."
+       "text": "Forecast wind 18 mph (LOCK needs 15+, Lean 10+)."
       },
       {
        "ok": false,
-       "text": "Forecast read 51 hours before kickoff (LOCK needs 36 or fewer)."
+       "text": "Forecast read 43 hours before kickoff (LOCK needs 36 or fewer)."
       },
       {
        "ok": null,
@@ -1877,7 +1986,7 @@
      ],
      "risks": [
       "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-      "54% chance of rain, which also tends to slow scoring.",
+      "50% chance of rain, which also tends to slow scoring.",
       "Recent headlines mention an injury or absence for the Jaguars."
      ],
      "evidence": [],
@@ -1964,90 +2073,6 @@
       }
      ]
     }
-   },
-   "news": {
-    "Colts": {
-     "qb_alert": false,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "Indianapolis Colts Poach San Francisco 49ers Defender After DeForest Buckner Trade",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFN0YVRlNldJcFpiN1prTFBaUFFfbk1zNE5lMGZSTkFfOGtYTjl4aVBaOU5qZUFkOTEtMjhSUUJycUUxcE1vQnk0NkVSZk4wbTBjZ1M1VFFkbkdKQlI2SFBZVHgwSDllVmo3ZWU1UThPVVVCZ2NyTnhaSnVyMFZHeEVETURjSUtjY2xlcVIzNGlYZHFKMUs4?oc=5",
-       "source": "roundtable.io",
-       "published": "2026-10-30T22:01+00:00",
-       "flag": null
-      },
-      {
-       "title": "Colts reportedly hesitant about Jonathan Taylor trade despite heavy interest from many NFL teams",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdktDMFVxemM1WmpKNVpBSFpySnZNeThpM3l0NzU1aWRtRldYMEEwNEZBcVpSdWdtZGFqZnlRMGdVQWhSTWs4OEJIZHhkQmkzREx1LUg4VTF5VG1FVFMwN3czQV95dWQzZjJCLTdRa0VrdE5KZlByOXhtbXZ1ck1aa2x2NnB3eU5FOGw3NUZ5c083TWhwT0lTbEYyUExoSm1WUS1GT2hYV1E3Qkg4Qk5CSzZLSzhKZFp2ZmZrZ2pOZkLSAcYBQVVfeXFMT3NlRjF1bV90T1k0bnNDdFppYUQwZFhkTXN5aEtIMzZmODdLWWlDWWl2Q1VjZnc0TVJPSUh4dUJGWTlvV18wT2JlcDNEeC1MZ3BJQ2pMSE5BWWRkMVI5d2xVQldCUG5fLXkzUTJBZUpDXzBfdkVaZEoxbmJRdV9oNEhGQllfem5lQ1JnM2htWTVwNmdIOWU3UGVuZ2t4Y3NaU1pLbmVhcFRsRjhVbG52OWNydElFVHBkcmJfd016eHdxTTBxZlpR?oc=5",
-       "source": "Bolavip US",
-       "published": "2026-10-30T21:13+00:00",
-       "flag": null
-      },
-      {
-       "title": "Colts vs. Jaguars: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
-       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xY2Y4akw5dXNGTDdFNEJheTF5ZDZxMjRfU0RCUWFrZHJGZk4wVE4xdW50Ym13b1B3VEU3bEdaSzV2YW5QS21OM2Y1WTFpd3Q5dGJWdnBMMmx2SE85U0YxeXh4WU9mR210cXc?oc=5",
-       "source": "SiriusXM",
-       "published": "2026-10-30T21:10+00:00",
-       "flag": null
-      },
-      {
-       "title": "Despite his trade request, Colts expect WR Josh Downs to show up and do his job",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGR6ejhTRFBkMnBWWjVUNzRScG1LNThZNGJ4NTRjczVTNHFZMVdxWUIwNkJfbGVGSlJ5NGdSTUgyUWJpc0FkTGFxUW5UdGVRc0x3UWxQLWc4dW44TUx3SnFXMmlaY1pKeEhGQW9QT09YbHlua0ZoQVM2SE5WamFTOGtucE93T2x5ZXhGNkdiX195eFRlYjhRcjBmVkhRVzJuUmwydktfdkxNU2pGZVVR0gG0AUFVX3lxTE00YWszcHZjWUZEQzBacFdIQVpLdVpiVkpPOGhULXVyMHV3aXR1ZGxHRkR2ajE5Zl9wWFV5M0NleGtRZERGOS12aTNIQ1lPWk5xZEx2UzZhZXB3cl9ILXAtWGp6OHNhNUFfQ2t5d3NmcTZ2dUNhT3ozdTlqcXJ6Z3drUXNjclhQMUFCcUttQUNtRmJyaUs4T0ZCbFdNY0w2UWdHSTZwQ1ZnRDdNdXBzRERTTUM1dw?oc=5",
-       "source": "Fox 59",
-       "published": "2026-10-30T21:04+00:00",
-       "flag": null
-      },
-      {
-       "title": "Indianapolis Colts Could Turn Their Best Player Into Their Next Big Bet",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmpqWnZ2OGU3ekhJYmxJWFlqX1JJTGo0TnBaYnBDcDlsc29sUjluVUVrQmtrWmoxN3VyOE9qOWE2aWU2LUNLZlp3SWlmUDZlQXVGV1d0LVFIdTJPczhFNnBaYWlVbUphY2J3aDMzZUFvbTdWaUtlNWtZTm1CbzVhSHUzS2c0ak1udzlqSTZZSnpvNThxUnplNmZXcnprelJlSE85djhXaW90OHAwN1JQNnlsNXltQjJ6b1dFaA?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-30T20:50+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Jaguars": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Jaguars vs. Colts, odds, injuries, key matchup as Jags return to EverBank",
-       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFU2d0w4NnhPalB3SkxmTWlOVWVMdUpKZmppbGRrSkxLZElTSmViSXRSeW5fekNtRUh3WERCTTZrX1VabDdQb3I3Um9laldGWE1za3BRd2psQ3VaTlNYWHNlN3c4OGhfX2hmSWVCVnl3d3hUS1BKMTZjVFpQWUNMRTNKMkduMVJnWGRCQmw5dzduZ0RxMFpQOFR1LXZqSHc3eEpCYkNGNEJ1c2JXcDdLVVdidmNReV95dUJLR09oYVhWNGN0VTN0emF2bVBmRjdUUlhraUhkdFBTVFUzVnlDRw?oc=5",
-       "source": "FL Times-Union",
-       "published": "2026-10-30T20:05+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jakobi Meyers Questionable, Antonio Johnson Out as the Jaguars Return From Their Bye",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5mVFpFNjdHc3N6VUViRmptTG04NF9oN3d5VnRfRFU4V290cUg5TzJLbU1aNVAyZ0o5elFHN3Z1UzBZZGRpSGNkZnNnM24zQjhwOTR3Y0R2Wl9IbndlOXhTek0wcDlFdWFZVjgtOTZjcmxqbDEzS3NTWTAwSnVZVGFoYTdsU3pfQWdPbGNqZDVSODFZeXIybkdUczM1ZDg4SVFNMUNLSXlKSmFqR0tn?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-30T19:35+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jaguars games status: Jakobi Meyers questionable ahead of Colts game",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21wQnRNS3VYNDVqZVQtZHFfYVgtRTY1S016SDM5VDUteVA4cDZHUUFvZURMX2xFd1kwWThWSUhIVW0yc2ttVUt5M1F4a3hwalR4NXl4LUxRUndOQVlDVzZGZjZmNVc1cmNQRTZQWmdyelA0djhwVGhXMGNiNTFOdzQ4NEJFNHV0WXM1eElGV0VHSXlqMmI3cjltWHN0d2hHUmF5SnRHUnZVcWY2aGM1VnFjOGp5NERXT05GTjRPTTE1aGZhUk1pRWJRb2hJc05CWEE?oc=5",
-       "source": "FL Times-Union",
-       "published": "2026-10-30T19:33+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Trevor Lawrence Gets Candid on Jaguars Benching Brian Thomas",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHBnSmhKN2s3cG5aZlY4MjU3eW91cmJIZ2pZYnVzdl9BZW1Iajk4SExmRDBfWnNNLVFtd2RoU0lOaDlCTVNoZk4wNElTWldlSU9FOXRDSVVnM2FzcVJGQ1U4SUxkb1hoOTZxM0NLSlJXTDlISXdJcnBlWUU1ajNkTllEcVg2SktEbVVheld3?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T12:06+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jaguars injury report: Antonio Johnson (ankle) misses practice",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEZpUHRWZDdHZVIwb3lEMmw5WnBQTE85OWQ4d0l6ZzlBYlpXVkpMV3RHZVhQcEdiSm01T0QyTHp0UERBREJCbkNzQmcwYWFfY05LYU9MbGFJd1Vncy02MVlTLXFxMl9jeXVsOVlfQTE2UjdBb09ZWXo0QVA0Rk1DY3Z2OTd6b21qQkpVa0RaRFVKSjVIcEVnOEhPZExKSnpVQWx1eVBiTjVjLTZ0ZC1XalNWVkZrSFE3Y3IxUGJGeEpIT2l1V2FDT1FWaWM?oc=5",
-       "source": "FL Times-Union",
-       "published": "2026-10-29T20:51+00:00",
-       "flag": "injury"
-      }
-     ]
-    }
    }
   },
   {
@@ -2062,12 +2087,12 @@
    "venue": "MetLife Stadium",
    "roof": "outdoors",
    "weather": {
-    "wind": 3.0,
-    "wind_text": "3 mph",
+    "wind": 8.0,
+    "wind_text": "8 mph",
     "temp": 61,
     "short": "Mostly Sunny",
     "rain": 0,
-    "checked": "2026-10-30T14:48Z"
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -2170,6 +2195,11 @@
      "2026-10-30T14:48Z",
      -1.5,
      45.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -1.5,
+     45.5
     ]
    ],
    "projection": {
@@ -2234,8 +2264,8 @@
     "wind_text": "3 mph",
     "temp": 66,
     "short": "Mostly Cloudy",
-    "rain": 2,
-    "checked": "2026-10-30T14:48Z"
+    "rain": 0,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -2333,6 +2363,11 @@
      "2026-10-30T14:48Z",
      -3.5,
      39.33
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -3.5,
+     39.33
     ]
    ],
    "projection": {
@@ -2396,34 +2431,34 @@
     "wind": 12.0,
     "wind_text": "12 mph",
     "temp": 80,
-    "short": "Widespread Showers And Thunderstorms",
-    "rain": 78,
-    "checked": "2026-10-30T14:48Z"
+    "short": "Chance Showers And Thunderstorms",
+    "rain": 73,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
      "spread_home": -2.5,
      "spread_home_price": -110,
      "spread_away_price": -110,
-     "total": 44.5,
-     "over_price": -102,
-     "under_price": -118
+     "total": 43.5,
+     "over_price": -108,
+     "under_price": -112
     },
     "fanduel": {
      "spread_home": -2.5,
      "spread_home_price": -105,
      "spread_away_price": -115,
-     "total": 44.5,
-     "over_price": -105,
-     "under_price": -115
+     "total": 43.5,
+     "over_price": -115,
+     "under_price": -105
     },
     "bovada": {
      "spread_home": -2.5,
-     "spread_home_price": -115,
-     "spread_away_price": -105,
-     "total": 44.0,
-     "over_price": -110,
-     "under_price": -110
+     "spread_home_price": -112,
+     "spread_away_price": -108,
+     "total": 43.0,
+     "over_price": -112,
+     "under_price": -108
     }
    },
    "open": {
@@ -2506,6 +2541,11 @@
      "2026-10-30T14:48Z",
      -2.5,
      44.33
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -2.5,
+     43.33
     ]
    ],
    "projection": {
@@ -2530,33 +2570,117 @@
     "total": {
      "bet": "total",
      "side": "Under",
-     "line": 44.5,
+     "line": 43.5,
      "book": "draftkings",
-     "edge": 0.8,
-     "label": "Under 44.5",
+     "edge": -0.2,
+     "label": "Under 43.5",
      "cover": 0.538,
      "pattern": "wind10",
      "wind": 12.0,
-     "moved_against": -0.7,
+     "moved_against": -1.7,
      "tier": "lean"
     }
    },
    "best": {
     "bet": "total",
     "side": "Under",
-    "line": 44.5,
+    "line": 43.5,
     "book": "draftkings",
-    "edge": 0.8,
-    "label": "Under 44.5",
+    "edge": -0.2,
+    "label": "Under 43.5",
     "cover": 0.538,
     "pattern": "wind10",
     "wind": 12.0,
-    "moved_against": -0.7,
+    "moved_against": -1.7,
     "tier": "lean"
+   },
+   "news": {
+    "Falcons": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Falcons vs. Buccaneers prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmRpS25lVm5vWjRDRnI0Qmc3YlMwZUtGUmk1T2tSV2VQcjZIbV90bHA5Q0E1OHRNbEJydTlSRVlIeFFKUVVNcW05WU5odk1fNHI2alUtb1BkUEFZX2NRTlZRekZqN05uZWJ3SUx2UTJ2SVJJcnN5aGZXYTM2bG81VGphLW15dEhDOWhocXlfemlKR0g4cHdfNjU0cjI1bndpNnlJVGMwb01JZjVMX0JXR0lVS0RoeldjdEtlVUlJX1luRHlQUjZ5eDNGUWoyMEh1?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-30T19:34+00:00",
+       "flag": "qb"
+      },
+      {
+       "title": "Falcons\u2019 Divine Deablo optimistic about playing at Bucs despite forearm injury",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTU5ocnlHRFdlMUVfMG9RbmVUcW94N1VZYUNpN215YWtCOTJCVEpsaWZmNmpTNWlEQWdaeDBJRmJvYmhPYlJmbFF2djZWRlZoTVpodGg4RWhyVFoxR3U2ZVUzQ1FUOHQteUhyWHNqZW9pNV8zdUx1aEhhclZsRU1zWm5uVmZCTXNLOTdkTEJEZXpNdw?oc=5",
+       "source": "The Atlanta Journal-Constitution",
+       "published": "2026-10-29T21:53+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Falcons Facing Bijan Robinson Workload Decision After Brian Robinson Jr. Injury Update",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkdnYlVBYV9mMnNheHU0d3JCd0Nub0RDUnMyck5UOFc5S0tjTWZ1b3ZQMXpuS3U5dW5heTl5OWdfR1ZSUzdkWmhObTFJUHd1N2hzSjg0cXlGLWhGYkFPejhnUWdIZ09wYkpPdVFBaHZMRGpBVGJocm9CN2RtZ2VhQW1TRS1zVHowOXVWRnh0MlE?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T22:47+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "NFL predictions: Falcons must slow down Bucs run game",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMG41TTltVFhXNHZPSjNvZUw3Uzgxd1JMUk9NZkE4MGxESlFyOHNiVmtDZlZqNVI0VFI5ZkFYTy1nYU9kZVV0bWNmTnQ3dFdUNXpGSlR0Um1oSkJCM2tTR0VyaUQ1NV9qVl9SVktFRHo2N0xrMzVzUnVMUXJqd2E0RFhUV2ZuajJ4Mmc?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T21:41+00:00",
+       "flag": null
+      },
+      {
+       "title": "Atlanta Falcons Announce Brian Robinson Jr. News Before Buccaneeers Game",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1RiRmpOSGRyVDNDMDFsOVlHVkR1THVoS29iRi1ERUhUblNJNjN0YWI0Z2hvMU5ydUdTeGxuamQ3VERWMzJRSFg2WWdRUk40bjdzTnRNUmQyc0pGRFVBVFdyMEpSbFI4RjV1V1Yxc2prM1dmR3pvN0tzSzJINTFjUU1BN0EzemM2enQ0VkhyTGhic0FtUlU2ZG54akpEZWRncFlfOC1YdTRHN19TZkNB?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T21:14+00:00",
+       "flag": null
+      }
+     ]
+    },
+    "Buccaneers": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Emeka Egbuka officially ruled out for Falcons clash in latest Buccaneers injury update",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSE1aNmhMSUZJbktfelpJVGZqck1UV3hwVzQxRmJ1a3gyMzhma2s3QWx5THhTVTZncl9yLURad0lkSXFDNW1KX2hoM1hCbEFVZ3lSdDFoZFozTVlIdEktT1Q5M0kxVWZtZW1sVGQyLXZDTHFNSWgwRkxGcXNWLUwyQm45Q2ZwVUI3Y0ZZMXZhMU84N3hkUEY2WVl0UFJDdUhNdDd2anlhQWE5ZU15RTJCcVZjcEtIQ182ZlFBVVhVQmU?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T22:36+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Falcons vs. Buccaneers prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmRpS25lVm5vWjRDRnI0Qmc3YlMwZUtGUmk1T2tSV2VQcjZIbV90bHA5Q0E1OHRNbEJydTlSRVlIeFFKUVVNcW05WU5odk1fNHI2alUtb1BkUEFZX2NRTlZRekZqN05uZWJ3SUx2UTJ2SVJJcnN5aGZXYTM2bG81VGphLW15dEhDOWhocXlfemlKR0g4cHdfNjU0cjI1bndpNnlJVGMwb01JZjVMX0JXR0lVS0RoeldjdEtlVUlJX1luRHlQUjZ5eDNGUWoyMEh1?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-30T19:34+00:00",
+       "flag": "qb"
+      },
+      {
+       "title": "Atlanta Falcons @ Tampa Bay Buccaneers: Live game updates, stats, play-by-play",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0JlaGNrbE55STNpN1FBUjBFZ3R6eVpGczE1OWFoemFFaWhjNzJyRWM2RVB5ZUc1T3FzUDhlbEVPbGpDNkpIQ2Y3OUh1a05NcDV4SXJETE96MG1PLWF5VFQ1REVlU25DZElQa2lOYTI2cTNkWW9qcnJJS1ZGQWdWbkpFcjY?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:42+00:00",
+       "flag": null
+      },
+      {
+       "title": "How to Watch: Buccaneers vs. Falcons | Week 8 2026",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHlMMkQ3VGJpRUFJU1V5SkpUMXIyYTQ2Wng2bkhHLUdJS3hPVHc3c2M2ZkYycWNkQnVFUVdlQkhpZHZVYXA1UFJUYmRiX3dfcHlhdnh4T3N3cFhzNlBPMEJMWC1naXIySFhMUXk3X0xha2FJWGxiZFBDc19FZDBZLTZyeHA?oc=5",
+       "source": "Tampa Bay Buccaneers",
+       "published": "2026-10-30T19:29+00:00",
+       "flag": null
+      },
+      {
+       "title": "NFL Week 8 Preview: Falcons vs. Buccaneers",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXdkLVpfcGFKbnBsS1Y0U1BCVGRZRElKRkJRWngtQlBkLU9OZXFsMXB4R19iZmY2Zk1kNGRvWjVKLWpWQVJXTnBhQ3JmN1hpZlRmNm1nSlNGZHltXzR6RTQzaDBFVFhRZU8yRjBpMXVDT0hOeldKM19RaDJHbGZCMWh4d05jRFp4eHA4dHo4bFE0Sk5oSy1mZXpaZGRQZjdzSVdZOWVwS0ZvSkFxVFRIZGEtUW1GTURSWXhFSUIyaw?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-30T19:13+00:00",
+       "flag": null
+      }
+     ]
+    }
    },
    "why": {
     "total": {
-     "summary": "The forecast calls for 12 mph wind at kickoff in an outdoor stadium. Best Under number: 44.5 at DraftKings.",
+     "summary": "The forecast calls for 12 mph wind at kickoff in an outdoor stadium. Best Under number: 43.5 at DraftKings.",
      "factors": [
       {
        "label": "Buccaneers defense",
@@ -2597,7 +2721,7 @@
       },
       {
        "ok": null,
-       "text": "The line has moved 0.7 toward this side since it opened."
+       "text": "The line has moved 1.7 toward this side since it opened."
       },
       {
        "ok": null,
@@ -2608,7 +2732,7 @@
       "Recent headlines mention a quarterback issue for the Buccaneers. Read them below before betting.",
       "Recent headlines mention a quarterback issue for the Falcons. Read them below before betting.",
       "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-      "78% chance of rain, which also tends to slow scoring."
+      "73% chance of rain, which also tends to slow scoring."
      ],
      "evidence": [
       "Live this season: 2-1 (67%), beating the closing line by +0.3 points on average."
@@ -2655,6 +2779,14 @@
        "team": "Falcons"
       },
       {
+       "title": "Emeka Egbuka officially ruled out for Falcons clash in latest Buccaneers injury update",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSE1aNmhMSUZJbktfelpJVGZqck1UV3hwVzQxRmJ1a3gyMzhma2s3QWx5THhTVTZncl9yLURad0lkSXFDNW1KX2hoM1hCbEFVZ3lSdDFoZFozTVlIdEktT1Q5M0kxVWZtZW1sVGQyLXZDTHFNSWgwRkxGcXNWLUwyQm45Q2ZwVUI3Y0ZZMXZhMU84N3hkUEY2WVl0UFJDdUhNdDd2anlhQWE5ZU15RTJCcVZjcEtIQ182ZlFBVVhVQmU?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T22:36+00:00",
+       "flag": "injury",
+       "team": "Buccaneers"
+      },
+      {
        "title": "Falcons vs. Buccaneers prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmRpS25lVm5vWjRDRnI0Qmc3YlMwZUtGUmk1T2tSV2VQcjZIbV90bHA5Q0E1OHRNbEJydTlSRVlIeFFKUVVNcW05WU5odk1fNHI2alUtb1BkUEFZX2NRTlZRekZqN05uZWJ3SUx2UTJ2SVJJcnN5aGZXYTM2bG81VGphLW15dEhDOWhocXlfemlKR0g4cHdfNjU0cjI1bndpNnlJVGMwb01JZjVMX0JXR0lVS0RoeldjdEtlVUlJX1luRHlQUjZ5eDNGUWoyMEh1?oc=5",
        "source": "NBC Sports",
@@ -2663,120 +2795,28 @@
        "team": "Buccaneers"
       },
       {
+       "title": "Atlanta Falcons @ Tampa Bay Buccaneers: Live game updates, stats, play-by-play",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0JlaGNrbE55STNpN1FBUjBFZ3R6eVpGczE1OWFoemFFaWhjNzJyRWM2RVB5ZUc1T3FzUDhlbEVPbGpDNkpIQ2Y3OUh1a05NcDV4SXJETE96MG1PLWF5VFQ1REVlU25DZElQa2lOYTI2cTNkWW9qcnJJS1ZGQWdWbkpFcjY?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:42+00:00",
+       "flag": null,
+       "team": "Buccaneers"
+      },
+      {
+       "title": "How to Watch: Buccaneers vs. Falcons | Week 8 2026",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHlMMkQ3VGJpRUFJU1V5SkpUMXIyYTQ2Wng2bkhHLUdJS3hPVHc3c2M2ZkYycWNkQnVFUVdlQkhpZHZVYXA1UFJUYmRiX3dfcHlhdnh4T3N3cFhzNlBPMEJMWC1naXIySFhMUXk3X0xha2FJWGxiZFBDc19FZDBZLTZyeHA?oc=5",
+       "source": "Tampa Bay Buccaneers",
+       "published": "2026-10-30T19:29+00:00",
+       "flag": null,
+       "team": "Buccaneers"
+      },
+      {
        "title": "NFL Week 8 Preview: Falcons vs. Buccaneers",
        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXdkLVpfcGFKbnBsS1Y0U1BCVGRZRElKRkJRWngtQlBkLU9OZXFsMXB4R19iZmY2Zk1kNGRvWjVKLWpWQVJXTnBhQ3JmN1hpZlRmNm1nSlNGZHltXzR6RTQzaDBFVFhRZU8yRjBpMXVDT0hOeldKM19RaDJHbGZCMWh4d05jRFp4eHA4dHo4bFE0Sk5oSy1mZXpaZGRQZjdzSVdZOWVwS0ZvSkFxVFRIZGEtUW1GTURSWXhFSUIyaw?oc=5",
        "source": "NBC Sports",
        "published": "2026-10-30T19:13+00:00",
        "flag": null,
        "team": "Buccaneers"
-      },
-      {
-       "title": "The Buccaneers have a tackling problem",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVh2dzk0NmY2YnYxZ3dudXN5eEZBalJpV0ZRbFpLNmR4WDk2ZWtWWEFpZmN4Nkg3V0JHd0lYWFNBZ28wTC1NQ1ByaDZtQTRNZ1JYZGlEaXVROUM0NmVweUxpNlNSN3JrSFRuTXJGdXVLd29zRVRqV0lBYUNzNkhVeThn?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T16:45+00:00",
-       "flag": null,
-       "team": "Buccaneers"
-      },
-      {
-       "title": "Buccaneers Reveal Good News and Bad News Before Falcons Game",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUo2WDUwbGJMMmM1Mk1nRXJBa18tdi1PVjZsRkFSbTdaRlg3RThjTXl3UW85WGRKekFhZzhDamotYWFmVnlldzlpc3RiZ3lNeXR6S01wcEU2bV9Xd2U4Q3kzVDdOZUJjTmNQN01jZnIzOU9JZWYtNUY1aURzNUUtdEJqNWZRU0U?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T16:30+00:00",
-       "flag": null,
-       "team": "Buccaneers"
-      },
-      {
-       "title": "NFL predictions: Scores and picks for Week 8 between the Buccaneers and Falcons",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUlob01CRUlmM2hYZFBybURzcDMtVTR5SzJEQjM5T1ZiZHhxN0dub0xGVkxRWXhCcEFnOVE1OVRYOGJlTk41bGNiclg1TU5QMXBMc0RnOTBjQ0liRnV0eGRORkNTQTR1d2oyeEJMWmNVel9mRlo4VE9US284R3ZzLVhwTE10RUNXTHc?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T16:00+00:00",
-       "flag": null,
-       "team": "Buccaneers"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Falcons": {
-     "qb_alert": true,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Falcons vs. Buccaneers prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmRpS25lVm5vWjRDRnI0Qmc3YlMwZUtGUmk1T2tSV2VQcjZIbV90bHA5Q0E1OHRNbEJydTlSRVlIeFFKUVVNcW05WU5odk1fNHI2alUtb1BkUEFZX2NRTlZRekZqN05uZWJ3SUx2UTJ2SVJJcnN5aGZXYTM2bG81VGphLW15dEhDOWhocXlfemlKR0g4cHdfNjU0cjI1bndpNnlJVGMwb01JZjVMX0JXR0lVS0RoeldjdEtlVUlJX1luRHlQUjZ5eDNGUWoyMEh1?oc=5",
-       "source": "NBC Sports",
-       "published": "2026-10-30T19:34+00:00",
-       "flag": "qb"
-      },
-      {
-       "title": "Falcons\u2019 Divine Deablo optimistic about playing at Bucs despite forearm injury",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTU5ocnlHRFdlMUVfMG9RbmVUcW94N1VZYUNpN215YWtCOTJCVEpsaWZmNmpTNWlEQWdaeDBJRmJvYmhPYlJmbFF2djZWRlZoTVpodGg4RWhyVFoxR3U2ZVUzQ1FUOHQteUhyWHNqZW9pNV8zdUx1aEhhclZsRU1zWm5uVmZCTXNLOTdkTEJEZXpNdw?oc=5",
-       "source": "The Atlanta Journal-Constitution",
-       "published": "2026-10-29T21:53+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Falcons Facing Bijan Robinson Workload Decision After Brian Robinson Jr. Injury Update",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkdnYlVBYV9mMnNheHU0d3JCd0Nub0RDUnMyck5UOFc5S0tjTWZ1b3ZQMXpuS3U5dW5heTl5OWdfR1ZSUzdkWmhObTFJUHd1N2hzSjg0cXlGLWhGYkFPejhnUWdIZ09wYkpPdVFBaHZMRGpBVGJocm9CN2RtZ2VhQW1TRS1zVHowOXVWRnh0MlE?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T22:47+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "NFL predictions: Falcons must slow down Bucs run game",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMG41TTltVFhXNHZPSjNvZUw3Uzgxd1JMUk9NZkE4MGxESlFyOHNiVmtDZlZqNVI0VFI5ZkFYTy1nYU9kZVV0bWNmTnQ3dFdUNXpGSlR0Um1oSkJCM2tTR0VyaUQ1NV9qVl9SVktFRHo2N0xrMzVzUnVMUXJqd2E0RFhUV2ZuajJ4Mmc?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T21:41+00:00",
-       "flag": null
-      },
-      {
-       "title": "Atlanta Falcons Announce Brian Robinson Jr. News Before Buccaneeers Game",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1RiRmpOSGRyVDNDMDFsOVlHVkR1THVoS29iRi1ERUhUblNJNjN0YWI0Z2hvMU5ydUdTeGxuamQ3VERWMzJRSFg2WWdRUk40bjdzTnRNUmQyc0pGRFVBVFdyMEpSbFI4RjV1V1Yxc2prM1dmR3pvN0tzSzJINTFjUU1BN0EzemM2enQ0VkhyTGhic0FtUlU2ZG54akpEZWRncFlfOC1YdTRHN19TZkNB?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T21:14+00:00",
-       "flag": null
-      }
-     ]
-    },
-    "Buccaneers": {
-     "qb_alert": true,
-     "injury": false,
-     "headlines": [
-      {
-       "title": "Falcons vs. Buccaneers prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmRpS25lVm5vWjRDRnI0Qmc3YlMwZUtGUmk1T2tSV2VQcjZIbV90bHA5Q0E1OHRNbEJydTlSRVlIeFFKUVVNcW05WU5odk1fNHI2alUtb1BkUEFZX2NRTlZRekZqN05uZWJ3SUx2UTJ2SVJJcnN5aGZXYTM2bG81VGphLW15dEhDOWhocXlfemlKR0g4cHdfNjU0cjI1bndpNnlJVGMwb01JZjVMX0JXR0lVS0RoeldjdEtlVUlJX1luRHlQUjZ5eDNGUWoyMEh1?oc=5",
-       "source": "NBC Sports",
-       "published": "2026-10-30T19:34+00:00",
-       "flag": "qb"
-      },
-      {
-       "title": "NFL Week 8 Preview: Falcons vs. Buccaneers",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXdkLVpfcGFKbnBsS1Y0U1BCVGRZRElKRkJRWngtQlBkLU9OZXFsMXB4R19iZmY2Zk1kNGRvWjVKLWpWQVJXTnBhQ3JmN1hpZlRmNm1nSlNGZHltXzR6RTQzaDBFVFhRZU8yRjBpMXVDT0hOeldKM19RaDJHbGZCMWh4d05jRFp4eHA4dHo4bFE0Sk5oSy1mZXpaZGRQZjdzSVdZOWVwS0ZvSkFxVFRIZGEtUW1GTURSWXhFSUIyaw?oc=5",
-       "source": "NBC Sports",
-       "published": "2026-10-30T19:13+00:00",
-       "flag": null
-      },
-      {
-       "title": "The Buccaneers have a tackling problem",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVh2dzk0NmY2YnYxZ3dudXN5eEZBalJpV0ZRbFpLNmR4WDk2ZWtWWEFpZmN4Nkg3V0JHd0lYWFNBZ28wTC1NQ1ByaDZtQTRNZ1JYZGlEaXVROUM0NmVweUxpNlNSN3JrSFRuTXJGdXVLd29zRVRqV0lBYUNzNkhVeThn?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T16:45+00:00",
-       "flag": null
-      },
-      {
-       "title": "Buccaneers Reveal Good News and Bad News Before Falcons Game",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUo2WDUwbGJMMmM1Mk1nRXJBa18tdi1PVjZsRkFSbTdaRlg3RThjTXl3UW85WGRKekFhZzhDamotYWFmVnlldzlpc3RiZ3lNeXR6S01wcEU2bV9Xd2U4Q3kzVDdOZUJjTmNQN01jZnIzOU9JZWYtNUY1aURzNUUtdEJqNWZRU0U?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T16:30+00:00",
-       "flag": null
-      },
-      {
-       "title": "NFL predictions: Scores and picks for Week 8 between the Buccaneers and Falcons",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUlob01CRUlmM2hYZFBybURzcDMtVTR5SzJEQjM5T1ZiZHhxN0dub0xGVkxRWXhCcEFnOVE1OVRYOGJlTk41bGNiclg1TU5QMXBMc0RnOTBjQ0liRnV0eGRORkNTQTR1d2oyeEJMWmNVel9mRlo4VE9US284R3ZzLVhwTE10RUNXTHc?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T16:00+00:00",
-       "flag": null
       }
      ]
     }
@@ -2895,6 +2935,11 @@
      "2026-10-30T14:48Z",
      -6.5,
      45.33
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -6.5,
+     45.33
     ]
    ],
    "projection": {
@@ -2940,6 +2985,90 @@
     "pattern": null,
     "tier": "model",
     "moved_against": -0.2
+   },
+   "news": {
+    "Chargers": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Chargers safety Derwin James Jr. to miss 4th straight game",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktsQmhBY05OS1c4Z0I1aXdzOXY1aDdfQmluU0ZJWnNBSFFLV3FndlJMMG1DRU1BbVZ4a3BXNHJuanhYNUhNbW8tZ3k1ekxhME4xZlcxQXVneHpaVUgtZlJrd19DUzVyUVFlWklUZFhaZkpLaXNjVjhrX3ZnanFRc2RILU53TlhFQUs0MGN3T1dtNy1pbGpFWV8tNEw?oc=5",
+       "source": "Orange County Register",
+       "published": "2026-10-30T21:13+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Chargers vs. Rams Injury Report: James Among 4 Out, Jackson & Shelley Questionable in Week 8",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTFjQU9vNzZvUDYwQURVcGlOdGhROFB1d0wxTHp6Mnlnd3lXYXRUUUpnODBlOTd6dzlObEZGdlZ0YzZyVU9PR08wcmVoZDh4Y0lIQ3FEcUprX0s5ZFdicWQtczBzbXlpbE5wNG1NMjJoNk1nTWtiVGJGY1poQVJQVkl0WGpuN0R1aWZyS1B5Qk9GUlRRZG85SGRRNzJGSmp1MHVpN0xCN1ItUkc4Rm02OUR5OA?oc=5",
+       "source": "Los Angeles Chargers",
+       "published": "2026-10-30T20:14+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Chargers Derwin James Jr. Could Be Placed on Injured Reserve",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS1lnX09Gal9fcXFfbGN1MXd3cWlEaFl4UHRkUTMxYVZ3UEUwaTBub3hOdjFLR0dHYWVLYkQ5U3lWTXdQVjA2cS1ObUFRckFuNC15UUlvUU9JX2xzQ0ZGamZPcmEzY0ktNWEwNC1rdTJaNU43dHZveHdlX2Q4TndocFh0aVJPUQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T17:48+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Sean McVay, Matthew Stafford not overlooking winless Chargers as Rams deal with injuries ahead of Los Angeles showdown",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1VOR2R0cHhaNFQ0MS1GUjd2VE5IUEM5Q1F6TkFRb1ltUnpvcGdHcWlUM2ZoelN2RUVNQ2RkMlJuQ1Nfcm5sUUhUU01fMzZxWmRhTkcydkdLWjROOEVwc19MRVRjaUhsc0dfNDFJalZyVEdETUllcDM3NnBNUlJ5UHY2LVRNSTV1Y2NF?oc=5",
+       "source": "The Sporting Tribune",
+       "published": "2026-10-29T16:27+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Chargers Star Suffers Injury Setback Amid Challenging Season",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWZyZVNuU2hkR0NPblR4clRpSTlwTTZNOU5MbEFjOEVJTlJybmc5QUJoekptazlJOWxhTkVRbTBuTDgxNlpiZEhWdG11ckdoc2otaU5JRU5JUy1KQ01HcTdsR2FCYUtRSldnX1hrYjBWR2pnLTFJT2pGLWR3QlZMR1prWlZMMjM5bHZrWENR?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T23:34+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Rams": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Chargers vs. Rams Injury Report: James Among 4 Out, Jackson & Shelley Questionable in Week 8",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTFjQU9vNzZvUDYwQURVcGlOdGhROFB1d0wxTHp6Mnlnd3lXYXRUUUpnODBlOTd6dzlObEZGdlZ0YzZyVU9PR08wcmVoZDh4Y0lIQ3FEcUprX0s5ZFdicWQtczBzbXlpbE5wNG1NMjJoNk1nTWtiVGJGY1poQVJQVkl0WGpuN0R1aWZyS1B5Qk9GUlRRZG85SGRRNzJGSmp1MHVpN0xCN1ItUkc4Rm02OUR5OA?oc=5",
+       "source": "Los Angeles Chargers",
+       "published": "2026-10-30T20:14+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Rams finally get some good injury news with Davante Adams update after surgery",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkJPOHFwX0pZYWEtc3dEel9vMFUwWHlPa2d2X1ZyRTIwaGJnbWxYSkdXaTNGSjE3Z2cwTVlGYmVGazE2Rlc4VlIyTW9WR3F5SklCRzdKQkJqb2JnS2RGRGhacG9GeHpyMlRMZVZROVFpZmF1cnZtQ3lsNE01MFZWZGx5NGU?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T03:48+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Rams' Myles Garrett remains out of practice, will miss 7th straight game",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1paZ3NNVVR2Rmp4Qnc2eTJLZE54YzhwS3J6aFFxbEVqYWE3eFlpb1VwSEl5Znh1RllJdVlMVkN0ams2Z293UnhtRDd2VGdYQW84NThLYmViY1FfcHd5UW00VXgzZDFlbG16T2pqcTNaeE1idFhUVHNIYWtZSlQyWlNWUnFOX0NNT09tVzdTTXlIMUszam1sZVBWbTNnclFvajR1VkFiTXUyYkZW?oc=5",
+       "source": "Sportsnet.ca",
+       "published": "2026-10-28T22:12+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Chargers vs. Rams: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
+       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90NENYM20wT2NEQ19aVGxEM3ZIWjl4NU5TdzR2UnFIOG5JVDJyRDRCcWg0UGJ2WE5xZ2tLUTBRNmlvcTAwa1o0cnl0eC1VZGZWNExWSHdxcnhGTkpYUXgydXNkcVJteXNPckE?oc=5",
+       "source": "SiriusXM",
+       "published": "2026-10-30T22:15+00:00",
+       "flag": null
+      },
+      {
+       "title": "Rams won\u2019t tip hand on potential two-kicker strategy",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVNyLWt6Wkl1SU1KYlRpSHJtNzRKcUxoOURqcHNzOEJNd2J1VC1TTHlhSTNablNiYXBmYnpaZ3JKdExuTDJxcmJJWUdNM0FOS0tZaGRJMEdQS1BjZ3R6NFZEb1FTV1pqSk1yQ3I4REFiODVuYTZnVEpvNk1wSTR5SDlwUENaSDBXX2VLdFhtUURtd1Zp?oc=5",
+       "source": "Orange County Register",
+       "published": "2026-10-30T20:23+00:00",
+       "flag": null
+      }
+     ]
+    }
    },
    "why": {
     "total": {
@@ -3055,14 +3184,6 @@
        "team": "Rams"
       },
       {
-       "title": "Myles Garrett injury update, timeline from Rams coach raises eyebrows",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnJfeGs0OXBEdG10bTJXb1hRcEM5OFBJWHE0cXpubDlhY0pRYVhFSjNfVzhONHVleE5EQzJpNjA4LTliTG1sSTFjUmhrQ2dEUldsT0dqal9NMUM2ZG0yODlaX3NnMTJpRHc3N25BR3NDcmNyMVE2MG9HcjJFQU5VWEI2NUVJaEJOaWM4VEZQN2dLenhsZmYxMDlrVGNja21XTFdsb0V0Sy1tWlozYTRyVDBpQ01GMC1q?oc=5",
-       "source": "New York Post",
-       "published": "2026-10-28T23:10+00:00",
-       "flag": "injury",
-       "team": "Rams"
-      },
-      {
        "title": "Rams' Myles Garrett remains out of practice, will miss 7th straight game",
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1paZ3NNVVR2Rmp4Qnc2eTJLZE54YzhwS3J6aFFxbEVqYWE3eFlpb1VwSEl5Znh1RllJdVlMVkN0ams2Z293UnhtRDd2VGdYQW84NThLYmViY1FfcHd5UW00VXgzZDFlbG16T2pqcTNaeE1idFhUVHNIYWtZSlQyWlNWUnFOX0NNT09tVzdTTXlIMUszam1sZVBWbTNnclFvajR1VkFiTXUyYkZW?oc=5",
        "source": "Sportsnet.ca",
@@ -3077,90 +3198,14 @@
        "published": "2026-10-30T22:15+00:00",
        "flag": null,
        "team": "Rams"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Chargers": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
+      },
       {
-       "title": "Chargers safety Derwin James Jr. to miss 4th straight game",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktsQmhBY05OS1c4Z0I1aXdzOXY1aDdfQmluU0ZJWnNBSFFLV3FndlJMMG1DRU1BbVZ4a3BXNHJuanhYNUhNbW8tZ3k1ekxhME4xZlcxQXVneHpaVUgtZlJrd19DUzVyUVFlWklUZFhaZkpLaXNjVjhrX3ZnanFRc2RILU53TlhFQUs0MGN3T1dtNy1pbGpFWV8tNEw?oc=5",
+       "title": "Rams won\u2019t tip hand on potential two-kicker strategy",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVNyLWt6Wkl1SU1KYlRpSHJtNzRKcUxoOURqcHNzOEJNd2J1VC1TTHlhSTNablNiYXBmYnpaZ3JKdExuTDJxcmJJWUdNM0FOS0tZaGRJMEdQS1BjZ3R6NFZEb1FTV1pqSk1yQ3I4REFiODVuYTZnVEpvNk1wSTR5SDlwUENaSDBXX2VLdFhtUURtd1Zp?oc=5",
        "source": "Orange County Register",
-       "published": "2026-10-30T21:13+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Chargers vs. Rams Injury Report: James Among 4 Out, Jackson & Shelley Questionable in Week 8",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTFjQU9vNzZvUDYwQURVcGlOdGhROFB1d0wxTHp6Mnlnd3lXYXRUUUpnODBlOTd6dzlObEZGdlZ0YzZyVU9PR08wcmVoZDh4Y0lIQ3FEcUprX0s5ZFdicWQtczBzbXlpbE5wNG1NMjJoNk1nTWtiVGJGY1poQVJQVkl0WGpuN0R1aWZyS1B5Qk9GUlRRZG85SGRRNzJGSmp1MHVpN0xCN1ItUkc4Rm02OUR5OA?oc=5",
-       "source": "Los Angeles Chargers",
-       "published": "2026-10-30T20:14+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Chargers Derwin James Jr. Could Be Placed on Injured Reserve",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS1lnX09Gal9fcXFfbGN1MXd3cWlEaFl4UHRkUTMxYVZ3UEUwaTBub3hOdjFLR0dHYWVLYkQ5U3lWTXdQVjA2cS1ObUFRckFuNC15UUlvUU9JX2xzQ0ZGamZPcmEzY0ktNWEwNC1rdTJaNU43dHZveHdlX2Q4TndocFh0aVJPUQ?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T17:48+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Sean McVay, Matthew Stafford not overlooking winless Chargers as Rams deal with injuries ahead of Los Angeles showdown",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1VOR2R0cHhaNFQ0MS1GUjd2VE5IUEM5Q1F6TkFRb1ltUnpvcGdHcWlUM2ZoelN2RUVNQ2RkMlJuQ1Nfcm5sUUhUU01fMzZxWmRhTkcydkdLWjROOEVwc19MRVRjaUhsc0dfNDFJalZyVEdETUllcDM3NnBNUlJ5UHY2LVRNSTV1Y2NF?oc=5",
-       "source": "The Sporting Tribune",
-       "published": "2026-10-29T16:27+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Chargers Star Suffers Injury Setback Amid Challenging Season",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWZyZVNuU2hkR0NPblR4clRpSTlwTTZNOU5MbEFjOEVJTlJybmc5QUJoekptazlJOWxhTkVRbTBuTDgxNlpiZEhWdG11ckdoc2otaU5JRU5JUy1KQ01HcTdsR2FCYUtRSldnX1hrYjBWR2pnLTFJT2pGLWR3QlZMR1prWlZMMjM5bHZrWENR?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T23:34+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Rams": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Chargers vs. Rams Injury Report: James Among 4 Out, Jackson & Shelley Questionable in Week 8",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTFjQU9vNzZvUDYwQURVcGlOdGhROFB1d0wxTHp6Mnlnd3lXYXRUUUpnODBlOTd6dzlObEZGdlZ0YzZyVU9PR08wcmVoZDh4Y0lIQ3FEcUprX0s5ZFdicWQtczBzbXlpbE5wNG1NMjJoNk1nTWtiVGJGY1poQVJQVkl0WGpuN0R1aWZyS1B5Qk9GUlRRZG85SGRRNzJGSmp1MHVpN0xCN1ItUkc4Rm02OUR5OA?oc=5",
-       "source": "Los Angeles Chargers",
-       "published": "2026-10-30T20:14+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Rams finally get some good injury news with Davante Adams update after surgery",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkJPOHFwX0pZYWEtc3dEel9vMFUwWHlPa2d2X1ZyRTIwaGJnbWxYSkdXaTNGSjE3Z2cwTVlGYmVGazE2Rlc4VlIyTW9WR3F5SklCRzdKQkJqb2JnS2RGRGhacG9GeHpyMlRMZVZROVFpZmF1cnZtQ3lsNE01MFZWZGx5NGU?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T03:48+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Myles Garrett injury update, timeline from Rams coach raises eyebrows",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnJfeGs0OXBEdG10bTJXb1hRcEM5OFBJWHE0cXpubDlhY0pRYVhFSjNfVzhONHVleE5EQzJpNjA4LTliTG1sSTFjUmhrQ2dEUldsT0dqal9NMUM2ZG0yODlaX3NnMTJpRHc3N25BR3NDcmNyMVE2MG9HcjJFQU5VWEI2NUVJaEJOaWM4VEZQN2dLenhsZmYxMDlrVGNja21XTFdsb0V0Sy1tWlozYTRyVDBpQ01GMC1q?oc=5",
-       "source": "New York Post",
-       "published": "2026-10-28T23:10+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Rams' Myles Garrett remains out of practice, will miss 7th straight game",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1paZ3NNVVR2Rmp4Qnc2eTJLZE54YzhwS3J6aFFxbEVqYWE3eFlpb1VwSEl5Znh1RllJdVlMVkN0ams2Z293UnhtRDd2VGdYQW84NThLYmViY1FfcHd5UW00VXgzZDFlbG16T2pqcTNaeE1idFhUVHNIYWtZSlQyWlNWUnFOX0NNT09tVzdTTXlIMUszam1sZVBWbTNnclFvajR1VkFiTXUyYkZW?oc=5",
-       "source": "Sportsnet.ca",
-       "published": "2026-10-28T22:12+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Chargers vs. Rams: Listen Live to Sunday\u2019s NFL Game on SiriusXM",
-       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90NENYM20wT2NEQ19aVGxEM3ZIWjl4NU5TdzR2UnFIOG5JVDJyRDRCcWg0UGJ2WE5xZ2tLUTBRNmlvcTAwa1o0cnl0eC1VZGZWNExWSHdxcnhGTkpYUXgydXNkcVJteXNPckE?oc=5",
-       "source": "SiriusXM",
-       "published": "2026-10-30T22:15+00:00",
-       "flag": null
+       "published": "2026-10-30T20:23+00:00",
+       "flag": null,
+       "team": "Rams"
       }
      ]
     }
@@ -3180,10 +3225,10 @@
    "weather": {
     "wind": 5.0,
     "wind_text": "5 mph",
-    "temp": 63,
-    "short": "Mostly Cloudy",
-    "rain": 1,
-    "checked": "2026-10-30T14:48Z"
+    "temp": 64,
+    "short": "Cloudy",
+    "rain": 0,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -3207,8 +3252,8 @@
      "spread_home_price": -110,
      "spread_away_price": -110,
      "total": 40.5,
-     "over_price": -110,
-     "under_price": -110
+     "over_price": -108,
+     "under_price": -112
     }
    },
    "open": {
@@ -3286,6 +3331,11 @@
      "2026-10-30T14:48Z",
      1.33,
      40.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     1.33,
+     40.5
     ]
    ],
    "projection": {
@@ -3331,6 +3381,90 @@
     "pattern": null,
     "tier": "model",
     "moved_against": 2.0
+   },
+   "news": {
+    "Chiefs": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Chiefs get Rashee Rice back from injury for Broncos game",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1p5eWFkVWZsVzJLSlFZWWtuVWVscFF5MXktRmE0eHgtMVJCV0l2VWhPY1I2UllXTmpXTTNyaFdXd1gySlBxYjFlcFhKRGkwZzJjd0tDX3BpMXZoVnNRVkxxZlFaVGtSbTdyVHVkclowLW9BTXh3bFdRZVlXVk9WM0V5Njd6ZndJZXVxdGhlNk5oOHdyRTQw?oc=5",
+       "source": "ESPN",
+       "published": "2026-10-30T19:51+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Travis Kelce\u2019s ankle injury raises fresh concerns ahead of Chiefs-Broncos clash",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlluT0dyaXVlUW5abkFDNTVyb1RmYzdpREFoUUsxRWxyVUFNRkVlUFp1bUlHcS1yaW1WeUhvcUdyRG9WeElfMXF3QTY5TGQ1RS1lUjlrMERTekxUeHlWNmNQVVdWVmtxZnQ5cG1EY0o0Sk5xLUhvdFltemVmVEVvSUt4OEZjS0FV?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T09:11+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Travis Kelce Puts Team First Amid Kansas City Chiefs Injury News",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFJWZ0JpazhVLVJKdXdIYnE3MXdjVGVpMjE1OGUtcFNZck1wV1pIc2oxLW1NTUNNd295YWVPZUo5UFR5VHRxMDhUSk1yUDdsMTRmWjl2dzZfSUh3ZmpGYi1TcW16cEw1bC05SkthZkp0VEsxZnRXa3RiT3hJM2R5aHVkQ2s1c1BNNnBIZjZyelZDaVNSZktxZ3hLNEdkb0RoOVdjOTNxcw?oc=5",
+       "source": "NDTV Sports",
+       "published": "2026-10-30T05:56+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Chiefs Share Travis Kelce Injury Update Before Broncos Game",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVU5bmVMRWswcUlXRWhlMEtmbUtoNDBKSWdfSkc5aVFDUW81VXZRZ3VLUm0zWGVuUWlFdHAzeUJKSDZvQkRIM0xteU12SXRhUUNMYkVMbURwZHdGQjZSUkcxT21oY1FJemtZc3NPRHRwTlp1Rzd4ellGRUxWMDhQcVBGeGJPTkVO?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T21:02+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Chiefs vs. Broncos prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWFYNktsYW9jZDFzejNBeTV4VlpiNFlnbUZPbTRtb0ctX0NpSEdXUkpYOHIxcWRVTGt2OWsyQUV1M2pfaHRVeHFBaDRIaEQ1TzVDdGlHemE3eDk0dE85MTFzbjFWRlBaS205RDdnamJGd0oxOWhqTkNOVm9XUDJKYk4xNzg0QzlmQ1lYMkoyOXktSXllV2NMWGs3OTNQQmhWd3lHMkJJQ18tdHRWRjBpeUxoOTc3U3ZhX21NbkVfWk1oWWp3NkppQm9hSQ?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-29T16:59+00:00",
+       "flag": "qb"
+      }
+     ]
+    },
+    "Broncos": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Broncos\u2019 RJ Harvey ruled out, Jaylen Waddle questionable for Chiefs clash",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWg2Nkd2SENWNWZUR216c3VDbjN6WFlzdmtZcTZzbkEwLTFFR2tCTDFnZjhRUTNqSXAxRlI3YTI2S2huU3hNQnlMUjRZeU1XcGdVcURIajNaSTFnbnZDRERlaWdiOGFOUlB6Tmh4T2FaREVEYldDekNKNDl1OW93RXBGanBPLXlSYkhWTkJJS0VMVWRaclN6b29sMEpVSmYyUURuMWhYZ3ZGQlVLYThKSUpHZW9GRTQ?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T21:43+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Broncos rule RJ Harvey, Talanoa Hufanga out against Chiefs, slew of key players questionable",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQklhMnVxYWRBWUM3LWhLaUpOUnpZN1V5Z2k2VHdSdHlnNTZtaGhHcGJoV2pfblhZYlNUcnFLWE05ak81ZzdQaVhsRzk5N1FBdm1WNTY2dEFmQnZMckxyRjdqVm1Dblp4US1veUFuZGhJR0wwYi1XakRkSUxqa0R3Y3ZfeVZadFluN1A3QlZpSQ?oc=5",
+       "source": "The Denver Post",
+       "published": "2026-10-30T21:11+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "\u2018Buddy Is Insecure About Getting Benched,\u2019 \u2018Respect This Response\u2019 \u2014 NFL Fans Split Over J.K. Dobbins\u2019 Feisty Exchange With Broncos Reporter",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTY5eGl0cEhnMVZjV1B1b1dUcF9QbzM0UWRvMThfN2UwT05GNDltRFdVT0lXeFZiRlE3ZU1wLWpnUjdHelZMdF9xQk1FbWM1bTF3c3J6V3VPbW16RTFINTVkWnNfNzdRX3NGUGY3N0NXY2gxNlNrMzdQMTJ3NEsxWlNCY3NEc2cycHVjcEtVRW4?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T07:45+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Talented Denver Broncos Running Back Suffers Knee Injury",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGtGYk4wM2tTUmx6dzBIR2o3dVY0cDlLOWlvV2RCMUhkSWd6enlSVlFEc0ZsNnpaR2VfcnphWndTbTl1c1d6UTVlREU2TVlTby1oWTVfLWxrUWQ1VjBsbTVadG5DaGZ6OHBzWjlLT2hMT0REaDdOSEZOQzNVUnhSSXNJQ2wxZw?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-29T22:16+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Broncos Share Injury Update Before Chiefs Game",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDYyWThmYzg0X1pCLTdsa0hvaTBscW5ySXJjVV9iRkp5anNVbFZ0c2NGNEh2U3VZcGJFT01xU2VKYUo3M0NOOVBxNnFweFJVam16ZFl1Q3pKQ1dzbVpEWVNtWjlDZU1MYWdUTXB3dFJ5V0FGbFB3MXJ1bkRMd3p6cHR6RXpUbGtN?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-29T21:55+00:00",
+       "flag": "injury"
+      }
+     ]
+    }
    },
    "why": {
     "total": {
@@ -3414,19 +3548,19 @@
        "team": "Chiefs"
       },
       {
-       "title": "Broncos Share Injury Update Before Chiefs Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDYyWThmYzg0X1pCLTdsa0hvaTBscW5ySXJjVV9iRkp5anNVbFZ0c2NGNEh2U3VZcGJFT01xU2VKYUo3M0NOOVBxNnFweFJVam16ZFl1Q3pKQ1dzbVpEWVNtWjlDZU1MYWdUTXB3dFJ5V0FGbFB3MXJ1bkRMd3p6cHR6RXpUbGtN?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T21:55+00:00",
-       "flag": "injury",
-       "team": "Chiefs"
-      },
-      {
        "title": "Chiefs Share Travis Kelce Injury Update Before Broncos Game",
        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVU5bmVMRWswcUlXRWhlMEtmbUtoNDBKSWdfSkc5aVFDUW81VXZRZ3VLUm0zWGVuUWlFdHAzeUJKSDZvQkRIM0xteU12SXRhUUNMYkVMbURwZHdGQjZSUkcxT21oY1FJemtZc3NPRHRwTlp1Rzd4ellGRUxWMDhQcVBGeGJPTkVO?oc=5",
        "source": "Yahoo Sports",
        "published": "2026-10-29T21:02+00:00",
        "flag": "injury",
+       "team": "Chiefs"
+      },
+      {
+       "title": "Chiefs vs. Broncos prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWFYNktsYW9jZDFzejNBeTV4VlpiNFlnbUZPbTRtb0ctX0NpSEdXUkpYOHIxcWRVTGt2OWsyQUV1M2pfaHRVeHFBaDRIaEQ1TzVDdGlHemE3eDk0dE85MTFzbjFWRlBaS205RDdnamJGd0oxOWhqTkNOVm9XUDJKYk4xNzg0QzlmQ1lYMkoyOXktSXllV2NMWGs3OTNQQmhWd3lHMkJJQ18tdHRWRjBpeUxoOTc3U3ZhX21NbkVfWk1oWWp3NkppQm9hSQ?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-29T16:59+00:00",
+       "flag": "qb",
        "team": "Chiefs"
       },
       {
@@ -3468,90 +3602,6 @@
        "published": "2026-10-29T21:55+00:00",
        "flag": "injury",
        "team": "Broncos"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Chiefs": {
-     "qb_alert": true,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Chiefs get Rashee Rice back from injury for Broncos game",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1p5eWFkVWZsVzJLSlFZWWtuVWVscFF5MXktRmE0eHgtMVJCV0l2VWhPY1I2UllXTmpXTTNyaFdXd1gySlBxYjFlcFhKRGkwZzJjd0tDX3BpMXZoVnNRVkxxZlFaVGtSbTdyVHVkclowLW9BTXh3bFdRZVlXVk9WM0V5Njd6ZndJZXVxdGhlNk5oOHdyRTQw?oc=5",
-       "source": "ESPN",
-       "published": "2026-10-30T19:51+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Travis Kelce\u2019s ankle injury raises fresh concerns ahead of Chiefs-Broncos clash",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlluT0dyaXVlUW5abkFDNTVyb1RmYzdpREFoUUsxRWxyVUFNRkVlUFp1bUlHcS1yaW1WeUhvcUdyRG9WeElfMXF3QTY5TGQ1RS1lUjlrMERTekxUeHlWNmNQVVdWVmtxZnQ5cG1EY0o0Sk5xLUhvdFltemVmVEVvSUt4OEZjS0FV?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T09:11+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Travis Kelce Puts Team First Amid Kansas City Chiefs Injury News",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFJWZ0JpazhVLVJKdXdIYnE3MXdjVGVpMjE1OGUtcFNZck1wV1pIc2oxLW1NTUNNd295YWVPZUo5UFR5VHRxMDhUSk1yUDdsMTRmWjl2dzZfSUh3ZmpGYi1TcW16cEw1bC05SkthZkp0VEsxZnRXa3RiT3hJM2R5aHVkQ2s1c1BNNnBIZjZyelZDaVNSZktxZ3hLNEdkb0RoOVdjOTNxcw?oc=5",
-       "source": "NDTV Sports",
-       "published": "2026-10-30T05:56+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Broncos Share Injury Update Before Chiefs Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDYyWThmYzg0X1pCLTdsa0hvaTBscW5ySXJjVV9iRkp5anNVbFZ0c2NGNEh2U3VZcGJFT01xU2VKYUo3M0NOOVBxNnFweFJVam16ZFl1Q3pKQ1dzbVpEWVNtWjlDZU1MYWdUTXB3dFJ5V0FGbFB3MXJ1bkRMd3p6cHR6RXpUbGtN?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T21:55+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Chiefs Share Travis Kelce Injury Update Before Broncos Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVU5bmVMRWswcUlXRWhlMEtmbUtoNDBKSWdfSkc5aVFDUW81VXZRZ3VLUm0zWGVuUWlFdHAzeUJKSDZvQkRIM0xteU12SXRhUUNMYkVMbURwZHdGQjZSUkcxT21oY1FJemtZc3NPRHRwTlp1Rzd4ellGRUxWMDhQcVBGeGJPTkVO?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T21:02+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Broncos": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Broncos\u2019 RJ Harvey ruled out, Jaylen Waddle questionable for Chiefs clash",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWg2Nkd2SENWNWZUR216c3VDbjN6WFlzdmtZcTZzbkEwLTFFR2tCTDFnZjhRUTNqSXAxRlI3YTI2S2huU3hNQnlMUjRZeU1XcGdVcURIajNaSTFnbnZDRERlaWdiOGFOUlB6Tmh4T2FaREVEYldDekNKNDl1OW93RXBGanBPLXlSYkhWTkJJS0VMVWRaclN6b29sMEpVSmYyUURuMWhYZ3ZGQlVLYThKSUpHZW9GRTQ?oc=5",
-       "source": "ClutchPoints",
-       "published": "2026-10-30T21:43+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Broncos rule RJ Harvey, Talanoa Hufanga out against Chiefs, slew of key players questionable",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQklhMnVxYWRBWUM3LWhLaUpOUnpZN1V5Z2k2VHdSdHlnNTZtaGhHcGJoV2pfblhZYlNUcnFLWE05ak81ZzdQaVhsRzk5N1FBdm1WNTY2dEFmQnZMckxyRjdqVm1Dblp4US1veUFuZGhJR0wwYi1XakRkSUxqa0R3Y3ZfeVZadFluN1A3QlZpSQ?oc=5",
-       "source": "The Denver Post",
-       "published": "2026-10-30T21:11+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "\u2018Buddy Is Insecure About Getting Benched,\u2019 \u2018Respect This Response\u2019 \u2014 NFL Fans Split Over J.K. Dobbins\u2019 Feisty Exchange With Broncos Reporter",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTY5eGl0cEhnMVZjV1B1b1dUcF9QbzM0UWRvMThfN2UwT05GNDltRFdVT0lXeFZiRlE3ZU1wLWpnUjdHelZMdF9xQk1FbWM1bTF3c3J6V3VPbW16RTFINTVkWnNfNzdRX3NGUGY3N0NXY2gxNlNrMzdQMTJ3NEsxWlNCY3NEc2cycHVjcEtVRW4?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T07:45+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Talented Denver Broncos Running Back Suffers Knee Injury",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGtGYk4wM2tTUmx6dzBIR2o3dVY0cDlLOWlvV2RCMUhkSWd6enlSVlFEc0ZsNnpaR2VfcnphWndTbTl1c1d6UTVlREU2TVlTby1oWTVfLWxrUWQ1VjBsbTVadG5DaGZ6OHBzWjlLT2hMT0REaDdOSEZOQzNVUnhSSXNJQ2wxZw?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-29T22:16+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Broncos Share Injury Update Before Chiefs Game",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDYyWThmYzg0X1pCLTdsa0hvaTBscW5ySXJjVV9iRkp5anNVbFZ0c2NGNEh2U3VZcGJFT01xU2VKYUo3M0NOOVBxNnFweFJVam16ZFl1Q3pKQ1dzbVpEWVNtWjlDZU1MYWdUTXB3dFJ5V0FGbFB3MXJ1bkRMd3p6cHR6RXpUbGtN?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T21:55+00:00",
-       "flag": "injury"
       }
      ]
     }
@@ -3573,8 +3623,8 @@
     "wind_text": "14 mph",
     "temp": 79,
     "short": "Showers And Thunderstorms",
-    "rain": 83,
-    "checked": "2026-10-30T14:48Z"
+    "rain": 85,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -3587,19 +3637,19 @@
     },
     "fanduel": {
      "spread_home": 7.0,
-     "spread_home_price": -115,
-     "spread_away_price": -105,
+     "spread_home_price": -120,
+     "spread_away_price": -102,
      "total": 43.5,
      "over_price": -105,
      "under_price": -115
     },
     "bovada": {
-     "spread_home": 7.0,
-     "spread_home_price": -115,
-     "spread_away_price": -105,
+     "spread_home": 6.5,
+     "spread_home_price": -103,
+     "spread_away_price": -117,
      "total": 43.0,
-     "over_price": -115,
-     "under_price": -105
+     "over_price": -112,
+     "under_price": -108
     }
    },
    "open": {
@@ -3682,6 +3732,11 @@
      "2026-10-30T14:48Z",
      7.0,
      43.33
+    ],
+    [
+     "2026-10-30T23:28Z",
+     6.83,
+     43.33
     ]
    ],
    "projection": {
@@ -3700,7 +3755,7 @@
      "label": "Dolphins +7",
      "cover": 0.502,
      "tier": "pass",
-     "moved_against": -1.5,
+     "moved_against": -1.7,
      "pattern": null
     },
     "total": {
@@ -3729,6 +3784,90 @@
     "wind": 14.0,
     "moved_against": -0.7,
     "tier": "lean"
+   },
+   "news": {
+    "Patriots": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Patriots Announce New A.J. Brown Injury Update Before Dolphins Game",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3NtV2pfRGZqOFNFR0czQ3JnX2JIVmszRXlLYXA3N0lCTUJsUkdOakd3YTZ3dTNVTjJWTEs3aUU0SnhOUWgwM0UwUV9yQlp2MWdHU1pZWVVJNFEtdmdNZ0NNajFXMGxpOUQ0SzBLZmU0Wm8ydmtmajV0bW9qaWxJcHF2YXEtY19D?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:54+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Patriots vs. Dolphins Friday injury report: A.J. Brown among New England\u2019s questionable for Week 8",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjRMR3NTcURoNXV0SG5KSXhDMTVmUDhEbHo2YmZqODVxWHAyT1hucndUWkloVG0xMTJrNGdCZEhBTzIwck53Rzh4T2tyT1VoMmJKRmtfUnRZWHU3YmltN1hXLTg5M3FwM3hQT3BFQXYtdnpGX1Y4WUtONFBIWHl5OE5GakNlOFpUNklz?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:34+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Patriots keeping options open with 4 players questionable for Dolphins game",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzBrenVzbHBpMXhlVnczMk1Qa2UwWnNPNTJIOXIycHVFMVhvcjBIdmw5cmpnWThQb3R1ZkhWWUdzS1lmZGtCLXhHbTFudGdNR2xPM09SS2tBR3ZKUjlLN2VNV2dRTXhkdVdpSnVybElDdnpzU1luNWFuQ3pLSmhQblFJU0dWMkxfZjFtOUxxUFhBNHVQOF8yWm9wcHBUemNtQXZOOHNiVnNvajdrZWVmSHVfVWZsS0lubVhKVFl5QnpCb3JPYkJkVDRidUtDQnRib1hUdE1GZnRidG8?oc=5",
+       "source": "98.5 The Sports Hub",
+       "published": "2026-10-30T19:59+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "A.J. Brown injury update: NFL insider reveals \"no sign\" of Patriots WR at practice ahead of Week 8 game vs. Dolphins",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJnaDVaaFo0OEwwckx3R2NBa3JPVlVWX2pHLXFaVUkyZ1BkYnNiYS1DU0x4Z0c0N19yaHc2SW4xSF9Lek9XdWJEZU5wZ2pjdnVJYTBfZGd4UmhKcERCWW5URjJ0V3VTSUhlMHJNeDVpVFRjcC1WT1dZYTcxSmxQcmtoUUlCc25NQWVON3ZvSG9xcDhtMkJmOEtYX0tuTTdhWXZ2c1RqT0ZBSm4zU291TkNjdWszb3NiRl81RHV3WVYzOTJzN2EzNFUwMUJtYnhNV3JrMml3?oc=5",
+       "source": "Sportskeeda",
+       "published": "2026-10-30T19:14+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "A.J. Brown injury: Patriots wide receiver absent for another practice",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhrWGd6N2g4eHNiR1dpWWZweFVsd3hfQ2JNX202MWpXLVZXZHRNLUMwWXo0QnJQRTJDRFRNWW9UYXl2VjZBN2c4N00tcWVqakNwN1YtSWVHQjdQeWI3WW5sc3BBcFZ3cE10UHlkT0lRVWhSU0tyZmlibk0xa2UwQVIwRTlaVTlTcjhaUW5hc01GYlBPS2dNVlNHUXk3VFVZeUt0enVVRWdpMjht?oc=5",
+       "source": "Boston Herald",
+       "published": "2026-10-30T18:58+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Dolphins": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Dolphins\u2019 Kadyn Proctor out vs. Patriots; CB JuJu Brents advances in concussion protocol",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV3JNalNlMkFZc3kzU3daSHBWbTQ3UWRMMThJeGFrdGRGbkFqeHc1enV6WWdoVFg1VVpBSU10MndVcExrbDgyNkg0UjN5bzlWSUpTQ21jQlloVWVBX2pTUTNWZTY2LXhMc2hlU3RiTFl2UGRKemlmTXh0YTBnVnZPSHhlWG5UNUFpeC1GUXFEQWtWMEpvOEpXYUVadEtvdlVsQUZDX3pOdmpqSzRXblFITDVnZ2I4WF96MlJheWxVNk5pSlJ4ZDc2NGl0cVVZS3dWdVRyMUI4WkhacmZB?oc=5",
+       "source": "Sun Sentinel",
+       "published": "2026-10-30T20:29+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "The biggest injury question for the Miami Dolphins in Week 8 belongs to their opponent",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaU1FdUpzMnNkWjhVZFNtRHBGelZmV09zQzFRN0gxU3VWOTlBa1ZkWFBBM2hyczdVYlhxaTRSUWlIbnJ1Yk9RLXdVYzhTNFRGdVVBWDdER3NDelN2WkQydXVYcjhtM2YxbVh6N1hXNVA3Zk9kajZPVkcyZ1htNlVicGNpbFl0ZF8xa3hlOTFtSDJ5UzVQVnc3SWNudEYzaDNBamdBa29OMVFNVU9nOHlBaXlwMWJWRXVmWDdNMFZ4d2xCSW14c0JmMml4SllGSG8?oc=5",
+       "source": "A to Z Sports",
+       "published": "2026-10-30T14:11+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Dolphins\u2019 JuJu Brents, Kadyn Proctor concussion protocol updates; Patriots\u2019 A.J. Brown has setback",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWnYweUtLdEszaFoxTEJ4eloyRlVQclFYRnc3a1lRXy1jYm1yNlg1V25ZSWM3SV9LNDVicjBwNnRtcWlXcVFVaU04QkRSLUQ0dFpmZ0FfQkx0ZlRBbjNrVVAtcWh1UUVRRGwyU19nd2JHY1JiOXJGV0tLLUZ2bm1tSWFqWm96anAzLWdfaUN3ZHh3MF8zUVJTSUlibTVUTk1fcTFFbEZrT2I4MHVhTEx0SFB3RHRiVy1OLURoWkdXcmJUcENUX2F1aEFqNjZzVzR1T3V5NnJNaGpQZw?oc=5",
+       "source": "Sun Sentinel",
+       "published": "2026-10-29T22:06+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Thursday Injury Update: Big Names Could Be Missing from Dolphins-Patriots Matchup",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDk3NEo2NnRnU2lweEl0ZF9MM0IzQm9GLUdoU0RzT2RRYmhnSHVUN2pTM08xV012VWwwaWYwdDdkT19CNE9vU0htejEwVFB0YUpVVGZwOXZBeHZidHhYWmZoMExDb2NRR29sRDlJQmEySWlzMWVuSWdMNXZia2NaWWlMWUNnWnpqNVNqTWtoVVhNMklLMk5TVFhscWtRdDY4bGpDQUVqQ1RvQkJpazUxSmZjcXIxVFdzSWhmUG1VLTZydGlaYjItS21B?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-29T20:41+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Patriots vs. Dolphins prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VnUkdWbkVTUWVjTjR5bVIwZTdVY3pSUW1pU3Z3dTR1OGkwb0gxRjVyWDk4ZDdBdmk0cGE5OWc3Z2NNOW04ZGVKVlp5NV9pbG9PallFbXhiUU8xMTR4TEw3Nm9ZeUJ0TGdtYk52dk9zblRQdm5TMC1STnRROENZaTdEc2VSSkV1dzZCQUZ4TWRGTGd1V01oZE9zNVRhalhWeWpwRTdXbHQ5TlJSVEFUVG5BaC1ISlJ1Z1AzQ2RiRG1jNnJWVDN3d1c3cncxUk0?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-29T19:33+00:00",
+       "flag": "qb"
+      }
+     ]
+    }
    },
    "why": {
     "total": {
@@ -3785,12 +3924,20 @@
       "Recent headlines mention a quarterback issue for the Dolphins. Read them below before betting.",
       "Recent headlines mention a quarterback issue for the Patriots. Read them below before betting.",
       "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-      "83% chance of rain, which also tends to slow scoring."
+      "85% chance of rain, which also tends to slow scoring."
      ],
      "evidence": [
       "Live this season: 2-1 (67%), beating the closing line by +0.3 points on average."
      ],
      "news": [
+      {
+       "title": "Patriots Announce New A.J. Brown Injury Update Before Dolphins Game",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3NtV2pfRGZqOFNFR0czQ3JnX2JIVmszRXlLYXA3N0lCTUJsUkdOakd3YTZ3dTNVTjJWTEs3aUU0SnhOUWgwM0UwUV9yQlp2MWdHU1pZWVVJNFEtdmdNZ0NNajFXMGxpOUQ0SzBLZmU0Wm8ydmtmajV0bW9qaWxJcHF2YXEtY19D?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T20:54+00:00",
+       "flag": "injury",
+       "team": "Patriots"
+      },
       {
        "title": "Patriots vs. Dolphins Friday injury report: A.J. Brown among New England\u2019s questionable for Week 8",
        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjRMR3NTcURoNXV0SG5KSXhDMTVmUDhEbHo2YmZqODVxWHAyT1hucndUWkloVG0xMTJrNGdCZEhBTzIwck53Rzh4T2tyT1VoMmJKRmtfUnRZWHU3YmltN1hXLTg5M3FwM3hQT3BFQXYtdnpGX1Y4WUtONFBIWHl5OE5GakNlOFpUNklz?oc=5",
@@ -3808,26 +3955,18 @@
        "team": "Patriots"
       },
       {
+       "title": "A.J. Brown injury update: NFL insider reveals \"no sign\" of Patriots WR at practice ahead of Week 8 game vs. Dolphins",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJnaDVaaFo0OEwwckx3R2NBa3JPVlVWX2pHLXFaVUkyZ1BkYnNiYS1DU0x4Z0c0N19yaHc2SW4xSF9Lek9XdWJEZU5wZ2pjdnVJYTBfZGd4UmhKcERCWW5URjJ0V3VTSUhlMHJNeDVpVFRjcC1WT1dZYTcxSmxQcmtoUUlCc25NQWVON3ZvSG9xcDhtMkJmOEtYX0tuTTdhWXZ2c1RqT0ZBSm4zU291TkNjdWszb3NiRl81RHV3WVYzOTJzN2EzNFUwMUJtYnhNV3JrMml3?oc=5",
+       "source": "Sportskeeda",
+       "published": "2026-10-30T19:14+00:00",
+       "flag": "injury",
+       "team": "Patriots"
+      },
+      {
        "title": "A.J. Brown injury: Patriots wide receiver absent for another practice",
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhrWGd6N2g4eHNiR1dpWWZweFVsd3hfQ2JNX202MWpXLVZXZHRNLUMwWXo0QnJQRTJDRFRNWW9UYXl2VjZBN2c4N00tcWVqakNwN1YtSWVHQjdQeWI3WW5sc3BBcFZ3cE10UHlkT0lRVWhSU0tyZmlibk0xa2UwQVIwRTlaVTlTcjhaUW5hc01GYlBPS2dNVlNHUXk3VFVZeUt0enVVRWdpMjht?oc=5",
        "source": "Boston Herald",
        "published": "2026-10-30T18:58+00:00",
-       "flag": "injury",
-       "team": "Patriots"
-      },
-      {
-       "title": "Patriots Announce New A.J. Brown Injury Update Before Dolphins Game",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmFvc2xSZ3ZZUi0xMmRjUTJSTXRzTkg4WUoyMTFnRGdYejVEb2lQUF9GWFkzc25UdkI3UEdUWFFocDlGaUFxc3ZYd08zcUxCWDBEQy1aRDJVQzFZRTBwN3RxQS10SFVLVzlCcm51NVRqWEpUX0dXNWxMZEI5VlEzMGVhc1dEMzBRM3BXZ245RmNla25VaWc?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T18:49+00:00",
-       "flag": "injury",
-       "team": "Patriots"
-      },
-      {
-       "title": "THE PATRIOTS GAVE UP A FIRST-ROUND PICK FOR A.J. BROWN, AND ALL THEY GOT WAS ANOTHER INJURY HEADACHE",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUZIX2ZDZkc5LXR0dFJvRzNUZUJ4eVM4VjBzR0cyRDc4Y3ExVldaY0pCaVk4Y25GaE8zSS1XLVdLMjA1dzdHdV9oQWhnSVJkSXIyOUJxWWo2d2xUYUhENTRxTGtsSTU1VUQxWFZJdC1pQXJNT0lpWmlmcHgyejZZX1FEOVNSZw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T18:17+00:00",
        "flag": "injury",
        "team": "Patriots"
       },
@@ -3873,90 +4012,6 @@
       }
      ]
     }
-   },
-   "news": {
-    "Patriots": {
-     "qb_alert": true,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Patriots vs. Dolphins Friday injury report: A.J. Brown among New England\u2019s questionable for Week 8",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjRMR3NTcURoNXV0SG5KSXhDMTVmUDhEbHo2YmZqODVxWHAyT1hucndUWkloVG0xMTJrNGdCZEhBTzIwck53Rzh4T2tyT1VoMmJKRmtfUnRZWHU3YmltN1hXLTg5M3FwM3hQT3BFQXYtdnpGX1Y4WUtONFBIWHl5OE5GakNlOFpUNklz?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T20:34+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Patriots keeping options open with 4 players questionable for Dolphins game",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzBrenVzbHBpMXhlVnczMk1Qa2UwWnNPNTJIOXIycHVFMVhvcjBIdmw5cmpnWThQb3R1ZkhWWUdzS1lmZGtCLXhHbTFudGdNR2xPM09SS2tBR3ZKUjlLN2VNV2dRTXhkdVdpSnVybElDdnpzU1luNWFuQ3pLSmhQblFJU0dWMkxfZjFtOUxxUFhBNHVQOF8yWm9wcHBUemNtQXZOOHNiVnNvajdrZWVmSHVfVWZsS0lubVhKVFl5QnpCb3JPYkJkVDRidUtDQnRib1hUdE1GZnRidG8?oc=5",
-       "source": "98.5 The Sports Hub",
-       "published": "2026-10-30T19:59+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "A.J. Brown injury: Patriots wide receiver absent for another practice",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhrWGd6N2g4eHNiR1dpWWZweFVsd3hfQ2JNX202MWpXLVZXZHRNLUMwWXo0QnJQRTJDRFRNWW9UYXl2VjZBN2c4N00tcWVqakNwN1YtSWVHQjdQeWI3WW5sc3BBcFZ3cE10UHlkT0lRVWhSU0tyZmlibk0xa2UwQVIwRTlaVTlTcjhaUW5hc01GYlBPS2dNVlNHUXk3VFVZeUt0enVVRWdpMjht?oc=5",
-       "source": "Boston Herald",
-       "published": "2026-10-30T18:58+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Patriots Announce New A.J. Brown Injury Update Before Dolphins Game",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmFvc2xSZ3ZZUi0xMmRjUTJSTXRzTkg4WUoyMTFnRGdYejVEb2lQUF9GWFkzc25UdkI3UEdUWFFocDlGaUFxc3ZYd08zcUxCWDBEQy1aRDJVQzFZRTBwN3RxQS10SFVLVzlCcm51NVRqWEpUX0dXNWxMZEI5VlEzMGVhc1dEMzBRM3BXZ245RmNla25VaWc?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T18:49+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "THE PATRIOTS GAVE UP A FIRST-ROUND PICK FOR A.J. BROWN, AND ALL THEY GOT WAS ANOTHER INJURY HEADACHE",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUZIX2ZDZkc5LXR0dFJvRzNUZUJ4eVM4VjBzR0cyRDc4Y3ExVldaY0pCaVk4Y25GaE8zSS1XLVdLMjA1dzdHdV9oQWhnSVJkSXIyOUJxWWo2d2xUYUhENTRxTGtsSTU1VUQxWFZJdC1pQXJNT0lpWmlmcHgyejZZX1FEOVNSZw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T18:17+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Dolphins": {
-     "qb_alert": true,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Dolphins\u2019 Kadyn Proctor out vs. Patriots; CB JuJu Brents advances in concussion protocol",
-       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV3JNalNlMkFZc3kzU3daSHBWbTQ3UWRMMThJeGFrdGRGbkFqeHc1enV6WWdoVFg1VVpBSU10MndVcExrbDgyNkg0UjN5bzlWSUpTQ21jQlloVWVBX2pTUTNWZTY2LXhMc2hlU3RiTFl2UGRKemlmTXh0YTBnVnZPSHhlWG5UNUFpeC1GUXFEQWtWMEpvOEpXYUVadEtvdlVsQUZDX3pOdmpqSzRXblFITDVnZ2I4WF96MlJheWxVNk5pSlJ4ZDc2NGl0cVVZS3dWdVRyMUI4WkhacmZB?oc=5",
-       "source": "Sun Sentinel",
-       "published": "2026-10-30T20:29+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "The biggest injury question for the Miami Dolphins in Week 8 belongs to their opponent",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaU1FdUpzMnNkWjhVZFNtRHBGelZmV09zQzFRN0gxU3VWOTlBa1ZkWFBBM2hyczdVYlhxaTRSUWlIbnJ1Yk9RLXdVYzhTNFRGdVVBWDdER3NDelN2WkQydXVYcjhtM2YxbVh6N1hXNVA3Zk9kajZPVkcyZ1htNlVicGNpbFl0ZF8xa3hlOTFtSDJ5UzVQVnc3SWNudEYzaDNBamdBa29OMVFNVU9nOHlBaXlwMWJWRXVmWDdNMFZ4d2xCSW14c0JmMml4SllGSG8?oc=5",
-       "source": "A to Z Sports",
-       "published": "2026-10-30T14:11+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Dolphins\u2019 JuJu Brents, Kadyn Proctor concussion protocol updates; Patriots\u2019 A.J. Brown has setback",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWnYweUtLdEszaFoxTEJ4eloyRlVQclFYRnc3a1lRXy1jYm1yNlg1V25ZSWM3SV9LNDVicjBwNnRtcWlXcVFVaU04QkRSLUQ0dFpmZ0FfQkx0ZlRBbjNrVVAtcWh1UUVRRGwyU19nd2JHY1JiOXJGV0tLLUZ2bm1tSWFqWm96anAzLWdfaUN3ZHh3MF8zUVJTSUlibTVUTk1fcTFFbEZrT2I4MHVhTEx0SFB3RHRiVy1OLURoWkdXcmJUcENUX2F1aEFqNjZzVzR1T3V5NnJNaGpQZw?oc=5",
-       "source": "Sun Sentinel",
-       "published": "2026-10-29T22:06+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Thursday Injury Update: Big Names Could Be Missing from Dolphins-Patriots Matchup",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDk3NEo2NnRnU2lweEl0ZF9MM0IzQm9GLUdoU0RzT2RRYmhnSHVUN2pTM08xV012VWwwaWYwdDdkT19CNE9vU0htejEwVFB0YUpVVGZwOXZBeHZidHhYWmZoMExDb2NRR29sRDlJQmEySWlzMWVuSWdMNXZia2NaWWlMWUNnWnpqNVNqTWtoVVhNMklLMk5TVFhscWtRdDY4bGpDQUVqQ1RvQkJpazUxSmZjcXIxVFdzSWhmUG1VLTZydGlaYjItS21B?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-29T20:41+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Patriots vs. Dolphins prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VnUkdWbkVTUWVjTjR5bVIwZTdVY3pSUW1pU3Z3dTR1OGkwb0gxRjVyWDk4ZDdBdmk0cGE5OWc3Z2NNOW04ZGVKVlp5NV9pbG9PallFbXhiUU8xMTR4TEw3Nm9ZeUJ0TGdtYk52dk9zblRQdm5TMC1STnRROENZaTdEc2VSSkV1dzZCQUZ4TWRGTGd1V01oZE9zNVRhalhWeWpwRTdXbHQ5TlJSVEFUVG5BaC1ISlJ1Z1AzQ2RiRG1jNnJWVDN3d1c3cncxUk0?oc=5",
-       "source": "NBC Sports",
-       "published": "2026-10-29T19:33+00:00",
-       "flag": "qb"
-      }
-     ]
-    }
    }
   },
   {
@@ -3971,37 +4026,37 @@
    "venue": "Northwest Stadium",
    "roof": "outdoors",
    "weather": {
-    "wind": 2.0,
-    "wind_text": "2 mph",
-    "temp": 53,
-    "short": "Mostly Cloudy",
+    "wind": 1.0,
+    "wind_text": "1 mph",
+    "temp": 51,
+    "short": "Partly Cloudy",
     "rain": 0,
-    "checked": "2026-10-30T14:48Z"
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
      "spread_home": -6.0,
-     "spread_home_price": -110,
-     "spread_away_price": -110,
+     "spread_home_price": -108,
+     "spread_away_price": -112,
      "total": 40.5,
-     "over_price": -110,
-     "under_price": -110
+     "over_price": -112,
+     "under_price": -108
     },
     "fanduel": {
      "spread_home": -5.5,
      "spread_home_price": -122,
      "spread_away_price": 100,
      "total": 40.5,
-     "over_price": -110,
-     "under_price": -110
+     "over_price": -105,
+     "under_price": -115
     },
     "bovada": {
      "spread_home": -6.0,
-     "spread_home_price": -110,
-     "spread_away_price": -110,
+     "spread_home_price": -108,
+     "spread_away_price": -112,
      "total": 40.0,
-     "over_price": -115,
-     "under_price": -105
+     "over_price": -110,
+     "under_price": -110
     }
    },
    "open": {
@@ -4074,6 +4129,11 @@
      "2026-10-30T14:48Z",
      -5.83,
      40.33
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -5.83,
+     40.33
     ]
    ],
    "projection": {
@@ -4119,6 +4179,90 @@
     "pattern": null,
     "tier": "model",
     "moved_against": 0.7
+   },
+   "news": {
+    "Eagles": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Eagles Announce Five Players Ruled Out Week 8",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GV1IyVEM5VjB0OURaeHl5TzZRVlgtYURwdXlVMDcyZHQ1dXYwLWdkNlRqYXhlS0tfMzgxWWtjZFVuZk9Qdk52YWJTdkNwTVpQcTNjTkVtZU1ZMDBxemRyd0hGNUR6TERDU3gwNmpwaWxOdFlRd0c4YVJlLVA?oc=5",
+       "source": "NFLTradeRumors.co",
+       "published": "2026-10-30T19:58+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles vs. Commanders prediction comes down to an uncomfortable question with injuries piling up for both teams",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeERiZlc5THdJTGIxRkhTbWhlT1BONVhWbkJPZ0Z1XzF6cjNob1RIcUdVT1lhdHFNSGc4SGZhWHBObnNlM3M1TzBkcUhRUnI4SWprbWdoNURsWTlxcmRWc2drazVLUXdJOFd0eEN3ZGhyb0xOVXBjOERRRVp6cXJJLXRzb25ab3hL?oc=5",
+       "source": "A to Z Sports",
+       "published": "2026-10-30T18:26+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles\u2019 Saquon Barkley Gets Notable Injury Update From NFL Insider",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzlVMTR5OHQ5SGtVTXY0NElRS1hPT0xGWHFLVHdpRUQ5clkwMmF2NnhaT2VFOGMxZHhYbTZQYlFTSEx1YW1hVW53T1kyYlp2Qzc0U2NBR3QwQWFhWHU2VHBzRHAxaW1mVVZjT0xjWG5KNk95aU15S2tpbFhJYWVwQUdBaDdicVdvSTJ3?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T17:02+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles Won\u2019t Like Latest DeVonta Smith Injury News Right Before Week 8",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjJaQ1pJckJaUnViNjRjLU9yVEhsZnJraVUyUUxTMF9GY0JvdUxjUU9JOVRVZUpncDVFNXdQRDFVbUxQTHg5dzdoSjVKVUo0NTF2NF9WdUs5Ry0tdFJLUllGOVBleHZFR3ptd1haZ2Z2WU5pOVZjM2FURVk1X0lqNF9lT201enBMemc?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T16:52+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Eagles injury update: Saquon Barkley, DeVonta Smith out again",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNzJQa0MzU1FSOFlmRVFENm1GY2RYRkk4UTQ3TnNWNkpqUW85VUpOSXdSVENfV2JBaExqdlNvU2huWk5vZ3hHdHNTUWctMVNiX291akdnMDdpT0t5bTduUlFfTjdDcUpodndvWjJoMGl1MzBrT1NabVNQUWl5UjdIeHlyWmV6ZHlhTlNBRXI0LURlRWhUQ1pfMTAzblo4MlI0bDZkNkFmLXo3TXFhRmlFSUZMb0otUlpOQjF6TWt4SVJGZlZjbXpWclhWX3JyQWp4bkQ1RHp5NDJBMmdUT3dobNIB6AFBVV95cUxPT1JvVzZ2T0VKZDN0VzgxYWJIRXdEOFJYbWxRNGRMRWVrZlNVWmNWNkRzZm9JdHFaUlhBSFZ6bDVMSFNSVTlVWlhCNlduODR5RDNOX3dqRFJPeDllUnNoRWVHa2ZRdEkxRzY4R3VfRGRobFZPWE1MbWR1RngxMjBYY19KNjA1YjlNenh3UGJBelltMDVpekVON01KajliTUoyT3VLcFV0blNLenBWSHZMMGVId29tZUNRNGJieUVjdWhidld2aVQ4ZUpFdThHa0tsRnJDbUdNcEtUOGFNTXA1ZG50Vm9McG9Y?oc=5",
+       "source": "NBC Sports Philadelphia",
+       "published": "2026-10-29T18:14+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Commanders": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Eagles\u2019 Barkley carries no injury designation for Commanders matchup",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3VLaV82c3ZITlVhdDMySUpZOTljeFg4RDdlZnpmcEdJMU5UZXFfaVJQOW8wbFdDRE52VFFzbFdKRTdleFI2QnRYcVNDaTZ1d0U1TE50V3E2UTgzVmp4RGZZTmEwZFEzYTVUN2MtWHlfdzQwazZGUWZYdVBNX3RITzhaNGEtTzlZbXJzNWVNMEZvSExObGt4VzJOTnJrRnRLaUFnVnV2M2NDVGlmV1N6Rw?oc=5",
+       "source": "TSN",
+       "published": "2026-10-30T20:32+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Washington Commanders GM Provides Injury Update on WR Terry McLaurin",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmVVZE5vT3ZKbmJJS19wem1Uc1haN1J3dnBNTy02Vi10QjFyWDhyOWFudUE3M3RmbWpYZjlhNjJ0am45RzlwRkZ0Y2lRRGEwNnlVWi05Yl9uNFVvTi00SWhqQTVpSXZxV2J5eEoyVnA1TVZrekRGcVFjRE56bzFVaGtGcURqTDVGcWp6Q3BMVXotbVdVdVd0bmE2TXAzOVM0ZVZOVzJ1TElRM0hwVmc?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T12:55+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders News: Treylon Burks Misses Practice With McLaurin Out Before Eagles Rematch | Burgundy Roundup",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0p6dF9WY3lDTThiNFRSbUotdWFvMHRnVFNjLTJTQXFkSW1qcWxiSHdaOG9Xa1A0YVFkT0VsbUhpaTV3WmpVaFlpMUh4TURzWmVHT1dPMGJhOTdxbUhOZUZ2RDlNUDV3emlTRXplMGJSak9GZmx5UG5aQWtYSE14Z2M0eGdBWUpyRURTM05R?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T03:57+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders Announce Terry McLaurin Roster Move After Devastating Injury News",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTNTWUhMMy1JcnBtcUFYWFMwVTc0ajBqT2gyLVA5dk1ocWFtdFA0V2VHVGRQeTYzRWNSTXJ4OG5YTDdFRHVSTGFKUkdNTi1sbWc0bThLck1DMmNTc1ZkSUF5Sm16MkM4elQ4amYwak0tTzVHRVZlTHc3ampHZndwVjBJQTgxYmZETWg0M005SkRBb3ZT?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T19:43+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Commanders Announce WR Move After Terry McLaurin Heads to Injured Reserve",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTlXZm9OVHNXaWlRY0phbTlrT3lEcVJJYTlyMVJWZlhmbFZaOU56anRWTEZYMThqcEZ3UkRLU29JQkZGbG9OUm1nZktQdUVtSFMwelB6bjA2TDRieTQwMVp3eVc0WGpLYldPOGF6eEsxMUw4aXcyZkpHbWw1ZGVjZDFvbFdjRXJiRHc?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-28T18:01+00:00",
+       "flag": "injury"
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -4216,12 +4360,20 @@
        "team": "Eagles"
       },
       {
-       "title": "Eagles\u2019 Saquon Barkley Gets Notable Injury Update From NFL Insider",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9wbm5XYkJLaWRNd1FJM1BLaWtCY0Zxd0l6SkkxMGVRWGZ0d1pWZ21ZcUVxZ1ZjRk9GM3ZOdllJNmNGd0J0TURMQkRCOHBuQ0pEWDhTREZBeko3TURoWEFHRGdtRHhjZnBWNFBTV1FHcGJqZnEzMmRxdWx0Q25ZRkk2ajRiN3ZLRHNfdXFCeDNIbEIzNXJRN2hrS2xQenM?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T14:02+00:00",
+       "title": "Eagles injury update: Saquon Barkley, DeVonta Smith out again",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNzJQa0MzU1FSOFlmRVFENm1GY2RYRkk4UTQ3TnNWNkpqUW85VUpOSXdSVENfV2JBaExqdlNvU2huWk5vZ3hHdHNTUWctMVNiX291akdnMDdpT0t5bTduUlFfTjdDcUpodndvWjJoMGl1MzBrT1NabVNQUWl5UjdIeHlyWmV6ZHlhTlNBRXI0LURlRWhUQ1pfMTAzblo4MlI0bDZkNkFmLXo3TXFhRmlFSUZMb0otUlpOQjF6TWt4SVJGZlZjbXpWclhWX3JyQWp4bkQ1RHp5NDJBMmdUT3dobNIB6AFBVV95cUxPT1JvVzZ2T0VKZDN0VzgxYWJIRXdEOFJYbWxRNGRMRWVrZlNVWmNWNkRzZm9JdHFaUlhBSFZ6bDVMSFNSVTlVWlhCNlduODR5RDNOX3dqRFJPeDllUnNoRWVHa2ZRdEkxRzY4R3VfRGRobFZPWE1MbWR1RngxMjBYY19KNjA1YjlNenh3UGJBelltMDVpekVON01KajliTUoyT3VLcFV0blNLenBWSHZMMGVId29tZUNRNGJieUVjdWhidld2aVQ4ZUpFdThHa0tsRnJDbUdNcEtUOGFNTXA1ZG50Vm9McG9Y?oc=5",
+       "source": "NBC Sports Philadelphia",
+       "published": "2026-10-29T18:14+00:00",
        "flag": "injury",
        "team": "Eagles"
+      },
+      {
+       "title": "Eagles\u2019 Barkley carries no injury designation for Commanders matchup",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3VLaV82c3ZITlVhdDMySUpZOTljeFg4RDdlZnpmcEdJMU5UZXFfaVJQOW8wbFdDRE52VFFzbFdKRTdleFI2QnRYcVNDaTZ1d0U1TE50V3E2UTgzVmp4RGZZTmEwZFEzYTVUN2MtWHlfdzQwazZGUWZYdVBNX3RITzhaNGEtTzlZbXJzNWVNMEZvSExObGt4VzJOTnJrRnRLaUFnVnV2M2NDVGlmV1N6Rw?oc=5",
+       "source": "TSN",
+       "published": "2026-10-30T20:32+00:00",
+       "flag": "injury",
+       "team": "Commanders"
       },
       {
        "title": "Washington Commanders GM Provides Injury Update on WR Terry McLaurin",
@@ -4252,14 +4404,6 @@
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTlXZm9OVHNXaWlRY0phbTlrT3lEcVJJYTlyMVJWZlhmbFZaOU56anRWTEZYMThqcEZ3UkRLU29JQkZGbG9OUm1nZktQdUVtSFMwelB6bjA2TDRieTQwMVp3eVc0WGpLYldPOGF6eEsxMUw4aXcyZkpHbWw1ZGVjZDFvbFdjRXJiRHc?oc=5",
        "source": "Yahoo Sports",
        "published": "2026-10-28T18:01+00:00",
-       "flag": "injury",
-       "team": "Commanders"
-      },
-      {
-       "title": "Multiple Commanders' Injury Updates Ahead of Week Eight vs Eagles",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjU2a0ZUSTBMVmhNYTFpZGNvREJ4aDRpZUMtbnlCTU9IV2p3djd2NE4wb0h1OUIwNFlKaHJMbTM1Z0UwRU9sWnBnN29vbjFjQ1hQVFMzX1A2b0FTMEdrWURvVlc2TzFDVnZZcnF4Sl9IR3p5dTdvYWc2UHJZbXpHa0swaXdCaUUtWEh3OTlraGw2Yms?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T17:26+00:00",
        "flag": "injury",
        "team": "Commanders"
       }
@@ -4355,14 +4499,22 @@
        "team": "Eagles"
       },
       {
-       "title": "Eagles\u2019 Saquon Barkley Gets Notable Injury Update From NFL Insider",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9wbm5XYkJLaWRNd1FJM1BLaWtCY0Zxd0l6SkkxMGVRWGZ0d1pWZ21ZcUVxZ1ZjRk9GM3ZOdllJNmNGd0J0TURMQkRCOHBuQ0pEWDhTREZBeko3TURoWEFHRGdtRHhjZnBWNFBTV1FHcGJqZnEzMmRxdWx0Q25ZRkk2ajRiN3ZLRHNfdXFCeDNIbEIzNXJRN2hrS2xQenM?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T14:02+00:00",
+       "title": "Eagles injury update: Saquon Barkley, DeVonta Smith out again",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNzJQa0MzU1FSOFlmRVFENm1GY2RYRkk4UTQ3TnNWNkpqUW85VUpOSXdSVENfV2JBaExqdlNvU2huWk5vZ3hHdHNTUWctMVNiX291akdnMDdpT0t5bTduUlFfTjdDcUpodndvWjJoMGl1MzBrT1NabVNQUWl5UjdIeHlyWmV6ZHlhTlNBRXI0LURlRWhUQ1pfMTAzblo4MlI0bDZkNkFmLXo3TXFhRmlFSUZMb0otUlpOQjF6TWt4SVJGZlZjbXpWclhWX3JyQWp4bkQ1RHp5NDJBMmdUT3dobNIB6AFBVV95cUxPT1JvVzZ2T0VKZDN0VzgxYWJIRXdEOFJYbWxRNGRMRWVrZlNVWmNWNkRzZm9JdHFaUlhBSFZ6bDVMSFNSVTlVWlhCNlduODR5RDNOX3dqRFJPeDllUnNoRWVHa2ZRdEkxRzY4R3VfRGRobFZPWE1MbWR1RngxMjBYY19KNjA1YjlNenh3UGJBelltMDVpekVON01KajliTUoyT3VLcFV0blNLenBWSHZMMGVId29tZUNRNGJieUVjdWhidld2aVQ4ZUpFdThHa0tsRnJDbUdNcEtUOGFNTXA1ZG50Vm9McG9Y?oc=5",
+       "source": "NBC Sports Philadelphia",
+       "published": "2026-10-29T18:14+00:00",
        "flag": "injury",
        "team": "Eagles"
       },
       {
+       "title": "Eagles\u2019 Barkley carries no injury designation for Commanders matchup",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3VLaV82c3ZITlVhdDMySUpZOTljeFg4RDdlZnpmcEdJMU5UZXFfaVJQOW8wbFdDRE52VFFzbFdKRTdleFI2QnRYcVNDaTZ1d0U1TE50V3E2UTgzVmp4RGZZTmEwZFEzYTVUN2MtWHlfdzQwazZGUWZYdVBNX3RITzhaNGEtTzlZbXJzNWVNMEZvSExObGt4VzJOTnJrRnRLaUFnVnV2M2NDVGlmV1N6Rw?oc=5",
+       "source": "TSN",
+       "published": "2026-10-30T20:32+00:00",
+       "flag": "injury",
+       "team": "Commanders"
+      },
+      {
        "title": "Washington Commanders GM Provides Injury Update on WR Terry McLaurin",
        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmVVZE5vT3ZKbmJJS19wem1Uc1haN1J3dnBNTy02Vi10QjFyWDhyOWFudUE3M3RmbWpYZjlhNjJ0am45RzlwRkZ0Y2lRRGEwNnlVWi05Yl9uNFVvTi00SWhqQTVpSXZxV2J5eEoyVnA1TVZrekRGcVFjRE56bzFVaGtGcURqTDVGcWp6Q3BMVXotbVdVdVd0bmE2TXAzOVM0ZVZOVzJ1TElRM0hwVmc?oc=5",
        "source": "Heavy.com",
@@ -4393,98 +4545,6 @@
        "published": "2026-10-28T18:01+00:00",
        "flag": "injury",
        "team": "Commanders"
-      },
-      {
-       "title": "Multiple Commanders' Injury Updates Ahead of Week Eight vs Eagles",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjU2a0ZUSTBMVmhNYTFpZGNvREJ4aDRpZUMtbnlCTU9IV2p3djd2NE4wb0h1OUIwNFlKaHJMbTM1Z0UwRU9sWnBnN29vbjFjQ1hQVFMzX1A2b0FTMEdrWURvVlc2TzFDVnZZcnF4Sl9IR3p5dTdvYWc2UHJZbXpHa0swaXdCaUUtWEh3OTlraGw2Yms?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T17:26+00:00",
-       "flag": "injury",
-       "team": "Commanders"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Eagles": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Eagles Announce Five Players Ruled Out Week 8",
-       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GV1IyVEM5VjB0OURaeHl5TzZRVlgtYURwdXlVMDcyZHQ1dXYwLWdkNlRqYXhlS0tfMzgxWWtjZFVuZk9Qdk52YWJTdkNwTVpQcTNjTkVtZU1ZMDBxemRyd0hGNUR6TERDU3gwNmpwaWxOdFlRd0c4YVJlLVA?oc=5",
-       "source": "NFLTradeRumors.co",
-       "published": "2026-10-30T19:58+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Eagles vs. Commanders prediction comes down to an uncomfortable question with injuries piling up for both teams",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeERiZlc5THdJTGIxRkhTbWhlT1BONVhWbkJPZ0Z1XzF6cjNob1RIcUdVT1lhdHFNSGc4SGZhWHBObnNlM3M1TzBkcUhRUnI4SWprbWdoNURsWTlxcmRWc2drazVLUXdJOFd0eEN3ZGhyb0xOVXBjOERRRVp6cXJJLXRzb25ab3hL?oc=5",
-       "source": "A to Z Sports",
-       "published": "2026-10-30T18:26+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Eagles\u2019 Saquon Barkley Gets Notable Injury Update From NFL Insider",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzlVMTR5OHQ5SGtVTXY0NElRS1hPT0xGWHFLVHdpRUQ5clkwMmF2NnhaT2VFOGMxZHhYbTZQYlFTSEx1YW1hVW53T1kyYlp2Qzc0U2NBR3QwQWFhWHU2VHBzRHAxaW1mVVZjT0xjWG5KNk95aU15S2tpbFhJYWVwQUdBaDdicVdvSTJ3?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T17:02+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Eagles Won\u2019t Like Latest DeVonta Smith Injury News Right Before Week 8",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjJaQ1pJckJaUnViNjRjLU9yVEhsZnJraVUyUUxTMF9GY0JvdUxjUU9JOVRVZUpncDVFNXdQRDFVbUxQTHg5dzdoSjVKVUo0NTF2NF9WdUs5Ry0tdFJLUllGOVBleHZFR3ptd1haZ2Z2WU5pOVZjM2FURVk1X0lqNF9lT201enBMemc?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T16:52+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Eagles\u2019 Saquon Barkley Gets Notable Injury Update From NFL Insider",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG9wbm5XYkJLaWRNd1FJM1BLaWtCY0Zxd0l6SkkxMGVRWGZ0d1pWZ21ZcUVxZ1ZjRk9GM3ZOdllJNmNGd0J0TURMQkRCOHBuQ0pEWDhTREZBeko3TURoWEFHRGdtRHhjZnBWNFBTV1FHcGJqZnEzMmRxdWx0Q25ZRkk2ajRiN3ZLRHNfdXFCeDNIbEIzNXJRN2hrS2xQenM?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T14:02+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Commanders": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Washington Commanders GM Provides Injury Update on WR Terry McLaurin",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmVVZE5vT3ZKbmJJS19wem1Uc1haN1J3dnBNTy02Vi10QjFyWDhyOWFudUE3M3RmbWpYZjlhNjJ0am45RzlwRkZ0Y2lRRGEwNnlVWi05Yl9uNFVvTi00SWhqQTVpSXZxV2J5eEoyVnA1TVZrekRGcVFjRE56bzFVaGtGcURqTDVGcWp6Q3BMVXotbVdVdVd0bmE2TXAzOVM0ZVZOVzJ1TElRM0hwVmc?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T12:55+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders News: Treylon Burks Misses Practice With McLaurin Out Before Eagles Rematch | Burgundy Roundup",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0p6dF9WY3lDTThiNFRSbUotdWFvMHRnVFNjLTJTQXFkSW1qcWxiSHdaOG9Xa1A0YVFkT0VsbUhpaTV3WmpVaFlpMUh4TURzWmVHT1dPMGJhOTdxbUhOZUZ2RDlNUDV3emlTRXplMGJSak9GZmx5UG5aQWtYSE14Z2M0eGdBWUpyRURTM05R?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T03:57+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders Announce Terry McLaurin Roster Move After Devastating Injury News",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTNTWUhMMy1JcnBtcUFYWFMwVTc0ajBqT2gyLVA5dk1ocWFtdFA0V2VHVGRQeTYzRWNSTXJ4OG5YTDdFRHVSTGFKUkdNTi1sbWc0bThLck1DMmNTc1ZkSUF5Sm16MkM4elQ4amYwak0tTzVHRVZlTHc3ampHZndwVjBJQTgxYmZETWg0M005SkRBb3ZT?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T19:43+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Commanders Announce WR Move After Terry McLaurin Heads to Injured Reserve",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTlXZm9OVHNXaWlRY0phbTlrT3lEcVJJYTlyMVJWZlhmbFZaOU56anRWTEZYMThqcEZ3UkRLU29JQkZGbG9OUm1nZktQdUVtSFMwelB6bjA2TDRieTQwMVp3eVc0WGpLYldPOGF6eEsxMUw4aXcyZkpHbWw1ZGVjZDFvbFdjRXJiRHc?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T18:01+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Multiple Commanders' Injury Updates Ahead of Week Eight vs Eagles",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjU2a0ZUSTBMVmhNYTFpZGNvREJ4aDRpZUMtbnlCTU9IV2p3djd2NE4wb0h1OUIwNFlKaHJMbTM1Z0UwRU9sWnBnN29vbjFjQ1hQVFMzX1A2b0FTMEdrWURvVlc2TzFDVnZZcnF4Sl9IR3p5dTdvYWc2UHJZbXpHa0swaXdCaUUtWEh3OTlraGw2Yms?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-28T17:26+00:00",
-       "flag": "injury"
       }
      ]
     }
@@ -4506,8 +4566,8 @@
     "wind_text": "2 mph",
     "temp": 53,
     "short": "Mostly Cloudy",
-    "rain": 4,
-    "checked": "2026-10-30T14:48Z"
+    "rain": 3,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -4528,8 +4588,8 @@
     },
     "bovada": {
      "spread_home": -3.0,
-     "spread_home_price": -110,
-     "spread_away_price": -110,
+     "spread_home_price": -112,
+     "spread_away_price": -108,
      "total": 46.5,
      "over_price": -110,
      "under_price": -110
@@ -4595,6 +4655,11 @@
      "2026-10-30T14:48Z",
      -3.0,
      46.5
+    ],
+    [
+     "2026-10-30T23:28Z",
+     -3.0,
+     46.5
     ]
    ],
    "projection": {
@@ -4640,6 +4705,90 @@
     "tier": "model",
     "moved_against": 0.0,
     "pattern": null
+   },
+   "news": {
+    "Bears": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Bears Announce Colston Loveland Injury News Before Seahawks Game",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFB0VVV1UHVqSVhIaS1rLUF6dXNkWUJqd3RxQlFCdGJCTzFnRDBobWM0d2pIMk11Z2FOOFdJVXdrbzdrZTRfMVZBT0JfQ0VMU19XRHh0cXRtWWpPQ2xTcFduaHNtZGpxVDBFUG5iWHVIVGZJVXdlaklnQXR5ZGlmRThLQlJ0REdJS180VkJ6T0VPQQ?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T21:56+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Bears Announce Latest Kyle Monangai Injury Update Before Seahawks Game",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3RDX2JST3c5T1plbjRlWnowOVRHMjZKaVVBNGYtaWNHWmViczNKZmliT1BraEpQT1dDMElmQV9YN0M5ZmlmT1lTMEl0QUpvekhldU9GTllROWo4QXFabm9EVzdHakxuYi1rcWJILWt3ZWtaWTd5N09xQ19xOE5HVllrM19wVy01Zk1yZllhdw?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T20:14+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Kyle Monangai, Colston Loveland Injury Updates & More From Bears' Friday Practice Report",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGtOZG9qUnFlNDcyV24yZTNmLXRFVEl1QUppLTZWWVg0dmgyYkdsbXRXN0MycFFyMjFSaXRsTllzU0RuVVN0R1oyd3pteGUyZUIwYlRFWnpJSmhUWXNVcDNtUEVkMzJVSENxVlhVcUgwZUtXN1FiNHB6YjBtUnJuaVU5dTlCaG9zc3cxWm1Cc01ia2dyRGIzdXFLOVkxc3V2YlFxZm03bDFocnpP?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-10-30T19:48+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Colston Loveland limited at Bears practice with a neck injury",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQalUtbXg3cE1wN2V5TlpTbUdzRzlPZVYtY0piVDh1OVVXTXlQME9MNnRSbFJQSWJTWm5fcVJBZktVMXFqMlR5V01mRG82MkVBdGtnVzhEV3RGejRFQV9pNTFZQVFqSkdQNHgxQnpNeXF6U1RoZ0lnakhhVUN3Zm5hc0FRZVBxcGlwZzJGRGlHLVhGUQ?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T19:41+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxjcDRGRUlIV01ZV29VR2E5YXZ1Y0NDdVJRVXU4VmZORnFpUXFOVmptZWpHYTNrSTFncThrbVZRRERrMGxjUzUxMER6eTVIYnhvN3lPaUJtbUEzd1NCTUxqOE5iQTdCWFBTNk90dDlOeDlhNF9pUVVkSXZVellsYkh2bmRZX3NHZlE?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T19:00+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Seahawks": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxjcDRGRUlIV01ZV29VR2E5YXZ1Y0NDdVJRVXU4VmZORnFpUXFOVmptZWpHYTNrSTFncThrbVZRRERrMGxjUzUxMER6eTVIYnhvN3lPaUJtbUEzd1NCTUxqOE5iQTdCWFBTNk90dDlOeDlhNF9pUVVkSXZVellsYkh2bmRZX3NHZlE?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T19:00+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Panthers, who face Seahawks in Week 17, fire defensive coordinator",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXI1LWtucDBUc21pVDRFWTE0LUhQeUp3cWxQNGc1NVJkU1J0NXZfOThCa1dQbnZmQ2hFb1FPVnVsbV9EdnNxYXhaNDlsZy15Y1kwcDZITWlHVXJlVloteW5RMlZjNW1fSkhoRWdxMFN0X20xQUNZUEJ5Um5hbXJJQVdJeURIbVBqaEFpLTVwbno5ZjZ0UEtzaE5vSGdZMUh0cDBFaFN2emFJUkR1dExZRXExM2dDMzQtZ0hEYUFn?oc=5",
+       "source": "Seattle Sports",
+       "published": "2026-10-30T21:15+00:00",
+       "flag": null
+      },
+      {
+       "title": "Big Ray: Quenton Nelson changes \u2018the temperature\u2019 for Seahawks",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDdEZjVTV2dOa3R4MlFJekRmMXdnUFFyYk9Ec3lWWldyb0JreTVmV2thSmVBMF9WWU5DOUJzU0pCSWNxOS1PVWJBaEk0QkV1Q19SSW42OHBuNy1qRE1tclltUWFEc1hBVUIydEJkZjBUbUFTcTI1NW9xTmVsZmtKdm8yV2JTVUZHZ2R0VzU5LUVVbGU4eEVncjBuVlRWaEV4TU9kMFpNazFJVW9GX0k4Rg?oc=5",
+       "source": "Seattle Sports",
+       "published": "2026-10-30T20:54+00:00",
+       "flag": null
+      },
+      {
+       "title": "Seahawks' dominant defense faces challenge in Bears QB Williams",
+       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1dTZmVRRDVzZjc5VUFJUDJUVnhUdTZCaVhPRXl5NVVhZmhhSWpNVm10S1FrX0RqRzhVMGRDcW90S04wT29sdHJWLWgxYnJnWWJLeU9udHZPS1REMTIxNWVMMUVsT01ZS0JfU0dxMXNIeldCel9pR3o5bzh1MlNiNUY2a3MyNmNQUmR4X25nZWRXWTZ3WW5aUm50VUFLT1NGY3pTT1paSHAzRW9HcVQyeEJPUFB3QmNnZDNIYV9IZVUxQnctTC1GRF9zZjVYdnhPR1lST1V6N3hvWHM0TTJtSno3NnJKeVRsZEZGaXNmd2FNMVZTZGo0bVhxYw?oc=5",
+       "source": "The Journal Gazette",
+       "published": "2026-10-30T20:43+00:00",
+       "flag": null
+      },
+      {
+       "title": "NFL Week 8 Preview: Bears vs. Seahawks",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0t4YktEOEd5NlJVOU0tTG5Fakh4Z0dVT1I2WEJuWFRETnIxUEp2b1gzY013LVRzcWpfYi1ocVRWZDVyU250bEM4MFRtZDZybGthRmxReHlCQXlJRDhmY25IQWpWdGxiMmkzU3paVmNZLWswRlVmREp0R1RncWdldnRJc1J2dTFrMEtXQzBidXRQQVlHWG5fdk91TExsNml4NFNnMy0xRWdrdDBQSVhESjZGZHlZeUE?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-30T20:04+00:00",
+       "flag": null
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -4734,26 +4883,18 @@
       },
       {
        "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVhhVnRBTFZMNFNPV21XODRlcnlYV0xRRjZyVncyUkFtTlEtRV9OWkJQV0s1SDhyMFlVTnJTZVNyTHhVVzFrSEdrV1F0TjQzMlZmVkRob1R6Q1VoYk5sNEZKTmNFSWpINEpSODc0NDBFWUNNSE5EcFROVUE5NDRIX0RYSk4yYUVRUHBqNEN5bDZRTk9Wd2o3d1Nfd2ZmTldsZHBiOXgyVQ?oc=5",
-       "source": "Sports Illustrated",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxjcDRGRUlIV01ZV29VR2E5YXZ1Y0NDdVJRVXU4VmZORnFpUXFOVmptZWpHYTNrSTFncThrbVZRRERrMGxjUzUxMER6eTVIYnhvN3lPaUJtbUEzd1NCTUxqOE5iQTdCWFBTNk90dDlOeDlhNF9pUVVkSXZVellsYkh2bmRZX3NHZlE?oc=5",
+       "source": "Yahoo Sports",
        "published": "2026-10-30T19:00+00:00",
        "flag": "injury",
        "team": "Bears"
       },
       {
        "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVhhVnRBTFZMNFNPV21XODRlcnlYV0xRRjZyVncyUkFtTlEtRV9OWkJQV0s1SDhyMFlVTnJTZVNyTHhVVzFrSEdrV1F0TjQzMlZmVkRob1R6Q1VoYk5sNEZKTmNFSWpINEpSODc0NDBFWUNNSE5EcFROVUE5NDRIX0RYSk4yYUVRUHBqNEN5bDZRTk9Wd2o3d1Nfd2ZmTldsZHBiOXgyVQ?oc=5",
-       "source": "Sports Illustrated",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxjcDRGRUlIV01ZV29VR2E5YXZ1Y0NDdVJRVXU4VmZORnFpUXFOVmptZWpHYTNrSTFncThrbVZRRERrMGxjUzUxMER6eTVIYnhvN3lPaUJtbUEzd1NCTUxqOE5iQTdCWFBTNk90dDlOeDlhNF9pUVVkSXZVellsYkh2bmRZX3NHZlE?oc=5",
+       "source": "Yahoo Sports",
        "published": "2026-10-30T19:00+00:00",
        "flag": "injury",
-       "team": "Seahawks"
-      },
-      {
-       "title": "Anthony Bradford loses his Seahawks starting job in Quenton Nelson trade",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnRNME9STlFXbG9YUW9GTVBONm9zbHAzMm5aNDU5Sm5hNGhWVjF4eUtvXzdxTUlmMkZ6MXFnQ0E2VDlFOWVMY3RTeTZjQzlqVXNHX1JuY2Zka0NUR1hnak5Kd3BIZl93WjRMUjBhQW4tWGtkSFpoY1FQUlNMTnJ4YU12S2k5VzlKOXRobDM0VHdMZTFXUkk1clZGU20yWW9RbEU2aHdjdHVqSG9qY0xYV0tHTHVhOEZuWnFDUGlLYzE0MW1xUXFDYjNWVlRNT2VGdGxlMm5FUTd1UdIB4gFBVV95cUxQd2dwdTNDa2dyVTljbEVHamNmT19NWkQ1T1o3enN3Z2NZbTNRNEZEMUZrczJkMG9ORjl4R2x3b1Jfc1A0bUEyMmRtbmhUSVRVZHJ5ZkJZRWtRWGdfZVlBX3hoejF5cDBuemJBQTJNU1lyTjU3aTNrQTlJWXp3NjBQb1Q0WUVnRlhnd0RCR3VlTzFIX3V4QVl0ODlMVXBSUkthYV9nS0xvU3hKZ0F1YmY5Q05aa21feHBFUXVEMGpxUk9jZE1PNzBOazA1SjRZbGEzM2NpWHd3M2p1eGJmVERLTFVR?oc=5",
-       "source": "Sports Radio 93.3 KJR",
-       "published": "2026-10-30T21:45+00:00",
-       "flag": null,
        "team": "Seahawks"
       },
       {
@@ -4777,6 +4918,14 @@
        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1dTZmVRRDVzZjc5VUFJUDJUVnhUdTZCaVhPRXl5NVVhZmhhSWpNVm10S1FrX0RqRzhVMGRDcW90S04wT29sdHJWLWgxYnJnWWJLeU9udHZPS1REMTIxNWVMMUVsT01ZS0JfU0dxMXNIeldCel9pR3o5bzh1MlNiNUY2a3MyNmNQUmR4X25nZWRXWTZ3WW5aUm50VUFLT1NGY3pTT1paSHAzRW9HcVQyeEJPUFB3QmNnZDNIYV9IZVUxQnctTC1GRF9zZjVYdnhPR1lST1V6N3hvWHM0TTJtSno3NnJKeVRsZEZGaXNmd2FNMVZTZGo0bVhxYw?oc=5",
        "source": "The Journal Gazette",
        "published": "2026-10-30T20:43+00:00",
+       "flag": null,
+       "team": "Seahawks"
+      },
+      {
+       "title": "NFL Week 8 Preview: Bears vs. Seahawks",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0t4YktEOEd5NlJVOU0tTG5Fakh4Z0dVT1I2WEJuWFRETnIxUEp2b1gzY013LVRzcWpfYi1ocVRWZDVyU250bEM4MFRtZDZybGthRmxReHlCQXlJRDhmY25IQWpWdGxiMmkzU3paVmNZLWswRlVmREp0R1RncWdldnRJc1J2dTFrMEtXQzBidXRQQVlHWG5fdk91TExsNml4NFNnMy0xRWdrdDBQSVhESjZGZHlZeUE?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-30T20:04+00:00",
        "flag": null,
        "team": "Seahawks"
       }
@@ -4872,29 +5021,21 @@
       },
       {
        "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVhhVnRBTFZMNFNPV21XODRlcnlYV0xRRjZyVncyUkFtTlEtRV9OWkJQV0s1SDhyMFlVTnJTZVNyTHhVVzFrSEdrV1F0TjQzMlZmVkRob1R6Q1VoYk5sNEZKTmNFSWpINEpSODc0NDBFWUNNSE5EcFROVUE5NDRIX0RYSk4yYUVRUHBqNEN5bDZRTk9Wd2o3d1Nfd2ZmTldsZHBiOXgyVQ?oc=5",
-       "source": "Sports Illustrated",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxjcDRGRUlIV01ZV29VR2E5YXZ1Y0NDdVJRVXU4VmZORnFpUXFOVmptZWpHYTNrSTFncThrbVZRRERrMGxjUzUxMER6eTVIYnhvN3lPaUJtbUEzd1NCTUxqOE5iQTdCWFBTNk90dDlOeDlhNF9pUVVkSXZVellsYkh2bmRZX3NHZlE?oc=5",
+       "source": "Yahoo Sports",
        "published": "2026-10-30T19:00+00:00",
        "flag": "injury",
        "team": "Bears"
       },
       {
        "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVhhVnRBTFZMNFNPV21XODRlcnlYV0xRRjZyVncyUkFtTlEtRV9OWkJQV0s1SDhyMFlVTnJTZVNyTHhVVzFrSEdrV1F0TjQzMlZmVkRob1R6Q1VoYk5sNEZKTmNFSWpINEpSODc0NDBFWUNNSE5EcFROVUE5NDRIX0RYSk4yYUVRUHBqNEN5bDZRTk9Wd2o3d1Nfd2ZmTldsZHBiOXgyVQ?oc=5",
-       "source": "Sports Illustrated",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxjcDRGRUlIV01ZV29VR2E5YXZ1Y0NDdVJRVXU4VmZORnFpUXFOVmptZWpHYTNrSTFncThrbVZRRERrMGxjUzUxMER6eTVIYnhvN3lPaUJtbUEzd1NCTUxqOE5iQTdCWFBTNk90dDlOeDlhNF9pUVVkSXZVellsYkh2bmRZX3NHZlE?oc=5",
+       "source": "Yahoo Sports",
        "published": "2026-10-30T19:00+00:00",
        "flag": "injury",
        "team": "Seahawks"
       },
       {
-       "title": "Anthony Bradford loses his Seahawks starting job in Quenton Nelson trade",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnRNME9STlFXbG9YUW9GTVBONm9zbHAzMm5aNDU5Sm5hNGhWVjF4eUtvXzdxTUlmMkZ6MXFnQ0E2VDlFOWVMY3RTeTZjQzlqVXNHX1JuY2Zka0NUR1hnak5Kd3BIZl93WjRMUjBhQW4tWGtkSFpoY1FQUlNMTnJ4YU12S2k5VzlKOXRobDM0VHdMZTFXUkk1clZGU20yWW9RbEU2aHdjdHVqSG9qY0xYV0tHTHVhOEZuWnFDUGlLYzE0MW1xUXFDYjNWVlRNT2VGdGxlMm5FUTd1UdIB4gFBVV95cUxQd2dwdTNDa2dyVTljbEVHamNmT19NWkQ1T1o3enN3Z2NZbTNRNEZEMUZrczJkMG9ORjl4R2x3b1Jfc1A0bUEyMmRtbmhUSVRVZHJ5ZkJZRWtRWGdfZVlBX3hoejF5cDBuemJBQTJNU1lyTjU3aTNrQTlJWXp3NjBQb1Q0WUVnRlhnd0RCR3VlTzFIX3V4QVl0ODlMVXBSUkthYV9nS0xvU3hKZ0F1YmY5Q05aa21feHBFUXVEMGpxUk9jZE1PNzBOazA1SjRZbGEzM2NpWHd3M2p1eGJmVERLTFVR?oc=5",
-       "source": "Sports Radio 93.3 KJR",
-       "published": "2026-10-30T21:45+00:00",
-       "flag": null,
-       "team": "Seahawks"
-      },
-      {
        "title": "Panthers, who face Seahawks in Week 17, fire defensive coordinator",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXI1LWtucDBUc21pVDRFWTE0LUhQeUp3cWxQNGc1NVJkU1J0NXZfOThCa1dQbnZmQ2hFb1FPVnVsbV9EdnNxYXhaNDlsZy15Y1kwcDZITWlHVXJlVloteW5RMlZjNW1fSkhoRWdxMFN0X20xQUNZUEJ5Um5hbXJJQVdJeURIbVBqaEFpLTVwbno5ZjZ0UEtzaE5vSGdZMUh0cDBFaFN2emFJUkR1dExZRXExM2dDMzQtZ0hEYUFn?oc=5",
        "source": "Seattle Sports",
@@ -4917,90 +5058,14 @@
        "published": "2026-10-30T20:43+00:00",
        "flag": null,
        "team": "Seahawks"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Bears": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Bears Announce Colston Loveland Injury News Before Seahawks Game",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFB0VVV1UHVqSVhIaS1rLUF6dXNkWUJqd3RxQlFCdGJCTzFnRDBobWM0d2pIMk11Z2FOOFdJVXdrbzdrZTRfMVZBT0JfQ0VMU19XRHh0cXRtWWpPQ2xTcFduaHNtZGpxVDBFUG5iWHVIVGZJVXdlaklnQXR5ZGlmRThLQlJ0REdJS180VkJ6T0VPQQ?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T21:56+00:00",
-       "flag": "injury"
       },
       {
-       "title": "Bears Announce Latest Kyle Monangai Injury Update Before Seahawks Game",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3RDX2JST3c5T1plbjRlWnowOVRHMjZKaVVBNGYtaWNHWmViczNKZmliT1BraEpQT1dDMElmQV9YN0M5ZmlmT1lTMEl0QUpvekhldU9GTllROWo4QXFabm9EVzdHakxuYi1rcWJILWt3ZWtaWTd5N09xQ19xOE5HVllrM19wVy01Zk1yZllhdw?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T20:14+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Kyle Monangai, Colston Loveland Injury Updates & More From Bears' Friday Practice Report",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGtOZG9qUnFlNDcyV24yZTNmLXRFVEl1QUppLTZWWVg0dmgyYkdsbXRXN0MycFFyMjFSaXRsTllzU0RuVVN0R1oyd3pteGUyZUIwYlRFWnpJSmhUWXNVcDNtUEVkMzJVSENxVlhVcUgwZUtXN1FiNHB6YjBtUnJuaVU5dTlCaG9zc3cxWm1Cc01ia2dyRGIzdXFLOVkxc3V2YlFxZm03bDFocnpP?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T19:48+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Colston Loveland limited at Bears practice with a neck injury",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQalUtbXg3cE1wN2V5TlpTbUdzRzlPZVYtY0piVDh1OVVXTXlQME9MNnRSbFJQSWJTWm5fcVJBZktVMXFqMlR5V01mRG82MkVBdGtnVzhEV3RGejRFQV9pNTFZQVFqSkdQNHgxQnpNeXF6U1RoZ0lnakhhVUN3Zm5hc0FRZVBxcGlwZzJGRGlHLVhGUQ?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-30T19:41+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVhhVnRBTFZMNFNPV21XODRlcnlYV0xRRjZyVncyUkFtTlEtRV9OWkJQV0s1SDhyMFlVTnJTZVNyTHhVVzFrSEdrV1F0TjQzMlZmVkRob1R6Q1VoYk5sNEZKTmNFSWpINEpSODc0NDBFWUNNSE5EcFROVUE5NDRIX0RYSk4yYUVRUHBqNEN5bDZRTk9Wd2o3d1Nfd2ZmTldsZHBiOXgyVQ?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T19:00+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Seahawks": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Seahawks' Dark Side Defense Facing Injuries at Bad Time Before Bears",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVhhVnRBTFZMNFNPV21XODRlcnlYV0xRRjZyVncyUkFtTlEtRV9OWkJQV0s1SDhyMFlVTnJTZVNyTHhVVzFrSEdrV1F0TjQzMlZmVkRob1R6Q1VoYk5sNEZKTmNFSWpINEpSODc0NDBFWUNNSE5EcFROVUE5NDRIX0RYSk4yYUVRUHBqNEN5bDZRTk9Wd2o3d1Nfd2ZmTldsZHBiOXgyVQ?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-10-30T19:00+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Anthony Bradford loses his Seahawks starting job in Quenton Nelson trade",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnRNME9STlFXbG9YUW9GTVBONm9zbHAzMm5aNDU5Sm5hNGhWVjF4eUtvXzdxTUlmMkZ6MXFnQ0E2VDlFOWVMY3RTeTZjQzlqVXNHX1JuY2Zka0NUR1hnak5Kd3BIZl93WjRMUjBhQW4tWGtkSFpoY1FQUlNMTnJ4YU12S2k5VzlKOXRobDM0VHdMZTFXUkk1clZGU20yWW9RbEU2aHdjdHVqSG9qY0xYV0tHTHVhOEZuWnFDUGlLYzE0MW1xUXFDYjNWVlRNT2VGdGxlMm5FUTd1UdIB4gFBVV95cUxQd2dwdTNDa2dyVTljbEVHamNmT19NWkQ1T1o3enN3Z2NZbTNRNEZEMUZrczJkMG9ORjl4R2x3b1Jfc1A0bUEyMmRtbmhUSVRVZHJ5ZkJZRWtRWGdfZVlBX3hoejF5cDBuemJBQTJNU1lyTjU3aTNrQTlJWXp3NjBQb1Q0WUVnRlhnd0RCR3VlTzFIX3V4QVl0ODlMVXBSUkthYV9nS0xvU3hKZ0F1YmY5Q05aa21feHBFUXVEMGpxUk9jZE1PNzBOazA1SjRZbGEzM2NpWHd3M2p1eGJmVERLTFVR?oc=5",
-       "source": "Sports Radio 93.3 KJR",
-       "published": "2026-10-30T21:45+00:00",
-       "flag": null
-      },
-      {
-       "title": "Panthers, who face Seahawks in Week 17, fire defensive coordinator",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXI1LWtucDBUc21pVDRFWTE0LUhQeUp3cWxQNGc1NVJkU1J0NXZfOThCa1dQbnZmQ2hFb1FPVnVsbV9EdnNxYXhaNDlsZy15Y1kwcDZITWlHVXJlVloteW5RMlZjNW1fSkhoRWdxMFN0X20xQUNZUEJ5Um5hbXJJQVdJeURIbVBqaEFpLTVwbno5ZjZ0UEtzaE5vSGdZMUh0cDBFaFN2emFJUkR1dExZRXExM2dDMzQtZ0hEYUFn?oc=5",
-       "source": "Seattle Sports",
-       "published": "2026-10-30T21:15+00:00",
-       "flag": null
-      },
-      {
-       "title": "Big Ray: Quenton Nelson changes \u2018the temperature\u2019 for Seahawks",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDdEZjVTV2dOa3R4MlFJekRmMXdnUFFyYk9Ec3lWWldyb0JreTVmV2thSmVBMF9WWU5DOUJzU0pCSWNxOS1PVWJBaEk0QkV1Q19SSW42OHBuNy1qRE1tclltUWFEc1hBVUIydEJkZjBUbUFTcTI1NW9xTmVsZmtKdm8yV2JTVUZHZ2R0VzU5LUVVbGU4eEVncjBuVlRWaEV4TU9kMFpNazFJVW9GX0k4Rg?oc=5",
-       "source": "Seattle Sports",
-       "published": "2026-10-30T20:54+00:00",
-       "flag": null
-      },
-      {
-       "title": "Seahawks' dominant defense faces challenge in Bears QB Williams",
-       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1dTZmVRRDVzZjc5VUFJUDJUVnhUdTZCaVhPRXl5NVVhZmhhSWpNVm10S1FrX0RqRzhVMGRDcW90S04wT29sdHJWLWgxYnJnWWJLeU9udHZPS1REMTIxNWVMMUVsT01ZS0JfU0dxMXNIeldCel9pR3o5bzh1MlNiNUY2a3MyNmNQUmR4X25nZWRXWTZ3WW5aUm50VUFLT1NGY3pTT1paSHAzRW9HcVQyeEJPUFB3QmNnZDNIYV9IZVUxQnctTC1GRF9zZjVYdnhPR1lST1V6N3hvWHM0TTJtSno3NnJKeVRsZEZGaXNmd2FNMVZTZGo0bVhxYw?oc=5",
-       "source": "The Journal Gazette",
-       "published": "2026-10-30T20:43+00:00",
-       "flag": null
+       "title": "NFL Week 8 Preview: Bears vs. Seahawks",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0t4YktEOEd5NlJVOU0tTG5Fakh4Z0dVT1I2WEJuWFRETnIxUEp2b1gzY013LVRzcWpfYi1ocVRWZDVyU250bEM4MFRtZDZybGthRmxReHlCQXlJRDhmY25IQWpWdGxiMmkzU3paVmNZLWswRlVmREp0R1RncWdldnRJc1J2dTFrMEtXQzBidXRQQVlHWG5fdk91TExsNml4NFNnMy0xRWdrdDBQSVhESjZGZHlZeUE?oc=5",
+       "source": "NBC Sports",
+       "published": "2026-10-30T20:04+00:00",
+       "flag": null,
+       "team": "Seahawks"
       }
      ]
     }
@@ -5018,12 +5083,12 @@
    "venue": "M&T Bank Stadium",
    "roof": "outdoors",
    "weather": {
-    "wind": 6.0,
-    "wind_text": "6 mph",
-    "temp": 63,
-    "short": "Chance Rain Showers",
-    "rain": 42,
-    "checked": "2026-10-30T14:48Z"
+    "wind": 5.0,
+    "wind_text": "5 mph",
+    "temp": 64,
+    "short": "Rain Showers Likely",
+    "rain": 59,
+    "checked": "2026-10-30T23:28Z"
    },
    "lines": {
     "draftkings": {
@@ -5066,6 +5131,11 @@
     ],
     [
      "2026-10-30T14:48Z",
+     -3.0,
+     48.5
+    ],
+    [
+     "2026-10-30T23:28Z",
      -3.0,
      48.5
     ]
@@ -5113,6 +5183,90 @@
     "tier": "model",
     "moved_against": 0.0,
     "pattern": null
+   },
+   "news": {
+    "Jaguars": {
+     "qb_alert": false,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Jaguars vs. Colts, odds, injuries, key matchup as Jags return to EverBank",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFU2d0w4NnhPalB3SkxmTWlOVWVMdUpKZmppbGRrSkxLZElTSmViSXRSeW5fekNtRUh3WERCTTZrX1VabDdQb3I3Um9laldGWE1za3BRd2psQ3VaTlNYWHNlN3c4OGhfX2hmSWVCVnl3d3hUS1BKMTZjVFpQWUNMRTNKMkduMVJnWGRCQmw5dzduZ0RxMFpQOFR1LXZqSHc3eEpCYkNGNEJ1c2JXcDdLVVdidmNReV95dUJLR09oYVhWNGN0VTN0emF2bVBmRjdUUlhraUhkdFBTVFUzVnlDRw?oc=5",
+       "source": "FL Times-Union",
+       "published": "2026-10-30T20:05+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jakobi Meyers Questionable, Antonio Johnson Out as the Jaguars Return From Their Bye",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5mVFpFNjdHc3N6VUViRmptTG04NF9oN3d5VnRfRFU4V290cUg5TzJLbU1aNVAyZ0o5elFHN3Z1UzBZZGRpSGNkZnNnM24zQjhwOTR3Y0R2Wl9IbndlOXhTek0wcDlFdWFZVjgtOTZjcmxqbDEzS3NTWTAwSnVZVGFoYTdsU3pfQWdPbGNqZDVSODFZeXIybkdUczM1ZDg4SVFNMUNLSXlKSmFqR0tn?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-30T19:35+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jaguars games status: Jakobi Meyers questionable ahead of Colts game",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21wQnRNS3VYNDVqZVQtZHFfYVgtRTY1S016SDM5VDUteVA4cDZHUUFvZURMX2xFd1kwWThWSUhIVW0yc2ttVUt5M1F4a3hwalR4NXl4LUxRUndOQVlDVzZGZjZmNVc1cmNQRTZQWmdyelA0djhwVGhXMGNiNTFOdzQ4NEJFNHV0WXM1eElGV0VHSXlqMmI3cjltWHN0d2hHUmF5SnRHUnZVcWY2aGM1VnFjOGp5NERXT05GTjRPTTE1aGZhUk1pRWJRb2hJc05CWEE?oc=5",
+       "source": "FL Times-Union",
+       "published": "2026-10-30T19:33+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Trevor Lawrence Gets Candid on Jaguars Benching Brian Thomas",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHBnSmhKN2s3cG5aZlY4MjU3eW91cmJIZ2pZYnVzdl9BZW1Iajk4SExmRDBfWnNNLVFtd2RoU0lOaDlCTVNoZk4wNElTWldlSU9FOXRDSVVnM2FzcVJGQ1U4SUxkb1hoOTZxM0NLSlJXTDlISXdJcnBlWUU1ajNkTllEcVg2SktEbVVheld3?oc=5",
+       "source": "Heavy.com",
+       "published": "2026-10-30T12:06+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Jaguars injury report: Antonio Johnson (ankle) misses practice",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEZpUHRWZDdHZVIwb3lEMmw5WnBQTE85OWQ4d0l6ZzlBYlpXVkpMV3RHZVhQcEdiSm01T0QyTHp0UERBREJCbkNzQmcwYWFfY05LYU9MbGFJd1Vncy02MVlTLXFxMl9jeXVsOVlfQTE2UjdBb09ZWXo0QVA0Rk1DY3Z2OTd6b21qQkpVa0RaRFVKSjVIcEVnOEhPZExKSnpVQWx1eVBiTjVjLTZ0ZC1XalNWVkZrSFE3Y3IxUGJGeEpIT2l1V2FDT1FWaWM?oc=5",
+       "source": "FL Times-Union",
+       "published": "2026-10-29T20:51+00:00",
+       "flag": "injury"
+      }
+     ]
+    },
+    "Ravens": {
+     "qb_alert": true,
+     "injury": true,
+     "headlines": [
+      {
+       "title": "Ravens QB Lamar Jackson finally set to return from ankle injury in Week 8 vs. Bills",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnc0bTQ0S2N0YS1YUFZOdnJERWlsSnAySEQ0UnNDY2s1ci05eS0wbDJScmlMdldyRXlwTHZjZVR6cXhvMExLcFVtbVFJVVlEaENmM3lWRnRHcDV6MHdWNzlIMm9VeUtSQXFSREpPTXVXVU1MOFREZGczenN4NHVzdjhTODJjVDQ4bHpoLXd5M1pPdGg2alhuNmFnaHB0cHlNaERNYTVsRzJPY0x1c3lUSlYzaXhMRU1ycEp4RA?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T18:29+00:00",
+       "flag": "qb"
+      },
+      {
+       "title": "Ravens' Lamar Jackson takes another step in right direction in injury recover ahead of Bills clash",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFFRVU9EdUV3eGY2YUJsbUNGc0lKUnhPUlMwMWtRLVBuY3NTYjZXYlNSU0otNzZDbS1XeTVtTjRTUGtGc2NacnFRamJlRHM0UWswY19UQzFaejNPMFZVTTAya2tqVzloU2U3SnRqTHNPdzJmUXpsRzFqbVozTWxoS3RjT09RQ0d6MWhIdUpyN1RwNVQ5RHpHemJWUTh1M0s1NnQzcHNoVGVvOTIzNzVubEhLZG1Vc29XajlYQlNLSTNQSmwy?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T18:26+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFQ4MDR0eUxxVmpyTXVRTzhZZERGclE1aTJfY3JmX1pZV2xpdi00YUxGcWIzREdDUXVpWnZ2UkIyekRYSHpBYWxSd3B2blN3c3hITy1VMlgxOXFtcVJUSlI4SzZZcS1weFpsVGlsbWtVTkZjYm1BUDRfSlc0UEdRNjFn?oc=5",
+       "source": "CBS Sports",
+       "published": "2026-10-30T17:50+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Ravens\u2019 Kyle Hamilton eases concerns about knee injury after returning to practice",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRG9lekFFa045QzFxc1NYTnFVdlBsWFVoUU5qX2NSc1Z5MUp6MWh5bzNRRkZKOWxlcEdVVnlfWF84NzdQUS1wQzBKSVRQR29VaUlFT0xMX3dXaXN5eWxJRUIyZUVPX21pMWU2WWhkakYzaXBLem5oZFVVUGJ5aFh6ZlRZcG5nTFVmd0s2VA?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T02:42+00:00",
+       "flag": "injury"
+      },
+      {
+       "title": "Baltimore Ravens Appear on Track to Get Their Missing Offensive Element Back",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGZITTlKMkFoNEdyOTBkbEpmVGVpSHJMQVdqMnFKYmJuZ1BWUEJtN1VhcFJRUkNRclNjdXR2cEhiX0FpeHdBRWxGa0gxMU5IR1g5ekVaVGNIdFhFT3VFLXNFcGotUEEyNnNnc3prbHZ1dW10Z0VqYzBxb3BLNWJldzExeFNYTkd1TS1mek1GVENmejBFdVN1ZTJtUXo2WFo1MWYyMjlHVk02RGw3SGV4VA?oc=5",
+       "source": "Athlon Sports",
+       "published": "2026-10-30T02:21+00:00",
+       "flag": "injury"
+      }
+     ]
+    }
    },
    "why": {
     "spread": {
@@ -5220,11 +5374,19 @@
        "team": "Jaguars"
       },
       {
-       "title": "Ravens QB Lamar Jackson to return from injury against Bills",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTh1N0NpdkVSeGtuazFYQnFIcXhZYk54cWJJN2piOFFULVVTN3U3NjNqaVNYLU5FbURabjN0WUF2MGVoSHdWN2dlc1B0a0FReEtpd2NpWW00aTJJWGJuMXZ6QVhjdXRsdUV3M0FuaE1BOEo5NkJ2NzNzcjRZeS14UkpodjZVWkRRb0hVbkppS3JHQk9BTnJXdXFoVmdfdw?oc=5",
-       "source": "Sportsnet.ca",
-       "published": "2026-10-30T18:23+00:00",
+       "title": "Ravens QB Lamar Jackson finally set to return from ankle injury in Week 8 vs. Bills",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnc0bTQ0S2N0YS1YUFZOdnJERWlsSnAySEQ0UnNDY2s1ci05eS0wbDJScmlMdldyRXlwTHZjZVR6cXhvMExLcFVtbVFJVVlEaENmM3lWRnRHcDV6MHdWNzlIMm9VeUtSQXFSREpPTXVXVU1MOFREZGczenN4NHVzdjhTODJjVDQ4bHpoLXd5M1pPdGg2alhuNmFnaHB0cHlNaERNYTVsRzJPY0x1c3lUSlYzaXhMRU1ycEp4RA?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T18:29+00:00",
        "flag": "qb",
+       "team": "Ravens"
+      },
+      {
+       "title": "Ravens' Lamar Jackson takes another step in right direction in injury recover ahead of Bills clash",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFFRVU9EdUV3eGY2YUJsbUNGc0lKUnhPUlMwMWtRLVBuY3NTYjZXYlNSU0otNzZDbS1XeTVtTjRTUGtGc2NacnFRamJlRHM0UWswY19UQzFaejNPMFZVTTAya2tqVzloU2U3SnRqTHNPdzJmUXpsRzFqbVozTWxoS3RjT09RQ0d6MWhIdUpyN1RwNVQ5RHpHemJWUTh1M0s1NnQzcHNoVGVvOTIzNzVubEhLZG1Vc29XajlYQlNLSTNQSmwy?oc=5",
+       "source": "ClutchPoints",
+       "published": "2026-10-30T18:26+00:00",
+       "flag": "injury",
        "team": "Ravens"
       },
       {
@@ -5236,11 +5398,11 @@
        "team": "Ravens"
       },
       {
-       "title": "Will Lamar Jackson play for the Ravens against the Bills on Sunday? Baltimore QB injury status",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGdWdWJKUlRfRmlTeWlNUW9oTkd6bXhYQU0zdHppOVpSN3ZsTlNTMXpPRHNSSGFhcmo3T3llQ2NmSDhMU3c0Mk9EWWh2ektCMGNtMUNrOFpvdlhqOWpkaG9mcmMyd2YwS3FxN3U1WGZnY0RSMS13MGNuUDRYQ3BPckhyMkN3SmJ4cl9wTjJIOTFfcVh6UEpTb21RZzF5MGlsaUYwU1ZHb05OTmFENjRKM3Z2SXBxb1NVTEtmZHYzQW9VZXU30gHYAUFVX3lxTFBTWV9MMjV1NjFOZHQ5aF9TQW1FaURwQzlmM0lPQ1VzbHJOYThJRWI3dDVzMVhSN21VLXpxYTk4N3RuVFhoakJYbHRxd2hwSVNGRkhhSWlvSllVRE9oSVdoYVV1cFVEemp6NkdPR1JDSy05Y0dNM3JXV2ZxMWZ5NmplRFJYWE9QbTFIYW1Zbkp3ei1uaFEyTDBtbU8yZExKTTFucmI2YnU1OHZVeTdjTkNlTVFidnBsV05kRm40bG5iZk4yQVdBWXk3Y1piVUhlVXFyM2ZFblhxRg?oc=5",
-       "source": "Diario AS",
-       "published": "2026-10-30T13:34+00:00",
-       "flag": "qb",
+       "title": "Ravens\u2019 Kyle Hamilton eases concerns about knee injury after returning to practice",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRG9lekFFa045QzFxc1NYTnFVdlBsWFVoUU5qX2NSc1Z5MUp6MWh5bzNRRkZKOWxlcEdVVnlfWF84NzdQUS1wQzBKSVRQR29VaUlFT0xMX3dXaXN5eWxJRUIyZUVPX21pMWU2WWhkakYzaXBLem5oZFVVUGJ5aFh6ZlRZcG5nTFVmd0s2VA?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-10-30T02:42+00:00",
+       "flag": "injury",
        "team": "Ravens"
       },
       {
@@ -5250,105 +5412,13 @@
        "published": "2026-10-30T02:21+00:00",
        "flag": "injury",
        "team": "Ravens"
-      },
-      {
-       "title": "Ravens Face $100 Million Injury Problem After First Week 8 Practice",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVVKazFkbGJtYnR1MVN2Sk5FVXJYcW5KNHprT29iSHh1SXc5ODZxczF6MDhuNjA0MEFNUVMxam1GVUI1V2lvNWUtc1NqUDhJNDJpOGF2RXA3M2dyeTh5Q05WUGZJVnlsUi13TTRRZnQwM0FDWTdncnJqVmdtaVRoT2VZeU9Zdw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T13:46+00:00",
-       "flag": "injury",
-       "team": "Ravens"
-      }
-     ]
-    }
-   },
-   "news": {
-    "Jaguars": {
-     "qb_alert": false,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Jaguars vs. Colts, odds, injuries, key matchup as Jags return to EverBank",
-       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFU2d0w4NnhPalB3SkxmTWlOVWVMdUpKZmppbGRrSkxLZElTSmViSXRSeW5fekNtRUh3WERCTTZrX1VabDdQb3I3Um9laldGWE1za3BRd2psQ3VaTlNYWHNlN3c4OGhfX2hmSWVCVnl3d3hUS1BKMTZjVFpQWUNMRTNKMkduMVJnWGRCQmw5dzduZ0RxMFpQOFR1LXZqSHc3eEpCYkNGNEJ1c2JXcDdLVVdidmNReV95dUJLR09oYVhWNGN0VTN0emF2bVBmRjdUUlhraUhkdFBTVFUzVnlDRw?oc=5",
-       "source": "FL Times-Union",
-       "published": "2026-10-30T20:05+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jakobi Meyers Questionable, Antonio Johnson Out as the Jaguars Return From Their Bye",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5mVFpFNjdHc3N6VUViRmptTG04NF9oN3d5VnRfRFU4V290cUg5TzJLbU1aNVAyZ0o5elFHN3Z1UzBZZGRpSGNkZnNnM24zQjhwOTR3Y0R2Wl9IbndlOXhTek0wcDlFdWFZVjgtOTZjcmxqbDEzS3NTWTAwSnVZVGFoYTdsU3pfQWdPbGNqZDVSODFZeXIybkdUczM1ZDg4SVFNMUNLSXlKSmFqR0tn?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-30T19:35+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jaguars games status: Jakobi Meyers questionable ahead of Colts game",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21wQnRNS3VYNDVqZVQtZHFfYVgtRTY1S016SDM5VDUteVA4cDZHUUFvZURMX2xFd1kwWThWSUhIVW0yc2ttVUt5M1F4a3hwalR4NXl4LUxRUndOQVlDVzZGZjZmNVc1cmNQRTZQWmdyelA0djhwVGhXMGNiNTFOdzQ4NEJFNHV0WXM1eElGV0VHSXlqMmI3cjltWHN0d2hHUmF5SnRHUnZVcWY2aGM1VnFjOGp5NERXT05GTjRPTTE1aGZhUk1pRWJRb2hJc05CWEE?oc=5",
-       "source": "FL Times-Union",
-       "published": "2026-10-30T19:33+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Trevor Lawrence Gets Candid on Jaguars Benching Brian Thomas",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHBnSmhKN2s3cG5aZlY4MjU3eW91cmJIZ2pZYnVzdl9BZW1Iajk4SExmRDBfWnNNLVFtd2RoU0lOaDlCTVNoZk4wNElTWldlSU9FOXRDSVVnM2FzcVJGQ1U4SUxkb1hoOTZxM0NLSlJXTDlISXdJcnBlWUU1ajNkTllEcVg2SktEbVVheld3?oc=5",
-       "source": "Heavy.com",
-       "published": "2026-10-30T12:06+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Jaguars injury report: Antonio Johnson (ankle) misses practice",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEZpUHRWZDdHZVIwb3lEMmw5WnBQTE85OWQ4d0l6ZzlBYlpXVkpMV3RHZVhQcEdiSm01T0QyTHp0UERBREJCbkNzQmcwYWFfY05LYU9MbGFJd1Vncy02MVlTLXFxMl9jeXVsOVlfQTE2UjdBb09ZWXo0QVA0Rk1DY3Z2OTd6b21qQkpVa0RaRFVKSjVIcEVnOEhPZExKSnpVQWx1eVBiTjVjLTZ0ZC1XalNWVkZrSFE3Y3IxUGJGeEpIT2l1V2FDT1FWaWM?oc=5",
-       "source": "FL Times-Union",
-       "published": "2026-10-29T20:51+00:00",
-       "flag": "injury"
-      }
-     ]
-    },
-    "Ravens": {
-     "qb_alert": true,
-     "injury": true,
-     "headlines": [
-      {
-       "title": "Ravens QB Lamar Jackson to return from injury against Bills",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTh1N0NpdkVSeGtuazFYQnFIcXhZYk54cWJJN2piOFFULVVTN3U3NjNqaVNYLU5FbURabjN0WUF2MGVoSHdWN2dlc1B0a0FReEtpd2NpWW00aTJJWGJuMXZ6QVhjdXRsdUV3M0FuaE1BOEo5NkJ2NzNzcjRZeS14UkpodjZVWkRRb0hVbkppS3JHQk9BTnJXdXFoVmdfdw?oc=5",
-       "source": "Sportsnet.ca",
-       "published": "2026-10-30T18:23+00:00",
-       "flag": "qb"
-      },
-      {
-       "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFQ4MDR0eUxxVmpyTXVRTzhZZERGclE1aTJfY3JmX1pZV2xpdi00YUxGcWIzREdDUXVpWnZ2UkIyekRYSHpBYWxSd3B2blN3c3hITy1VMlgxOXFtcVJUSlI4SzZZcS1weFpsVGlsbWtVTkZjYm1BUDRfSlc0UEdRNjFn?oc=5",
-       "source": "CBS Sports",
-       "published": "2026-10-30T17:50+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Will Lamar Jackson play for the Ravens against the Bills on Sunday? Baltimore QB injury status",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGdWdWJKUlRfRmlTeWlNUW9oTkd6bXhYQU0zdHppOVpSN3ZsTlNTMXpPRHNSSGFhcmo3T3llQ2NmSDhMU3c0Mk9EWWh2ektCMGNtMUNrOFpvdlhqOWpkaG9mcmMyd2YwS3FxN3U1WGZnY0RSMS13MGNuUDRYQ3BPckhyMkN3SmJ4cl9wTjJIOTFfcVh6UEpTb21RZzF5MGlsaUYwU1ZHb05OTmFENjRKM3Z2SXBxb1NVTEtmZHYzQW9VZXU30gHYAUFVX3lxTFBTWV9MMjV1NjFOZHQ5aF9TQW1FaURwQzlmM0lPQ1VzbHJOYThJRWI3dDVzMVhSN21VLXpxYTk4N3RuVFhoakJYbHRxd2hwSVNGRkhhSWlvSllVRE9oSVdoYVV1cFVEemp6NkdPR1JDSy05Y0dNM3JXV2ZxMWZ5NmplRFJYWE9QbTFIYW1Zbkp3ei1uaFEyTDBtbU8yZExKTTFucmI2YnU1OHZVeTdjTkNlTVFidnBsV05kRm40bG5iZk4yQVdBWXk3Y1piVUhlVXFyM2ZFblhxRg?oc=5",
-       "source": "Diario AS",
-       "published": "2026-10-30T13:34+00:00",
-       "flag": "qb"
-      },
-      {
-       "title": "Baltimore Ravens Appear on Track to Get Their Missing Offensive Element Back",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGZITTlKMkFoNEdyOTBkbEpmVGVpSHJMQVdqMnFKYmJuZ1BWUEJtN1VhcFJRUkNRclNjdXR2cEhiX0FpeHdBRWxGa0gxMU5IR1g5ekVaVGNIdFhFT3VFLXNFcGotUEEyNnNnc3prbHZ1dW10Z0VqYzBxb3BLNWJldzExeFNYTkd1TS1mek1GVENmejBFdVN1ZTJtUXo2WFo1MWYyMjlHVk02RGw3SGV4VA?oc=5",
-       "source": "Athlon Sports",
-       "published": "2026-10-30T02:21+00:00",
-       "flag": "injury"
-      },
-      {
-       "title": "Ravens Face $100 Million Injury Problem After First Week 8 Practice",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVVKazFkbGJtYnR1MVN2Sk5FVXJYcW5KNHprT29iSHh1SXc5ODZxczF6MDhuNjA0MEFNUVMxam1GVUI1V2lvNWUtc1NqUDhJNDJpOGF2RXA3M2dyeTh5Q05WUGZJVnlsUi13TTRRZnQwM0FDWTdncnJqVmdtaVRoT2VZeU9Zdw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-10-29T13:46+00:00",
-       "flag": "injury"
       }
      ]
     }
    }
   }
  ],
- "credits_remaining": 339,
+ "credits_remaining": 334,
  "record": {
   "graded": 22,
   "pending": 19,
@@ -5439,6 +5509,12 @@
   }
  },
  "feed": [
+  {
+   "t": "2026-10-30T23:28Z",
+   "kind": "move",
+   "game": "2026_08_ATL_TB",
+   "text": "Falcons @ Buccaneers total moved 44.33 to 43.33."
+  },
   {
    "t": "2026-10-30T14:48Z",
    "kind": "move",
@@ -5792,13 +5868,6 @@
    "kind": "move",
    "game": "2026_06_BUF_LV",
    "text": "Bills @ Raiders total moved 53.67 to 55.83."
-  },
-  {
-   "t": "2026-10-18T23:16Z",
-   "kind": "move",
-   "game": "2026_06_DAL_GB",
-   "text": "Packers moved -0.67 to +0.33 against the Cowboys."
   }
- ],
- "news_checked": "2026-10-30T23:06Z"
+ ]
 }

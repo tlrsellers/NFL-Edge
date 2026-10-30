@@ -2,6 +2,12 @@
  "sent": [],
  "feed": [
   {
+   "t": "2026-10-30T23:28Z",
+   "kind": "move",
+   "game": "2026_08_ATL_TB",
+   "text": "Falcons @ Buccaneers total moved 44.33 to 43.33."
+  },
+  {
    "t": "2026-10-30T14:48Z",
    "kind": "move",
    "game": "2026_08_TEN_CIN",
@@ -354,12 +360,6 @@
    "kind": "move",
    "game": "2026_06_BUF_LV",
    "text": "Bills @ Raiders total moved 53.67 to 55.83."
-  },
-  {
-   "t": "2026-10-18T23:16Z",
-   "kind": "move",
-   "game": "2026_06_DAL_GB",
-   "text": "Packers moved -0.67 to +0.33 against the Cowboys."
   }
  ]
 }
