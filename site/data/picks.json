@@ -1,34 +1,34 @@
 {
  "summary": {
-  "graded": 21,
+  "graded": 22,
   "pending": 19,
   "overall": {
    "wins": 13,
-   "losses": 8,
+   "losses": 9,
    "pushes": 0,
-   "win_pct": 0.619,
-   "units": 3.82,
-   "avg_clv": 0.21,
-   "beat_close": 0.619
+   "win_pct": 0.591,
+   "units": 2.82,
+   "avg_clv": 0.18,
+   "beat_close": 0.591
   },
   "by_tier": {
    "spread:model": {
     "wins": 5,
-    "losses": 4,
+    "losses": 5,
     "pushes": 0,
-    "win_pct": 0.556,
-    "units": 0.55,
-    "avg_clv": 0.4,
-    "beat_close": 0.667
+    "win_pct": 0.5,
+    "units": -0.45,
+    "avg_clv": 0.31,
+    "beat_close": 0.6
    },
    "spread:all": {
     "wins": 5,
-    "losses": 4,
+    "losses": 5,
     "pushes": 0,
-    "win_pct": 0.556,
-    "units": 0.55,
-    "avg_clv": 0.4,
-    "beat_close": 0.667
+    "win_pct": 0.5,
+    "units": -0.45,
+    "avg_clv": 0.31,
+    "beat_close": 0.6
    },
    "total:lean": {
     "wins": 2,
@@ -76,6 +76,15 @@
     "units": -1.64,
     "avg_clv": 0.11,
     "beat_close": 0.6
+   },
+   "8": {
+    "wins": 0,
+    "losses": 1,
+    "pushes": 0,
+    "win_pct": 0.0,
+    "units": -1.0,
+    "avg_clv": -0.5,
+    "beat_close": 0.0
    }
   }
  },
@@ -1315,7 +1324,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -3.5
+   "close": -3.5,
+   "final": {
+    "home": 27,
+    "away": 19
+   },
+   "margin": -5.0,
+   "result": "loss",
+   "clv": -0.5
   },
   "2026_07_CIN_BAL:spread": {
    "game": "2026_07_CIN_BAL",
@@ -1439,7 +1455,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -11.33
+   "close": -12.33
   },
   "2026_08_ARI_DAL:spread": {
    "game": "2026_08_ARI_DAL",
@@ -2331,7 +2347,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.0
+   "close": 44.33
   },
   "2026_08_NE_MIA:total": {
    "game": "2026_08_NE_MIA",
@@ -2447,6 +2463,63 @@
     "news_injury": true
    },
    "close": -3.0
+  },
+  "2026_08_IND_JAX:spread": {
+   "game": "2026_08_IND_JAX",
+   "week": 8,
+   "start": "2026-11-01T18:00Z",
+   "home": "Jaguars",
+   "away": "Colts",
+   "bet": "spread",
+   "side": "Colts",
+   "line": 10.5,
+   "book": "fanduel",
+   "edge": 3.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-30T14:48Z",
+   "projection": {
+    "home": 26.8,
+    "away": 19.4,
+    "total": 46.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 16.0,
+    "side_is_home": false,
+    "moved_against": 2.7,
+    "note": null,
+    "factors": [
+     {
+      "label": "Jaguars defense",
+      "points": -2.9
+     },
+     {
+      "label": "Jaguars offense",
+      "points": -2.3
+     },
+     {
+      "label": "Colts defense",
+      "points": -1.6
+     },
+     {
+      "label": "Colts offense",
+      "points": -0.8
+     },
+     {
+      "label": "Home field",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Jaguars."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -10.17
   }
  }
 }
