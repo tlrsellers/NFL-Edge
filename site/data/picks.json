@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 22,
-  "pending": 19,
+  "pending": 26,
   "overall": {
    "wins": 13,
    "losses": 9,
@@ -1679,7 +1679,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 39.0
+   "close": 38.67
   },
   "2026_08_LAC_LA:total": {
    "game": "2026_08_LAC_LA",
@@ -1733,7 +1733,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 45.33
+   "close": 45.5
   },
   "2026_08_NE_MIA:spread": {
    "game": "2026_08_NE_MIA",
@@ -2521,6 +2521,404 @@
     "news_injury": true
    },
    "close": -10.17
+  },
+  "2026_09_NYJ_KC:spread": {
+   "game": "2026_09_NYJ_KC",
+   "week": 9,
+   "start": "2026-11-08T18:00Z",
+   "home": "Chiefs",
+   "away": "Jets",
+   "bet": "spread",
+   "side": "Jets",
+   "line": 9.5,
+   "book": "draftkings",
+   "edge": 6.5,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.51,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 23.6,
+    "away": 20.6,
+    "total": 44.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Chiefs defense",
+      "points": -1.4
+     },
+     {
+      "label": "Jets offense",
+      "points": -1.1
+     },
+     {
+      "label": "Chiefs offense",
+      "points": -1.1
+     },
+     {
+      "label": "Jets defense",
+      "points": 0.4
+     },
+     {
+      "label": "Home field",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Chiefs. Read them below before betting.",
+     "Recent headlines mention an injury or absence for the Jets."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -9.5
+  },
+  "2026_09_DET_MIA:spread": {
+   "game": "2026_09_DET_MIA",
+   "week": 9,
+   "start": "2026-11-08T18:00Z",
+   "home": "Dolphins",
+   "away": "Lions",
+   "bet": "spread",
+   "side": "Dolphins",
+   "line": 8.5,
+   "book": "fanduel",
+   "edge": 4.2,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 23.1,
+    "away": 27.4,
+    "total": 50.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Lions offense",
+      "points": -2.2
+     },
+     {
+      "label": "Dolphins defense",
+      "points": -2.1
+     },
+     {
+      "label": "Lions defense",
+      "points": 1.7
+     },
+     {
+      "label": "Dolphins offense",
+      "points": -1.6
+     },
+     {
+      "label": "Home field",
+      "points": -0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Dolphins. Read them below before betting.",
+     "Recent headlines mention an injury or absence for the Lions."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 7.75
+  },
+  "2026_09_CLE_NO:spread": {
+   "game": "2026_09_CLE_NO",
+   "week": 9,
+   "start": "2026-11-08T18:00Z",
+   "home": "Saints",
+   "away": "Browns",
+   "bet": "spread",
+   "side": "Browns",
+   "line": 2.5,
+   "book": "draftkings",
+   "edge": 3.0,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 22.0,
+    "away": 22.5,
+    "total": 44.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Browns offense",
+      "points": -2.4
+     },
+     {
+      "label": "Saints defense",
+      "points": 1.9
+     },
+     {
+      "label": "Browns defense",
+      "points": 0.7
+     },
+     {
+      "label": "Saints offense",
+      "points": 0.3
+     },
+     {
+      "label": "Home field",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Browns."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -2.5
+  },
+  "2026_09_NYG_PHI:total": {
+   "game": "2026_09_NYG_PHI",
+   "week": 9,
+   "start": "2026-11-08T18:00Z",
+   "home": "Eagles",
+   "away": "Giants",
+   "bet": "total",
+   "side": "Over",
+   "line": 39.5,
+   "book": "fanduel",
+   "edge": 5.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.508,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 21.2,
+    "away": 23.5,
+    "total": 44.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Eagles offense",
+      "points": -2.3
+     },
+     {
+      "label": "Eagles defense",
+      "points": 1.2
+     },
+     {
+      "label": "Giants offense",
+      "points": -0.7
+     },
+     {
+      "label": "Giants defense",
+      "points": 0.6
+     }
+    ],
+    "risks": [
+     "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
+     "The Giants' most recent starter, J.McCarthy, isn't the QB who played most of the season (J.Winston). The grades still mostly reflect J.Winston.",
+     "Recent headlines mention an injury or absence for the Eagles."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 40.0
+  },
+  "2026_09_LV_SF:spread": {
+   "game": "2026_09_LV_SF",
+   "week": 9,
+   "start": "2026-11-08T21:05Z",
+   "home": "49ers",
+   "away": "Raiders",
+   "bet": "spread",
+   "side": "Raiders",
+   "line": 10.5,
+   "book": "fanduel",
+   "edge": 4.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 28.5,
+    "away": 22.6,
+    "total": 51.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "49ers offense",
+      "points": -3.1
+     },
+     {
+      "label": "Raiders defense",
+      "points": -2.4
+     },
+     {
+      "label": "49ers defense",
+      "points": -1.0
+     },
+     {
+      "label": "Raiders offense",
+      "points": 0.5
+     },
+     {
+      "label": "Home field",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Raiders.",
+     "Recent headlines mention an injury or absence for the 49ers."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -10.25
+  },
+  "2026_09_GB_NE:total": {
+   "game": "2026_09_GB_NE",
+   "week": 9,
+   "start": "2026-11-08T21:25Z",
+   "home": "Patriots",
+   "away": "Packers",
+   "bet": "total",
+   "side": "Under",
+   "line": 47.5,
+   "book": "draftkings",
+   "edge": 3.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 22.0,
+    "away": 21.8,
+    "total": 43.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Packers defense",
+      "points": 1.9
+     },
+     {
+      "label": "Patriots defense",
+      "points": 1.1
+     },
+     {
+      "label": "Patriots offense",
+      "points": -0.8
+     },
+     {
+      "label": "Packers offense",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Packers.",
+     "Recent headlines mention an injury or absence for the Patriots."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 47.5
+  },
+  "2026_09_ARI_SEA:spread": {
+   "game": "2026_09_ARI_SEA",
+   "week": 9,
+   "start": "2026-11-08T21:25Z",
+   "home": "Seahawks",
+   "away": "Cardinals",
+   "bet": "spread",
+   "side": "Cardinals",
+   "line": 11.5,
+   "book": "fanduel",
+   "edge": 5.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.508,
+   "called": "2026-10-31T23:27Z",
+   "projection": {
+    "home": 25.4,
+    "away": 19.0,
+    "total": 44.4
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Seahawks defense",
+      "points": -2.9
+     },
+     {
+      "label": "Cardinals defense",
+      "points": -2.5
+     },
+     {
+      "label": "Cardinals offense",
+      "points": -1.2
+     },
+     {
+      "label": "Home field",
+      "points": 0.1
+     },
+     {
+      "label": "Seahawks offense",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Cardinals.",
+     "Recent headlines mention an injury or absence for the Seahawks."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -11.0
   }
  }
 }
