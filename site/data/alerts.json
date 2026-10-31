@@ -1,6 +1,23 @@
 {
- "sent": [],
+ "sent": [
+  "2026_08_IND_JAX:total:Under",
+  "2026_08_NE_MIA:total:Under"
+ ],
  "feed": [
+  {
+   "t": "2026-10-31T14:28Z",
+   "kind": "lock",
+   "game": "2026_08_IND_JAX",
+   "url": null,
+   "text": "LOCK: Under 46.5 at DraftKings (Colts @ Jaguars), wind 16 mph."
+  },
+  {
+   "t": "2026-10-31T14:28Z",
+   "kind": "lock",
+   "game": "2026_08_NE_MIA",
+   "url": null,
+   "text": "LOCK: Under 43.5 at DraftKings (Patriots @ Dolphins), wind 15 mph."
+  },
   {
    "t": "2026-10-30T23:28Z",
    "kind": "move",
@@ -348,18 +365,6 @@
    "kind": "move",
    "game": "2026_06_LAC_KC",
    "text": "Chargers @ Chiefs total moved 41.5 to 28.5."
-  },
-  {
-   "t": "2026-10-18T23:16Z",
-   "kind": "move",
-   "game": "2026_06_BUF_LV",
-   "text": "Raiders moved +5.33 to +7.5 against the Bills."
-  },
-  {
-   "t": "2026-10-18T23:16Z",
-   "kind": "move",
-   "game": "2026_06_BUF_LV",
-   "text": "Bills @ Raiders total moved 53.67 to 55.83."
   }
  ]
 }

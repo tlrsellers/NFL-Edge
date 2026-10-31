@@ -1679,7 +1679,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 39.33
+   "close": 39.0
   },
   "2026_08_LAC_LA:total": {
    "game": "2026_08_LAC_LA",
@@ -1791,7 +1791,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 6.83
+   "close": 7.0
   },
   "2026_07_GB_DET:spread": {
    "game": "2026_07_GB_DET",
@@ -2087,22 +2087,22 @@
    "line": 46.5,
    "book": "draftkings",
    "edge": 0.3,
-   "tier": "strong",
+   "tier": "lock",
    "pattern": "wind15",
    "cover": 0.57,
-   "called": "2026-10-28T14:46Z",
+   "called": "2026-10-31T14:28Z",
    "projection": {
     "home": 26.8,
-    "away": 19.5,
+    "away": 19.4,
     "total": 46.2
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 15.0,
+    "wind": 16.0,
     "side_is_home": null,
     "moved_against": -1.0,
-    "note": "Wind forecast of 15 mph, but kickoff is 99 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
+    "note": null,
     "factors": [
      {
       "label": "Jaguars defense",
@@ -2123,8 +2123,9 @@
     ],
     "risks": [
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "57% chance of rain, which also tends to slow scoring.",
-     "Recent headlines mention an injury or absence for the Colts."
+     "54% chance of rain, which also tends to slow scoring.",
+     "Recent headlines mention an injury or absence for the Colts.",
+     "Recent headlines mention an injury or absence for the Jaguars."
     ],
     "news_qb": false,
     "news_injury": true
@@ -2357,29 +2358,29 @@
    "away": "Patriots",
    "bet": "total",
    "side": "Under",
-   "line": 44.5,
-   "book": "fanduel",
-   "edge": -1.8,
-   "tier": "lean",
-   "pattern": "wind10",
-   "cover": 0.538,
-   "called": "2026-10-28T23:28Z",
+   "line": 43.5,
+   "book": "draftkings",
+   "edge": -2.8,
+   "tier": "lock",
+   "pattern": "wind15",
+   "cover": 0.57,
+   "called": "2026-10-31T14:28Z",
    "projection": {
     "home": 20.3,
-    "away": 26.0,
+    "away": 25.9,
     "total": 46.3
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 12.0,
+    "wind": 15.0,
     "side_is_home": null,
-    "moved_against": 0.0,
+    "moved_against": -0.7,
     "note": null,
     "factors": [
      {
       "label": "Dolphins defense",
-      "points": -2.1
+      "points": -2.0
      },
      {
       "label": "Dolphins offense",
@@ -2395,12 +2396,12 @@
      }
     ],
     "risks": [
+     "Recent headlines mention a quarterback issue for the Patriots. Read them below before betting.",
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "75% chance of rain, which also tends to slow scoring.",
-     "Recent headlines mention an injury or absence for the Patriots.",
+     "67% chance of rain, which also tends to slow scoring.",
      "Recent headlines mention an injury or absence for the Dolphins."
     ],
-    "news_qb": false,
+    "news_qb": true,
     "news_injury": true
    },
    "close": 43.33
@@ -2462,7 +2463,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -3.0
+   "close": -2.75
   },
   "2026_08_IND_JAX:spread": {
    "game": "2026_08_IND_JAX",
