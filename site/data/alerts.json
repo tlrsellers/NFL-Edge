@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-01T14:29Z",
+   "kind": "move",
+   "game": "2026_08_LV_NYJ",
+   "text": "Raiders @ Jets total moved 45.5 to 46.5."
+  },
+  {
+   "t": "2026-11-01T14:29Z",
+   "kind": "move",
+   "game": "2026_08_NE_MIA",
+   "text": "Patriots @ Dolphins total moved 43.33 to 41.67."
+  },
+  {
    "t": "2026-10-31T14:28Z",
    "kind": "lock",
    "game": "2026_08_IND_JAX",
@@ -353,18 +365,6 @@
    "kind": "move",
    "game": "2026_07_KC_SEA",
    "text": "Chiefs @ Seahawks total moved 43 to 42."
-  },
-  {
-   "t": "2026-10-18T23:16Z",
-   "kind": "move",
-   "game": "2026_06_LAC_KC",
-   "text": "Chiefs moved -7.5 to -15.5 against the Chargers."
-  },
-  {
-   "t": "2026-10-18T23:16Z",
-   "kind": "move",
-   "game": "2026_06_LAC_KC",
-   "text": "Chargers @ Chiefs total moved 41.5 to 28.5."
   }
  ]
 }
