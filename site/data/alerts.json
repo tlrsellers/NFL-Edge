@@ -5,6 +5,42 @@
  ],
  "feed": [
   {
+   "t": "2026-11-02T14:53Z",
+   "kind": "move",
+   "game": "2026_09_JAX_BAL",
+   "text": "Ravens moved +7.5 to +8.5 against the Jaguars."
+  },
+  {
+   "t": "2026-11-02T14:53Z",
+   "kind": "move",
+   "game": "2026_09_CIN_ATL",
+   "text": "Bengals @ Falcons total moved 50 to 51.5."
+  },
+  {
+   "t": "2026-11-02T14:53Z",
+   "kind": "move",
+   "game": "2026_09_DEN_CAR",
+   "text": "Broncos @ Panthers total moved 44.5 to 43.5."
+  },
+  {
+   "t": "2026-11-02T14:53Z",
+   "kind": "move",
+   "game": "2026_09_LA_WAS",
+   "text": "Rams @ Commanders total moved 48.5 to 47.5."
+  },
+  {
+   "t": "2026-11-02T14:53Z",
+   "kind": "move",
+   "game": "2026_09_HOU_LAC",
+   "text": "Chargers moved +3.5 to +5 against the Texans."
+  },
+  {
+   "t": "2026-11-02T14:53Z",
+   "kind": "move",
+   "game": "2026_09_HOU_LAC",
+   "text": "Texans @ Chargers total moved 42.5 to 41.5."
+  },
+  {
    "t": "2026-11-01T23:28Z",
    "kind": "move",
    "game": "2026_08_LAC_LA",
@@ -329,42 +365,6 @@
    "kind": "move",
    "game": "2026_08_TEN_CIN",
    "text": "Titans @ Bengals total moved 46 to 47."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_08_IND_JAX",
-   "text": "Colts @ Jaguars total moved 47.5 to 46.5."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_08_CLE_PIT",
-   "text": "Steelers moved -4.5 to -3.5 against the Browns."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_08_CLE_PIT",
-   "text": "Browns @ Steelers total moved 38.5 to 39.5."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_08_NE_MIA",
-   "text": "Dolphins moved +8.5 to +7.5 against the Patriots."
-  },
-  {
-   "t": "2026-10-25T19:11Z",
-   "kind": "move",
-   "game": "2026_07_SF_ATL",
-   "text": "Falcons moved +2.5 to -7.5 against the 49ers."
-  },
-  {
-   "t": "2026-10-25T19:11Z",
-   "kind": "move",
-   "game": "2026_07_SF_ATL",
-   "text": "49ers @ Falcons total moved 50 to 53.5."
   }
  ]
 }
