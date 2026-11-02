@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 38,
-  "pending": 17,
+  "pending": 18,
   "overall": {
    "wins": 21,
    "losses": 17,
@@ -2277,7 +2277,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -3.0
+   "close": -3.33
   },
   "2026_08_CHI_SEA:total": {
    "game": "2026_08_CHI_SEA",
@@ -2699,7 +2699,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -9.83
+   "close": -9.5
   },
   "2026_09_DET_MIA:spread": {
    "game": "2026_09_DET_MIA",
@@ -2814,7 +2814,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.83
+   "close": -2.5
   },
   "2026_09_NYG_PHI:total": {
    "game": "2026_09_NYG_PHI",
@@ -2927,7 +2927,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.5
+   "close": -9.83
   },
   "2026_09_GB_NE:total": {
    "game": "2026_09_GB_NE",
@@ -2981,7 +2981,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.5
+   "close": 47.0
   },
   "2026_09_ARI_SEA:spread": {
    "game": "2026_09_ARI_SEA",
@@ -3039,7 +3039,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -11.0
+   "close": -11.5
   },
   "2026_09_TB_CHI:spread": {
    "game": "2026_09_TB_CHI",
@@ -3097,7 +3097,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -5.5
+   "close": -5.0
   },
   "2026_09_TB_CHI:total": {
    "game": "2026_09_TB_CHI",
@@ -3204,7 +3204,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.5
+   "close": 43.0
   },
   "2026_09_CIN_ATL:total": {
    "game": "2026_09_CIN_ATL",
@@ -3257,7 +3257,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 51.5
+   "close": 52.0
   },
   "2026_09_DAL_IND:spread": {
    "game": "2026_09_DAL_IND",
@@ -3314,7 +3314,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 5.67
+   "close": 5.83
   },
   "2026_09_DEN_CAR:total": {
    "game": "2026_09_DEN_CAR",
@@ -3423,6 +3423,64 @@
     "news_injury": true
    },
    "close": 46.33
+  },
+  "2026_09_BUF_MIN:spread": {
+   "game": "2026_09_BUF_MIN",
+   "week": 9,
+   "start": "2026-11-10T01:15Z",
+   "home": "Vikings",
+   "away": "Bills",
+   "bet": "spread",
+   "side": "Vikings",
+   "line": 3.5,
+   "book": "draftkings",
+   "edge": 3.2,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-02T23:00Z",
+   "projection": {
+    "home": 22.4,
+    "away": 22.7,
+    "total": 45.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.3,
+    "note": null,
+    "factors": [
+     {
+      "label": "Vikings defense",
+      "points": 4.1
+     },
+     {
+      "label": "Bills offense",
+      "points": -4.1
+     },
+     {
+      "label": "Vikings offense",
+      "points": -1.8
+     },
+     {
+      "label": "Bills defense",
+      "points": 0.9
+     },
+     {
+      "label": "Home field",
+      "points": 0.6
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Vikings. Read them below before betting.",
+     "Recent headlines mention a quarterback issue for the Bills. Read them below before betting."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 3.17
   }
  }
 }
