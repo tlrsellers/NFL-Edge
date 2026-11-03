@@ -1,34 +1,34 @@
 {
  "summary": {
-  "graded": 38,
-  "pending": 18,
+  "graded": 40,
+  "pending": 16,
   "overall": {
-   "wins": 21,
-   "losses": 17,
+   "wins": 22,
+   "losses": 18,
    "pushes": 0,
-   "win_pct": 0.553,
-   "units": 2.09,
-   "avg_clv": 0.26,
-   "beat_close": 0.579
+   "win_pct": 0.55,
+   "units": 2.0,
+   "avg_clv": 0.24,
+   "beat_close": 0.55
   },
   "by_tier": {
    "spread:model": {
-    "wins": 8,
+    "wins": 9,
     "losses": 8,
     "pushes": 0,
-    "win_pct": 0.5,
-    "units": -0.73,
-    "avg_clv": -0.09,
-    "beat_close": 0.5
+    "win_pct": 0.529,
+    "units": 0.18,
+    "avg_clv": -0.11,
+    "beat_close": 0.471
    },
    "spread:all": {
-    "wins": 8,
+    "wins": 9,
     "losses": 8,
     "pushes": 0,
-    "win_pct": 0.5,
-    "units": -0.73,
-    "avg_clv": -0.09,
-    "beat_close": 0.5
+    "win_pct": 0.529,
+    "units": 0.18,
+    "avg_clv": -0.11,
+    "beat_close": 0.471
    },
    "total:lean": {
     "wins": 3,
@@ -41,21 +41,21 @@
    },
    "total:all": {
     "wins": 13,
-    "losses": 9,
+    "losses": 10,
     "pushes": 0,
-    "win_pct": 0.591,
-    "units": 2.82,
-    "avg_clv": 0.52,
-    "beat_close": 0.636
+    "win_pct": 0.565,
+    "units": 1.82,
+    "avg_clv": 0.5,
+    "beat_close": 0.609
    },
    "total:model": {
     "wins": 9,
-    "losses": 7,
+    "losses": 8,
     "pushes": 0,
-    "win_pct": 0.562,
-    "units": 1.18,
-    "avg_clv": 0.38,
-    "beat_close": 0.625
+    "win_pct": 0.529,
+    "units": 0.18,
+    "avg_clv": 0.35,
+    "beat_close": 0.588
    },
    "total:lock": {
     "wins": 1,
@@ -87,13 +87,13 @@
     "beat_close": 0.6
    },
    "8": {
-    "wins": 8,
-    "losses": 9,
+    "wins": 9,
+    "losses": 10,
     "pushes": 0,
-    "win_pct": 0.471,
-    "units": -1.73,
-    "avg_clv": 0.32,
-    "beat_close": 0.529
+    "win_pct": 0.474,
+    "units": -1.82,
+    "avg_clv": 0.27,
+    "beat_close": 0.474
    }
   }
  },
@@ -2277,7 +2277,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -3.33
+   "close": -3.33,
+   "final": {
+    "home": 17,
+    "away": 34
+   },
+   "margin": 20.0,
+   "result": "win",
+   "clv": -0.3
   },
   "2026_08_CHI_SEA:total": {
    "game": "2026_08_CHI_SEA",
@@ -2331,7 +2338,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 46.5
+   "close": 46.5,
+   "final": {
+    "home": 17,
+    "away": 34
+   },
+   "margin": -4.5,
+   "result": "loss",
+   "clv": 0.0
   },
   "2026_08_KC_DEN:total": {
    "game": "2026_08_KC_DEN",
