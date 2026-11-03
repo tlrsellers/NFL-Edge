@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-03T14:49Z",
+   "kind": "move",
+   "game": "2026_09_JAX_BAL",
+   "text": "Jaguars @ Ravens total moved 43 to 42."
+  },
+  {
+   "t": "2026-11-03T14:49Z",
+   "kind": "move",
+   "game": "2026_09_TB_CHI",
+   "text": "Bears moved -5 to -6.17 against the Buccaneers."
+  },
+  {
    "t": "2026-11-02T14:53Z",
    "kind": "move",
    "game": "2026_09_JAX_BAL",
@@ -353,18 +365,6 @@
    "kind": "move",
    "game": "2026_07_LA_LV",
    "text": "Raiders moved +3.33 to +16.5 against the Rams."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_07_LA_LV",
-   "text": "Rams @ Raiders total moved 48.67 to 58.5."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_08_TEN_CIN",
-   "text": "Titans @ Bengals total moved 46 to 47."
   }
  ]
 }
