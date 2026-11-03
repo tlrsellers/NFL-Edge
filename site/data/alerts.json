@@ -5,6 +5,36 @@
  ],
  "feed": [
   {
+   "t": "2026-11-03T23:33Z",
+   "kind": "move",
+   "game": "2026_09_JAX_BAL",
+   "text": "Jaguars @ Ravens total moved 42 to 40.33."
+  },
+  {
+   "t": "2026-11-03T23:33Z",
+   "kind": "move",
+   "game": "2026_09_CLE_NO",
+   "text": "Saints moved -2.5 to -1.33 against the Browns."
+  },
+  {
+   "t": "2026-11-03T23:33Z",
+   "kind": "move",
+   "game": "2026_09_LV_SF",
+   "text": "Raiders @ 49ers total moved 51.5 to 52.67."
+  },
+  {
+   "t": "2026-11-03T23:33Z",
+   "kind": "move",
+   "game": "2026_09_ARI_SEA",
+   "text": "Seahawks moved -10.67 to -11.67 against the Cardinals."
+  },
+  {
+   "t": "2026-11-03T23:33Z",
+   "kind": "move",
+   "game": "2026_09_ARI_SEA",
+   "text": "Cardinals @ Seahawks total moved 43.67 to 42."
+  },
+  {
    "t": "2026-11-03T14:49Z",
    "kind": "move",
    "game": "2026_09_JAX_BAL",
@@ -335,36 +365,6 @@
    "kind": "move",
    "game": "2026_08_LAC_LA",
    "text": "Chargers @ Rams total moved 45.5 to 43.5."
-  },
-  {
-   "t": "2026-10-26T15:32Z",
-   "kind": "move",
-   "game": "2026_08_KC_DEN",
-   "text": "Chiefs @ Broncos total moved 42.5 to 41.5."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_07_DEN_ARI",
-   "text": "Cardinals moved +4.5 to +13.5 against the Broncos."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_07_DEN_ARI",
-   "text": "Broncos @ Cardinals total moved 43.83 to 46.5."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_07_GB_DET",
-   "text": "Packers @ Lions total moved 55.5 to 40.5."
-  },
-  {
-   "t": "2026-10-25T23:18Z",
-   "kind": "move",
-   "game": "2026_07_LA_LV",
-   "text": "Raiders moved +3.33 to +16.5 against the Rams."
   }
  ]
 }
