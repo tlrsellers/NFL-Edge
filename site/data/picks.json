@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 40,
-  "pending": 17,
+  "pending": 18,
   "overall": {
    "wins": 22,
    "losses": 18,
@@ -2591,7 +2591,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 9.67
+   "close": 9.83
   },
   "2026_08_IND_JAX:spread": {
    "game": "2026_08_IND_JAX",
@@ -2828,7 +2828,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -1.33
+   "close": -3.0
   },
   "2026_09_NYG_PHI:total": {
    "game": "2026_09_NYG_PHI",
@@ -2837,47 +2837,49 @@
    "home": "Eagles",
    "away": "Giants",
    "bet": "total",
-   "side": "Over",
+   "side": "Under",
    "line": 39.5,
-   "book": "fanduel",
-   "edge": 5.3,
-   "tier": "model",
-   "pattern": null,
-   "cover": 0.508,
-   "called": "2026-10-31T23:27Z",
+   "book": "draftkings",
+   "edge": -4.8,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-04T14:51Z",
    "projection": {
-    "home": 21.2,
-    "away": 23.5,
-    "total": 44.8
+    "home": 21.0,
+    "away": 23.2,
+    "total": 44.3
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": null,
+    "wind": 10.0,
     "side_is_home": null,
-    "moved_against": 0.0,
+    "moved_against": -0.5,
     "note": null,
     "factors": [
      {
       "label": "Eagles offense",
-      "points": -2.3
+      "points": 2.8
      },
      {
       "label": "Eagles defense",
-      "points": 1.2
+      "points": -1.1
      },
      {
       "label": "Giants offense",
-      "points": -0.7
+      "points": 0.7
      },
      {
       "label": "Giants defense",
-      "points": 0.6
+      "points": -0.6
      }
     ],
     "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
      "The Eagles' most recent starter, T.McKee, isn't the QB who played most of the season (J.Hurts). The grades still mostly reflect J.Hurts.",
      "The Giants' most recent starter, J.McCarthy, isn't the QB who played most of the season (J.Winston). The grades still mostly reflect J.Winston.",
+     "Recent headlines mention an injury or absence for the Giants.",
      "Recent headlines mention an injury or absence for the Eagles."
     ],
     "news_qb": false,
@@ -3053,7 +3055,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -11.67
+   "close": -12.17
   },
   "2026_09_TB_CHI:spread": {
    "game": "2026_09_TB_CHI",
@@ -3111,7 +3113,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -6.17
+   "close": -6.33
   },
   "2026_09_TB_CHI:total": {
    "game": "2026_09_TB_CHI",
@@ -3166,7 +3168,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 46.5
+   "close": 47.33
   },
   "2026_09_JAX_BAL:total": {
    "game": "2026_09_JAX_BAL",
@@ -3219,7 +3221,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 40.33
+   "close": 40.0
   },
   "2026_09_CIN_ATL:total": {
    "game": "2026_09_CIN_ATL",
@@ -3437,7 +3439,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 46.67
+   "close": 47.5
   },
   "2026_09_BUF_MIN:spread": {
    "game": "2026_09_BUF_MIN",
@@ -3550,7 +3552,62 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.0
+   "close": 41.5
+  },
+  "2026_09_LA_WAS:total": {
+   "game": "2026_09_LA_WAS",
+   "week": 9,
+   "start": "2026-11-08T18:00Z",
+   "home": "Commanders",
+   "away": "Rams",
+   "bet": "total",
+   "side": "Under",
+   "line": 47.5,
+   "book": "draftkings",
+   "edge": 1.7,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-04T14:51Z",
+   "projection": {
+    "home": 20.7,
+    "away": 25.1,
+    "total": 45.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 10.0,
+    "side_is_home": null,
+    "moved_against": -1.2,
+    "note": null,
+    "factors": [
+     {
+      "label": "Rams defense",
+      "points": 1.7
+     },
+     {
+      "label": "Commanders defense",
+      "points": -1.5
+     },
+     {
+      "label": "Commanders offense",
+      "points": 0.9
+     },
+     {
+      "label": "Rams offense",
+      "points": -0.8
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "Recent headlines mention an injury or absence for the Rams.",
+     "Recent headlines mention an injury or absence for the Commanders."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 47.33
   }
  }
 }
