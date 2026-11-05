@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-05T23:13Z",
+   "kind": "move",
+   "game": "2026_09_HOU_LAC",
+   "text": "Chargers moved +4.67 to +5.83 against the Texans."
+  },
+  {
+   "t": "2026-11-05T23:13Z",
+   "kind": "move",
+   "game": "2026_09_LV_SF",
+   "text": "Raiders @ 49ers total moved 52.67 to 51.67."
+  },
+  {
    "t": "2026-11-04T23:37Z",
    "kind": "move",
    "game": "2026_09_ARI_SEA",
@@ -353,18 +365,6 @@
    "kind": "move",
    "game": "2026_08_LV_NYJ",
    "text": "Jets moved +0.33 to -1.33 against the Raiders."
-  },
-  {
-   "t": "2026-10-26T15:32Z",
-   "kind": "move",
-   "game": "2026_08_ARI_DAL",
-   "text": "Cardinals @ Cowboys total moved 51.5 to 53.5."
-  },
-  {
-   "t": "2026-10-26T15:32Z",
-   "kind": "move",
-   "game": "2026_08_LV_NYJ",
-   "text": "Raiders @ Jets total moved 43 to 44.5."
   }
  ]
 }
