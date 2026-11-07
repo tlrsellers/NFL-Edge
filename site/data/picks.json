@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 42,
-  "pending": 16,
+  "pending": 17,
   "overall": {
    "wins": 23,
    "losses": 19,
@@ -2729,7 +2729,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -9.5
+   "close": -8.83
   },
   "2026_09_DET_MIA:spread": {
    "game": "2026_09_DET_MIA",
@@ -2959,7 +2959,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.83
+   "close": -9.67
   },
   "2026_09_GB_NE:total": {
    "game": "2026_09_GB_NE",
@@ -3354,7 +3354,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 5.33
+   "close": 4.67
   },
   "2026_09_DEN_CAR:total": {
    "game": "2026_09_DEN_CAR",
@@ -3462,7 +3462,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.0
+   "close": 47.67
   },
   "2026_09_BUF_MIN:spread": {
    "game": "2026_09_BUF_MIN",
@@ -3631,6 +3631,60 @@
     "news_injury": true
    },
    "close": 47.67
+  },
+  "2026_10_NE_DET:spread": {
+   "game": "2026_10_NE_DET",
+   "week": 10,
+   "start": "2026-11-15T14:30Z",
+   "home": "Lions",
+   "away": "Patriots",
+   "bet": "spread",
+   "side": "Patriots",
+   "line": 1.5,
+   "book": "fanduel",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-07T14:35Z",
+   "projection": {
+    "home": 23.8,
+    "away": 25.6,
+    "total": 49.4
+   },
+   "features": {
+    "neutral": true,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Lions offense",
+      "points": -2.2
+     },
+     {
+      "label": "Patriots defense",
+      "points": 1.5
+     },
+     {
+      "label": "Lions defense",
+      "points": 1.3
+     },
+     {
+      "label": "Patriots offense",
+      "points": 1.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Patriots.",
+     "Recent headlines mention an injury or absence for the Lions."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 0.0
   }
  }
 }
