@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 42,
-  "pending": 23,
+  "graded": 43,
+  "pending": 22,
   "overall": {
    "wins": 23,
-   "losses": 19,
+   "losses": 20,
    "pushes": 0,
-   "win_pct": 0.548,
-   "units": 1.91,
-   "avg_clv": 0.44,
-   "beat_close": 0.548
+   "win_pct": 0.535,
+   "units": 0.91,
+   "avg_clv": 0.38,
+   "beat_close": 0.535
   },
   "by_tier": {
    "spread:model": {
@@ -41,21 +41,21 @@
    },
    "total:all": {
     "wins": 13,
-    "losses": 11,
+    "losses": 12,
     "pushes": 0,
-    "win_pct": 0.542,
-    "units": 0.82,
-    "avg_clv": 0.32,
-    "beat_close": 0.583
+    "win_pct": 0.52,
+    "units": -0.18,
+    "avg_clv": 0.22,
+    "beat_close": 0.56
    },
    "total:model": {
     "wins": 9,
-    "losses": 9,
+    "losses": 10,
     "pushes": 0,
-    "win_pct": 0.5,
-    "units": -0.82,
-    "avg_clv": 0.12,
-    "beat_close": 0.556
+    "win_pct": 0.474,
+    "units": -1.82,
+    "avg_clv": 0.0,
+    "beat_close": 0.526
    },
    "total:lock": {
     "wins": 1,
@@ -97,12 +97,12 @@
    },
    "9": {
     "wins": 1,
-    "losses": 1,
+    "losses": 2,
     "pushes": 0,
-    "win_pct": 0.5,
-    "units": -0.09,
-    "avg_clv": 4.45,
-    "beat_close": 0.5
+    "win_pct": 0.333,
+    "units": -1.09,
+    "avg_clv": 2.23,
+    "beat_close": 0.333
    }
   }
  },
@@ -2959,7 +2959,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.5
+   "close": -9.0
   },
   "2026_09_GB_NE:total": {
    "game": "2026_09_GB_NE",
@@ -3185,7 +3185,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.67
+   "close": 47.5
   },
   "2026_09_JAX_BAL:total": {
    "game": "2026_09_JAX_BAL",
@@ -3298,7 +3298,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 52.67
+   "close": 52.67,
+   "final": {
+    "home": 17,
+    "away": 34
+   },
+   "margin": -0.5,
+   "result": "loss",
+   "clv": -2.2
   },
   "2026_09_DAL_IND:spread": {
    "game": "2026_09_DAL_IND",
@@ -3576,7 +3583,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.5
+   "close": 39.67
   },
   "2026_09_LA_WAS:total": {
    "game": "2026_09_LA_WAS",
