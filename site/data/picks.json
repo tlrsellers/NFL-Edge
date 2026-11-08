@@ -1,61 +1,61 @@
 {
  "summary": {
-  "graded": 43,
-  "pending": 22,
+  "graded": 51,
+  "pending": 16,
   "overall": {
-   "wins": 23,
-   "losses": 20,
+   "wins": 28,
+   "losses": 23,
    "pushes": 0,
-   "win_pct": 0.535,
-   "units": 0.91,
-   "avg_clv": 0.38,
-   "beat_close": 0.535
+   "win_pct": 0.549,
+   "units": 2.45,
+   "avg_clv": 0.39,
+   "beat_close": 0.549
   },
   "by_tier": {
    "spread:model": {
-    "wins": 10,
-    "losses": 8,
-    "pushes": 0,
-    "win_pct": 0.556,
-    "units": 1.09,
-    "avg_clv": 0.61,
-    "beat_close": 0.5
-   },
-   "spread:all": {
-    "wins": 10,
-    "losses": 8,
-    "pushes": 0,
-    "win_pct": 0.556,
-    "units": 1.09,
-    "avg_clv": 0.61,
-    "beat_close": 0.5
-   },
-   "total:lean": {
-    "wins": 3,
-    "losses": 1,
-    "pushes": 0,
-    "win_pct": 0.75,
-    "units": 1.73,
-    "avg_clv": 0.75,
-    "beat_close": 0.5
-   },
-   "total:all": {
-    "wins": 13,
-    "losses": 12,
-    "pushes": 0,
-    "win_pct": 0.52,
-    "units": -0.18,
-    "avg_clv": 0.22,
-    "beat_close": 0.56
-   },
-   "total:model": {
-    "wins": 9,
+    "wins": 12,
     "losses": 10,
     "pushes": 0,
-    "win_pct": 0.474,
-    "units": -1.82,
-    "avg_clv": 0.0,
-    "beat_close": 0.526
+    "win_pct": 0.545,
+    "units": 0.91,
+    "avg_clv": 0.6,
+    "beat_close": 0.545
+   },
+   "spread:all": {
+    "wins": 12,
+    "losses": 10,
+    "pushes": 0,
+    "win_pct": 0.545,
+    "units": 0.91,
+    "avg_clv": 0.6,
+    "beat_close": 0.545
+   },
+   "total:lean": {
+    "wins": 5,
+    "losses": 2,
+    "pushes": 0,
+    "win_pct": 0.714,
+    "units": 2.55,
+    "avg_clv": 0.44,
+    "beat_close": 0.429
+   },
+   "total:all": {
+    "wins": 16,
+    "losses": 13,
+    "pushes": 0,
+    "win_pct": 0.552,
+    "units": 1.55,
+    "avg_clv": 0.23,
+    "beat_close": 0.552
+   },
+   "total:model": {
+    "wins": 10,
+    "losses": 10,
+    "pushes": 0,
+    "win_pct": 0.5,
+    "units": -0.91,
+    "avg_clv": 0.06,
+    "beat_close": 0.55
    },
    "total:lock": {
     "wins": 1,
@@ -96,13 +96,13 @@
     "beat_close": 0.474
    },
    "9": {
-    "wins": 1,
-    "losses": 2,
+    "wins": 6,
+    "losses": 5,
     "pushes": 0,
-    "win_pct": 0.333,
-    "units": -1.09,
-    "avg_clv": 2.23,
-    "beat_close": 0.333
+    "win_pct": 0.545,
+    "units": 0.45,
+    "avg_clv": 0.93,
+    "beat_close": 0.545
    }
   }
  },
@@ -2729,7 +2729,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -9.33
+   "close": -9.33,
+   "final": {
+    "home": 35,
+    "away": 12
+   },
+   "margin": -13.5,
+   "result": "loss",
+   "clv": 0.2
   },
   "2026_09_DET_MIA:spread": {
    "game": "2026_09_DET_MIA",
@@ -2787,7 +2794,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 6.5
+   "close": 6.5,
+   "final": {
+    "home": 9,
+    "away": 19
+   },
+   "margin": -1.5,
+   "result": "loss",
+   "clv": 2.0
   },
   "2026_09_CLE_NO:spread": {
    "game": "2026_09_CLE_NO",
@@ -2844,7 +2858,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -3.5
+   "close": -3.5,
+   "final": {
+    "home": 23,
+    "away": 22
+   },
+   "margin": 1.5,
+   "result": "win",
+   "clv": -1.0
   },
   "2026_09_NYG_PHI:total": {
    "game": "2026_09_NYG_PHI",
@@ -2901,7 +2922,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 38.17
+   "close": 38.17,
+   "final": {
+    "home": 11,
+    "away": 19
+   },
+   "margin": 9.5,
+   "result": "win",
+   "clv": 1.3
   },
   "2026_09_LV_SF:spread": {
    "game": "2026_09_LV_SF",
@@ -3362,7 +3390,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 4.5
+   "close": 4.5,
+   "final": {
+    "home": 23,
+    "away": 27
+   },
+   "margin": 1.5,
+   "result": "win",
+   "clv": 1.0
   },
   "2026_09_DEN_CAR:total": {
    "game": "2026_09_DEN_CAR",
@@ -3416,7 +3451,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.67
+   "close": 44.67,
+   "final": {
+    "home": 21,
+    "away": 26
+   },
+   "margin": 3.5,
+   "result": "win",
+   "clv": 1.2
   },
   "2026_09_NYJ_KC:total": {
    "game": "2026_09_NYJ_KC",
@@ -3470,7 +3512,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.5
+   "close": 47.5,
+   "final": {
+    "home": 35,
+    "away": 12
+   },
+   "margin": -0.5,
+   "result": "loss",
+   "clv": -1.0
   },
   "2026_09_BUF_MIN:spread": {
    "game": "2026_09_BUF_MIN",
@@ -3638,7 +3687,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.67
+   "close": 47.67,
+   "final": {
+    "home": 13,
+    "away": 20
+   },
+   "margin": 14.5,
+   "result": "win",
+   "clv": -0.2
   },
   "2026_10_NE_DET:spread": {
    "game": "2026_10_NE_DET",
@@ -3692,7 +3748,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 1.5
+   "close": 0.0
   },
   "2026_10_HOU_CLE:total": {
    "game": "2026_10_HOU_CLE",
@@ -3746,7 +3802,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 39.5
+   "close": 39.0
   },
   "2026_10_MIN_GB:spread": {
    "game": "2026_10_MIN_GB",
@@ -3804,7 +3860,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -2.75
+   "close": -3.0
   },
   "2026_10_MIN_GB:total": {
    "game": "2026_10_MIN_GB",
@@ -3858,7 +3914,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.0
+   "close": 42.5
   },
   "2026_10_MIA_IND:total": {
    "game": "2026_10_MIA_IND",
@@ -3966,7 +4022,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.0
+   "close": 47.5
   },
   "2026_10_BUF_NYJ:spread": {
    "game": "2026_10_BUF_NYJ",
@@ -4024,7 +4080,118 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 7.5
+   "close": 8.5
+  },
+  "2026_10_WAS_NYG:total": {
+   "game": "2026_10_WAS_NYG",
+   "week": 10,
+   "start": "2026-11-13T01:15Z",
+   "home": "Giants",
+   "away": "Commanders",
+   "bet": "total",
+   "side": "Under",
+   "line": 43.5,
+   "book": "fanduel",
+   "edge": -3.0,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-08T23:29Z",
+   "projection": {
+    "home": 24.0,
+    "away": 22.5,
+    "total": 46.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 10.0,
+    "side_is_home": null,
+    "moved_against": -2.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Commanders defense",
+      "points": -1.5
+     },
+     {
+      "label": "Commanders offense",
+      "points": 0.9
+     },
+     {
+      "label": "Giants offense",
+      "points": 0.7
+     },
+     {
+      "label": "Giants defense",
+      "points": -0.6
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Giants. Read them below before betting.",
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "73% chance of rain, which also tends to slow scoring.",
+     "The Giants' most recent starter, J.McCarthy, isn't the QB who played most of the season (J.Winston). The grades still mostly reflect J.Winston.",
+     "Recent headlines mention an injury or absence for the Commanders."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 43.0
+  },
+  "2026_10_SEA_LV:total": {
+   "game": "2026_10_SEA_LV",
+   "week": 10,
+   "start": "2026-11-15T21:05Z",
+   "home": "Raiders",
+   "away": "Seahawks",
+   "bet": "total",
+   "side": "Over",
+   "line": 43.5,
+   "book": "draftkings",
+   "edge": 4.5,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-11-08T23:29Z",
+   "projection": {
+    "home": 22.3,
+    "away": 25.7,
+    "total": 48.0
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Raiders defense",
+      "points": 3.1
+     },
+     {
+      "label": "Seahawks defense",
+      "points": -2.3
+     },
+     {
+      "label": "Raiders offense",
+      "points": 1.4
+     },
+     {
+      "label": "Seahawks offense",
+      "points": -0.4
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Seahawks. Read them below before betting.",
+     "Recent headlines mention an injury or absence for the Raiders."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 44.0
   }
  }
 }

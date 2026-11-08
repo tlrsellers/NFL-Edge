@@ -5,6 +5,84 @@
  ],
  "feed": [
   {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_HOU_LAC",
+   "text": "Chargers moved +5.33 to +22.5 against the Texans."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_HOU_LAC",
+   "text": "Texans @ Chargers total moved 40.5 to 53."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_LV_SF",
+   "text": "49ers moved -9 to -16.33 against the Raiders."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_LV_SF",
+   "text": "Raiders @ 49ers total moved 51.67 to 63.5."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_GB_NE",
+   "text": "Patriots moved -3.17 to +10.83 against the Packers."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_GB_NE",
+   "text": "Packers @ Patriots total moved 44.67 to 67.5."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_ARI_SEA",
+   "text": "Seahawks moved -8.67 to -14.67 against the Cardinals."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_09_ARI_SEA",
+   "text": "Cardinals @ Seahawks total moved 39.67 to 31.17."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_10_WAS_NYG",
+   "text": "Commanders @ Giants total moved 45 to 43."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_10_NE_DET",
+   "text": "Lions moved +1.5 to +0 against the Patriots."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Vikings @ Packers total moved 41 to 42.5."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_10_BUF_NYJ",
+   "text": "Jets moved +7.5 to +8.5 against the Bills."
+  },
+  {
+   "t": "2026-11-08T23:29Z",
+   "kind": "move",
+   "game": "2026_10_SF_DAL",
+   "text": "49ers @ Cowboys total moved 54 to 55.5."
+  },
+  {
    "t": "2026-11-08T19:23Z",
    "kind": "move",
    "game": "2026_09_DEN_CAR",
@@ -285,84 +363,6 @@
    "kind": "move",
    "game": "2026_09_TB_CHI",
    "text": "Buccaneers @ Bears total moved 48 to 47."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_BAL_BUF",
-   "text": "Bills moved -3 to -10.5 against the Ravens."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_BAL_BUF",
-   "text": "Ravens @ Bills total moved 54.67 to 49.5."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_TEN_CIN",
-   "text": "Bengals moved -13.5 to -6.5 against the Titans."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_TEN_CIN",
-   "text": "Titans @ Bengals total moved 45.67 to 49.5."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_ARI_DAL",
-   "text": "Cowboys moved -7.17 to -14.83 against the Cardinals."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_ARI_DAL",
-   "text": "Cardinals @ Cowboys total moved 54.5 to 45.5."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_MIN_DET",
-   "text": "Lions moved -3.33 to +1.83 against the Vikings."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_MIN_DET",
-   "text": "Vikings @ Lions total moved 46.33 to 36.5."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_IND_JAX",
-   "text": "Jaguars moved -10.17 to -24.5 against the Colts."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_IND_JAX",
-   "text": "Colts @ Jaguars total moved 46.33 to 43.17."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_LV_NYJ",
-   "text": "Jets moved -1.67 to -5.83 against the Raiders."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_LV_NYJ",
-   "text": "Raiders @ Jets total moved 46.5 to 60.5."
-  },
-  {
-   "t": "2026-11-01T19:22Z",
-   "kind": "move",
-   "game": "2026_08_CLE_PIT",
-   "text": "Steelers moved -3.5 to -9.5 against the Browns."
   }
  ]
 }
