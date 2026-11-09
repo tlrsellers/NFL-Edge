@@ -5,6 +5,60 @@
  ],
  "feed": [
   {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_NE_DET",
+   "text": "Lions moved +0 to -2.83 against the Patriots."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_NE_DET",
+   "text": "Patriots @ Lions total moved 50 to 51."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_KC_ATL",
+   "text": "Chiefs @ Falcons total moved 46.5 to 45."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_MIA_IND",
+   "text": "Dolphins @ Colts total moved 43 to 40.5."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_CAR_NO",
+   "text": "Saints moved +1.5 to -0.33 against the Panthers."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_BUF_NYJ",
+   "text": "Jets moved +8.5 to +7.5 against the Bills."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_BUF_NYJ",
+   "text": "Bills @ Jets total moved 50.5 to 51.5."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_JAX_TEN",
+   "text": "Jaguars @ Titans total moved 45 to 47."
+  },
+  {
+   "t": "2026-11-09T14:49Z",
+   "kind": "move",
+   "game": "2026_10_LA_ARI",
+   "text": "Rams @ Cardinals total moved 47.5 to 44.5."
+  },
+  {
    "t": "2026-11-08T23:29Z",
    "kind": "move",
    "game": "2026_09_HOU_LAC",
@@ -309,60 +363,6 @@
    "kind": "move",
    "game": "2026_08_NE_MIA",
    "text": "Dolphins moved +7.17 to +3.17 against the Patriots."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_08_NE_MIA",
-   "text": "Patriots @ Dolphins total moved 41.33 to 38.17."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_JAX_BAL",
-   "text": "Ravens moved -2.75 to +7.5 against the Jaguars."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_JAX_BAL",
-   "text": "Jaguars @ Ravens total moved 48.5 to 43.5."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_DAL_IND",
-   "text": "Colts moved +4.5 to +5.5 against the Cowboys."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_NYJ_KC",
-   "text": "Jets @ Chiefs total moved 43 to 46.5."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_NYG_PHI",
-   "text": "Eagles moved +1.5 to +2.5 against the Giants."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_LV_SF",
-   "text": "49ers moved -10.25 to -9 against the Raiders."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_LV_SF",
-   "text": "Raiders @ 49ers total moved 48.5 to 51."
-  },
-  {
-   "t": "2026-11-01T23:28Z",
-   "kind": "move",
-   "game": "2026_09_TB_CHI",
-   "text": "Buccaneers @ Bears total moved 48 to 47."
   }
  ]
 }

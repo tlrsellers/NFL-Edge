@@ -1,52 +1,52 @@
 {
  "summary": {
-  "graded": 51,
-  "pending": 16,
+  "graded": 57,
+  "pending": 13,
   "overall": {
-   "wins": 28,
-   "losses": 23,
+   "wins": 30,
+   "losses": 27,
    "pushes": 0,
-   "win_pct": 0.549,
-   "units": 2.45,
-   "avg_clv": 0.39,
-   "beat_close": 0.549
+   "win_pct": 0.526,
+   "units": 0.27,
+   "avg_clv": 0.48,
+   "beat_close": 0.561
   },
   "by_tier": {
    "spread:model": {
-    "wins": 12,
-    "losses": 10,
+    "wins": 13,
+    "losses": 12,
     "pushes": 0,
-    "win_pct": 0.545,
-    "units": 0.91,
-    "avg_clv": 0.6,
-    "beat_close": 0.545
+    "win_pct": 0.52,
+    "units": -0.18,
+    "avg_clv": 0.71,
+    "beat_close": 0.6
    },
    "spread:all": {
-    "wins": 12,
-    "losses": 10,
+    "wins": 13,
+    "losses": 12,
     "pushes": 0,
-    "win_pct": 0.545,
-    "units": 0.91,
-    "avg_clv": 0.6,
-    "beat_close": 0.545
+    "win_pct": 0.52,
+    "units": -0.18,
+    "avg_clv": 0.71,
+    "beat_close": 0.6
    },
    "total:lean": {
-    "wins": 5,
-    "losses": 2,
+    "wins": 6,
+    "losses": 4,
     "pushes": 0,
-    "win_pct": 0.714,
-    "units": 2.55,
-    "avg_clv": 0.44,
-    "beat_close": 0.429
+    "win_pct": 0.6,
+    "units": 1.45,
+    "avg_clv": 0.62,
+    "beat_close": 0.4
    },
    "total:all": {
-    "wins": 16,
-    "losses": 13,
+    "wins": 17,
+    "losses": 15,
     "pushes": 0,
-    "win_pct": 0.552,
-    "units": 1.55,
-    "avg_clv": 0.23,
-    "beat_close": 0.552
+    "win_pct": 0.531,
+    "units": 0.45,
+    "avg_clv": 0.31,
+    "beat_close": 0.531
    },
    "total:model": {
     "wins": 10,
@@ -96,13 +96,13 @@
     "beat_close": 0.474
    },
    "9": {
-    "wins": 6,
-    "losses": 5,
+    "wins": 8,
+    "losses": 9,
     "pushes": 0,
-    "win_pct": 0.545,
-    "units": 0.45,
-    "avg_clv": 0.93,
-    "beat_close": 0.545
+    "win_pct": 0.471,
+    "units": -1.73,
+    "avg_clv": 1.05,
+    "beat_close": 0.588
    }
   }
  },
@@ -2987,7 +2987,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.0
+   "close": -9.0,
+   "final": {
+    "home": 38,
+    "away": 17
+   },
+   "margin": -10.5,
+   "result": "loss",
+   "clv": 1.5
   },
   "2026_09_GB_NE:total": {
    "game": "2026_09_GB_NE",
@@ -3042,7 +3049,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 44.67
+   "close": 44.67,
+   "final": {
+    "home": 27,
+    "away": 45
+   },
+   "margin": -27.5,
+   "result": "loss",
+   "clv": -0.2
   },
   "2026_09_ARI_SEA:spread": {
    "game": "2026_09_ARI_SEA",
@@ -3100,7 +3114,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -8.67
+   "close": -8.67,
+   "final": {
+    "home": 17,
+    "away": 3
+   },
+   "margin": -2.5,
+   "result": "loss",
+   "clv": 2.8
   },
   "2026_09_TB_CHI:spread": {
    "game": "2026_09_TB_CHI",
@@ -3158,7 +3179,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -6.17
+   "close": -6.17,
+   "final": {
+    "home": 27,
+    "away": 24
+   },
+   "margin": 3.5,
+   "result": "win",
+   "clv": 0.3
   },
   "2026_09_TB_CHI:total": {
    "game": "2026_09_TB_CHI",
@@ -3213,7 +3241,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.5
+   "close": 47.5,
+   "final": {
+    "home": 27,
+    "away": 24
+   },
+   "margin": -4.5,
+   "result": "loss",
+   "clv": -1.0
   },
   "2026_09_JAX_BAL:total": {
    "game": "2026_09_JAX_BAL",
@@ -3632,7 +3667,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.67
+   "close": 39.67,
+   "final": {
+    "home": 17,
+    "away": 3
+   },
+   "margin": 24.0,
+   "result": "win",
+   "clv": 4.3
   },
   "2026_09_LA_WAS:total": {
    "game": "2026_09_LA_WAS",
@@ -3748,7 +3790,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 0.0
+   "close": -2.83
   },
   "2026_10_HOU_CLE:total": {
    "game": "2026_10_HOU_CLE",
@@ -3757,52 +3799,53 @@
    "home": "Browns",
    "away": "Texans",
    "bet": "total",
-   "side": "Over",
+   "side": "Under",
    "line": 39.5,
    "book": "draftkings",
-   "edge": 3.6,
-   "tier": "model",
-   "pattern": null,
-   "cover": 0.505,
-   "called": "2026-11-07T23:28Z",
+   "edge": -4.7,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-09T14:49Z",
    "projection": {
-    "home": 20.2,
-    "away": 23.0,
-    "total": 43.1
+    "home": 20.0,
+    "away": 24.3,
+    "total": 44.2
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": null,
+    "wind": 13.0,
     "side_is_home": null,
     "moved_against": 0.0,
     "note": null,
     "factors": [
      {
       "label": "Browns offense",
-      "points": -3.1
+      "points": 3.2
      },
      {
       "label": "Texans offense",
-      "points": 0.2
+      "points": -1.4
      },
      {
       "label": "Browns defense",
-      "points": -0.2
+      "points": 0.1
      },
      {
       "label": "Texans defense",
-      "points": 0.0
+      "points": -0.0
      }
     ],
     "risks": [
-     "Recent headlines mention a quarterback issue for the Browns. Read them below before betting.",
-     "Recent headlines mention a quarterback issue for the Texans. Read them below before betting."
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "The Browns' most recent starter, S.Sanders, isn't the QB who played most of the season (D.Watson). The grades still mostly reflect D.Watson.",
+     "Recent headlines mention an injury or absence for the Browns."
     ],
-    "news_qb": true,
+    "news_qb": false,
     "news_injury": true
    },
-   "close": 39.0
+   "close": 39.5
   },
   "2026_10_MIN_GB:spread": {
    "game": "2026_10_MIN_GB",
@@ -3860,7 +3903,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -3.0
+   "close": -3.25
   },
   "2026_10_MIN_GB:total": {
    "game": "2026_10_MIN_GB",
@@ -3968,7 +4011,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.0
+   "close": 40.5
   },
   "2026_10_CAR_NO:total": {
    "game": "2026_10_CAR_NO",
@@ -4080,7 +4123,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 8.5
+   "close": 7.5
   },
   "2026_10_WAS_NYG:total": {
    "game": "2026_10_WAS_NYG",
@@ -4137,7 +4180,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.0
+   "close": 43.17
   },
   "2026_10_SEA_LV:total": {
    "game": "2026_10_SEA_LV",
@@ -4191,7 +4234,168 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 44.0
+   "close": 43.5
+  },
+  "2026_10_BUF_NYJ:total": {
+   "game": "2026_10_BUF_NYJ",
+   "week": 10,
+   "start": "2026-11-15T18:00Z",
+   "home": "Jets",
+   "away": "Bills",
+   "bet": "total",
+   "side": "Under",
+   "line": 51.5,
+   "book": "draftkings",
+   "edge": 0.9,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-09T14:49Z",
+   "projection": {
+    "home": 22.9,
+    "away": 27.6,
+    "total": 50.6
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 14.0,
+    "side_is_home": null,
+    "moved_against": 0.5,
+    "note": null,
+    "factors": [
+     {
+      "label": "Bills offense",
+      "points": -3.9
+     },
+     {
+      "label": "Jets offense",
+      "points": 1.1
+     },
+     {
+      "label": "Bills defense",
+      "points": -0.9
+     },
+     {
+      "label": "Jets defense",
+      "points": -0.8
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Jets. Read them below before betting.",
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "Recent headlines mention an injury or absence for the Bills."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 51.5
+  },
+  "2026_10_JAX_TEN:total": {
+   "game": "2026_10_JAX_TEN",
+   "week": 10,
+   "start": "2026-11-15T18:00Z",
+   "home": "Titans",
+   "away": "Jaguars",
+   "bet": "total",
+   "side": "Under",
+   "line": 47.5,
+   "book": "draftkings",
+   "edge": 3.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-11-09T14:49Z",
+   "projection": {
+    "home": 15.7,
+    "away": 28.0,
+    "total": 43.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 5.0,
+    "side_is_home": null,
+    "moved_against": 2.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Jaguars defense",
+      "points": 4.5
+     },
+     {
+      "label": "Jaguars offense",
+      "points": -3.2
+     },
+     {
+      "label": "Titans offense",
+      "points": 2.9
+     },
+     {
+      "label": "Titans defense",
+      "points": -1.9
+     }
+    ],
+    "risks": [],
+    "news_qb": false,
+    "news_injury": false
+   },
+   "close": 47.0
+  },
+  "2026_10_LAC_BAL:total": {
+   "game": "2026_10_LAC_BAL",
+   "week": 10,
+   "start": "2026-11-17T01:15Z",
+   "home": "Ravens",
+   "away": "Chargers",
+   "bet": "total",
+   "side": "Over",
+   "line": 38.5,
+   "book": "draftkings",
+   "edge": 4.0,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-11-09T14:49Z",
+   "projection": {
+    "home": 23.7,
+    "away": 18.8,
+    "total": 42.5
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Chargers offense",
+      "points": -4.9
+     },
+     {
+      "label": "Chargers defense",
+      "points": 1.3
+     },
+     {
+      "label": "Ravens defense",
+      "points": 0.8
+     },
+     {
+      "label": "Ravens offense",
+      "points": -0.7
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Chargers. Read them below before betting.",
+     "The Ravens' most recent starter, J.Fagnano, isn't the QB who played most of the season (T.Huntley). The grades still mostly reflect T.Huntley.",
+     "Recent headlines mention an injury or absence for the Ravens."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 38.5
   }
  }
 }
