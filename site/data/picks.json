@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 57,
-  "pending": 13,
+  "pending": 15,
   "overall": {
    "wins": 30,
    "losses": 27,
@@ -3612,7 +3612,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 3.0
+   "close": 3.33
   },
   "2026_09_ARI_SEA:total": {
    "game": "2026_09_ARI_SEA",
@@ -3790,7 +3790,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.83
+   "close": -2.5
   },
   "2026_10_HOU_CLE:total": {
    "game": "2026_10_HOU_CLE",
@@ -3903,7 +3903,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -3.25
+   "close": -3.5
   },
   "2026_10_MIN_GB:total": {
    "game": "2026_10_MIN_GB",
@@ -3957,7 +3957,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 42.5
+   "close": 41.5
   },
   "2026_10_MIA_IND:total": {
    "game": "2026_10_MIA_IND",
@@ -4065,7 +4065,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.5
+   "close": 47.67
   },
   "2026_10_BUF_NYJ:spread": {
    "game": "2026_10_BUF_NYJ",
@@ -4180,7 +4180,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.17
+   "close": 42.33
   },
   "2026_10_SEA_LV:total": {
    "game": "2026_10_SEA_LV",
@@ -4234,7 +4234,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.5
+   "close": 43.33
   },
   "2026_10_BUF_NYJ:total": {
    "game": "2026_10_BUF_NYJ",
@@ -4289,7 +4289,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 51.5
+   "close": 51.0
   },
   "2026_10_JAX_TEN:total": {
    "game": "2026_10_JAX_TEN",
@@ -4340,7 +4340,7 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 47.0
+   "close": 46.67
   },
   "2026_10_LAC_BAL:total": {
    "game": "2026_10_LAC_BAL",
@@ -4396,6 +4396,120 @@
     "news_injury": true
    },
    "close": 38.5
+  },
+  "2026_10_LA_ARI:spread": {
+   "game": "2026_10_LA_ARI",
+   "week": 10,
+   "start": "2026-11-15T21:05Z",
+   "home": "Cardinals",
+   "away": "Rams",
+   "bet": "spread",
+   "side": "Cardinals",
+   "line": 9.5,
+   "book": "draftkings",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-09T23:06Z",
+   "projection": {
+    "home": 19.8,
+    "away": 26.0,
+    "total": 45.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 1.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cardinals defense",
+      "points": -2.4
+     },
+     {
+      "label": "Rams defense",
+      "points": -2.0
+     },
+     {
+      "label": "Cardinals offense",
+      "points": -1.3
+     },
+     {
+      "label": "Rams offense",
+      "points": -0.7
+     },
+     {
+      "label": "Home field",
+      "points": 0.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Rams. Read them below before betting.",
+     "The Cardinals' most recent starter, G.Minshew, isn't the QB who played most of the season (J.Brissett). The grades still mostly reflect J.Brissett.",
+     "Recent headlines mention an injury or absence for the Cardinals."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 9.0
+  },
+  "2026_10_LA_ARI:total": {
+   "game": "2026_10_LA_ARI",
+   "week": 10,
+   "start": "2026-11-15T21:05Z",
+   "home": "Cardinals",
+   "away": "Rams",
+   "bet": "total",
+   "side": "Over",
+   "line": 40.0,
+   "book": "bovada",
+   "edge": 5.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.509,
+   "called": "2026-11-09T23:06Z",
+   "projection": {
+    "home": 19.8,
+    "away": 26.0,
+    "total": 45.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 7.2,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cardinals defense",
+      "points": 2.4
+     },
+     {
+      "label": "Rams defense",
+      "points": -2.0
+     },
+     {
+      "label": "Cardinals offense",
+      "points": -1.3
+     },
+     {
+      "label": "Rams offense",
+      "points": 0.7
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Rams. Read them below before betting.",
+     "The Cardinals' most recent starter, G.Minshew, isn't the QB who played most of the season (J.Brissett). The grades still mostly reflect J.Brissett.",
+     "Recent headlines mention an injury or absence for the Cardinals."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 40.33
   }
  }
 }
