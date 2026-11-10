@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-10T14:48Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Packers moved -3.5 to -4.5 against the Vikings."
+  },
+  {
+   "t": "2026-11-10T14:48Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Vikings @ Packers total moved 41.5 to 42.5."
+  },
+  {
    "t": "2026-11-09T23:06Z",
    "kind": "move",
    "game": "2026_09_BUF_MIN",
@@ -351,18 +363,6 @@
    "kind": "move",
    "game": "2026_09_LA_WAS",
    "text": "Rams @ Commanders total moved 48.5 to 47.5."
-  },
-  {
-   "t": "2026-11-02T14:53Z",
-   "kind": "move",
-   "game": "2026_09_HOU_LAC",
-   "text": "Chargers moved +3.5 to +5 against the Texans."
-  },
-  {
-   "t": "2026-11-02T14:53Z",
-   "kind": "move",
-   "game": "2026_09_HOU_LAC",
-   "text": "Texans @ Chargers total moved 42.5 to 41.5."
   }
  ]
 }
