@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 58,
-  "pending": 14,
+  "pending": 16,
   "overall": {
    "wins": 30,
    "losses": 28,
@@ -3852,7 +3852,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.5
+   "close": 39.67
   },
   "2026_10_MIN_GB:spread": {
    "game": "2026_10_MIN_GB",
@@ -3910,7 +3910,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -4.5
+   "close": -3.5
   },
   "2026_10_MIN_GB:total": {
    "game": "2026_10_MIN_GB",
@@ -3964,7 +3964,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 42.5
+   "close": 41.83
   },
   "2026_10_MIA_IND:total": {
    "game": "2026_10_MIA_IND",
@@ -4018,7 +4018,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 40.5
+   "close": 38.17
   },
   "2026_10_CAR_NO:total": {
    "game": "2026_10_CAR_NO",
@@ -4072,7 +4072,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.0
+   "close": 48.67
   },
   "2026_10_BUF_NYJ:spread": {
    "game": "2026_10_BUF_NYJ",
@@ -4187,7 +4187,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.5
+   "close": 41.33
   },
   "2026_10_SEA_LV:total": {
    "game": "2026_10_SEA_LV",
@@ -4241,7 +4241,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.33
+   "close": 40.5
   },
   "2026_10_BUF_NYJ:total": {
    "game": "2026_10_BUF_NYJ",
@@ -4296,7 +4296,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 50.5
+   "close": 50.67
   },
   "2026_10_JAX_TEN:total": {
    "game": "2026_10_JAX_TEN",
@@ -4516,7 +4516,115 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 40.17
+   "close": 39.33
+  },
+  "2026_10_MIA_IND:spread": {
+   "game": "2026_10_MIA_IND",
+   "week": 10,
+   "start": "2026-11-15T18:00Z",
+   "home": "Colts",
+   "away": "Dolphins",
+   "bet": "spread",
+   "side": "Dolphins",
+   "line": 3.5,
+   "book": "draftkings",
+   "edge": 3.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-10T23:28Z",
+   "projection": {
+    "home": 22.8,
+    "away": 22.9,
+    "total": 45.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 1.5,
+    "note": null,
+    "factors": [
+     {
+      "label": "Dolphins offense",
+      "points": -2.6
+     },
+     {
+      "label": "Colts defense",
+      "points": 2.6
+     },
+     {
+      "label": "Colts offense",
+      "points": 1.9
+     },
+     {
+      "label": "Dolphins defense",
+      "points": -1.8
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Dolphins. Read them below before betting.",
+     "Recent headlines mention an injury or absence for the Colts."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -3.5
+  },
+  "2026_10_CAR_NO:spread": {
+   "game": "2026_10_CAR_NO",
+   "week": 10,
+   "start": "2026-11-15T18:00Z",
+   "home": "Saints",
+   "away": "Panthers",
+   "bet": "spread",
+   "side": "Panthers",
+   "line": 2.5,
+   "book": "draftkings",
+   "edge": 3.8,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-11-10T23:28Z",
+   "projection": {
+    "home": 24.9,
+    "away": 26.2,
+    "total": 51.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 3.8,
+    "note": null,
+    "factors": [
+     {
+      "label": "Saints defense",
+      "points": 2.3
+     },
+     {
+      "label": "Panthers defense",
+      "points": -2.2
+     },
+     {
+      "label": "Panthers offense",
+      "points": 1.0
+     },
+     {
+      "label": "Saints offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention an injury or absence for the Panthers.",
+     "Recent headlines mention an injury or absence for the Saints."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -2.33
   }
  }
 }

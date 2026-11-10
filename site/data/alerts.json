@@ -5,6 +5,42 @@
  ],
  "feed": [
   {
+   "t": "2026-11-10T23:28Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Packers moved -4.5 to -3.5 against the Vikings."
+  },
+  {
+   "t": "2026-11-10T23:28Z",
+   "kind": "move",
+   "game": "2026_10_MIA_IND",
+   "text": "Colts moved -2.5 to -3.5 against the Dolphins."
+  },
+  {
+   "t": "2026-11-10T23:28Z",
+   "kind": "move",
+   "game": "2026_10_MIA_IND",
+   "text": "Dolphins @ Colts total moved 40.5 to 38.17."
+  },
+  {
+   "t": "2026-11-10T23:28Z",
+   "kind": "move",
+   "game": "2026_10_SEA_LV",
+   "text": "Raiders moved +3.5 to +6.5 against the Seahawks."
+  },
+  {
+   "t": "2026-11-10T23:28Z",
+   "kind": "move",
+   "game": "2026_10_SEA_LV",
+   "text": "Seahawks @ Raiders total moved 43.33 to 40.5."
+  },
+  {
+   "t": "2026-11-10T23:28Z",
+   "kind": "move",
+   "game": "2026_10_LAC_BAL",
+   "text": "Ravens moved -5.33 to -4.33 against the Chargers."
+  },
+  {
    "t": "2026-11-10T14:48Z",
    "kind": "move",
    "game": "2026_10_MIN_GB",
@@ -327,42 +363,6 @@
    "kind": "move",
    "game": "2026_09_ARI_SEA",
    "text": "Cardinals @ Seahawks total moved 43.67 to 42."
-  },
-  {
-   "t": "2026-11-03T14:49Z",
-   "kind": "move",
-   "game": "2026_09_JAX_BAL",
-   "text": "Jaguars @ Ravens total moved 43 to 42."
-  },
-  {
-   "t": "2026-11-03T14:49Z",
-   "kind": "move",
-   "game": "2026_09_TB_CHI",
-   "text": "Bears moved -5 to -6.17 against the Buccaneers."
-  },
-  {
-   "t": "2026-11-02T14:53Z",
-   "kind": "move",
-   "game": "2026_09_JAX_BAL",
-   "text": "Ravens moved +7.5 to +8.5 against the Jaguars."
-  },
-  {
-   "t": "2026-11-02T14:53Z",
-   "kind": "move",
-   "game": "2026_09_CIN_ATL",
-   "text": "Bengals @ Falcons total moved 50 to 51.5."
-  },
-  {
-   "t": "2026-11-02T14:53Z",
-   "kind": "move",
-   "game": "2026_09_DEN_CAR",
-   "text": "Broncos @ Panthers total moved 44.5 to 43.5."
-  },
-  {
-   "t": "2026-11-02T14:53Z",
-   "kind": "move",
-   "game": "2026_09_LA_WAS",
-   "text": "Rams @ Commanders total moved 48.5 to 47.5."
   }
  ]
 }
