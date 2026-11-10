@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "through_week": 9,
- "updated": "2026-11-09T11:46+00:00",
+ "updated": "2026-11-10T11:43+00:00",
  "teams": [
   {
    "team": "Jaguars",
@@ -15,13 +15,13 @@
     "off": 7.7,
     "pass": 8.2,
     "rush": 6.8,
-    "qb": 7.8,
+    "qb": 7.9,
     "def": 9.5,
     "passD": 9.0,
     "rushD": 9.5,
-    "st": 5.3,
-    "pace": 1.5,
-    "ovr": 9.4
+    "st": 5.4,
+    "pace": 1.6,
+    "ovr": 9.3
    },
    "qb": {
     "name": "T.Lawrence",
@@ -31,12 +31,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.115,
-    "epa_allowed": -0.163,
-    "success_rate": 0.027,
+    "epa_per_play": 0.116,
+    "epa_allowed": -0.162,
+    "success_rate": 0.028,
     "success_allowed": -0.028,
-    "points_per_game": 26.1,
-    "points_allowed": 18.8,
+    "points_per_game": 26.0,
+    "points_allowed": 18.7,
     "plays_per_game": 47.6
    }
   },
@@ -49,7 +49,7 @@
    "record": "7-1",
    "games": 8,
    "grades": {
-    "off": 9.3,
+    "off": 9.2,
     "pass": 9.0,
     "rush": 8.4,
     "qb": 8.5,
@@ -68,12 +68,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.132,
+    "epa_per_play": 0.134,
     "epa_allowed": -0.032,
-    "success_rate": 0.065,
+    "success_rate": 0.066,
     "success_allowed": 0.015,
     "points_per_game": 26.4,
-    "points_allowed": 21.5,
+    "points_allowed": 21.4,
     "plays_per_game": 50.5
    }
   },
@@ -88,11 +88,11 @@
    "grades": {
     "off": 6.5,
     "pass": 7.3,
-    "rush": 5.5,
+    "rush": 5.6,
     "qb": 7.0,
-    "def": 7.1,
-    "passD": 7.7,
-    "rushD": 3.9,
+    "def": 6.9,
+    "passD": 7.6,
+    "rushD": 3.8,
     "st": 9.4,
     "pace": 6.5,
     "ovr": 7.7
@@ -105,13 +105,50 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.051,
-    "epa_allowed": -0.06,
+    "epa_per_play": 0.052,
+    "epa_allowed": -0.056,
     "success_rate": 0.031,
-    "success_allowed": -0.021,
-    "points_per_game": 25.8,
-    "points_allowed": 21.9,
+    "success_allowed": -0.02,
+    "points_per_game": 25.7,
+    "points_allowed": 22.0,
     "plays_per_game": 56.0
+   }
+  },
+  {
+   "team": "Bills",
+   "abbr": "BUF",
+   "name": "Buffalo Bills",
+   "conference": "AFC East",
+   "color": "#00338D",
+   "record": "7-1",
+   "games": 8,
+   "grades": {
+    "off": 7.7,
+    "pass": 7.1,
+    "rush": 7.7,
+    "qb": 7.4,
+    "def": 6.1,
+    "passD": 6.5,
+    "rushD": 4.6,
+    "st": 5.9,
+    "pace": 7.4,
+    "ovr": 7.5
+   },
+   "qb": {
+    "name": "J.Allen",
+    "epa_per_dropback": 0.275,
+    "dropbacks": 260,
+    "season_leader": "J.Allen",
+    "changed": false
+   },
+   "adjusted": {
+    "epa_per_play": 0.085,
+    "epa_allowed": -0.042,
+    "success_rate": 0.025,
+    "success_allowed": -0.009,
+    "points_per_game": 28.1,
+    "points_allowed": 23.4,
+    "plays_per_game": 57.6
    }
   },
   {
@@ -124,13 +161,13 @@
    "games": 8,
    "grades": {
     "off": 8.9,
-    "pass": 8.4,
+    "pass": 8.3,
     "rush": 6.5,
     "qb": 8.2,
-    "def": 4.2,
+    "def": 4.1,
     "passD": 3.6,
-    "rushD": 6.7,
-    "st": 5.5,
+    "rushD": 6.6,
+    "st": 5.6,
     "pace": 5.2,
     "ovr": 7.3
    },
@@ -142,12 +179,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.132,
-    "epa_allowed": 0.027,
+    "epa_per_play": 0.133,
+    "epa_allowed": 0.028,
     "success_rate": 0.054,
     "success_allowed": 0.009,
     "points_per_game": 27.4,
-    "points_allowed": 22.8,
+    "points_allowed": 22.7,
     "plays_per_game": 53.9
    }
   },
@@ -162,13 +199,13 @@
    "grades": {
     "off": 7.6,
     "pass": 6.2,
-    "rush": 8.2,
+    "rush": 8.1,
     "qb": 6.2,
     "def": 5.7,
     "passD": 4.8,
     "rushD": 6.5,
     "st": 4.1,
-    "pace": 4.5,
+    "pace": 4.6,
     "ovr": 7.0
    },
    "qb": {
@@ -180,49 +217,12 @@
    },
    "adjusted": {
     "epa_per_play": 0.079,
-    "epa_allowed": -0.009,
+    "epa_allowed": -0.008,
     "success_rate": 0.035,
     "success_allowed": -0.008,
     "points_per_game": 24.0,
     "points_allowed": 20.8,
     "plays_per_game": 52.8
-   }
-  },
-  {
-   "team": "Bills",
-   "abbr": "BUF",
-   "name": "Buffalo Bills",
-   "conference": "AFC East",
-   "color": "#00338D",
-   "record": "6-1",
-   "games": 7,
-   "grades": {
-    "off": 7.8,
-    "pass": 7.0,
-    "rush": 7.8,
-    "qb": 7.6,
-    "def": 4.6,
-    "passD": 5.3,
-    "rushD": 3.6,
-    "st": 6.9,
-    "pace": 6.2,
-    "ovr": 6.9
-   },
-   "qb": {
-    "name": "J.Allen",
-    "epa_per_dropback": 0.319,
-    "dropbacks": 224,
-    "season_leader": "J.Allen",
-    "changed": false
-   },
-   "adjusted": {
-    "epa_per_play": 0.085,
-    "epa_allowed": 0.009,
-    "success_rate": 0.025,
-    "success_allowed": 0.004,
-    "points_per_game": 28.1,
-    "points_allowed": 24.6,
-    "plays_per_game": 55.6
    }
   },
   {
@@ -234,16 +234,16 @@
    "record": "5-4",
    "games": 9,
    "grades": {
-    "off": 6.6,
-    "pass": 5.8,
+    "off": 6.7,
+    "pass": 5.9,
     "rush": 8.0,
-    "qb": 5.6,
-    "def": 7.3,
+    "qb": 5.7,
+    "def": 7.2,
     "passD": 6.2,
     "rushD": 7.4,
     "st": 2.0,
     "pace": 6.6,
-    "ovr": 6.9
+    "ovr": 7.0
    },
    "qb": {
     "name": "M.Stafford",
@@ -253,12 +253,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.045,
-    "epa_allowed": -0.069,
-    "success_rate": 0.035,
+    "epa_per_play": 0.05,
+    "epa_allowed": -0.068,
+    "success_rate": 0.037,
     "success_allowed": -0.016,
     "points_per_game": 22.9,
-    "points_allowed": 21.4,
+    "points_allowed": 21.3,
     "plays_per_game": 56.2
    }
   },
@@ -271,14 +271,14 @@
    "record": "5-4",
    "games": 9,
    "grades": {
-    "off": 4.1,
+    "off": 4.2,
     "pass": 5.8,
     "rush": 2.3,
     "qb": 6.7,
-    "def": 8.3,
+    "def": 8.2,
     "passD": 7.9,
     "rushD": 8.7,
-    "st": 8.0,
+    "st": 8.1,
     "pace": 5.3,
     "ovr": 6.6
    },
@@ -290,12 +290,12 @@
     "changed": true
    },
    "adjusted": {
-    "epa_per_play": -0.022,
-    "epa_allowed": -0.091,
-    "success_rate": -0.013,
+    "epa_per_play": -0.02,
+    "epa_allowed": -0.09,
+    "success_rate": -0.012,
     "success_allowed": -0.037,
-    "points_per_game": 22.5,
-    "points_allowed": 20.1,
+    "points_per_game": 22.4,
+    "points_allowed": 20.0,
     "plays_per_game": 54.0
    }
   },
@@ -311,12 +311,12 @@
     "off": 4.0,
     "pass": 1.4,
     "rush": 6.4,
-    "qb": 1.1,
-    "def": 8.8,
-    "passD": 8.8,
-    "rushD": 7.0,
+    "qb": 1.2,
+    "def": 8.7,
+    "passD": 8.6,
+    "rushD": 6.9,
     "st": 6.1,
-    "pace": 5.5,
+    "pace": 5.6,
     "ovr": 6.5
    },
    "qb": {
@@ -328,11 +328,11 @@
    },
    "adjusted": {
     "epa_per_play": -0.053,
-    "epa_allowed": -0.13,
+    "epa_allowed": -0.125,
     "success_rate": -0.017,
-    "success_allowed": -0.023,
-    "points_per_game": 23.1,
-    "points_allowed": 20.7,
+    "success_allowed": -0.022,
+    "points_per_game": 23.0,
+    "points_allowed": 20.8,
     "plays_per_game": 54.4
    }
   },
@@ -346,9 +346,9 @@
    "games": 9,
    "grades": {
     "off": 5.3,
-    "pass": 4.5,
+    "pass": 4.6,
     "rush": 5.9,
-    "qb": 4.5,
+    "qb": 4.6,
     "def": 6.8,
     "passD": 7.0,
     "rushD": 5.2,
@@ -364,8 +364,8 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.019,
-    "epa_allowed": -0.03,
+    "epa_per_play": 0.02,
+    "epa_allowed": -0.029,
     "success_rate": -0.021,
     "success_allowed": -0.024,
     "points_per_game": 22.9,
@@ -382,14 +382,14 @@
    "record": "6-2",
    "games": 8,
    "grades": {
-    "off": 6.4,
+    "off": 6.5,
     "pass": 5.7,
-    "rush": 5.6,
-    "qb": 5.9,
-    "def": 4.2,
-    "passD": 3.7,
-    "rushD": 6.6,
-    "st": 8.1,
+    "rush": 5.7,
+    "qb": 6.0,
+    "def": 4.0,
+    "passD": 3.6,
+    "rushD": 6.4,
+    "st": 8.2,
     "pace": 7.1,
     "ovr": 6.0
    },
@@ -401,10 +401,10 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.038,
-    "epa_allowed": 0.032,
-    "success_rate": 0.023,
-    "success_allowed": -0.0,
+    "epa_per_play": 0.042,
+    "epa_allowed": 0.037,
+    "success_rate": 0.024,
+    "success_allowed": 0.001,
     "points_per_game": 25.4,
     "points_allowed": 23.5,
     "plays_per_game": 57.1
@@ -422,12 +422,12 @@
     "off": 5.4,
     "pass": 6.8,
     "rush": 3.0,
-    "qb": 6.7,
-    "def": 6.7,
-    "passD": 7.3,
-    "rushD": 5.9,
+    "qb": 6.8,
+    "def": 6.6,
+    "passD": 7.2,
+    "rushD": 5.8,
     "st": 3.7,
-    "pace": 2.9,
+    "pace": 3.0,
     "ovr": 6.0
    },
    "qb": {
@@ -438,11 +438,11 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.04,
-    "epa_allowed": -0.071,
+    "epa_per_play": 0.041,
+    "epa_allowed": -0.066,
     "success_rate": -0.006,
-    "success_allowed": -0.01,
-    "points_per_game": 23.8,
+    "success_allowed": -0.009,
+    "points_per_game": 23.7,
     "points_allowed": 21.6,
     "plays_per_game": 50.0
    }
@@ -458,9 +458,9 @@
    "grades": {
     "off": 6.4,
     "pass": 7.4,
-    "rush": 4.5,
+    "rush": 4.6,
     "qb": 7.1,
-    "def": 4.9,
+    "def": 4.8,
     "passD": 4.1,
     "rushD": 6.4,
     "st": 6.0,
@@ -475,50 +475,13 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.05,
-    "epa_allowed": 0.009,
-    "success_rate": 0.018,
-    "success_allowed": -0.007,
+    "epa_per_play": 0.054,
+    "epa_allowed": 0.011,
+    "success_rate": 0.019,
+    "success_allowed": -0.006,
     "points_per_game": 23.7,
     "points_allowed": 22.5,
     "plays_per_game": 49.4
-   }
-  },
-  {
-   "team": "Vikings",
-   "abbr": "MIN",
-   "name": "Minnesota Vikings",
-   "conference": "NFC North",
-   "color": "#4F2683",
-   "record": "6-1",
-   "games": 7,
-   "grades": {
-    "off": 3.4,
-    "pass": 4.2,
-    "rush": 3.1,
-    "qb": 4.3,
-    "def": 8.0,
-    "passD": 8.1,
-    "rushD": 6.8,
-    "st": 8.1,
-    "pace": 6.1,
-    "ovr": 6.0
-   },
-   "qb": {
-    "name": "K.Murray",
-    "epa_per_dropback": 0.023,
-    "dropbacks": 176,
-    "season_leader": "K.Murray",
-    "changed": false
-   },
-   "adjusted": {
-    "epa_per_play": -0.05,
-    "epa_allowed": -0.086,
-    "success_rate": -0.033,
-    "success_allowed": -0.034,
-    "points_per_game": 21.3,
-    "points_allowed": 17.7,
-    "plays_per_game": 55.4
    }
   },
   {
@@ -533,10 +496,10 @@
     "off": 5.2,
     "pass": 3.9,
     "rush": 8.4,
-    "qb": 3.2,
+    "qb": 3.3,
     "def": 6.1,
     "passD": 4.7,
-    "rushD": 6.9,
+    "rushD": 6.8,
     "st": 5.0,
     "pace": 6.5,
     "ovr": 5.7
@@ -549,12 +512,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.008,
+    "epa_per_play": 0.009,
     "epa_allowed": -0.018,
     "success_rate": -0.002,
-    "success_allowed": -0.001,
+    "success_allowed": -0.0,
     "points_per_game": 22.6,
-    "points_allowed": 20.4,
+    "points_allowed": 20.3,
     "plays_per_game": 56.1
    }
   },
@@ -567,14 +530,14 @@
    "record": "3-5",
    "games": 8,
    "grades": {
-    "off": 5.9,
-    "pass": 6.8,
-    "rush": 2.0,
-    "qb": 6.9,
-    "def": 5.9,
+    "off": 6.0,
+    "pass": 6.9,
+    "rush": 2.1,
+    "qb": 7.0,
+    "def": 5.8,
     "passD": 5.8,
     "rushD": 4.3,
-    "st": 2.0,
+    "st": 2.1,
     "pace": 5.4,
     "ovr": 5.7
    },
@@ -586,13 +549,50 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": 0.042,
+    "epa_per_play": 0.047,
     "epa_allowed": -0.005,
-    "success_rate": -0.001,
+    "success_rate": -0.0,
     "success_allowed": -0.024,
-    "points_per_game": 24.4,
+    "points_per_game": 24.5,
     "points_allowed": 23.2,
     "plays_per_game": 54.2
+   }
+  },
+  {
+   "team": "Vikings",
+   "abbr": "MIN",
+   "name": "Minnesota Vikings",
+   "conference": "NFC North",
+   "color": "#4F2683",
+   "record": "6-2",
+   "games": 8,
+   "grades": {
+    "off": 2.2,
+    "pass": 3.2,
+    "rush": 2.5,
+    "qb": 3.0,
+    "def": 8.1,
+    "passD": 7.9,
+    "rushD": 6.9,
+    "st": 8.6,
+    "pace": 4.5,
+    "ovr": 5.3
+   },
+   "qb": {
+    "name": "C.Wentz",
+    "epa_per_dropback": -0.256,
+    "dropbacks": 68,
+    "season_leader": "K.Murray",
+    "changed": true
+   },
+   "adjusted": {
+    "epa_per_play": -0.102,
+    "epa_allowed": -0.086,
+    "success_rate": -0.046,
+    "success_allowed": -0.035,
+    "points_per_game": 20.1,
+    "points_allowed": 17.7,
+    "plays_per_game": 52.6
    }
   },
   {
@@ -604,14 +604,14 @@
    "record": "4-5",
    "games": 9,
    "grades": {
-    "off": 5.1,
-    "pass": 5.1,
-    "rush": 5.0,
-    "qb": 3.3,
+    "off": 5.2,
+    "pass": 5.2,
+    "rush": 5.1,
+    "qb": 3.4,
     "def": 5.1,
     "passD": 4.8,
     "rushD": 5.8,
-    "st": 3.5,
+    "st": 3.6,
     "pace": 3.2,
     "ovr": 5.0
    },
@@ -623,10 +623,10 @@
     "changed": true
    },
    "adjusted": {
-    "epa_per_play": 0.005,
-    "epa_allowed": 0.003,
-    "success_rate": -0.004,
-    "success_allowed": -0.005,
+    "epa_per_play": 0.009,
+    "epa_allowed": 0.005,
+    "success_rate": -0.003,
+    "success_allowed": -0.004,
     "points_per_game": 21.4,
     "points_allowed": 24.5,
     "plays_per_game": 50.4
@@ -649,7 +649,7 @@
     "passD": 2.2,
     "rushD": 1.3,
     "st": 6.9,
-    "pace": 7.3,
+    "pace": 7.2,
     "ovr": 4.9
    },
    "qb": {
@@ -661,11 +661,11 @@
    },
    "adjusted": {
     "epa_per_play": 0.055,
-    "epa_allowed": 0.083,
+    "epa_allowed": 0.084,
     "success_rate": 0.029,
     "success_allowed": 0.026,
-    "points_per_game": 25.3,
-    "points_allowed": 25.5,
+    "points_per_game": 25.2,
+    "points_allowed": 25.4,
     "plays_per_game": 57.3
    }
   },
@@ -684,7 +684,7 @@
     "qb": 5.0,
     "def": 3.5,
     "passD": 4.3,
-    "rushD": 3.5,
+    "rushD": 3.4,
     "st": 4.2,
     "pace": 4.9,
     "ovr": 4.3
@@ -698,11 +698,11 @@
    },
    "adjusted": {
     "epa_per_play": 0.014,
-    "epa_allowed": 0.052,
+    "epa_allowed": 0.053,
     "success_rate": -0.0,
     "success_allowed": 0.018,
-    "points_per_game": 24.5,
-    "points_allowed": 25.7,
+    "points_per_game": 24.4,
+    "points_allowed": 25.6,
     "plays_per_game": 53.4
    }
   },
@@ -722,7 +722,7 @@
     "def": 3.6,
     "passD": 3.3,
     "rushD": 4.7,
-    "st": 5.2,
+    "st": 5.3,
     "pace": 5.2,
     "ovr": 4.0
    },
@@ -753,14 +753,14 @@
    "games": 9,
    "grades": {
     "off": 4.1,
-    "pass": 2.8,
+    "pass": 2.9,
     "rush": 6.2,
     "qb": 3.4,
-    "def": 5.0,
-    "passD": 6.6,
+    "def": 4.9,
+    "passD": 6.5,
     "rushD": 7.0,
     "st": 1.5,
-    "pace": 1.5,
+    "pace": 1.6,
     "ovr": 3.9
    },
    "qb": {
@@ -772,11 +772,11 @@
    },
    "adjusted": {
     "epa_per_play": -0.057,
-    "epa_allowed": -0.001,
+    "epa_allowed": -0.0,
     "success_rate": -0.006,
-    "success_allowed": -0.004,
+    "success_allowed": -0.003,
     "points_per_game": 21.9,
-    "points_allowed": 23.4,
+    "points_allowed": 23.3,
     "plays_per_game": 47.7
    }
   },
@@ -794,7 +794,7 @@
     "rush": 3.3,
     "qb": 4.8,
     "def": 4.6,
-    "passD": 5.4,
+    "passD": 5.3,
     "rushD": 4.3,
     "st": 6.5,
     "pace": 8.1,
@@ -808,12 +808,12 @@
     "changed": true
    },
    "adjusted": {
-    "epa_per_play": -0.021,
-    "epa_allowed": 0.005,
+    "epa_per_play": -0.02,
+    "epa_allowed": 0.006,
     "success_rate": -0.026,
     "success_allowed": -0.007,
     "points_per_game": 22.1,
-    "points_allowed": 22.6,
+    "points_allowed": 22.5,
     "plays_per_game": 58.8
    }
   },
@@ -829,9 +829,9 @@
     "off": 4.5,
     "pass": 4.9,
     "rush": 2.7,
-    "qb": 4.6,
-    "def": 3.0,
-    "passD": 3.3,
+    "qb": 4.7,
+    "def": 2.9,
+    "passD": 3.2,
     "rushD": 2.7,
     "st": 5.5,
     "pace": 8.3,
@@ -845,12 +845,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.023,
-    "epa_allowed": 0.051,
+    "epa_per_play": -0.022,
+    "epa_allowed": 0.055,
     "success_rate": -0.005,
-    "success_allowed": 0.027,
-    "points_per_game": 23.3,
-    "points_allowed": 25.6,
+    "success_allowed": 0.028,
+    "points_per_game": 23.2,
+    "points_allowed": 25.7,
     "plays_per_game": 59.1
    }
   },
@@ -866,7 +866,7 @@
     "off": 3.8,
     "pass": 3.9,
     "rush": 4.9,
-    "qb": 3.8,
+    "qb": 3.9,
     "def": 4.0,
     "passD": 3.1,
     "rushD": 5.3,
@@ -883,9 +883,9 @@
    },
    "adjusted": {
     "epa_per_play": -0.032,
-    "epa_allowed": 0.048,
+    "epa_allowed": 0.049,
     "success_rate": -0.006,
-    "success_allowed": -0.003,
+    "success_allowed": -0.002,
     "points_per_game": 21.5,
     "points_allowed": 26.1,
     "plays_per_game": 58.6
@@ -900,11 +900,11 @@
    "record": "2-5-1",
    "games": 8,
    "grades": {
-    "off": 3.5,
+    "off": 3.6,
     "pass": 4.4,
     "rush": 2.8,
-    "qb": 4.6,
-    "def": 3.8,
+    "qb": 4.7,
+    "def": 3.7,
     "passD": 4.7,
     "rushD": 3.7,
     "st": 4.2,
@@ -919,9 +919,9 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.039,
+    "epa_per_play": -0.038,
     "epa_allowed": 0.032,
-    "success_rate": -0.026,
+    "success_rate": -0.025,
     "success_allowed": 0.018,
     "points_per_game": 22.1,
     "points_allowed": 24.7,
@@ -937,14 +937,14 @@
    "record": "2-7",
    "games": 9,
    "grades": {
-    "off": 2.5,
+    "off": 2.6,
     "pass": 2.4,
-    "rush": 2.8,
-    "qb": 2.8,
+    "rush": 2.9,
+    "qb": 2.9,
     "def": 4.3,
     "passD": 4.1,
     "rushD": 5.3,
-    "st": 6.7,
+    "st": 6.8,
     "pace": 6.1,
     "ovr": 3.2
    },
@@ -956,12 +956,12 @@
     "changed": true
    },
    "adjusted": {
-    "epa_per_play": -0.072,
+    "epa_per_play": -0.071,
     "epa_allowed": 0.038,
     "success_rate": -0.045,
     "success_allowed": -0.003,
     "points_per_game": 18.9,
-    "points_allowed": 23.8,
+    "points_allowed": 23.7,
     "plays_per_game": 55.4
    }
   },
@@ -974,15 +974,15 @@
    "record": "2-7",
    "games": 9,
    "grades": {
-    "off": 3.0,
+    "off": 3.1,
     "pass": 2.0,
-    "rush": 6.0,
-    "qb": 1.6,
-    "def": 3.6,
-    "passD": 3.9,
-    "rushD": 1.3,
+    "rush": 6.1,
+    "qb": 1.7,
+    "def": 3.5,
+    "passD": 3.8,
+    "rushD": 1.1,
     "st": 5.4,
-    "pace": 7.1,
+    "pace": 7.0,
     "ovr": 2.9
    },
    "qb": {
@@ -993,12 +993,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.092,
-    "epa_allowed": 0.067,
+    "epa_per_play": -0.091,
+    "epa_allowed": 0.072,
     "success_rate": -0.007,
-    "success_allowed": -0.004,
-    "points_per_game": 22.0,
-    "points_allowed": 25.8,
+    "success_allowed": -0.003,
+    "points_per_game": 21.9,
+    "points_allowed": 25.9,
     "plays_per_game": 57.0
    }
   },
@@ -1012,13 +1012,13 @@
    "games": 9,
    "grades": {
     "off": 2.0,
-    "pass": 3.1,
+    "pass": 3.2,
     "rush": 2.6,
-    "qb": 4.3,
+    "qb": 4.4,
     "def": 4.7,
     "passD": 5.1,
     "rushD": 4.0,
-    "st": 5.3,
+    "st": 5.4,
     "pace": 4.4,
     "ovr": 2.8
    },
@@ -1031,10 +1031,10 @@
    },
    "adjusted": {
     "epa_per_play": -0.108,
-    "epa_allowed": 0.015,
+    "epa_allowed": 0.017,
     "success_rate": -0.03,
-    "success_allowed": 0.0,
-    "points_per_game": 20.2,
+    "success_allowed": 0.001,
+    "points_per_game": 20.1,
     "points_allowed": 22.4,
     "plays_per_game": 52.4
    }
@@ -1048,16 +1048,16 @@
    "record": "4-5",
    "games": 9,
    "grades": {
-    "off": 4.3,
-    "pass": 5.5,
-    "rush": 2.7,
+    "off": 4.4,
+    "pass": 5.6,
+    "rush": 2.8,
     "qb": 6.1,
     "def": 1.5,
     "passD": 1.4,
     "rushD": 3.1,
     "st": 5.9,
-    "pace": 2.7,
-    "ovr": 2.7
+    "pace": 2.8,
+    "ovr": 2.8
    },
    "qb": {
     "name": "K.Cousins",
@@ -1067,12 +1067,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.018,
+    "epa_per_play": -0.014,
     "epa_allowed": 0.093,
-    "success_rate": -0.004,
+    "success_rate": -0.003,
     "success_allowed": 0.035,
     "points_per_game": 25.0,
-    "points_allowed": 27.1,
+    "points_allowed": 27.0,
     "plays_per_game": 49.7
    }
   },
@@ -1085,16 +1085,16 @@
    "record": "1-7",
    "games": 8,
    "grades": {
-    "off": 3.1,
+    "off": 3.2,
     "pass": 2.7,
     "rush": 5.1,
-    "qb": 3.1,
+    "qb": 3.2,
     "def": 2.1,
     "passD": 2.1,
     "rushD": 3.5,
     "st": 3.1,
     "pace": 2.4,
-    "ovr": 1.9
+    "ovr": 2.0
    },
    "qb": {
     "name": "C.Ward",
@@ -1104,12 +1104,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.087,
-    "epa_allowed": 0.076,
+    "epa_per_play": -0.086,
+    "epa_allowed": 0.077,
     "success_rate": -0.018,
-    "success_allowed": 0.033,
+    "success_allowed": 0.034,
     "points_per_game": 19.8,
-    "points_allowed": 24.6,
+    "points_allowed": 24.5,
     "plays_per_game": 49.1
    }
   },
@@ -1122,16 +1122,16 @@
    "record": "1-7",
    "games": 8,
    "grades": {
-    "off": 3.2,
+    "off": 3.3,
     "pass": 3.2,
     "rush": 3.9,
-    "qb": 3.3,
-    "def": 2.0,
-    "passD": 1.6,
-    "rushD": 2.5,
+    "qb": 3.4,
+    "def": 1.9,
+    "passD": 1.5,
+    "rushD": 2.4,
     "st": 1.4,
-    "pace": 1.1,
-    "ovr": 1.7
+    "pace": 1.2,
+    "ovr": 1.6
    },
    "qb": {
     "name": "M.Willis",
@@ -1141,12 +1141,12 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.047,
-    "epa_allowed": 0.092,
+    "epa_per_play": -0.046,
+    "epa_allowed": 0.096,
     "success_rate": -0.032,
-    "success_allowed": 0.042,
-    "points_per_game": 19.2,
-    "points_allowed": 23.4,
+    "success_allowed": 0.043,
+    "points_per_game": 19.1,
+    "points_allowed": 23.5,
     "plays_per_game": 47.0
    }
   },
@@ -1159,16 +1159,16 @@
    "record": "0-8",
    "games": 8,
    "grades": {
-    "off": 0.4,
-    "pass": 1.4,
-    "rush": 2.1,
-    "qb": 0.7,
+    "off": 0.6,
+    "pass": 1.6,
+    "rush": 2.2,
+    "qb": 0.8,
     "def": 3.6,
     "passD": 4.7,
     "rushD": 2.1,
     "st": 3.4,
-    "pace": 3.4,
-    "ovr": 0.9
+    "pace": 3.5,
+    "ovr": 1.0
    },
    "qb": {
     "name": "J.Herbert",
@@ -1178,9 +1178,9 @@
     "changed": false
    },
    "adjusted": {
-    "epa_per_play": -0.172,
+    "epa_per_play": -0.167,
     "epa_allowed": 0.021,
-    "success_rate": -0.051,
+    "success_rate": -0.05,
     "success_allowed": 0.015,
     "points_per_game": 18.5,
     "points_allowed": 25.0,
@@ -1190,147 +1190,147 @@
  ],
  "model": {
   "points": {
-   "mean": 23.035,
-   "hfa": 0.188,
+   "mean": 22.969,
+   "hfa": 0.119,
    "off": {
-    "49ers": 3.3463,
-    "Bears": 2.7503,
-    "Bengals": 4.3739,
-    "Bills": 5.0432,
-    "Broncos": -0.1348,
-    "Browns": -2.8755,
-    "Buccaneers": 0.0375,
-    "Cardinals": -1.5003,
-    "Chargers": -4.5521,
-    "Chiefs": 0.973,
-    "Colts": -1.0721,
-    "Commanders": -0.8994,
-    "Cowboys": 2.2191,
-    "Dolphins": -3.853,
-    "Eagles": -4.1442,
-    "Falcons": -1.1144,
-    "Giants": -0.9182,
-    "Jaguars": 3.0379,
-    "Jets": -1.7085,
-    "Lions": 2.3706,
-    "Packers": 0.7507,
-    "Panthers": 1.4535,
-    "Patriots": 0.6161,
-    "Raiders": 1.9456,
-    "Rams": -0.1823,
-    "Ravens": -1.6235,
-    "Saints": 0.2402,
-    "Seahawks": -0.5788,
-    "Steelers": -0.4199,
-    "Texans": 1.3745,
-    "Titans": -3.2307,
-    "Vikings": -1.7251
+    "49ers": 3.3844,
+    "Bears": 2.7691,
+    "Bengals": 4.3838,
+    "Bills": 5.0953,
+    "Broncos": -0.1063,
+    "Browns": -2.8725,
+    "Buccaneers": 0.0538,
+    "Cardinals": -1.4872,
+    "Chargers": -4.4393,
+    "Chiefs": 0.9911,
+    "Colts": -1.0454,
+    "Commanders": -0.8693,
+    "Cowboys": 2.2219,
+    "Dolphins": -3.834,
+    "Eagles": -4.1102,
+    "Falcons": -1.1082,
+    "Giants": -0.8952,
+    "Jaguars": 3.0568,
+    "Jets": -1.7086,
+    "Lions": 2.4607,
+    "Packers": 0.7525,
+    "Panthers": 1.4536,
+    "Patriots": 0.703,
+    "Raiders": 2.0394,
+    "Rams": -0.0728,
+    "Ravens": -1.5293,
+    "Saints": 0.2607,
+    "Seahawks": -0.54,
+    "Steelers": -0.4096,
+    "Texans": 1.4856,
+    "Titans": -3.2108,
+    "Vikings": -2.873
    },
    "def": {
-    "49ers": -1.5283,
-    "Bears": -1.114,
-    "Bengals": -0.2624,
-    "Bills": 1.5382,
-    "Broncos": -1.6313,
-    "Browns": -0.6162,
-    "Buccaneers": -2.3024,
-    "Cardinals": 3.0755,
-    "Chargers": 1.9845,
-    "Chiefs": -2.2278,
-    "Colts": 2.7988,
-    "Commanders": 1.6704,
-    "Cowboys": 2.4205,
-    "Dolphins": 0.3951,
-    "Eagles": 0.7156,
-    "Falcons": 0.3186,
-    "Giants": -0.4396,
-    "Jaguars": -4.2708,
-    "Jets": 1.0702,
-    "Lions": 0.4302,
-    "Packers": -1.4266,
-    "Panthers": 2.6488,
-    "Patriots": -0.4978,
-    "Raiders": 4.0385,
-    "Rams": -1.6332,
-    "Ravens": 1.4711,
-    "Saints": 2.5908,
-    "Seahawks": -2.9231,
-    "Steelers": -2.6728,
-    "Texans": 0.215,
-    "Titans": 1.5226,
-    "Vikings": -5.3581
+    "49ers": -1.5299,
+    "Bears": -1.0151,
+    "Bengals": -0.2412,
+    "Bills": 0.3909,
+    "Broncos": -1.612,
+    "Browns": -0.5758,
+    "Buccaneers": -2.1948,
+    "Cardinals": 3.0964,
+    "Chargers": 1.9887,
+    "Chiefs": -2.2152,
+    "Colts": 2.8943,
+    "Commanders": 1.6809,
+    "Cowboys": 2.4456,
+    "Dolphins": 0.4904,
+    "Eagles": 0.7287,
+    "Falcons": 0.3439,
+    "Giants": -0.4265,
+    "Jaguars": -4.2616,
+    "Jets": 1.0906,
+    "Lions": 0.5419,
+    "Packers": -1.3209,
+    "Panthers": 2.672,
+    "Patriots": -0.4708,
+    "Raiders": 4.0519,
+    "Rams": -1.6223,
+    "Ravens": 1.4997,
+    "Saints": 2.6824,
+    "Seahawks": -2.9216,
+    "Steelers": -2.6527,
+    "Texans": 0.2285,
+    "Titans": 1.5384,
+    "Vikings": -5.3047
    }
   },
   "epa": {
-   "hfa": -0.0015,
-   "scale": 0.6032,
+   "hfa": -0.0044,
+   "scale": 0.6036,
    "off": {
-    "49ers": 0.1321,
-    "Bears": 0.051,
-    "Bengals": 0.1321,
-    "Bills": 0.0848,
-    "Broncos": 0.0192,
-    "Browns": -0.108,
-    "Buccaneers": -0.0535,
-    "Cardinals": -0.0322,
-    "Chargers": -0.172,
-    "Chiefs": 0.0786,
-    "Colts": -0.092,
-    "Commanders": -0.0392,
-    "Cowboys": 0.0547,
-    "Dolphins": -0.0467,
-    "Eagles": -0.0722,
-    "Falcons": -0.0574,
-    "Giants": -0.0208,
-    "Jaguars": 0.115,
+    "49ers": 0.1338,
+    "Bears": 0.0521,
+    "Bengals": 0.1326,
+    "Bills": 0.0847,
+    "Broncos": 0.0205,
+    "Browns": -0.1078,
+    "Buccaneers": -0.0525,
+    "Cardinals": -0.0316,
+    "Chargers": -0.167,
+    "Chiefs": 0.0794,
+    "Colts": -0.0906,
+    "Commanders": -0.0378,
+    "Cowboys": 0.0549,
+    "Dolphins": -0.0457,
+    "Eagles": -0.0707,
+    "Falcons": -0.0571,
+    "Giants": -0.0197,
+    "Jaguars": 0.1159,
     "Jets": -0.0154,
-    "Lions": 0.0379,
-    "Packers": 0.0402,
-    "Panthers": 0.0137,
-    "Patriots": 0.0497,
-    "Raiders": -0.018,
-    "Rams": 0.0454,
-    "Ravens": 0.0047,
-    "Saints": -0.023,
-    "Seahawks": -0.0218,
-    "Steelers": 0.0082,
-    "Texans": 0.0424,
-    "Titans": -0.0871,
-    "Vikings": -0.0504
+    "Lions": 0.0422,
+    "Packers": 0.0405,
+    "Panthers": 0.0138,
+    "Patriots": 0.0537,
+    "Raiders": -0.0137,
+    "Rams": 0.0504,
+    "Ravens": 0.009,
+    "Saints": -0.0219,
+    "Seahawks": -0.0201,
+    "Steelers": 0.0087,
+    "Texans": 0.0474,
+    "Titans": -0.0861,
+    "Vikings": -0.1017
    },
    "def": {
     "49ers": -0.0321,
-    "Bears": -0.0604,
-    "Bengals": 0.0266,
-    "Bills": 0.0092,
-    "Broncos": -0.0302,
-    "Browns": 0.015,
-    "Buccaneers": -0.1295,
-    "Cardinals": 0.0484,
-    "Chargers": 0.021,
-    "Chiefs": -0.0089,
-    "Colts": 0.0672,
-    "Commanders": 0.0316,
-    "Cowboys": 0.0831,
-    "Dolphins": 0.0918,
-    "Eagles": 0.0376,
-    "Falcons": -0.0014,
-    "Giants": 0.0049,
-    "Jaguars": -0.1626,
-    "Jets": 0.0136,
-    "Lions": 0.0323,
-    "Packers": -0.0712,
-    "Panthers": 0.0515,
-    "Patriots": 0.0093,
-    "Raiders": 0.0926,
-    "Rams": -0.0691,
-    "Ravens": 0.0032,
-    "Saints": 0.0512,
-    "Seahawks": -0.0906,
-    "Steelers": -0.0184,
-    "Texans": -0.0054,
-    "Titans": 0.076,
-    "Vikings": -0.0864
+    "Bears": -0.0559,
+    "Bengals": 0.0276,
+    "Bills": -0.0421,
+    "Broncos": -0.0292,
+    "Browns": 0.0168,
+    "Buccaneers": -0.1246,
+    "Cardinals": 0.0494,
+    "Chargers": 0.0215,
+    "Chiefs": -0.0083,
+    "Colts": 0.0716,
+    "Commanders": 0.0322,
+    "Cowboys": 0.0843,
+    "Dolphins": 0.0961,
+    "Eagles": 0.0383,
+    "Falcons": -0.0002,
+    "Giants": 0.0055,
+    "Jaguars": -0.1622,
+    "Jets": 0.0145,
+    "Lions": 0.0375,
+    "Packers": -0.0665,
+    "Panthers": 0.0525,
+    "Patriots": 0.0107,
+    "Raiders": 0.0934,
+    "Rams": -0.0683,
+    "Ravens": 0.0047,
+    "Saints": 0.0554,
+    "Seahawks": -0.0905,
+    "Steelers": -0.0175,
+    "Texans": -0.0046,
+    "Titans": 0.0767,
+    "Vikings": -0.0865
    }
   },
   "pace": {
@@ -1340,7 +1340,7 @@
    "Steelers": 56.12,
    "Ravens": 50.44,
    "Colts": 57.0,
-   "Bills": 55.57,
+   "Bills": 57.62,
    "Texans": 54.25,
    "Panthers": 53.38,
    "Bears": 56.0,
@@ -1351,7 +1351,7 @@
    "Broncos": 53.22,
    "Chiefs": 52.75,
    "Packers": 50.0,
-   "Vikings": 55.43,
+   "Vikings": 52.62,
    "Raiders": 49.67,
    "Dolphins": 47.0,
    "Patriots": 49.44,
@@ -1367,7 +1367,7 @@
    "Eagles": 55.44,
    "Commanders": 55.62
   },
-  "league_plays": 53.51,
+  "league_plays": 53.5,
   "games": {
    "Cardinals": 9,
    "Chargers": 8,
@@ -1375,7 +1375,7 @@
    "Steelers": 8,
    "Ravens": 9,
    "Colts": 9,
-   "Bills": 7,
+   "Bills": 8,
    "Texans": 8,
    "Panthers": 8,
    "Bears": 9,
@@ -1386,7 +1386,7 @@
    "Broncos": 9,
    "Chiefs": 8,
    "Packers": 9,
-   "Vikings": 7,
+   "Vikings": 8,
    "Raiders": 9,
    "Dolphins": 8,
    "Patriots": 9,
