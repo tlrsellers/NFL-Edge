@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-11T23:42Z",
+   "kind": "move",
+   "game": "2026_10_KC_ATL",
+   "text": "Chiefs @ Falcons total moved 45.33 to 46.5."
+  },
+  {
+   "t": "2026-11-11T23:42Z",
+   "kind": "move",
+   "game": "2026_10_HOU_CLE",
+   "text": "Texans @ Browns total moved 40 to 41.33."
+  },
+  {
    "t": "2026-11-10T23:28Z",
    "kind": "move",
    "game": "2026_10_MIN_GB",
@@ -351,18 +363,6 @@
    "kind": "move",
    "game": "2026_09_LV_SF",
    "text": "Raiders @ 49ers total moved 51.5 to 52.67."
-  },
-  {
-   "t": "2026-11-03T23:33Z",
-   "kind": "move",
-   "game": "2026_09_ARI_SEA",
-   "text": "Seahawks moved -10.67 to -11.67 against the Cardinals."
-  },
-  {
-   "t": "2026-11-03T23:33Z",
-   "kind": "move",
-   "game": "2026_09_ARI_SEA",
-   "text": "Cardinals @ Seahawks total moved 43.67 to 42."
   }
  ]
 }
