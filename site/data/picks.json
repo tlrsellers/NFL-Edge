@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 58,
-  "pending": 16,
+  "pending": 18,
   "overall": {
    "wins": 30,
    "losses": 28,
@@ -3797,7 +3797,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.67
+   "close": -2.5
   },
   "2026_10_HOU_CLE:total": {
    "game": "2026_10_HOU_CLE",
@@ -3852,7 +3852,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 41.33
+   "close": 40.5
   },
   "2026_10_MIN_GB:spread": {
    "game": "2026_10_MIN_GB",
@@ -3964,7 +3964,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 42.33
+   "close": 42.0
   },
   "2026_10_MIA_IND:total": {
    "game": "2026_10_MIA_IND",
@@ -4018,7 +4018,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 38.0
+   "close": 37.83
   },
   "2026_10_CAR_NO:total": {
    "game": "2026_10_CAR_NO",
@@ -4187,7 +4187,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.0
+   "close": 40.67
   },
   "2026_10_SEA_LV:total": {
    "game": "2026_10_SEA_LV",
@@ -4347,7 +4347,7 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 46.33
+   "close": 46.5
   },
   "2026_10_LAC_BAL:total": {
    "game": "2026_10_LAC_BAL",
@@ -4461,7 +4461,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 9.33
+   "close": 9.5
   },
   "2026_10_LA_ARI:total": {
    "game": "2026_10_LA_ARI",
@@ -4516,7 +4516,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 39.33
+   "close": 39.5
   },
   "2026_10_MIA_IND:spread": {
    "game": "2026_10_MIA_IND",
@@ -4625,6 +4625,110 @@
     "news_injury": true
    },
    "close": -2.5
+  },
+  "2026_11_IND_HOU:spread": {
+   "game": "2026_11_IND_HOU",
+   "week": 11,
+   "start": "2026-11-20T01:15Z",
+   "home": "Texans",
+   "away": "Colts",
+   "bet": "spread",
+   "side": "Colts",
+   "line": 10.0,
+   "book": "draftkings",
+   "edge": 3.9,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-11-12T21:21Z",
+   "projection": {
+    "home": 27.1,
+    "away": 21.0,
+    "total": 48.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Colts defense",
+      "points": -2.6
+     },
+     {
+      "label": "Colts offense",
+      "points": -2.0
+     },
+     {
+      "label": "Texans offense",
+      "points": -1.5
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Colts. Read them below before betting.",
+     "Recent headlines mention an injury or absence for the Texans."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -9.75
+  },
+  "2026_11_IND_HOU:total": {
+   "game": "2026_11_IND_HOU",
+   "week": 11,
+   "start": "2026-11-20T01:15Z",
+   "home": "Texans",
+   "away": "Colts",
+   "bet": "total",
+   "side": "Over",
+   "line": 43.5,
+   "book": "fanduel",
+   "edge": 4.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-11-12T21:21Z",
+   "projection": {
+    "home": 27.1,
+    "away": 21.0,
+    "total": 48.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Colts defense",
+      "points": 2.6
+     },
+     {
+      "label": "Colts offense",
+      "points": -2.0
+     },
+     {
+      "label": "Texans offense",
+      "points": 1.5
+     },
+     {
+      "label": "Texans defense",
+      "points": 0.0
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Colts. Read them below before betting.",
+     "Recent headlines mention an injury or absence for the Texans."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 44.0
   }
  }
 }
