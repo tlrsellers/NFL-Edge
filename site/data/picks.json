@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 58,
-  "pending": 18,
+  "graded": 59,
+  "pending": 17,
   "overall": {
    "wins": 30,
-   "losses": 28,
+   "losses": 29,
    "pushes": 0,
-   "win_pct": 0.517,
-   "units": -0.73,
-   "avg_clv": 0.48,
-   "beat_close": 0.569
+   "win_pct": 0.508,
+   "units": -1.73,
+   "avg_clv": 0.52,
+   "beat_close": 0.576
   },
   "by_tier": {
    "spread:model": {
@@ -32,21 +32,21 @@
    },
    "total:lean": {
     "wins": 6,
-    "losses": 4,
+    "losses": 5,
     "pushes": 0,
-    "win_pct": 0.6,
-    "units": 1.45,
-    "avg_clv": 0.62,
-    "beat_close": 0.4
+    "win_pct": 0.545,
+    "units": 0.45,
+    "avg_clv": 0.82,
+    "beat_close": 0.455
    },
    "total:all": {
     "wins": 17,
-    "losses": 15,
+    "losses": 16,
     "pushes": 0,
-    "win_pct": 0.531,
-    "units": 0.45,
-    "avg_clv": 0.31,
-    "beat_close": 0.531
+    "win_pct": 0.515,
+    "units": -0.55,
+    "avg_clv": 0.38,
+    "beat_close": 0.545
    },
    "total:model": {
     "wins": 10,
@@ -68,6 +68,15 @@
    }
   },
   "by_week": {
+   "10": {
+    "wins": 0,
+    "losses": 1,
+    "pushes": 0,
+    "win_pct": 0.0,
+    "units": -1.0,
+    "avg_clv": 2.8,
+    "beat_close": 1.0
+   },
    "6": {
     "wins": 6,
     "losses": 0,
@@ -3797,7 +3806,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.5
+   "close": -2.67
   },
   "2026_10_HOU_CLE:total": {
    "game": "2026_10_HOU_CLE",
@@ -3964,7 +3973,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 42.0
+   "close": 42.33
   },
   "2026_10_MIA_IND:total": {
    "game": "2026_10_MIA_IND",
@@ -4018,7 +4027,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 37.83
+   "close": 38.17
   },
   "2026_10_CAR_NO:total": {
    "game": "2026_10_CAR_NO",
@@ -4072,7 +4081,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.67
+   "close": 48.5
   },
   "2026_10_BUF_NYJ:spread": {
    "game": "2026_10_BUF_NYJ",
@@ -4187,7 +4196,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 40.67
+   "close": 40.67,
+   "final": {
+    "home": 21,
+    "away": 24
+   },
+   "margin": -1.5,
+   "result": "loss",
+   "clv": 2.8
   },
   "2026_10_SEA_LV:total": {
    "game": "2026_10_SEA_LV",
@@ -4624,7 +4640,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -2.5
+   "close": -2.0
   },
   "2026_11_IND_HOU:spread": {
    "game": "2026_11_IND_HOU",
