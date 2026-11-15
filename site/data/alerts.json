@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-15T16:08Z",
+   "kind": "move",
+   "game": "2026_10_NE_DET",
+   "text": "Lions moved -2.67 to -22.83 against the Patriots."
+  },
+  {
+   "t": "2026-11-15T16:08Z",
+   "kind": "move",
+   "game": "2026_10_NE_DET",
+   "text": "Patriots @ Lions total moved 49.5 to 44.83."
+  },
+  {
    "t": "2026-11-13T03:14Z",
    "kind": "move",
    "game": "2026_10_WAS_NYG",
@@ -351,18 +363,6 @@
    "kind": "move",
    "game": "2026_09_ARI_SEA",
    "text": "Cardinals @ Seahawks total moved 41.5 to 39.83."
-  },
-  {
-   "t": "2026-11-04T14:51Z",
-   "kind": "move",
-   "game": "2026_09_CLE_NO",
-   "text": "Saints moved -1.33 to -3 against the Browns."
-  },
-  {
-   "t": "2026-11-03T23:33Z",
-   "kind": "move",
-   "game": "2026_09_JAX_BAL",
-   "text": "Jaguars @ Ravens total moved 42 to 40.33."
   }
  ]
 }
