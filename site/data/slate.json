@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:26Z",
+ "updated": "2026-11-15T19:37Z",
  "week": 10,
  "season": 2026,
  "sample": false,
@@ -20,25 +20,25 @@
    "lines": {
     "draftkings": {
      "spread_home": 12.5,
-     "spread_home_price": -120,
-     "spread_away_price": -110,
-     "total": 39.5,
-     "over_price": -125,
-     "under_price": -105
+     "spread_home_price": -118,
+     "spread_away_price": -111,
+     "total": 38.5,
+     "over_price": -118,
+     "under_price": -112
     },
     "fanduel": {
      "spread_home": 12.5,
      "spread_home_price": -114,
      "spread_away_price": -114,
-     "total": 39.5,
-     "over_price": -114,
-     "under_price": -114
+     "total": 38.5,
+     "over_price": -118,
+     "under_price": -112
     },
     "bovada": {
      "spread_home": 12.5,
      "spread_home_price": -115,
      "spread_away_price": -115,
-     "total": 39.5,
+     "total": 38.5,
      "over_price": -115,
      "under_price": -115
     }
@@ -143,6 +143,11 @@
      "2026-11-15T19:26Z",
      12.5,
      39.5
+    ],
+    [
+     "2026-11-15T19:37Z",
+     12.5,
+     38.5
     ]
    ],
    "projection": {
@@ -167,14 +172,14 @@
     "total": {
      "bet": "total",
      "side": "Over",
-     "line": 39.5,
+     "line": 38.5,
      "book": "draftkings",
-     "edge": 5.6,
-     "label": "Over 39.5",
-     "cover": 0.508,
+     "edge": 6.6,
+     "label": "Over 38.5",
+     "cover": 0.51,
      "pattern": null,
      "tier": "model",
-     "moved_against": 7.0
+     "moved_against": 8.0
     }
    },
    "best": {
@@ -415,7 +420,7 @@
      ]
     },
     "total": {
-     "summary": "The model projects 45.1 total points; the best Over number is 39.5. That's a 5.6 point gap.",
+     "summary": "The model projects 45.1 total points; the best Over number is 38.5. That's a 6.6 point gap.",
      "factors": [
       {
        "label": "Chiefs offense",
@@ -444,7 +449,7 @@
      "checks": [
       {
        "ok": true,
-       "text": "Model edge of 5.6 points (over the 3-point bar for a model lean)."
+       "text": "Model edge of 6.6 points (over the 3-point bar for a model lean)."
       },
       {
        "ok": false,
@@ -452,11 +457,11 @@
       },
       {
        "ok": null,
-       "text": "Estimated chance to win: 50.8%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
+       "text": "Estimated chance to win: 51.0%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
       },
       {
        "ok": null,
-       "text": "The line has moved 7 against this side since it opened."
+       "text": "The line has moved 8 against this side since it opened."
       },
       {
        "ok": null,
@@ -569,26 +574,26 @@
    "weather": null,
    "lines": {
     "draftkings": {
-     "spread_home": 9.5,
+     "spread_home": 8.5,
      "spread_home_price": -112,
-     "spread_away_price": -117,
+     "spread_away_price": -118,
      "total": 49.5,
-     "over_price": -116,
-     "under_price": -114
+     "over_price": -109,
+     "under_price": -120
     },
     "fanduel": {
      "spread_home": 9.5,
-     "spread_home_price": -114,
-     "spread_away_price": -114,
+     "spread_home_price": -118,
+     "spread_away_price": -112,
      "total": 48.5,
      "over_price": -118,
      "under_price": -112
     },
     "bovada": {
-     "spread_home": 8.5,
-     "spread_home_price": -120,
-     "spread_away_price": -110,
-     "total": 47.5,
+     "spread_home": 9.5,
+     "spread_home_price": -115,
+     "spread_away_price": -115,
+     "total": 48.5,
      "over_price": -115,
      "under_price": -115
     }
@@ -698,6 +703,11 @@
      "2026-11-15T19:26Z",
      9.17,
      48.5
+    ],
+    [
+     "2026-11-15T19:37Z",
+     9.17,
+     48.83
     ]
    ],
    "projection": {
@@ -711,7 +721,7 @@
      "bet": "spread",
      "side": "Browns",
      "line": 9.5,
-     "book": "draftkings",
+     "book": "fanduel",
      "edge": 4.8,
      "label": "Browns +9.5",
      "cover": 0.507,
@@ -729,7 +739,7 @@
      "cover": 0.508,
      "pattern": null,
      "tier": "model",
-     "moved_against": 9.0
+     "moved_against": 9.3
     }
    },
    "best": {
@@ -742,7 +752,7 @@
     "cover": 0.508,
     "pattern": null,
     "tier": "model",
-    "moved_against": 9.0
+    "moved_against": 9.3
    },
    "news": {
     "Texans": {
@@ -755,6 +765,13 @@
        "source": "Bozeman Daily Chronicle",
        "published": "2026-11-15T17:03+00:00",
        "flag": "injury"
+      },
+      {
+       "title": "Houston Texans wide receiver Nico Collins' physical catch comes between two Cleveland Browns defenders",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lROVNCbjVRS3FZMDZFYXByMURTcVJBT2lCRnI3MFNWM182T1dYaFFBRU9nZ2szeG9uX0YwR25MWHlESjRwbFZ4R1RuZ292cWIxQlI0bk1iUmphMWhKT3k0TE9yem5tS2tSRjdWYU5xRmVsOFNyVXhUNFZ3eXZDRWtIZUJma3phaldzUnpmQkJod2s?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:32+00:00",
+       "flag": null
       },
       {
        "title": "(LIVE@STREAMs@NFL Game-2026!)* Cleveland Browns vS Houston Texans \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53",
@@ -776,13 +793,6 @@
        "source": "Universitat de Barcelona",
        "published": "2026-11-15T19:07+00:00",
        "flag": null
-      },
-      {
-       "title": "In-Game Highlights from 2026 Browns vs. Texans Week 10",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXozR21kZ3pFQlRyS0lZc0JDSnVSQW5GRXRHTFZ4TFdnaEMtNlhPMVhQcG5kUGFwZlAwdDFwX1BXbW0yaWVvYlgtYklhcURFcS02UE9SYnJ2bm9vSVlja0x3QWFqRFBib0pKUDRpYkF1NzZscnNoRHNxZzRwV045TXR5Q3ZhU2twaDQ2ZjlVVm5HRzB0WlJJ?oc=5",
-       "source": "Cleveland Browns",
-       "published": "2026-11-15T19:00+00:00",
-       "flag": null
       }
      ]
     },
@@ -791,15 +801,15 @@
      "injury": false,
      "headlines": [
       {
-       "title": "(LIVE@STREAMs@NFL Game-2026!)* Cleveland Browns vS Houston Texans \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53",
-       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZEU1T05ZSGJLVmxpUFd3c20wOEExTENva1JUWG1lTmJOX0FIaEw0XzJFOEd0aGhhS2FsQ0lPbGdfcUlIS21qQUc1X0lSby05QjZwSHRaa1E0RlFRWGxKbzF0U2NobXBNMjYtd29zb2Q2ak5Ja0IzRnNJN05raXBUaWxQaG5CcGI3SWFGb0ZseWFZZUJpc2xlaGRWaXhFWXF1dEdrdENjdVJzMGd3S0k4VzJqS2lZT3JJX0xiNk01SDJZS0U4Wko1WWVvTVVzYnY5WHRsUHZ6OEtRa2FENm0zeGVqS3MydG00TTNkRkxZNGlDS3VzNkFaNkJPcGpMbTRjaElrX1RDOVNNcllwZnZnZmxpVHFVaG54TnRmTjZQZHJBUFBsMWR4TmV2QjdVR2ZpY2VFUmlkVEJvcFRxOGhsaGh2clJ0Uk5LVHc5TmgwTQ?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T19:24+00:00",
+       "title": "Cleveland Browns quarterback Deshaun Watson shows off his wheels with a 20-yard sideline scramble",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBZdjdBYXpUaUM0M1ZnSmRkOWFHcHZRVGhQVXNCSGs4RGlaeDZPUjZuanpqM3lRdzZVbHc2NjUyUjlBQVBrVExBUzNfRTJQYUgyRFFvME40d05SUTBJZVI0cVE2aDhLTHVidFpMaDNFcmY5d2o4TUhjdUxVWFU5ZkNNUm1vVjdERDNXTTV3MGpHcVhIZzlNZzhYcw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:08+00:00",
        "flag": null
       },
       {
-       "title": "Cleveland Browns quarterback Deshaun Watson shows off his wheels with a 20-yard sideline scramble",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBZdjdBYXpUaUM0M1ZnSmRkOWFHcHZRVGhQVXNCSGs4RGlaeDZPUjZuanpqM3lRdzZVbHc2NjUyUjlBQVBrVExBUzNfRTJQYUgyRFFvME40d05SUTBJZVI0cVE2aDhLTHVidFpMaDNFcmY5d2o4TUhjdUxVWFU5ZkNNUm1vVjdERDNXTTV3MGpHcVhIZzlNZzhYcw?oc=5",
+       "title": "Andre Szmyt's 49-yard FG gets Browns on the board vs. Texans",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWVoS1ZGdFp5MGxaeVhhRzVxemVPM2wyNjRmT2hQSXZVVlA5NWlVOElQSldMU2h0cXl1XzBTX1lOdXpFTVA0TXVCLTFvNUE2UnJkTUVhOENZQ09fSWtoLTZ0eVNGandDSUU2aE9kVWo1T3g0VG10Wk5ySUNCT0dwVnNpUDc4UEJLWVVZcWdEWQ?oc=5",
        "source": "NFL.com",
        "published": "2026-11-15T19:08+00:00",
        "flag": null
@@ -830,7 +840,7 @@
    },
    "why": {
     "spread": {
-     "summary": "The model has the Texans by 4.7; the market has the Texans by 9.5. That's a 4.8 point gap on Browns +9.5 at DraftKings.",
+     "summary": "The model has the Texans by 4.7; the market has the Texans by 9.5. That's a 4.8 point gap on Browns +9.5 at FanDuel.",
      "factors": [
       {
        "label": "Browns offense",
@@ -887,6 +897,14 @@
        "team": "Texans"
       },
       {
+       "title": "Houston Texans wide receiver Nico Collins' physical catch comes between two Cleveland Browns defenders",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lROVNCbjVRS3FZMDZFYXByMURTcVJBT2lCRnI3MFNWM182T1dYaFFBRU9nZ2szeG9uX0YwR25MWHlESjRwbFZ4R1RuZ292cWIxQlI0bk1iUmphMWhKT3k0TE9yem5tS2tSRjdWYU5xRmVsOFNyVXhUNFZ3eXZDRWtIZUJma3phaldzUnpmQkJod2s?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:32+00:00",
+       "flag": null,
+       "team": "Texans"
+      },
+      {
        "title": "(LIVE@STREAMs@NFL Game-2026!)* Cleveland Browns vS Houston Texans \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53",
        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZEU1T05ZSGJLVmxpUFd3c20wOEExTENva1JUWG1lTmJOX0FIaEw0XzJFOEd0aGhhS2FsQ0lPbGdfcUlIS21qQUc1X0lSby05QjZwSHRaa1E0RlFRWGxKbzF0U2NobXBNMjYtd29zb2Q2ak5Ja0IzRnNJN05raXBUaWxQaG5CcGI3SWFGb0ZseWFZZUJpc2xlaGRWaXhFWXF1dEdrdENjdVJzMGd3S0k4VzJqS2lZT3JJX0xiNk01SDJZS0U4Wko1WWVvTVVzYnY5WHRsUHZ6OEtRa2FENm0zeGVqS3MydG00TTNkRkxZNGlDS3VzNkFaNkJPcGpMbTRjaElrX1RDOVNNcllwZnZnZmxpVHFVaG54TnRmTjZQZHJBUFBsMWR4TmV2QjdVR2ZpY2VFUmlkVEJvcFRxOGhsaGh2clJ0Uk5LVHc5TmgwTQ?oc=5",
        "source": "Universitat de Barcelona",
@@ -911,24 +929,16 @@
        "team": "Texans"
       },
       {
-       "title": "In-Game Highlights from 2026 Browns vs. Texans Week 10",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXozR21kZ3pFQlRyS0lZc0JDSnVSQW5GRXRHTFZ4TFdnaEMtNlhPMVhQcG5kUGFwZlAwdDFwX1BXbW0yaWVvYlgtYklhcURFcS02UE9SYnJ2bm9vSVlja0x3QWFqRFBib0pKUDRpYkF1NzZscnNoRHNxZzRwV045TXR5Q3ZhU2twaDQ2ZjlVVm5HRzB0WlJJ?oc=5",
-       "source": "Cleveland Browns",
-       "published": "2026-11-15T19:00+00:00",
-       "flag": null,
-       "team": "Texans"
-      },
-      {
-       "title": "(LIVE@STREAMs@NFL Game-2026!)* Cleveland Browns vS Houston Texans \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53",
-       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZEU1T05ZSGJLVmxpUFd3c20wOEExTENva1JUWG1lTmJOX0FIaEw0XzJFOEd0aGhhS2FsQ0lPbGdfcUlIS21qQUc1X0lSby05QjZwSHRaa1E0RlFRWGxKbzF0U2NobXBNMjYtd29zb2Q2ak5Ja0IzRnNJN05raXBUaWxQaG5CcGI3SWFGb0ZseWFZZUJpc2xlaGRWaXhFWXF1dEdrdENjdVJzMGd3S0k4VzJqS2lZT3JJX0xiNk01SDJZS0U4Wko1WWVvTVVzYnY5WHRsUHZ6OEtRa2FENm0zeGVqS3MydG00TTNkRkxZNGlDS3VzNkFaNkJPcGpMbTRjaElrX1RDOVNNcllwZnZnZmxpVHFVaG54TnRmTjZQZHJBUFBsMWR4TmV2QjdVR2ZpY2VFUmlkVEJvcFRxOGhsaGh2clJ0Uk5LVHc5TmgwTQ?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T19:24+00:00",
+       "title": "Cleveland Browns quarterback Deshaun Watson shows off his wheels with a 20-yard sideline scramble",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBZdjdBYXpUaUM0M1ZnSmRkOWFHcHZRVGhQVXNCSGs4RGlaeDZPUjZuanpqM3lRdzZVbHc2NjUyUjlBQVBrVExBUzNfRTJQYUgyRFFvME40d05SUTBJZVI0cVE2aDhLTHVidFpMaDNFcmY5d2o4TUhjdUxVWFU5ZkNNUm1vVjdERDNXTTV3MGpHcVhIZzlNZzhYcw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:08+00:00",
        "flag": null,
        "team": "Browns"
       },
       {
-       "title": "Cleveland Browns quarterback Deshaun Watson shows off his wheels with a 20-yard sideline scramble",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBZdjdBYXpUaUM0M1ZnSmRkOWFHcHZRVGhQVXNCSGs4RGlaeDZPUjZuanpqM3lRdzZVbHc2NjUyUjlBQVBrVExBUzNfRTJQYUgyRFFvME40d05SUTBJZVI0cVE2aDhLTHVidFpMaDNFcmY5d2o4TUhjdUxVWFU5ZkNNUm1vVjdERDNXTTV3MGpHcVhIZzlNZzhYcw?oc=5",
+       "title": "Andre Szmyt's 49-yard FG gets Browns on the board vs. Texans",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWVoS1ZGdFp5MGxaeVhhRzVxemVPM2wyNjRmT2hQSXZVVlA5NWlVOElQSldMU2h0cXl1XzBTX1lOdXpFTVA0TXVCLTFvNUE2UnJkTUVhOENZQ09fSWtoLTZ0eVNGandDSUU2aE9kVWo1T3g0VG10Wk5ySUNCT0dwVnNpUDc4UEJLWVVZcWdEWQ?oc=5",
        "source": "NFL.com",
        "published": "2026-11-15T19:08+00:00",
        "flag": null,
@@ -1001,7 +1011,7 @@
       },
       {
        "ok": null,
-       "text": "The line has moved 9 against this side since it opened."
+       "text": "The line has moved 9.3 against this side since it opened."
       },
       {
        "ok": null,
@@ -1022,6 +1032,14 @@
        "source": "Bozeman Daily Chronicle",
        "published": "2026-11-15T17:03+00:00",
        "flag": "injury",
+       "team": "Texans"
+      },
+      {
+       "title": "Houston Texans wide receiver Nico Collins' physical catch comes between two Cleveland Browns defenders",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lROVNCbjVRS3FZMDZFYXByMURTcVJBT2lCRnI3MFNWM182T1dYaFFBRU9nZ2szeG9uX0YwR25MWHlESjRwbFZ4R1RuZ292cWIxQlI0bk1iUmphMWhKT3k0TE9yem5tS2tSRjdWYU5xRmVsOFNyVXhUNFZ3eXZDRWtIZUJma3phaldzUnpmQkJod2s?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:32+00:00",
+       "flag": null,
        "team": "Texans"
       },
       {
@@ -1049,24 +1067,16 @@
        "team": "Texans"
       },
       {
-       "title": "In-Game Highlights from 2026 Browns vs. Texans Week 10",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXozR21kZ3pFQlRyS0lZc0JDSnVSQW5GRXRHTFZ4TFdnaEMtNlhPMVhQcG5kUGFwZlAwdDFwX1BXbW0yaWVvYlgtYklhcURFcS02UE9SYnJ2bm9vSVlja0x3QWFqRFBib0pKUDRpYkF1NzZscnNoRHNxZzRwV045TXR5Q3ZhU2twaDQ2ZjlVVm5HRzB0WlJJ?oc=5",
-       "source": "Cleveland Browns",
-       "published": "2026-11-15T19:00+00:00",
-       "flag": null,
-       "team": "Texans"
-      },
-      {
-       "title": "(LIVE@STREAMs@NFL Game-2026!)* Cleveland Browns vS Houston Texans \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53",
-       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZEU1T05ZSGJLVmxpUFd3c20wOEExTENva1JUWG1lTmJOX0FIaEw0XzJFOEd0aGhhS2FsQ0lPbGdfcUlIS21qQUc1X0lSby05QjZwSHRaa1E0RlFRWGxKbzF0U2NobXBNMjYtd29zb2Q2ak5Ja0IzRnNJN05raXBUaWxQaG5CcGI3SWFGb0ZseWFZZUJpc2xlaGRWaXhFWXF1dEdrdENjdVJzMGd3S0k4VzJqS2lZT3JJX0xiNk01SDJZS0U4Wko1WWVvTVVzYnY5WHRsUHZ6OEtRa2FENm0zeGVqS3MydG00TTNkRkxZNGlDS3VzNkFaNkJPcGpMbTRjaElrX1RDOVNNcllwZnZnZmxpVHFVaG54TnRmTjZQZHJBUFBsMWR4TmV2QjdVR2ZpY2VFUmlkVEJvcFRxOGhsaGh2clJ0Uk5LVHc5TmgwTQ?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T19:24+00:00",
+       "title": "Cleveland Browns quarterback Deshaun Watson shows off his wheels with a 20-yard sideline scramble",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBZdjdBYXpUaUM0M1ZnSmRkOWFHcHZRVGhQVXNCSGs4RGlaeDZPUjZuanpqM3lRdzZVbHc2NjUyUjlBQVBrVExBUzNfRTJQYUgyRFFvME40d05SUTBJZVI0cVE2aDhLTHVidFpMaDNFcmY5d2o4TUhjdUxVWFU5ZkNNUm1vVjdERDNXTTV3MGpHcVhIZzlNZzhYcw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:08+00:00",
        "flag": null,
        "team": "Browns"
       },
       {
-       "title": "Cleveland Browns quarterback Deshaun Watson shows off his wheels with a 20-yard sideline scramble",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBZdjdBYXpUaUM0M1ZnSmRkOWFHcHZRVGhQVXNCSGs4RGlaeDZPUjZuanpqM3lRdzZVbHc2NjUyUjlBQVBrVExBUzNfRTJQYUgyRFFvME40d05SUTBJZVI0cVE2aDhLTHVidFpMaDNFcmY5d2o4TUhjdUxVWFU5ZkNNUm1vVjdERDNXTTV3MGpHcVhIZzlNZzhYcw?oc=5",
+       "title": "Andre Szmyt's 49-yard FG gets Browns on the board vs. Texans",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWVoS1ZGdFp5MGxaeVhhRzVxemVPM2wyNjRmT2hQSXZVVlA5NWlVOElQSldMU2h0cXl1XzBTX1lOdXpFTVA0TXVCLTFvNUE2UnJkTUVhOENZQ09fSWtoLTZ0eVNGandDSUU2aE9kVWo1T3g0VG10Wk5ySUNCT0dwVnNpUDc4UEJLWVVZcWdEWQ?oc=5",
        "source": "NFL.com",
        "published": "2026-11-15T19:08+00:00",
        "flag": null,
@@ -1114,28 +1124,28 @@
    "weather": null,
    "lines": {
     "draftkings": {
-     "spread_home": 10.5,
-     "spread_home_price": -125,
-     "spread_away_price": -106,
-     "total": 40.5,
-     "over_price": -124,
-     "under_price": -106
+     "spread_home": 12.5,
+     "spread_home_price": -116,
+     "spread_away_price": -113,
+     "total": 37.5,
+     "over_price": -121,
+     "under_price": -109
     },
     "fanduel": {
-     "spread_home": 11.5,
-     "spread_home_price": -130,
-     "spread_away_price": -102,
-     "total": 40.5,
-     "over_price": -128,
-     "under_price": -104
+     "spread_home": 12.5,
+     "spread_home_price": -102,
+     "spread_away_price": -130,
+     "total": 37.5,
+     "over_price": -108,
+     "under_price": -122
     },
     "bovada": {
-     "spread_home": 11.5,
-     "spread_home_price": -115,
-     "spread_away_price": -115,
-     "total": 40.5,
-     "over_price": -115,
-     "under_price": -115
+     "spread_home": 13.5,
+     "spread_home_price": -135,
+     "spread_away_price": 105,
+     "total": 37.5,
+     "over_price": -110,
+     "under_price": -120
     }
    },
    "open": {
@@ -1243,6 +1253,11 @@
      "2026-11-15T19:26Z",
      11.17,
      40.5
+    ],
+    [
+     "2026-11-15T19:37Z",
+     12.83,
+     37.5
     ]
    ],
    "projection": {
@@ -1255,38 +1270,38 @@
     "spread": {
      "bet": "spread",
      "side": "Packers",
-     "line": 11.5,
-     "book": "fanduel",
-     "edge": 13.2,
-     "label": "Packers +11.5",
-     "cover": 0.52,
+     "line": 13.5,
+     "book": "bovada",
+     "edge": 15.2,
+     "label": "Packers +13.5",
+     "cover": 0.523,
      "tier": "model",
-     "moved_against": 13.9,
+     "moved_against": 15.6,
      "pattern": null
     },
     "total": {
      "bet": "total",
-     "side": "Under",
-     "line": 40.5,
+     "side": "Over",
+     "line": 37.5,
      "book": "draftkings",
-     "edge": 2.3,
-     "label": "Under 40.5",
-     "cover": 0.503,
+     "edge": 0.7,
+     "label": "Over 37.5",
+     "cover": 0.501,
      "pattern": null,
      "tier": "pass",
-     "moved_against": -0.5
+     "moved_against": 3.5
     }
    },
    "best": {
     "bet": "spread",
     "side": "Packers",
-    "line": 11.5,
-    "book": "fanduel",
-    "edge": 13.2,
-    "label": "Packers +11.5",
-    "cover": 0.52,
+    "line": 13.5,
+    "book": "bovada",
+    "edge": 15.2,
+    "label": "Packers +13.5",
+    "cover": 0.523,
     "tier": "model",
-    "moved_against": 13.9,
+    "moved_against": 15.6,
     "pattern": null
    },
    "news": {
@@ -1375,7 +1390,7 @@
    },
    "why": {
     "spread": {
-     "summary": "The model has the Packers by 1.7; the market has the Vikings by 11.5. That's a 13.2 point gap on Packers +11.5 at FanDuel.",
+     "summary": "The model has the Packers by 1.7; the market has the Vikings by 13.5. That's a 15.2 point gap on Packers +13.5 at Bovada.",
      "factors": [
       {
        "label": "Vikings defense",
@@ -1406,7 +1421,7 @@
      "checks": [
       {
        "ok": true,
-       "text": "Model edge of 13.2 points (over the 3-point bar for a model lean)."
+       "text": "Model edge of 15.2 points (over the 3-point bar for a model lean)."
       },
       {
        "ok": false,
@@ -1414,11 +1429,11 @@
       },
       {
        "ok": null,
-       "text": "Estimated chance to win: 52.0%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
+       "text": "Estimated chance to win: 52.3%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
       },
       {
        "ok": null,
-       "text": "The line has moved 13.9 against this side since it opened."
+       "text": "The line has moved 15.6 against this side since it opened."
       },
       {
        "ok": null,
@@ -1426,7 +1441,7 @@
       }
      ],
      "risks": [
-      "A 13.2 point gap with an NFL line is unusually large. It usually means the market knows something the stats don't (an injury, a QB change). Check the injury report.",
+      "A 15.2 point gap with an NFL line is unusually large. It usually means the market knows something the stats don't (an injury, a QB change). Check the injury report.",
       "The Vikings' most recent starter, C.Wentz, isn't the QB who played most of the season (K.Murray). The grades still mostly reflect K.Murray.",
       "Recent headlines mention an injury or absence for the Vikings.",
       "Recent headlines mention an injury or absence for the Packers."
@@ -1545,16 +1560,16 @@
      "spread_home_price": -146,
      "spread_away_price": 110,
      "total": 40.5,
-     "over_price": -114,
-     "under_price": -114
+     "over_price": -108,
+     "under_price": -122
     },
     "bovada": {
      "spread_home": -6.5,
      "spread_home_price": -145,
      "spread_away_price": 110,
-     "total": 40.5,
-     "over_price": -115,
-     "under_price": -115
+     "total": 39.5,
+     "over_price": -120,
+     "under_price": -110
     }
    },
    "open": {
@@ -1662,6 +1677,11 @@
      "2026-11-15T19:26Z",
      -6.83,
      40.17
+    ],
+    [
+     "2026-11-15T19:37Z",
+     -6.83,
+     39.83
     ]
    ],
    "projection": {
@@ -1693,7 +1713,7 @@
      "cover": 0.509,
      "pattern": null,
      "tier": "model",
-     "moved_against": 2.8
+     "moved_against": 3.2
     }
    },
    "best": {
@@ -1975,7 +1995,7 @@
       },
       {
        "ok": null,
-       "text": "The line has moved 2.8 against this side since it opened."
+       "text": "The line has moved 3.2 against this side since it opened."
       },
       {
        "ok": null,
@@ -2088,24 +2108,24 @@
    "lines": {
     "draftkings": {
      "spread_home": 6.5,
-     "spread_home_price": -101,
-     "spread_away_price": -130,
+     "spread_home_price": -103,
+     "spread_away_price": -129,
      "total": 31.5,
-     "over_price": -101,
-     "under_price": -130
+     "over_price": -107,
+     "under_price": -123
     },
     "fanduel": {
      "spread_home": 6.5,
-     "spread_home_price": -114,
-     "spread_away_price": -114,
+     "spread_home_price": -102,
+     "spread_away_price": -128,
      "total": 30.5,
-     "over_price": -130,
-     "under_price": -102
+     "over_price": -136,
+     "under_price": 102
     },
     "bovada": {
      "spread_home": 6.5,
-     "spread_home_price": -115,
-     "spread_away_price": -115,
+     "spread_home_price": 105,
+     "spread_away_price": -135,
      "total": 30.5,
      "over_price": -130,
      "under_price": 100
@@ -2214,6 +2234,11 @@
     ],
     [
      "2026-11-15T19:26Z",
+     6.5,
+     30.83
+    ],
+    [
+     "2026-11-15T19:37Z",
      6.5,
      30.83
     ]
@@ -2637,26 +2662,26 @@
    "weather": null,
    "lines": {
     "draftkings": {
-     "spread_home": 9.5,
-     "spread_home_price": -107,
-     "spread_away_price": -123,
+     "spread_home": 8.5,
+     "spread_home_price": -113,
+     "spread_away_price": -117,
      "total": 39.5,
-     "over_price": -118,
-     "under_price": -112
+     "over_price": -127,
+     "under_price": -104
     },
     "fanduel": {
-     "spread_home": 7.5,
+     "spread_home": 8.5,
      "spread_home_price": -114,
      "spread_away_price": -114,
-     "total": 40.5,
-     "over_price": -108,
-     "under_price": -122
+     "total": 39.5,
+     "over_price": -120,
+     "under_price": -110
     },
     "bovada": {
-     "spread_home": 7.5,
-     "spread_home_price": -135,
-     "spread_away_price": 105,
-     "total": 41.5,
+     "spread_home": 8.5,
+     "spread_home_price": -115,
+     "spread_away_price": -115,
+     "total": 39.5,
      "over_price": -115,
      "under_price": -115
     }
@@ -2766,6 +2791,11 @@
      "2026-11-15T19:26Z",
      8.17,
      40.5
+    ],
+    [
+     "2026-11-15T19:37Z",
+     8.5,
+     39.5
     ]
    ],
    "projection": {
@@ -2778,13 +2808,13 @@
     "spread": {
      "bet": "spread",
      "side": "Jets",
-     "line": 9.5,
+     "line": 8.5,
      "book": "draftkings",
-     "edge": 3.1,
-     "label": "Jets +9.5",
-     "cover": 0.505,
-     "tier": "model",
-     "moved_against": 0.7,
+     "edge": 2.1,
+     "label": "Jets +8.5",
+     "cover": 0.503,
+     "tier": "pass",
+     "moved_against": 1.0,
      "pattern": null
     },
     "total": {
@@ -2797,7 +2827,7 @@
      "cover": 0.514,
      "pattern": null,
      "tier": "model",
-     "moved_against": 10.5
+     "moved_against": 11.5
     }
    },
    "best": {
@@ -2810,7 +2840,7 @@
     "cover": 0.514,
     "pattern": null,
     "tier": "model",
-    "moved_against": 10.5
+    "moved_against": 11.5
    },
    "news": {
     "Bills": {
@@ -2887,8 +2917,8 @@
        "flag": null
       },
       {
-       "title": "[#LIVESTREAm]+! Buffalo Bills v New York Jets LIVE Score Updates in NFL Football Match - Nov. 15, 2026",
-       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdEZ3YXU4QVBvYk1ycDR1QmFRWUE0MDJKQWFYemY3eEhLbWhOdU9seXk4MUhDRGg3SkZxVWVBWTg4NXdNNVBsRDJ1ajdoLWVRQWlzWURzWl9OSXJjQ2FQOUJsWnVCMHhnZ0c0eWs2M0c0SHYyZTI2VlFGcmRqZko5Ylo5NDdrVFl2YzRDTDNqRGZOSC0tR2x3ZjU5SnVDM0pPd1hOdzlUQS1oLWthbmwtWnJtbUxsMUV4X1ZOQS1WZWxYb0ZkYTRSR2dfVl9keDZEdU50UUNNdzlYdHYwZkd6SFRTenNWUjdONkprOWxOdnA2ZGJMOEUxTC1weEJPMUNON0dlbEM4NzQ5S0M0QVZIYWpMblNCbFk1TkJodTlWVU0?oc=5",
+       "title": "$+ +LIVE@sTRAmS]*Buffalo Bills vs. New York Jets Premier League Live free streams",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOT0xZaVVjZ2t1UkNDSGZxUEZZYXV0blRZSUdMbUtveXMtM3lxMXRINHptWkdvcUtnRjNsd0JmbzlWekFyLW1YMEh3R2p4ai1kbGw2a1hIVWJnNUthODBkWkxUMXBqWTN5eVpxYUlSNGhNbWdZNFIxMUptV21pSktaQmFUQXBMak5zRi1aMlNXWG9nVjRZd0pzOW5RZWRVeDVDRFZINkYwT2Nkem10OW04R3djNEk3eXY4NkQ5dzZOOUhCT1ZSbTdZRjV0cG02SzdzVEZnbFBSLWZJVTRDZ1hWeGptMHRpNTJjVG9RellIVmUzbEx2eEgxZE1Vc2tvY0p6NTZIS3BvbnFrSGRfM1JFVThCMVNJN0twR19zNmx2MFR2MElIeHRvN1BxTFUzbFdrZmZRT1l6Um1qWFVfMXNxR3o2aElNdw?oc=5",
        "source": "Universitat de Barcelona",
        "published": "2026-11-15T18:49+00:00",
        "flag": null
@@ -2897,147 +2927,6 @@
     }
    },
    "why": {
-    "spread": {
-     "summary": "The model has the Bills by 6.4; the market has the Bills by 9.5. That's a 3.1 point gap on Jets +9.5 at DraftKings.",
-     "factors": [
-      {
-       "label": "Bills offense",
-       "points": -4.0
-      },
-      {
-       "label": "Jets offense",
-       "points": -1.1
-      },
-      {
-       "label": "Jets defense",
-       "points": -0.8
-      },
-      {
-       "label": "Bills defense",
-       "points": -0.5
-      }
-     ],
-     "factor_note": "How the model gets to its number, in points for the Jets. Built only from this season's games, opponent-adjusted; pace is 56 plays a side.",
-     "reasons": [
-      "Model leans are shown so you can see what the numbers say, but they're unproven: in 27 seasons of week-by-week replays, the model's side against the closing line won about 50%.",
-      "The Bills offense is better than average, worth 4.0 points against the Jets.",
-      "The Jets offense is worse than average, worth 1.1 points against the Jets.",
-      "The Jets defense is worse than average, worth 0.8 points against the Jets.",
-      "The Bills pass offense (7.1) should beat the Jets pass defense (3.3).",
-      "The Bills run offense (7.7) should beat the Jets run defense (4.7)."
-     ],
-     "checks": [
-      {
-       "ok": true,
-       "text": "Model edge of 3.1 points (over the 3-point bar for a model lean)."
-      },
-      {
-       "ok": false,
-       "text": "Matches a pattern that has beaten the closing line over many seasons."
-      },
-      {
-       "ok": null,
-       "text": "Estimated chance to win: 50.5%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
-      },
-      {
-       "ok": null,
-       "text": "The line has moved 0.7 against this side since it opened."
-      },
-      {
-       "ok": null,
-       "text": "Check the official injury report for both starting quarterbacks before betting."
-      }
-     ],
-     "risks": [
-      "Recent headlines mention an injury or absence for the Bills.",
-      "Recent headlines mention an injury or absence for the Jets."
-     ],
-     "evidence": [
-      "Live this season: 13-14 (48%), beating the closing line by +0.6 points on average."
-     ],
-     "news": [
-      {
-       "title": "SI's Midseason NFL Report Card Misses Mark By Grading Bills Third in AFC",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEVHRE1wLXVlajg1OThMcXQwRzVHOWZvVEN4UF9CTjBkb3JzMkkyOE1yTWF0WXhvTEFTWXA2VjRkOXV1LXE4UzQxU0xIUk5PTm1XS0FsXy1PM2k4b2ZtWmk0X3gyVU1FR3QzdmtDTVM3a215ZlJCd2ZQbERyWVdoNURFMFRlZWlkTnE2dEd1LXBsdzhVZDVPZnBsbExrc0xQdkFCSDdaU1M3bW1Zc1Vv?oc=5",
-       "source": "Sports Illustrated",
-       "published": "2026-11-15T18:17+00:00",
-       "flag": "injury",
-       "team": "Bills"
-      },
-      {
-       "title": "Final Garrett Wilson, Omar Cooper Jr., Adonai Mitchell injury updates for Jets vs. Bills",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzM2QUNKNmJRcnBBYWdtMHYxcG5LcDJzY0F3NW04aXZ2MWFUM21sN2JoV0NWUGZjWm5hZmtybXlGQVAwSUxTZXBCWDJPYTRlOUdGNXNNYmx3NGdrRDM5WWNiVUZlN0p2aTY1MTlQMEpxVmZ2RGc1WGY5b2dreDQ2R1VBNG5RUzNB?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-11-15T15:09+00:00",
-       "flag": "injury",
-       "team": "Bills"
-      },
-      {
-       "title": "DJ Moore Finally Shakes Injury Status, Appears Ready for Takeoff for Bills in Week 10",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVuelJwRDFSSmpTVy1sdFJVQnB1M0FnOVJBNnl5ZnQzN3RxSm9XM1NFellhdUM0N1J2Zy1MdGNOa0hybEhyazNhbHhPU2RvY2ZUX3B4VkpweVNIcnlubE5mU3VXajBPWjFGeW5HdFdBQm5HbXVOd3dPNDgwa2ZfSzNYSzRGdw?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-11-15T12:34+00:00",
-       "flag": "injury",
-       "team": "Bills"
-      },
-      {
-       "title": "\u200d\u200d\u200d!+\u3010LIVESTREAMS\u3011 Buffalo Bills NFL Game \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c free 15 November 2026 HDQ*0147234",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQam42d2dSNUFfa3dsSGJZUjdBSTNwSW9ZSHRpTWxsQ3VwR0VqWkkwOFYzUEl1NDhrcnE5Y0tySjItNFJpa1B4VXFFdWczWFM1VURzMkEyZFVHZVliVWNPdktpektkczdmc2pfMTNscjZZekFFV0cyNzNUTnhGbEM4T0E5Z0otb0JvVkRFR0pLbnF1RFBIbzZqSll4cGdwb1BJMHlOYjBPSjJjN2JQeHhoY3NmVmVIcjBfNkFxenpuVVc0QmkzZGlGZGZySFNwc2FvM1dlS3BNRjN0bllreG91a0F4ajdDLTF5dHZkVDFmZDc?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T19:07+00:00",
-       "flag": null,
-       "team": "Bills"
-      },
-      {
-       "title": "[WATCHLIVE]TV!] Buffalo Bills vs New York Jets Live Free NFL On TV October, 2026",
-       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPUnVLYWNpbjhwN3ZVbmVFcnV5Rm1wSjhidVF0eXV1aUoyWnVCb3hQNlFvb29Ia2xPc3FOX21BVUtPQjVpYUdwZzBxNzAyajdiTGRBYmpEc0pJdV9DS290SGFjYW9GRVEtQ0lwQ0Noc1JsWlJuRGZ5S01ERVJXSkFpUzF0dENHNUtIYUdBNGNfcGhYaDJ3NWhzR1hKbDRTUkF4bURFaFRKbThvMmhKcTVtSk93M0FEV1RNTnBwTGZFcWdaTkI0Q2tZbW5lNURRYkZRNmYwdEktQUNFY3JpQzhneUhvVG53em92RFE4ai1INWhyZHdsZHRhclYzWlJNell6ZHVSOHFPQ0d0R3RBS3g1VVo5WloybnN0dDVIaVoyZVRxY2RRdldLVQ?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:59+00:00",
-       "flag": null,
-       "team": "Bills"
-      },
-      {
-       "title": "Buffalo Bills Get Concerning Injury News Ahead of Jets Week 10 Game",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTdOWGpZVk1xaF8tX0hKVVliLWRRQVhVaHU1bjY4UDNDTWl5ZGRlNkc5WVFnUlRMazJXb0ZEa3puTVFGQXFuTmZuQTczeTg2cGx6VHB3QTZ2enJWZlZTYVJ6UU9sb3JYZW9YQzFYWGg4cjRpcGM0Y1ltTHlUNU9DdS05azc2X0xaMzFTdDN3?oc=5",
-       "source": "Yahoo Sports",
-       "published": "2026-11-15T17:49+00:00",
-       "flag": "injury",
-       "team": "Jets"
-      },
-      {
-       "title": "\u200d\u200d\u200d!+\u3010LIVESTREAMS\u3011 New York Jets NFL Game \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c free 15 November 2026 HDQ*0147234",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaFg1WTZWZzBCd1o1OU1HOTZhTmUtUERock5jdEVBOHd3SElDYVEwMW1NNFJVekg0cTY4S0p6bTJHTUNqZ3hac2gwNWUzekNXSzdmOUJUY3YySDRZOHByWXgtQzU0Rm9WUm5odVN0M085Sk5WNUtLWUFhLWh6bWhuVFN2QXlOZ05oc2JMblA3bkhLSGZOTzdrOVpmUWpaM1VXMHdMWEltNnZxeUNPZkRpMW96VDZsazVEZlF0aEpUZ1NYaENrR3B4YlJLWlBxUXhHLXFuWmxPUTc4RGhmV3VUZW1yTXR1cmFWYm9wVUdxM3c?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T19:07+00:00",
-       "flag": null,
-       "team": "Jets"
-      },
-      {
-       "title": "\u2611\u3010\u3010Live Streaming!! NOW\u3011\u3011 Buffalo Bills vs New York Jets NFL \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 fRee",
-       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaHliYXJVeDVVUFpFYnN5MHF0RGpELThncTZGSDJyLW9waFl3V2s0VElJN29pbDRyMkYtMjc2c1ZRa184SWNjMEtVZUJZSU1KZEN4aU5hY3VJM1FKa2RMOHoyelRzV1ZpaEJ4NC1pZDhSZmZnczRxXzM3anB5YjJ0ME5pQ3J2cXgtSm9FNWFtRkltZC1icGFpc2RwX2MzQXJHWmJJYm55MG04UUxIY01DT1RkbngwZzNobTJNT29GRW1YV1B5MEFtVTJDTEstWXZXLU4ya3hVZ3g3NE1iZ2hiajExVE9RTUZlek8zQnZmMVZvWXh3U1BQZ1dRQmZQUER3NFhsb3hRT3VRSkRBXy1hdzZXUllNN1c1aEZ0ME1UTTU3cE1yWk5WNQ?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:59+00:00",
-       "flag": null,
-       "team": "Jets"
-      },
-      {
-       "title": "\u200d\u200d\u200d~$!\u3010LIVE@STREAMs\u3011 Buffalo Bills vs New York Jets Football Live Updates, Ways to Watch NFL: Times, TV Channels & Streaming",
-       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOTjB3ZVJfU1hWeWtuMDNVa0VITXlweTV2c25fbnkzdEVDWERkclJjcnp0T1pQZS1yTk1aWmxJZkt0WUN6NW5Iel9qbmxUa0tvNjBrN1dlRUpVVjFnNWVQT2p6d0loMzMxclN5cUhNcGdKaVN4T19JZXJVVzJGbWIyQk5ySVRzNHN6Qmk1WFIwc1lVSVRLMmdjUXFDTnFUV09EWWRseDkyWXd2UDJGRWprZFU1YkRpeFJ0ZEJta1lQMDN0STZLYnlQaWpTWGxGOF9nX3BFTTJuM1ZqZm1YRjdndDdjUFlILXZIMVFlWnpFWl9hM0tselR1VmVUQ19TVkk5N2lDdWpvRDBtczBXaWRtQlkzRlBzRzg0OWc?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:50+00:00",
-       "flag": null,
-       "team": "Jets"
-      },
-      {
-       "title": "[#LIVESTREAm]+! Buffalo Bills v New York Jets LIVE Score Updates in NFL Football Match - Nov. 15, 2026",
-       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdEZ3YXU4QVBvYk1ycDR1QmFRWUE0MDJKQWFYemY3eEhLbWhOdU9seXk4MUhDRGg3SkZxVWVBWTg4NXdNNVBsRDJ1ajdoLWVRQWlzWURzWl9OSXJjQ2FQOUJsWnVCMHhnZ0c0eWs2M0c0SHYyZTI2VlFGcmRqZko5Ylo5NDdrVFl2YzRDTDNqRGZOSC0tR2x3ZjU5SnVDM0pPd1hOdzlUQS1oLWthbmwtWnJtbUxsMUV4X1ZOQS1WZWxYb0ZkYTRSR2dfVl9keDZEdU50UUNNdzlYdHYwZkd6SFRTenNWUjdONkprOWxOdnA2ZGJMOEUxTC1weEJPMUNON0dlbEM4NzQ5S0M0QVZIYWpMblNCbFk1TkJodTlWVU0?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:49+00:00",
-       "flag": null,
-       "team": "Jets"
-      }
-     ]
-    },
     "total": {
      "summary": "The model projects 49.1 total points; the best Over number is 39.5. That's a 9.6 point gap.",
      "factors": [
@@ -3079,7 +2968,7 @@
       },
       {
        "ok": null,
-       "text": "The line has moved 10.5 against this side since it opened."
+       "text": "The line has moved 11.5 against this side since it opened."
       },
       {
        "ok": null,
@@ -3168,8 +3057,8 @@
        "team": "Jets"
       },
       {
-       "title": "[#LIVESTREAm]+! Buffalo Bills v New York Jets LIVE Score Updates in NFL Football Match - Nov. 15, 2026",
-       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdEZ3YXU4QVBvYk1ycDR1QmFRWUE0MDJKQWFYemY3eEhLbWhOdU9seXk4MUhDRGg3SkZxVWVBWTg4NXdNNVBsRDJ1ajdoLWVRQWlzWURzWl9OSXJjQ2FQOUJsWnVCMHhnZ0c0eWs2M0c0SHYyZTI2VlFGcmRqZko5Ylo5NDdrVFl2YzRDTDNqRGZOSC0tR2x3ZjU5SnVDM0pPd1hOdzlUQS1oLWthbmwtWnJtbUxsMUV4X1ZOQS1WZWxYb0ZkYTRSR2dfVl9keDZEdU50UUNNdzlYdHYwZkd6SFRTenNWUjdONkprOWxOdnA2ZGJMOEUxTC1weEJPMUNON0dlbEM4NzQ5S0M0QVZIYWpMblNCbFk1TkJodTlWVU0?oc=5",
+       "title": "$+ +LIVE@sTRAmS]*Buffalo Bills vs. New York Jets Premier League Live free streams",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOT0xZaVVjZ2t1UkNDSGZxUEZZYXV0blRZSUdMbUtveXMtM3lxMXRINHptWkdvcUtnRjNsd0JmbzlWekFyLW1YMEh3R2p4ai1kbGw2a1hIVWJnNUthODBkWkxUMXBqWTN5eVpxYUlSNGhNbWdZNFIxMUptV21pSktaQmFUQXBMak5zRi1aMlNXWG9nVjRZd0pzOW5RZWRVeDVDRFZINkYwT2Nkem10OW04R3djNEk3eXY4NkQ5dzZOOUhCT1ZSbTdZRjV0cG02SzdzVEZnbFBSLWZJVTRDZ1hWeGptMHRpNTJjVG9RellIVmUzbEx2eEgxZE1Vc2tvY0p6NTZIS3BvbnFrSGRfM1JFVThCMVNJN0twR19zNmx2MFR2MElIeHRvN1BxTFUzbFdrZmZRT1l6Um1qWFVfMXNxR3o2aElNdw?oc=5",
        "source": "Universitat de Barcelona",
        "published": "2026-11-15T18:49+00:00",
        "flag": null,
@@ -3193,28 +3082,28 @@
    "weather": null,
    "lines": {
     "draftkings": {
-     "spread_home": 7.5,
-     "spread_home_price": -120,
-     "spread_away_price": -109,
-     "total": 46.5,
-     "over_price": -126,
-     "under_price": -105
+     "spread_home": 9.5,
+     "spread_home_price": -106,
+     "spread_away_price": -124,
+     "total": 48.5,
+     "over_price": -109,
+     "under_price": -121
     },
     "fanduel": {
-     "spread_home": 7.5,
-     "spread_home_price": -122,
-     "spread_away_price": -108,
-     "total": 47.5,
-     "over_price": -102,
-     "under_price": -130
+     "spread_home": 9.5,
+     "spread_home_price": -114,
+     "spread_away_price": -114,
+     "total": 48.5,
+     "over_price": -130,
+     "under_price": -102
     },
     "bovada": {
-     "spread_home": 7.5,
-     "spread_home_price": -135,
-     "spread_away_price": 105,
-     "total": 46.5,
-     "over_price": -115,
-     "under_price": -115
+     "spread_home": 9.5,
+     "spread_home_price": -115,
+     "spread_away_price": -115,
+     "total": 48.5,
+     "over_price": -120,
+     "under_price": -110
     }
    },
    "open": {
@@ -3322,6 +3211,11 @@
      "2026-11-15T19:26Z",
      7.5,
      46.83
+    ],
+    [
+     "2026-11-15T19:37Z",
+     9.5,
+     48.5
     ]
    ],
    "projection": {
@@ -3334,39 +3228,39 @@
     "spread": {
      "bet": "spread",
      "side": "Jaguars",
-     "line": -7.5,
+     "line": -9.5,
      "book": "draftkings",
-     "edge": 5.0,
-     "label": "Jaguars -7.5",
-     "cover": 0.508,
+     "edge": 3.0,
+     "label": "Jaguars -9.5",
+     "cover": 0.505,
      "tier": "model",
-     "moved_against": 2.8,
+     "moved_against": 0.8,
      "pattern": null
     },
     "total": {
      "bet": "total",
      "side": "Under",
-     "line": 47.5,
-     "book": "fanduel",
-     "edge": 3.8,
-     "label": "Under 47.5",
-     "cover": 0.506,
+     "line": 48.5,
+     "book": "draftkings",
+     "edge": 4.8,
+     "label": "Under 48.5",
+     "cover": 0.507,
      "pattern": null,
      "tier": "model",
-     "moved_against": 1.8
+     "moved_against": 3.5
     }
    },
    "best": {
-    "bet": "spread",
-    "side": "Jaguars",
-    "line": -7.5,
+    "bet": "total",
+    "side": "Under",
+    "line": 48.5,
     "book": "draftkings",
-    "edge": 5.0,
-    "label": "Jaguars -7.5",
-    "cover": 0.508,
+    "edge": 4.8,
+    "label": "Under 48.5",
+    "cover": 0.507,
+    "pattern": null,
     "tier": "model",
-    "moved_against": 2.8,
-    "pattern": null
+    "moved_against": 3.5
    },
    "news": {
     "Jaguars": {
@@ -3379,6 +3273,13 @@
        "source": "Sports Illustrated",
        "published": "2026-11-15T11:25+00:00",
        "flag": "injury"
+      },
+      {
+       "title": "Cam Little extends Jaguars lead with 46-yard FG over Titans",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWEtMZnBRRS1POEVuZW9xbFM2TzQtbV9CZWNDeEhXUHdvYmFHbXVLTy1paFVrWUtXZHQ2ZFpJQjFBUnRQcmIyZlNCeW04UmJlVEFONUV2a1JSRjhhbm9DRjBkU2lPUXhoa2xaMk5iMmJrekFxdHIzRmdTUWMxdEVySW9uOGI4R3BQcmQwdUl2cw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:13+00:00",
+       "flag": null
       },
       {
        "title": "\u200d\u200d\u200d!+\u3010LIVESTREAMS\u3011 Jacksonville Jaguars NFL Game \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c free 15 November 2026 HDQ*0147234",
@@ -3400,13 +3301,6 @@
        "source": "NFL.com",
        "published": "2026-11-15T18:57+00:00",
        "flag": null
-      },
-      {
-       "title": "\u200d\u200d\u200d [WATCHLIVE]TV!] Jacksonville Jaguars vs Tennessee Titans Football \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c",
-       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1JSHFxMjl2ZXdzaDg5UlNlSkxXS0FGRHpRME4tQmtvVFd1d1k4RVp0V012SFZjY29vSjJuZVZ5VERJeHF5QjRoc0s1TjA0blE5LW1lOHRuNGdhQlFqWFl1SG81dEM1ZUNXaU5UTXI5U194eUV6eHViLWxZS0wtRU5hTGFITWRBWERKelBkelpqdXFJVHdQdnhHWm96cUVSUGk4VG14cDNGOVNJbnRWZnRiTFl1RkZkWDVyWjJ5bW9Na1FoTWg1Wk9JcWVINXh5aUY0TVlBU1EwZVRNazZxbnpKSVVEMXVfZnBRQ0NldlVyb1VlYUZKb0FIcmh0NzNNdGRRWXFfcjRTZkRoSUVhZ3ppOVJpZ3ZYZVE?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:50+00:00",
-       "flag": null
       }
      ]
     },
@@ -3414,6 +3308,13 @@
      "qb_alert": false,
      "injury": false,
      "headlines": [
+      {
+       "title": "Tennessee Trails Through 2: Can Titans Overcome Familiar Issues to Stun Jaguars in Second Half?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjZocFhIdzRkcGdfLXVndVhiRUhBOTU3WmdCSzFHNHFZXzhUUklYcjg2R1gzWEJOamRKcHMwYkw5bTAtSXgyTndQRmRyZlRpSHNYektmX2FsVEdNRXh1X1JTZXZNbWVjc0ZzQnJ4ZkdtRk9QSzJ1WWp5ZV9aVlNWUmJXb1RoT2xZdlZERzJ6dS00OHBhVS11dVVXQVRvb3ZwaEZxWjE3cWh5WVJxTVhIcXg5Q1prUGtPcF9DeTFhM1ptbWlhZUM1Tk43YVFPVVRvd04wdWkxM2I?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-11-15T19:34+00:00",
+       "flag": null
+      },
       {
        "title": "\u200d\u200d\u200d!+\u3010LIVESTREAMS\u3011 Tennessee Titans NFL Game \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c free 15 November 2026 HDQ*0147234",
        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVkNoWkRPQkY4VFpqRTItSkhfMDd5OGxaRFZtQTBQYUdaRURPZDBseHhJbGdJVUFXWHhyVXYzb2tlSFotZ0tEUnFjenhOUTFiNTRfVldNY1d0bHJnUG5EYjdoRU4ySmE4Rkt1N2xsMUFSSEQzR0M3dXZCUE9oMTlucTFmaTZnUmpKSzVTaVdHNmFzNmtNWUpvcURXaUN1ckR0ZVNzZWRpR1FzODZQdGFvOG5VNmhVS0NIeGRYMk5wNFpzaW4xM3BZN2pndURfNmVId2pBdVhBSFJtdUNYUEtmUzU2ZUY0TzRoSFUweFprSVU?oc=5",
@@ -3441,20 +3342,13 @@
        "source": "Universitat de Barcelona",
        "published": "2026-11-15T18:50+00:00",
        "flag": null
-      },
-      {
-       "title": "Jacksonville Jaguars at Tennessee Titans - NFL Game Summary - Nov 15, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOGVZMTdrd2VhQTkwZF9uQzJmWnNHMTNFUmNyUi1CQWJvMVlmZDZhb2xwVVNMS09yRDRJaFNjcmNkNWZtMm44WnU2dEsya1JxSDJtVHRLSzk3QlRrOUVNOHczMGRQVmpaeWNwMWpDQzFkYUJQaVlqVTlvVFNRaE9yUmRTZGF2M1U1cGZaU0tRWjNoeEtjVjhESnFYdlVzOGt6VXdUeHRxeGRnY1NoN0JhVTJtZFFfSTFNUFVOUjI5bTJ4UFJQWnZoWTNxeTNWbWsxNnZUQnVXc2owR2Rqc2ljdmQ5TkNxa2w0ZXN1b1dR?oc=5",
-       "source": "USA Today",
-       "published": "2026-11-15T18:44+00:00",
-       "flag": null
       }
      ]
     }
    },
    "why": {
     "spread": {
-     "summary": "The model has the Jaguars by 12.5; the market has the Jaguars by 7.5. That's a 5.0 point gap on Jaguars -7.5 at DraftKings.",
+     "summary": "The model has the Jaguars by 12.5; the market has the Jaguars by 9.5. That's a 3.0 point gap on Jaguars -9.5 at DraftKings.",
      "factors": [
       {
        "label": "Jaguars defense",
@@ -3485,7 +3379,7 @@
      "checks": [
       {
        "ok": true,
-       "text": "Model edge of 5.0 points (over the 3-point bar for a model lean)."
+       "text": "Model edge of 3.0 points (over the 3-point bar for a model lean)."
       },
       {
        "ok": false,
@@ -3493,11 +3387,11 @@
       },
       {
        "ok": null,
-       "text": "Estimated chance to win: 50.8%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
+       "text": "Estimated chance to win: 50.5%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
       },
       {
        "ok": null,
-       "text": "The line has moved 2.8 against this side since it opened."
+       "text": "The line has moved 0.8 against this side since it opened."
       },
       {
        "ok": null,
@@ -3517,6 +3411,14 @@
        "source": "Sports Illustrated",
        "published": "2026-11-15T11:25+00:00",
        "flag": "injury",
+       "team": "Jaguars"
+      },
+      {
+       "title": "Cam Little extends Jaguars lead with 46-yard FG over Titans",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWEtMZnBRRS1POEVuZW9xbFM2TzQtbV9CZWNDeEhXUHdvYmFHbXVLTy1paFVrWUtXZHQ2ZFpJQjFBUnRQcmIyZlNCeW04UmJlVEFONUV2a1JSRjhhbm9DRjBkU2lPUXhoa2xaMk5iMmJrekFxdHIzRmdTUWMxdEVySW9uOGI4R3BQcmQwdUl2cw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:13+00:00",
+       "flag": null,
        "team": "Jaguars"
       },
       {
@@ -3544,12 +3446,12 @@
        "team": "Jaguars"
       },
       {
-       "title": "\u200d\u200d\u200d [WATCHLIVE]TV!] Jacksonville Jaguars vs Tennessee Titans Football \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c",
-       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1JSHFxMjl2ZXdzaDg5UlNlSkxXS0FGRHpRME4tQmtvVFd1d1k4RVp0V012SFZjY29vSjJuZVZ5VERJeHF5QjRoc0s1TjA0blE5LW1lOHRuNGdhQlFqWFl1SG81dEM1ZUNXaU5UTXI5U194eUV6eHViLWxZS0wtRU5hTGFITWRBWERKelBkelpqdXFJVHdQdnhHWm96cUVSUGk4VG14cDNGOVNJbnRWZnRiTFl1RkZkWDVyWjJ5bW9Na1FoTWg1Wk9JcWVINXh5aUY0TVlBU1EwZVRNazZxbnpKSVVEMXVfZnBRQ0NldlVyb1VlYUZKb0FIcmh0NzNNdGRRWXFfcjRTZkRoSUVhZ3ppOVJpZ3ZYZVE?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:50+00:00",
+       "title": "Tennessee Trails Through 2: Can Titans Overcome Familiar Issues to Stun Jaguars in Second Half?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjZocFhIdzRkcGdfLXVndVhiRUhBOTU3WmdCSzFHNHFZXzhUUklYcjg2R1gzWEJOamRKcHMwYkw5bTAtSXgyTndQRmRyZlRpSHNYektmX2FsVEdNRXh1X1JTZXZNbWVjc0ZzQnJ4ZkdtRk9QSzJ1WWp5ZV9aVlNWUmJXb1RoT2xZdlZERzJ6dS00OHBhVS11dVVXQVRvb3ZwaEZxWjE3cWh5WVJxTVhIcXg5Q1prUGtPcF9DeTFhM1ptbWlhZUM1Tk43YVFPVVRvd04wdWkxM2I?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-11-15T19:34+00:00",
        "flag": null,
-       "team": "Jaguars"
+       "team": "Titans"
       },
       {
        "title": "\u200d\u200d\u200d!+\u3010LIVESTREAMS\u3011 Tennessee Titans NFL Game \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c free 15 November 2026 HDQ*0147234",
@@ -3582,19 +3484,11 @@
        "published": "2026-11-15T18:50+00:00",
        "flag": null,
        "team": "Titans"
-      },
-      {
-       "title": "Jacksonville Jaguars at Tennessee Titans - NFL Game Summary - Nov 15, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOGVZMTdrd2VhQTkwZF9uQzJmWnNHMTNFUmNyUi1CQWJvMVlmZDZhb2xwVVNMS09yRDRJaFNjcmNkNWZtMm44WnU2dEsya1JxSDJtVHRLSzk3QlRrOUVNOHczMGRQVmpaeWNwMWpDQzFkYUJQaVlqVTlvVFNRaE9yUmRTZGF2M1U1cGZaU0tRWjNoeEtjVjhESnFYdlVzOGt6VXdUeHRxeGRnY1NoN0JhVTJtZFFfSTFNUFVOUjI5bTJ4UFJQWnZoWTNxeTNWbWsxNnZUQnVXc2owR2Rqc2ljdmQ5TkNxa2w0ZXN1b1dR?oc=5",
-       "source": "USA Today",
-       "published": "2026-11-15T18:44+00:00",
-       "flag": null,
-       "team": "Titans"
       }
      ]
     },
     "total": {
-     "summary": "The model projects 43.7 total points; the best Under number is 47.5. That's a 3.8 point gap.",
+     "summary": "The model projects 43.7 total points; the best Under number is 48.5. That's a 4.8 point gap.",
      "factors": [
       {
        "label": "Jaguars defense",
@@ -3623,7 +3517,7 @@
      "checks": [
       {
        "ok": true,
-       "text": "Model edge of 3.8 points (over the 3-point bar for a model lean)."
+       "text": "Model edge of 4.8 points (over the 3-point bar for a model lean)."
       },
       {
        "ok": false,
@@ -3631,11 +3525,11 @@
       },
       {
        "ok": null,
-       "text": "Estimated chance to win: 50.6%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
+       "text": "Estimated chance to win: 50.7%, from the model edge, shrunk toward the market. You need 52.4% to break even at -110."
       },
       {
        "ok": null,
-       "text": "The line has moved 1.8 against this side since it opened."
+       "text": "The line has moved 3.5 against this side since it opened."
       },
       {
        "ok": null,
@@ -3655,6 +3549,14 @@
        "source": "Sports Illustrated",
        "published": "2026-11-15T11:25+00:00",
        "flag": "injury",
+       "team": "Jaguars"
+      },
+      {
+       "title": "Cam Little extends Jaguars lead with 46-yard FG over Titans",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWEtMZnBRRS1POEVuZW9xbFM2TzQtbV9CZWNDeEhXUHdvYmFHbXVLTy1paFVrWUtXZHQ2ZFpJQjFBUnRQcmIyZlNCeW04UmJlVEFONUV2a1JSRjhhbm9DRjBkU2lPUXhoa2xaMk5iMmJrekFxdHIzRmdTUWMxdEVySW9uOGI4R3BQcmQwdUl2cw?oc=5",
+       "source": "NFL.com",
+       "published": "2026-11-15T19:13+00:00",
+       "flag": null,
        "team": "Jaguars"
       },
       {
@@ -3682,12 +3584,12 @@
        "team": "Jaguars"
       },
       {
-       "title": "\u200d\u200d\u200d [WATCHLIVE]TV!] Jacksonville Jaguars vs Tennessee Titans Football \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c",
-       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1JSHFxMjl2ZXdzaDg5UlNlSkxXS0FGRHpRME4tQmtvVFd1d1k4RVp0V012SFZjY29vSjJuZVZ5VERJeHF5QjRoc0s1TjA0blE5LW1lOHRuNGdhQlFqWFl1SG81dEM1ZUNXaU5UTXI5U194eUV6eHViLWxZS0wtRU5hTGFITWRBWERKelBkelpqdXFJVHdQdnhHWm96cUVSUGk4VG14cDNGOVNJbnRWZnRiTFl1RkZkWDVyWjJ5bW9Na1FoTWg1Wk9JcWVINXh5aUY0TVlBU1EwZVRNazZxbnpKSVVEMXVfZnBRQ0NldlVyb1VlYUZKb0FIcmh0NzNNdGRRWXFfcjRTZkRoSUVhZ3ppOVJpZ3ZYZVE?oc=5",
-       "source": "Universitat de Barcelona",
-       "published": "2026-11-15T18:50+00:00",
+       "title": "Tennessee Trails Through 2: Can Titans Overcome Familiar Issues to Stun Jaguars in Second Half?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjZocFhIdzRkcGdfLXVndVhiRUhBOTU3WmdCSzFHNHFZXzhUUklYcjg2R1gzWEJOamRKcHMwYkw5bTAtSXgyTndQRmRyZlRpSHNYektmX2FsVEdNRXh1X1JTZXZNbWVjc0ZzQnJ4ZkdtRk9QSzJ1WWp5ZV9aVlNWUmJXb1RoT2xZdlZERzJ6dS00OHBhVS11dVVXQVRvb3ZwaEZxWjE3cWh5WVJxTVhIcXg5Q1prUGtPcF9DeTFhM1ptbWlhZUM1Tk43YVFPVVRvd04wdWkxM2I?oc=5",
+       "source": "Sports Illustrated",
+       "published": "2026-11-15T19:34+00:00",
        "flag": null,
-       "team": "Jaguars"
+       "team": "Titans"
       },
       {
        "title": "\u200d\u200d\u200d!+\u3010LIVESTREAMS\u3011 Tennessee Titans NFL Game \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c free 15 November 2026 HDQ*0147234",
@@ -3718,14 +3620,6 @@
        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1JSHFxMjl2ZXdzaDg5UlNlSkxXS0FGRHpRME4tQmtvVFd1d1k4RVp0V012SFZjY29vSjJuZVZ5VERJeHF5QjRoc0s1TjA0blE5LW1lOHRuNGdhQlFqWFl1SG81dEM1ZUNXaU5UTXI5U194eUV6eHViLWxZS0wtRU5hTGFITWRBWERKelBkelpqdXFJVHdQdnhHWm96cUVSUGk4VG14cDNGOVNJbnRWZnRiTFl1RkZkWDVyWjJ5bW9Na1FoTWg1Wk9JcWVINXh5aUY0TVlBU1EwZVRNazZxbnpKSVVEMXVfZnBRQ0NldlVyb1VlYUZKb0FIcmh0NzNNdGRRWXFfcjRTZkRoSUVhZ3ppOVJpZ3ZYZVE?oc=5",
        "source": "Universitat de Barcelona",
        "published": "2026-11-15T18:50+00:00",
-       "flag": null,
-       "team": "Titans"
-      },
-      {
-       "title": "Jacksonville Jaguars at Tennessee Titans - NFL Game Summary - Nov 15, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOGVZMTdrd2VhQTkwZF9uQzJmWnNHMTNFUmNyUi1CQWJvMVlmZDZhb2xwVVNMS09yRDRJaFNjcmNkNWZtMm44WnU2dEsya1JxSDJtVHRLSzk3QlRrOUVNOHczMGRQVmpaeWNwMWpDQzFkYUJQaVlqVTlvVFNRaE9yUmRTZGF2M1U1cGZaU0tRWjNoeEtjVjhESnFYdlVzOGt6VXdUeHRxeGRnY1NoN0JhVTJtZFFfSTFNUFVOUjI5bTJ4UFJQWnZoWTNxeTNWbWsxNnZUQnVXc2owR2Rqc2ljdmQ5TkNxa2w0ZXN1b1dR?oc=5",
-       "source": "USA Today",
-       "published": "2026-11-15T18:44+00:00",
        "flag": null,
        "team": "Titans"
       }
@@ -3764,8 +3658,8 @@
     },
     "bovada": {
      "spread_home": 10.0,
-     "spread_home_price": -108,
-     "spread_away_price": -112,
+     "spread_home_price": -110,
+     "spread_away_price": -110,
      "total": 38.0,
      "over_price": -112,
      "under_price": -108
@@ -3874,6 +3768,11 @@
     ],
     [
      "2026-11-15T19:26Z",
+     9.67,
+     38.33
+    ],
+    [
+     "2026-11-15T19:37Z",
      9.67,
      38.33
     ]
@@ -4420,6 +4319,11 @@
      "2026-11-15T19:26Z",
      6.5,
      40.67
+    ],
+    [
+     "2026-11-15T19:37Z",
+     6.5,
+     40.67
     ]
    ],
    "projection": {
@@ -4541,10 +4445,10 @@
        "flag": null
       },
       {
-       "title": "Picks And Predictions For Week 10 vs. Las Vegas Raiders",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFluYWg0MHR4OFpyOWZ5TzRHYno0MjBLX3JvemJtb1Vtc1JSM21WZTlmZURJb2Q0SDNwcDFqNnVlQ2hXX0JqajJDV2VwOTFGTlYyR0Fsa2kxS0RSS2NyMDlKUWd5dkJJWGsxdTZ4R0M1NlZFaFdSSzB6OWtmZU53c3Y1UDBmbUMySXhUSlRhZVZZdw?oc=5",
-       "source": "Seattle Seahawks",
-       "published": "2026-11-15T19:01+00:00",
+       "title": "Seattle Seahawks @ Las Vegas Raiders: Live game updates, stats, play-by-play",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNck5ZcjNXU0EwNzFINmowS19qZFRVY1NHdTgzYU9vaTdqekMyUnl6T1hSeHZXTWZjR3FmLXo0ZGNDb3prWjQzaTZNcWV2WTF6MHJFTmgtamJ4ZE9vRnRDb250MHJvSW94ZUpQM1p3bHU4UW5NLUtoVjZZNGs0clVqN1RB?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-11-15T19:04+00:00",
        "flag": null
       }
      ]
@@ -4681,10 +4585,10 @@
        "team": "Raiders"
       },
       {
-       "title": "Picks And Predictions For Week 10 vs. Las Vegas Raiders",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFluYWg0MHR4OFpyOWZ5TzRHYno0MjBLX3JvemJtb1Vtc1JSM21WZTlmZURJb2Q0SDNwcDFqNnVlQ2hXX0JqajJDV2VwOTFGTlYyR0Fsa2kxS0RSS2NyMDlKUWd5dkJJWGsxdTZ4R0M1NlZFaFdSSzB6OWtmZU53c3Y1UDBmbUMySXhUSlRhZVZZdw?oc=5",
-       "source": "Seattle Seahawks",
-       "published": "2026-11-15T19:01+00:00",
+       "title": "Seattle Seahawks @ Las Vegas Raiders: Live game updates, stats, play-by-play",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNck5ZcjNXU0EwNzFINmowS19qZFRVY1NHdTgzYU9vaTdqekMyUnl6T1hSeHZXTWZjR3FmLXo0ZGNDb3prWjQzaTZNcWV2WTF6MHJFTmgtamJ4ZE9vRnRDb250MHJvSW94ZUpQM1p3bHU4UW5NLUtoVjZZNGs0clVqN1RB?oc=5",
+       "source": "Yahoo Sports",
+       "published": "2026-11-15T19:04+00:00",
        "flag": null,
        "team": "Raiders"
       }
@@ -4835,6 +4739,11 @@
      "2026-11-15T19:26Z",
      4.33,
      55.67
+    ],
+    [
+     "2026-11-15T19:37Z",
+     4.33,
+     55.67
     ]
    ],
    "projection": {
@@ -4900,7 +4809,7 @@
     "temp": 43,
     "short": "Mostly Cloudy",
     "rain": 0,
-    "checked": "2026-11-15T19:26Z"
+    "checked": "2026-11-15T19:37Z"
    },
    "lines": {
     "draftkings": {
@@ -5023,6 +4932,11 @@
      "2026-11-15T19:26Z",
      -3.5,
      49.67
+    ],
+    [
+     "2026-11-15T19:37Z",
+     -3.5,
+     49.67
     ]
    ],
    "projection": {
@@ -5088,7 +5002,7 @@
     "temp": 45,
     "short": "Mostly Clear",
     "rain": 0,
-    "checked": "2026-11-15T19:26Z"
+    "checked": "2026-11-15T19:37Z"
    },
    "lines": {
     "draftkings": {
@@ -5201,6 +5115,11 @@
      "2026-11-15T19:26Z",
      -4.5,
      38.67
+    ],
+    [
+     "2026-11-15T19:37Z",
+     -4.5,
+     38.67
     ]
    ],
    "projection": {
@@ -5281,10 +5200,10 @@
        "flag": "injury"
       },
       {
-       "title": "Chargers vs Ravens Prediction, Picks & Odds | 16 Nov 2026",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUIzS0RFU3JSUE5yZ0xvZjNlV2R4eFVjdWx0YS1DaEMteWJ3X0plOE9fMXJMcnFoTnpJdjAwSVpGTWpQeXQxSnZ4VUsyM0g4bko4dXR6c2tHclVfRnU4ZTc4QkVtX1U2bmxSZS1nSmhNclVMbXJaZ3pleUVFX0xKbjVmNXU0a2M4Sy1kNEt2bzhUWnhZRUFnczZ2WXF5ZVZHaVB5bldzSjhHaHlsSTNLWW9QOVdXdw?oc=5",
-       "source": "Sportsgambler",
-       "published": "2026-11-15T18:55+00:00",
+       "title": "Could a Chargers' Loss on MNF Against the Ravens Be the Last Straw For Jim Harbaugh?",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSldzSG1fSDMyaWFIX1RheVFKSFUzd28zU0V4WkhScGtGMmg4bkVqWjZtcTQtVnB0S3F2bjFpR251bmxIX0hXUjF0aUxHUmxDci1XRGZ3Vkx6TFVzSm1vR3FDRVp4dFNTeEE0WXdNVDItUkR5R2ZETzFsbEtDUEFGZmVfdEpHeFZ0VW1JTktUTlRTVmZRam80V2N5b2cxNDlHT2lkSExTOGgzZHc4UGV4UE9UNG1IdlpkWkZQeUl0dmNwY2RiME1FWVJMOTI?oc=5",
+       "source": "roundtable.io",
+       "published": "2026-11-15T19:01+00:00",
        "flag": null
       }
      ]
@@ -5422,10 +5341,10 @@
        "team": "Chargers"
       },
       {
-       "title": "Chargers vs Ravens Prediction, Picks & Odds | 16 Nov 2026",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUIzS0RFU3JSUE5yZ0xvZjNlV2R4eFVjdWx0YS1DaEMteWJ3X0plOE9fMXJMcnFoTnpJdjAwSVpGTWpQeXQxSnZ4VUsyM0g4bko4dXR6c2tHclVfRnU4ZTc4QkVtX1U2bmxSZS1nSmhNclVMbXJaZ3pleUVFX0xKbjVmNXU0a2M4Sy1kNEt2bzhUWnhZRUFnczZ2WXF5ZVZHaVB5bldzSjhHaHlsSTNLWW9QOVdXdw?oc=5",
-       "source": "Sportsgambler",
-       "published": "2026-11-15T18:55+00:00",
+       "title": "Could a Chargers' Loss on MNF Against the Ravens Be the Last Straw For Jim Harbaugh?",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSldzSG1fSDMyaWFIX1RheVFKSFUzd28zU0V4WkhScGtGMmg4bkVqWjZtcTQtVnB0S3F2bjFpR251bmxIX0hXUjF0aUxHUmxDci1XRGZ3Vkx6TFVzSm1vR3FDRVp4dFNTeEE0WXdNVDItUkR5R2ZETzFsbEtDUEFGZmVfdEpHeFZ0VW1JTktUTlRTVmZRam80V2N5b2cxNDlHT2lkSExTOGgzZHc4UGV4UE9UNG1IdlpkWkZQeUl0dmNwY2RiME1FWVJMOTI?oc=5",
+       "source": "roundtable.io",
+       "published": "2026-11-15T19:01+00:00",
        "flag": null,
        "team": "Chargers"
       },
@@ -6050,7 +5969,7 @@
    "why": {}
   }
  ],
- "credits_remaining": 340,
+ "credits_remaining": 338,
  "record": {
   "graded": 60,
   "pending": 29,
@@ -6168,6 +6087,42 @@
   }
  },
  "feed": [
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_KC_ATL",
+   "text": "Chiefs @ Falcons total moved 39.5 to 38.5."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Packers moved +11.17 to +12.83 against the Vikings."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Vikings @ Packers total moved 40.5 to 37.5."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_BUF_NYJ",
+   "text": "Bills @ Jets total moved 40.5 to 39.5."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_JAX_TEN",
+   "text": "Titans moved +7.5 to +9.5 against the Jaguars."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_JAX_TEN",
+   "text": "Jaguars @ Titans total moved 46.83 to 48.5."
+  },
   {
    "t": "2026-11-15T19:26Z",
    "kind": "move",
@@ -6491,42 +6446,6 @@
    "kind": "move",
    "game": "2026_09_DEN_CAR",
    "text": "Panthers moved +2.67 to +4.17 against the Broncos."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DEN_CAR",
-   "text": "Broncos @ Panthers total moved 44.67 to 40.17."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DAL_IND",
-   "text": "Cowboys @ Colts total moved 51.5 to 46.17."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_NYJ_KC",
-   "text": "Chiefs moved -9.33 to -6.17 against the Jets."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_NYJ_KC",
-   "text": "Jets @ Chiefs total moved 47.5 to 53.5."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DET_MIA",
-   "text": "Dolphins moved +6.5 to +5.17 against the Lions."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DET_MIA",
-   "text": "Lions @ Dolphins total moved 50.17 to 34.5."
   }
  ]
 }

@@ -5,6 +5,42 @@
  ],
  "feed": [
   {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_KC_ATL",
+   "text": "Chiefs @ Falcons total moved 39.5 to 38.5."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Packers moved +11.17 to +12.83 against the Vikings."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_MIN_GB",
+   "text": "Vikings @ Packers total moved 40.5 to 37.5."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_BUF_NYJ",
+   "text": "Bills @ Jets total moved 40.5 to 39.5."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_JAX_TEN",
+   "text": "Titans moved +7.5 to +9.5 against the Jaguars."
+  },
+  {
+   "t": "2026-11-15T19:37Z",
+   "kind": "move",
+   "game": "2026_10_JAX_TEN",
+   "text": "Jaguars @ Titans total moved 46.83 to 48.5."
+  },
+  {
    "t": "2026-11-15T19:26Z",
    "kind": "move",
    "game": "2026_10_KC_ATL",
@@ -327,42 +363,6 @@
    "kind": "move",
    "game": "2026_09_DEN_CAR",
    "text": "Panthers moved +2.67 to +4.17 against the Broncos."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DEN_CAR",
-   "text": "Broncos @ Panthers total moved 44.67 to 40.17."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DAL_IND",
-   "text": "Cowboys @ Colts total moved 51.5 to 46.17."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_NYJ_KC",
-   "text": "Chiefs moved -9.33 to -6.17 against the Jets."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_NYJ_KC",
-   "text": "Jets @ Chiefs total moved 47.5 to 53.5."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DET_MIA",
-   "text": "Dolphins moved +6.5 to +5.17 against the Lions."
-  },
-  {
-   "t": "2026-11-08T19:23Z",
-   "kind": "move",
-   "game": "2026_09_DET_MIA",
-   "text": "Lions @ Dolphins total moved 50.17 to 34.5."
   }
  ]
 }
