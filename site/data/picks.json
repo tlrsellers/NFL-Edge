@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 73,
-  "pending": 17,
+  "pending": 18,
   "overall": {
    "wins": 36,
    "losses": 36,
@@ -4488,7 +4488,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 38.5
+   "close": 39.33
   },
   "2026_10_LA_ARI:spread": {
    "game": "2026_10_LA_ARI",
@@ -4788,7 +4788,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -9.75
+   "close": -11.17
   },
   "2026_11_IND_HOU:total": {
    "game": "2026_11_IND_HOU",
@@ -4842,7 +4842,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 44.5
+   "close": 44.33
   },
   "2026_11_MIA_BUF:spread": {
    "game": "2026_11_MIA_BUF",
@@ -4897,7 +4897,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -16.5
+   "close": -16.33
   },
   "2026_11_BAL_CAR:total": {
    "game": "2026_11_BAL_CAR",
@@ -5005,7 +5005,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -10.25
+   "close": -11.5
   },
   "2026_11_TEN_DAL:spread": {
    "game": "2026_11_TEN_DAL",
@@ -5059,7 +5059,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -7.5
+   "close": -8.0
   },
   "2026_11_TB_DET:spread": {
    "game": "2026_11_TB_DET",
@@ -5112,7 +5112,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -5.5
+   "close": -6.5
   },
   "2026_11_ARI_KC:spread": {
    "game": "2026_11_ARI_KC",
@@ -5168,7 +5168,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -16.0
+   "close": -15.83
   },
   "2026_11_ARI_KC:total": {
    "game": "2026_11_ARI_KC",
@@ -5274,7 +5274,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 6.25
+   "close": 5.67
   },
   "2026_11_NYJ_LAC:spread": {
    "game": "2026_11_NYJ_LAC",
@@ -5382,7 +5382,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.5
+   "close": -9.83
   },
   "2026_11_LV_DEN:total": {
    "game": "2026_11_LV_DEN",
@@ -5437,7 +5437,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 40.5
+   "close": 40.33
   },
   "2026_11_PIT_PHI:total": {
    "game": "2026_11_PIT_PHI",
@@ -5546,7 +5546,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 46.0
+   "close": 46.5
   },
   "2026_11_TEN_DAL:total": {
    "game": "2026_11_TEN_DAL",
@@ -5597,7 +5597,62 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 53.0
+   "close": 54.67
+  },
+  "2026_11_NO_CHI:total": {
+   "game": "2026_11_NO_CHI",
+   "week": 11,
+   "start": "2026-11-22T18:00Z",
+   "home": "Bears",
+   "away": "Saints",
+   "bet": "total",
+   "side": "Under",
+   "line": 49.0,
+   "book": "bovada",
+   "edge": 0.9,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-16T23:08Z",
+   "projection": {
+    "home": 27.0,
+    "away": 21.1,
+    "total": 48.1
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 10.0,
+    "side_is_home": null,
+    "moved_against": -0.3,
+    "note": null,
+    "factors": [
+     {
+      "label": "Bears offense",
+      "points": -2.3
+     },
+     {
+      "label": "Saints defense",
+      "points": -1.9
+     },
+     {
+      "label": "Bears defense",
+      "points": 1.3
+     },
+     {
+      "label": "Saints offense",
+      "points": 0.9
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Bears. Read them below before betting.",
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "Recent headlines mention an injury or absence for the Saints."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 48.67
   }
  }
 }
