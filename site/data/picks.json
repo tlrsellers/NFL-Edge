@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 73,
-  "pending": 18,
+  "graded": 74,
+  "pending": 17,
   "overall": {
-   "wins": 36,
+   "wins": 37,
    "losses": 36,
    "pushes": 1,
-   "win_pct": 0.5,
-   "units": -3.27,
+   "win_pct": 0.507,
+   "units": -2.36,
    "avg_clv": 0.3,
-   "beat_close": 0.534
+   "beat_close": 0.541
   },
   "by_tier": {
    "spread:model": {
@@ -40,22 +40,22 @@
     "beat_close": 0.462
    },
    "total:all": {
-    "wins": 20,
+    "wins": 21,
     "losses": 20,
     "pushes": 1,
-    "win_pct": 0.5,
-    "units": -1.82,
-    "avg_clv": 0.12,
-    "beat_close": 0.512
+    "win_pct": 0.512,
+    "units": -0.91,
+    "avg_clv": 0.14,
+    "beat_close": 0.524
    },
    "total:model": {
-    "wins": 12,
+    "wins": 13,
     "losses": 13,
     "pushes": 1,
-    "win_pct": 0.48,
-    "units": -2.09,
-    "avg_clv": -0.22,
-    "beat_close": 0.5
+    "win_pct": 0.5,
+    "units": -1.18,
+    "avg_clv": -0.19,
+    "beat_close": 0.519
    },
    "total:lock": {
     "wins": 1,
@@ -69,13 +69,13 @@
   },
   "by_week": {
    "10": {
-    "wins": 6,
+    "wins": 7,
     "losses": 8,
     "pushes": 1,
-    "win_pct": 0.429,
-    "units": -2.55,
-    "avg_clv": -0.41,
-    "beat_close": 0.4
+    "win_pct": 0.467,
+    "units": -1.64,
+    "avg_clv": -0.33,
+    "beat_close": 0.438
    },
    "6": {
     "wins": 6,
@@ -4488,7 +4488,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 39.33
+   "close": 39.33,
+   "final": {
+    "home": 20,
+    "away": 23
+   },
+   "margin": 4.5,
+   "result": "win",
+   "clv": 0.8
   },
   "2026_10_LA_ARI:spread": {
    "game": "2026_10_LA_ARI",
