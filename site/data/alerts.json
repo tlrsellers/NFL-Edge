@@ -5,6 +5,24 @@
  ],
  "feed": [
   {
+   "t": "2026-11-19T21:59Z",
+   "kind": "move",
+   "game": "2026_11_MIA_BUF",
+   "text": "Dolphins @ Bills total moved 45.5 to 44.5."
+  },
+  {
+   "t": "2026-11-19T21:59Z",
+   "kind": "move",
+   "game": "2026_11_TB_DET",
+   "text": "Buccaneers @ Lions total moved 44 to 45.5."
+  },
+  {
+   "t": "2026-11-19T21:59Z",
+   "kind": "move",
+   "game": "2026_12_CHI_DET",
+   "text": "Bears @ Lions total moved 54.5 to 55.5."
+  },
+  {
    "t": "2026-11-18T21:43Z",
    "kind": "move",
    "game": "2026_11_PIT_PHI",
@@ -345,24 +363,6 @@
    "kind": "move",
    "game": "2026_10_LA_ARI",
    "text": "Rams @ Cardinals total moved 44.5 to 40.33."
-  },
-  {
-   "t": "2026-11-09T14:49Z",
-   "kind": "move",
-   "game": "2026_10_NE_DET",
-   "text": "Lions moved +0 to -2.83 against the Patriots."
-  },
-  {
-   "t": "2026-11-09T14:49Z",
-   "kind": "move",
-   "game": "2026_10_NE_DET",
-   "text": "Patriots @ Lions total moved 50 to 51."
-  },
-  {
-   "t": "2026-11-09T14:49Z",
-   "kind": "move",
-   "game": "2026_10_KC_ATL",
-   "text": "Chiefs @ Falcons total moved 46.5 to 45."
   }
  ]
 }
