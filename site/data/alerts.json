@@ -5,6 +5,18 @@
  ],
  "feed": [
   {
+   "t": "2026-11-20T03:53Z",
+   "kind": "move",
+   "game": "2026_11_IND_HOU",
+   "text": "Texans moved -23.83 to -22.83 against the Colts."
+  },
+  {
+   "t": "2026-11-20T03:53Z",
+   "kind": "move",
+   "game": "2026_11_IND_HOU",
+   "text": "Colts @ Texans total moved 38 to 32."
+  },
+  {
    "t": "2026-11-20T03:39Z",
    "kind": "move",
    "game": "2026_11_IND_HOU",
@@ -351,18 +363,6 @@
    "kind": "move",
    "game": "2026_09_BUF_MIN",
    "text": "Bills @ Vikings total moved 44.17 to 45.67."
-  },
-  {
-   "t": "2026-11-09T23:06Z",
-   "kind": "move",
-   "game": "2026_10_MIN_GB",
-   "text": "Vikings @ Packers total moved 42.5 to 41.5."
-  },
-  {
-   "t": "2026-11-09T23:06Z",
-   "kind": "move",
-   "game": "2026_10_CAR_NO",
-   "text": "Saints moved -0.33 to -1.5 against the Panthers."
   }
  ]
 }
