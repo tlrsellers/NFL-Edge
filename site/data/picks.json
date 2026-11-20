@@ -5120,7 +5120,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -6.33
+   "close": -6.17
   },
   "2026_11_ARI_KC:spread": {
    "game": "2026_11_ARI_KC",
@@ -5176,7 +5176,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -15.5
+   "close": -16.0
   },
   "2026_11_ARI_KC:total": {
    "game": "2026_11_ARI_KC",
@@ -5189,10 +5189,10 @@
    "line": 41.5,
    "book": "fanduel",
    "edge": -5.5,
-   "tier": "lean",
-   "pattern": "wind10",
-   "cover": 0.538,
-   "called": "2026-11-18T21:43Z",
+   "tier": "strong",
+   "pattern": "wind15",
+   "cover": 0.57,
+   "called": "2026-11-20T03:39Z",
    "projection": {
     "home": 27.8,
     "away": 19.2,
@@ -5201,10 +5201,10 @@
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 13.0,
+    "wind": 15.0,
     "side_is_home": null,
-    "moved_against": -1.0,
-    "note": null,
+    "moved_against": -1.2,
+    "note": "Wind forecast of 15 mph, but kickoff is 62 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
     "factors": [
      {
       "label": "Cardinals defense",
@@ -5224,15 +5224,15 @@
      }
     ],
     "risks": [
+     "Recent headlines mention a quarterback issue for the Chiefs. Read them below before betting.",
      "Recent headlines mention a quarterback issue for the Cardinals. Read them below before betting.",
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "The Cardinals' most recent starter, C.Beck, isn't the QB who played most of the season (J.Brissett). The grades still mostly reflect J.Brissett.",
-     "Recent headlines mention an injury or absence for the Chiefs."
+     "The Cardinals' most recent starter, C.Beck, isn't the QB who played most of the season (J.Brissett). The grades still mostly reflect J.Brissett."
     ],
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.0
+   "close": 40.83
   },
   "2026_11_JAX_NYG:spread": {
    "game": "2026_11_JAX_NYG",
@@ -5283,7 +5283,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 5.83
+   "close": 5.67
   },
   "2026_11_NYJ_LAC:spread": {
    "game": "2026_11_NYJ_LAC",
@@ -5391,7 +5391,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -9.83
+   "close": -10.0
   },
   "2026_11_LV_DEN:total": {
    "game": "2026_11_LV_DEN",
@@ -5503,7 +5503,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 37.5
+   "close": 38.33
   },
   "2026_11_MIN_SF:total": {
    "game": "2026_11_MIN_SF",
@@ -5609,7 +5609,7 @@
     "news_qb": false,
     "news_injury": false
    },
-   "close": 54.83
+   "close": 55.0
   },
   "2026_11_NO_CHI:total": {
    "game": "2026_11_NO_CHI",
