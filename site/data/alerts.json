@@ -5,6 +5,12 @@
  ],
  "feed": [
   {
+   "t": "2026-11-20T21:42Z",
+   "kind": "move",
+   "game": "2026_11_TB_DET",
+   "text": "Lions moved -6.17 to -5 against the Buccaneers."
+  },
+  {
    "t": "2026-11-20T03:53Z",
    "kind": "move",
    "game": "2026_11_IND_HOU",
@@ -357,12 +363,6 @@
    "kind": "move",
    "game": "2026_10_MIN_GB",
    "text": "Vikings @ Packers total moved 41.5 to 42.5."
-  },
-  {
-   "t": "2026-11-09T23:06Z",
-   "kind": "move",
-   "game": "2026_09_BUF_MIN",
-   "text": "Bills @ Vikings total moved 44.17 to 45.67."
   }
  ]
 }
