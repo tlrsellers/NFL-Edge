@@ -1,9 +1,25 @@
 {
  "sent": [
   "2026_08_IND_JAX:total:Under",
-  "2026_08_NE_MIA:total:Under"
+  "2026_08_NE_MIA:total:Under",
+  "2026_11_ARI_KC:total:Under",
+  "2026_11_NO_CHI:total:Under"
  ],
  "feed": [
+  {
+   "t": "2026-11-21T20:24Z",
+   "kind": "lock",
+   "game": "2026_11_NO_CHI",
+   "url": null,
+   "text": "LOCK: Under 48.5 at DraftKings (Saints @ Bears), wind 15 mph."
+  },
+  {
+   "t": "2026-11-21T20:24Z",
+   "kind": "lock",
+   "game": "2026_11_ARI_KC",
+   "url": null,
+   "text": "LOCK: Under 40.5 at DraftKings (Cardinals @ Chiefs), wind 15 mph."
+  },
   {
    "t": "2026-11-20T21:42Z",
    "kind": "move",
@@ -351,18 +367,6 @@
    "kind": "move",
    "game": "2026_10_LAC_BAL",
    "text": "Ravens moved -5.33 to -4.33 against the Chargers."
-  },
-  {
-   "t": "2026-11-10T14:48Z",
-   "kind": "move",
-   "game": "2026_10_MIN_GB",
-   "text": "Packers moved -3.5 to -4.5 against the Vikings."
-  },
-  {
-   "t": "2026-11-10T14:48Z",
-   "kind": "move",
-   "game": "2026_10_MIN_GB",
-   "text": "Vikings @ Packers total moved 41.5 to 42.5."
   }
  ]
 }

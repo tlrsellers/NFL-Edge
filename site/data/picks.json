@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 76,
-  "pending": 20,
+  "pending": 22,
   "overall": {
    "wins": 37,
    "losses": 38,
@@ -5090,7 +5090,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -8.0
+   "close": -7.5
   },
   "2026_11_TB_DET:spread": {
    "game": "2026_11_TB_DET",
@@ -5143,7 +5143,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -4.83
+   "close": -4.33
   },
   "2026_11_ARI_KC:spread": {
    "game": "2026_11_ARI_KC",
@@ -5199,7 +5199,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -16.17
+   "close": -15.67
   },
   "2026_11_ARI_KC:total": {
    "game": "2026_11_ARI_KC",
@@ -5209,13 +5209,13 @@
    "away": "Cardinals",
    "bet": "total",
    "side": "Under",
-   "line": 41.5,
-   "book": "fanduel",
-   "edge": -5.5,
-   "tier": "strong",
+   "line": 40.5,
+   "book": "draftkings",
+   "edge": -6.5,
+   "tier": "lock",
    "pattern": "wind15",
    "cover": 0.57,
-   "called": "2026-11-20T03:39Z",
+   "called": "2026-11-21T20:24Z",
    "projection": {
     "home": 27.8,
     "away": 19.2,
@@ -5226,8 +5226,8 @@
     "playoff": false,
     "wind": 15.0,
     "side_is_home": null,
-    "moved_against": -1.2,
-    "note": "Wind forecast of 15 mph, but kickoff is 62 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
+    "moved_against": -1.5,
+    "note": null,
     "factors": [
      {
       "label": "Cardinals defense",
@@ -5239,11 +5239,11 @@
      },
      {
       "label": "Cardinals offense",
-      "points": 2.2
+      "points": 2.1
      },
      {
       "label": "Chiefs defense",
-      "points": 1.9
+      "points": 1.8
      }
     ],
     "risks": [
@@ -5644,15 +5644,15 @@
    "side": "Under",
    "line": 48.5,
    "book": "draftkings",
-   "edge": 0.3,
-   "tier": "strong",
+   "edge": 0.4,
+   "tier": "lock",
    "pattern": "wind15",
    "cover": 0.57,
-   "called": "2026-11-19T21:59Z",
+   "called": "2026-11-21T20:24Z",
    "projection": {
     "home": 27.0,
-    "away": 21.2,
-    "total": 48.2
+    "away": 21.1,
+    "total": 48.1
    },
    "features": {
     "neutral": false,
@@ -5660,7 +5660,7 @@
     "wind": 15.0,
     "side_is_home": null,
     "moved_against": -0.5,
-    "note": "Wind forecast of 15 mph, but kickoff is 68 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
+    "note": null,
     "factors": [
      {
       "label": "Bears offense",
@@ -5668,7 +5668,7 @@
      },
      {
       "label": "Saints defense",
-      "points": -1.8
+      "points": -1.9
      },
      {
       "label": "Bears defense",
@@ -5681,7 +5681,7 @@
     ],
     "risks": [
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "56% chance of rain, which also tends to slow scoring.",
+     "84% chance of rain, which also tends to slow scoring.",
      "Recent headlines mention an injury or absence for the Saints.",
      "Recent headlines mention an injury or absence for the Bears."
     ],
@@ -5743,7 +5743,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 53.67
+   "close": 54.17
   },
   "2026_12_CHI_DET:total": {
    "game": "2026_12_CHI_DET",
@@ -5966,6 +5966,119 @@
     "news_injury": true
    },
    "close": 40.5
+  },
+  "2026_12_BAL_HOU:spread": {
+   "game": "2026_12_BAL_HOU",
+   "week": 12,
+   "start": "2026-11-29T18:00Z",
+   "home": "Texans",
+   "away": "Ravens",
+   "bet": "spread",
+   "side": "Ravens",
+   "line": 6.5,
+   "book": "draftkings",
+   "edge": 3.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-21T20:24Z",
+   "projection": {
+    "home": 25.2,
+    "away": 21.8,
+    "total": 47.0
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Texans offense",
+      "points": -1.4
+     },
+     {
+      "label": "Ravens defense",
+      "points": -1.0
+     },
+     {
+      "label": "Ravens offense",
+      "points": -0.8
+     },
+     {
+      "label": "Texans defense",
+      "points": -0.6
+     },
+     {
+      "label": "Home field",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Ravens. Read them below before betting.",
+     "The Ravens' most recent starter, J.Brissett, isn't the QB who played most of the season (T.Huntley). The grades still mostly reflect T.Huntley.",
+     "Recent headlines mention an injury or absence for the Texans."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -6.5
+  },
+  "2026_12_ATL_MIN:total": {
+   "game": "2026_12_ATL_MIN",
+   "week": 12,
+   "start": "2026-11-29T18:00Z",
+   "home": "Vikings",
+   "away": "Falcons",
+   "bet": "total",
+   "side": "Under",
+   "line": 42.5,
+   "book": "draftkings",
+   "edge": 4.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.507,
+   "called": "2026-11-21T20:24Z",
+   "projection": {
+    "home": 21.2,
+    "away": 16.7,
+    "total": 37.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Vikings defense",
+      "points": 4.4
+     },
+     {
+      "label": "Vikings offense",
+      "points": 2.2
+     },
+     {
+      "label": "Falcons offense",
+      "points": 2.0
+     },
+     {
+      "label": "Falcons defense",
+      "points": -0.6
+     }
+    ],
+    "risks": [
+     "The Vikings' most recent starter, K.Cousins, isn't the QB who played most of the season (K.Murray). The grades still mostly reflect K.Murray.",
+     "Recent headlines mention an injury or absence for the Vikings."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 42.5
   }
  }
 }
