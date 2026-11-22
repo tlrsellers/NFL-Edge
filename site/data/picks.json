@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 76,
-  "pending": 22,
+  "pending": 28,
   "overall": {
    "wins": 37,
    "losses": 38,
@@ -5036,7 +5036,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -11.5
+   "close": -11.67
   },
   "2026_11_TEN_DAL:spread": {
    "game": "2026_11_TEN_DAL",
@@ -5143,7 +5143,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -4.33
+   "close": -3.67
   },
   "2026_11_ARI_KC:spread": {
    "game": "2026_11_ARI_KC",
@@ -5199,7 +5199,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -15.67
+   "close": -15.5
   },
   "2026_11_ARI_KC:total": {
    "game": "2026_11_ARI_KC",
@@ -5414,7 +5414,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -10.17
+   "close": -10.5
   },
   "2026_11_LV_DEN:total": {
    "game": "2026_11_LV_DEN",
@@ -5581,7 +5581,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 46.5
+   "close": 46.33
   },
   "2026_11_TEN_DAL:total": {
    "game": "2026_11_TEN_DAL",
@@ -5743,7 +5743,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 54.17
+   "close": 54.67
   },
   "2026_12_CHI_DET:total": {
    "game": "2026_12_CHI_DET",
@@ -6079,6 +6079,345 @@
     "news_injury": true
    },
    "close": 42.5
+  },
+  "2026_12_NE_LAC:spread": {
+   "game": "2026_12_NE_LAC",
+   "week": 12,
+   "start": "2026-11-29T21:05Z",
+   "home": "Chargers",
+   "away": "Patriots",
+   "bet": "spread",
+   "side": "Patriots",
+   "line": 4.5,
+   "book": "draftkings",
+   "edge": 10.0,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.515,
+   "called": "2026-11-22T02:52Z",
+   "projection": {
+    "home": 19.1,
+    "away": 24.6,
+    "total": 43.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Chargers offense",
+      "points": 4.4
+     },
+     {
+      "label": "Chargers defense",
+      "points": 1.3
+     },
+     {
+      "label": "Patriots defense",
+      "points": -0.6
+     },
+     {
+      "label": "Home field",
+      "points": 0.3
+     },
+     {
+      "label": "Patriots offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Patriots. Read them below before betting.",
+     "A 10.0 point gap with an NFL line is unusually large. It usually means the market knows something the stats don't (an injury, a QB change). Check the injury report.",
+     "The Patriots' most recent starter, T.DeVito, isn't the QB who played most of the season (D.Maye). The grades still mostly reflect D.Maye.",
+     "Recent headlines mention an injury or absence for the Chargers."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -4.0
+  },
+  "2026_12_NE_LAC:total": {
+   "game": "2026_12_NE_LAC",
+   "week": 12,
+   "start": "2026-11-29T21:05Z",
+   "home": "Chargers",
+   "away": "Patriots",
+   "bet": "total",
+   "side": "Over",
+   "line": 39.5,
+   "book": "draftkings",
+   "edge": 4.2,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-11-22T02:52Z",
+   "projection": {
+    "home": 19.1,
+    "away": 24.6,
+    "total": 43.7
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Chargers offense",
+      "points": -4.4
+     },
+     {
+      "label": "Chargers defense",
+      "points": 1.3
+     },
+     {
+      "label": "Patriots defense",
+      "points": 0.6
+     },
+     {
+      "label": "Patriots offense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Patriots. Read them below before betting.",
+     "The Patriots' most recent starter, T.DeVito, isn't the QB who played most of the season (D.Maye). The grades still mostly reflect D.Maye.",
+     "Recent headlines mention an injury or absence for the Chargers."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 39.5
+  },
+  "2026_12_WAS_ARI:spread": {
+   "game": "2026_12_WAS_ARI",
+   "week": 12,
+   "start": "2026-11-29T21:25Z",
+   "home": "Cardinals",
+   "away": "Commanders",
+   "bet": "spread",
+   "side": "Cardinals",
+   "line": 6.5,
+   "book": "draftkings",
+   "edge": 3.6,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-22T02:52Z",
+   "projection": {
+    "home": 22.0,
+    "away": 24.9,
+    "total": 46.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": true,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cardinals defense",
+      "points": -2.7
+     },
+     {
+      "label": "Cardinals offense",
+      "points": -2.2
+     },
+     {
+      "label": "Commanders defense",
+      "points": 1.3
+     },
+     {
+      "label": "Commanders offense",
+      "points": 1.0
+     },
+     {
+      "label": "Home field",
+      "points": -0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Cardinals. Read them below before betting.",
+     "The Cardinals' most recent starter, C.Beck, isn't the QB who played most of the season (J.Brissett). The grades still mostly reflect J.Brissett.",
+     "Recent headlines mention an injury or absence for the Commanders."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 6.5
+  },
+  "2026_12_WAS_ARI:total": {
+   "game": "2026_12_WAS_ARI",
+   "week": 12,
+   "start": "2026-11-29T21:25Z",
+   "home": "Cardinals",
+   "away": "Commanders",
+   "bet": "total",
+   "side": "Over",
+   "line": 41.5,
+   "book": "fanduel",
+   "edge": 5.4,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.508,
+   "called": "2026-11-22T02:52Z",
+   "projection": {
+    "home": 22.0,
+    "away": 24.9,
+    "total": 46.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Cardinals defense",
+      "points": 2.7
+     },
+     {
+      "label": "Cardinals offense",
+      "points": -2.2
+     },
+     {
+      "label": "Commanders defense",
+      "points": 1.3
+     },
+     {
+      "label": "Commanders offense",
+      "points": -1.0
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Cardinals. Read them below before betting.",
+     "The Cardinals' most recent starter, C.Beck, isn't the QB who played most of the season (J.Brissett). The grades still mostly reflect J.Brissett.",
+     "Recent headlines mention an injury or absence for the Commanders."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 42.0
+  },
+  "2026_12_LV_CLE:spread": {
+   "game": "2026_12_LV_CLE",
+   "week": 12,
+   "start": "2026-11-30T01:20Z",
+   "home": "Browns",
+   "away": "Raiders",
+   "bet": "spread",
+   "side": "Raiders",
+   "line": 4.5,
+   "book": "draftkings",
+   "edge": 4.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.506,
+   "called": "2026-11-22T02:52Z",
+   "projection": {
+    "home": 23.7,
+    "away": 23.5,
+    "total": 47.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Raiders defense",
+      "points": -3.7
+     },
+     {
+      "label": "Browns offense",
+      "points": 2.9
+     },
+     {
+      "label": "Raiders offense",
+      "points": 0.4
+     },
+     {
+      "label": "Home field",
+      "points": 0.3
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Raiders. Read them below before betting.",
+     "The Raiders' most recent starter, F.Mendoza, isn't the QB who played most of the season (K.Cousins). The grades still mostly reflect K.Cousins.",
+     "Recent headlines mention an injury or absence for the Browns."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": -4.5
+  },
+  "2026_12_LV_CLE:total": {
+   "game": "2026_12_LV_CLE",
+   "week": 12,
+   "start": "2026-11-30T01:20Z",
+   "home": "Browns",
+   "away": "Raiders",
+   "bet": "total",
+   "side": "Over",
+   "line": 40.5,
+   "book": "draftkings",
+   "edge": 6.7,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.51,
+   "called": "2026-11-22T02:52Z",
+   "projection": {
+    "home": 23.7,
+    "away": 23.5,
+    "total": 47.2
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": null,
+    "moved_against": 0.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Raiders defense",
+      "points": 3.7
+     },
+     {
+      "label": "Browns offense",
+      "points": -2.9
+     },
+     {
+      "label": "Raiders offense",
+      "points": 0.4
+     },
+     {
+      "label": "Browns defense",
+      "points": 0.0
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Raiders. Read them below before betting.",
+     "The Raiders' most recent starter, F.Mendoza, isn't the QB who played most of the season (K.Cousins). The grades still mostly reflect K.Cousins.",
+     "Recent headlines mention an injury or absence for the Browns."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 41.0
   }
  }
 }
