@@ -7,6 +7,30 @@
  ],
  "feed": [
   {
+   "t": "2026-11-23T03:34Z",
+   "kind": "move",
+   "game": "2026_11_MIN_SF",
+   "text": "49ers moved -4 to -17.17 against the Vikings."
+  },
+  {
+   "t": "2026-11-23T03:34Z",
+   "kind": "move",
+   "game": "2026_11_MIN_SF",
+   "text": "Vikings @ 49ers total moved 44.83 to 54.17."
+  },
+  {
+   "t": "2026-11-23T03:34Z",
+   "kind": "move",
+   "game": "2026_12_NE_LAC",
+   "text": "Chargers moved -4 to -1.5 against the Patriots."
+  },
+  {
+   "t": "2026-11-23T03:34Z",
+   "kind": "move",
+   "game": "2026_12_NE_LAC",
+   "text": "Patriots @ Chargers total moved 39.5 to 37.5."
+  },
+  {
    "t": "2026-11-22T23:51Z",
    "kind": "move",
    "game": "2026_11_NYJ_LAC",
@@ -343,30 +367,6 @@
    "kind": "move",
    "game": "2026_11_TB_DET",
    "text": "Lions moved -5.5 to -6.5 against the Buccaneers."
-  },
-  {
-   "t": "2026-11-16T02:36Z",
-   "kind": "move",
-   "game": "2026_10_PIT_CIN",
-   "text": "Bengals moved -3.5 to -13.5 against the Steelers."
-  },
-  {
-   "t": "2026-11-16T02:36Z",
-   "kind": "move",
-   "game": "2026_10_PIT_CIN",
-   "text": "Steelers @ Bengals total moved 49.67 to 47.5."
-  },
-  {
-   "t": "2026-11-16T02:36Z",
-   "kind": "move",
-   "game": "2026_11_TEN_DAL",
-   "text": "Titans @ Cowboys total moved 51 to 53."
-  },
-  {
-   "t": "2026-11-16T02:36Z",
-   "kind": "move",
-   "game": "2026_11_TB_DET",
-   "text": "Lions moved -3.5 to -5.5 against the Buccaneers."
   }
  ]
 }
