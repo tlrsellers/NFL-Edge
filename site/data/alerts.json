@@ -7,6 +7,12 @@
  ],
  "feed": [
   {
+   "t": "2026-11-24T06:10Z",
+   "kind": "move",
+   "game": "2026_12_NO_CIN",
+   "text": "Saints @ Bengals total moved 51.5 to 50.5."
+  },
+  {
    "t": "2026-11-24T01:30Z",
    "kind": "move",
    "game": "2026_11_CIN_WAS",
@@ -361,12 +367,6 @@
    "kind": "move",
    "game": "2026_11_TB_DET",
    "text": "Buccaneers @ Lions total moved 46.33 to 45.33."
-  },
-  {
-   "t": "2026-11-16T23:08Z",
-   "kind": "move",
-   "game": "2026_11_IND_HOU",
-   "text": "Texans moved -9.75 to -11.17 against the Colts."
   }
  ]
 }

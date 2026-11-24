@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 92,
-  "pending": 17,
+  "graded": 93,
+  "pending": 18,
   "overall": {
-   "wins": 43,
+   "wins": 44,
    "losses": 48,
    "pushes": 1,
-   "win_pct": 0.473,
-   "units": -8.91,
+   "win_pct": 0.478,
+   "units": -8.0,
    "avg_clv": 0.14,
-   "beat_close": 0.478
+   "beat_close": 0.473
   },
   "by_tier": {
    "spread:model": {
@@ -31,22 +31,22 @@
     "beat_close": 0.463
    },
    "total:lean": {
-    "wins": 8,
+    "wins": 9,
     "losses": 7,
     "pushes": 0,
-    "win_pct": 0.533,
-    "units": 0.27,
-    "avg_clv": 0.57,
-    "beat_close": 0.4
+    "win_pct": 0.562,
+    "units": 1.18,
+    "avg_clv": 0.53,
+    "beat_close": 0.375
    },
    "total:all": {
-    "wins": 25,
+    "wins": 26,
     "losses": 25,
     "pushes": 1,
-    "win_pct": 0.5,
-    "units": -2.27,
-    "avg_clv": 0.14,
-    "beat_close": 0.49
+    "win_pct": 0.51,
+    "units": -1.36,
+    "avg_clv": 0.13,
+    "beat_close": 0.481
    },
    "total:model": {
     "wins": 15,
@@ -78,13 +78,13 @@
     "beat_close": 0.438
    },
    "11": {
-    "wins": 6,
+    "wins": 7,
     "losses": 12,
     "pushes": 0,
-    "win_pct": 0.333,
-    "units": -6.55,
-    "avg_clv": -0.52,
-    "beat_close": 0.222
+    "win_pct": 0.368,
+    "units": -5.64,
+    "avg_clv": -0.49,
+    "beat_close": 0.211
    },
    "6": {
     "wins": 6,
@@ -5848,7 +5848,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 54.5
+   "close": 54.5,
+   "final": {
+    "home": 22,
+    "away": 20
+   },
+   "margin": 12.5,
+   "result": "win",
+   "clv": 0.0
   },
   "2026_12_CHI_DET:total": {
    "game": "2026_12_CHI_DET",
@@ -5902,7 +5909,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 55.33
+   "close": 55.5
   },
   "2026_12_PHI_DAL:spread": {
    "game": "2026_12_PHI_DAL",
@@ -6136,7 +6143,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -6.67
+   "close": -6.5
   },
   "2026_12_ATL_MIN:total": {
    "game": "2026_12_ATL_MIN",
@@ -6364,7 +6371,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 7.0
+   "close": 7.5
   },
   "2026_12_WAS_ARI:total": {
    "game": "2026_12_WAS_ARI",
@@ -6584,7 +6591,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.83
+   "close": 42.0
   },
   "2026_12_NYJ_MIA:total": {
    "game": "2026_12_NYJ_MIA",
@@ -6694,7 +6701,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.17
+   "close": 48.0
   },
   "2026_12_KC_BUF:total": {
    "game": "2026_12_KC_BUF",
@@ -6750,7 +6757,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.33
+   "close": 48.0
   },
   "2026_12_SEA_SF:total": {
    "game": "2026_12_SEA_SF",
@@ -6807,7 +6814,115 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 46.33
+   "close": 46.5
+  },
+  "2026_12_NO_CIN:total": {
+   "game": "2026_12_NO_CIN",
+   "week": 12,
+   "start": "2026-11-29T18:00Z",
+   "home": "Bengals",
+   "away": "Saints",
+   "bet": "total",
+   "side": "Under",
+   "line": 50.5,
+   "book": "draftkings",
+   "edge": -0.8,
+   "tier": "lean",
+   "pattern": "wind10",
+   "cover": 0.538,
+   "called": "2026-11-24T06:10Z",
+   "projection": {
+    "home": 29.7,
+    "away": 21.6,
+    "total": 51.3
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 10.0,
+    "side_is_home": null,
+    "moved_against": -2.0,
+    "note": null,
+    "factors": [
+     {
+      "label": "Bengals offense",
+      "points": -5.1
+     },
+     {
+      "label": "Saints defense",
+      "points": -1.4
+     },
+     {
+      "label": "Saints offense",
+      "points": 1.3
+     },
+     {
+      "label": "Bengals defense",
+      "points": 0.2
+     }
+    ],
+    "risks": [
+     "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
+     "Recent headlines mention an injury or absence for the Bengals."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": 50.5
+  },
+  "2026_12_ATL_MIN:spread": {
+   "game": "2026_12_ATL_MIN",
+   "week": 12,
+   "start": "2026-11-29T18:00Z",
+   "home": "Vikings",
+   "away": "Falcons",
+   "bet": "spread",
+   "side": "Falcons",
+   "line": 7.0,
+   "book": "draftkings",
+   "edge": 3.3,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-24T06:10Z",
+   "projection": {
+    "home": 21.3,
+    "away": 17.6,
+    "total": 38.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": null,
+    "side_is_home": false,
+    "moved_against": -0.2,
+    "note": null,
+    "factors": [
+     {
+      "label": "Vikings defense",
+      "points": -3.5
+     },
+     {
+      "label": "Vikings offense",
+      "points": 2.5
+     },
+     {
+      "label": "Falcons offense",
+      "points": -2.1
+     },
+     {
+      "label": "Falcons defense",
+      "points": -0.6
+     }
+    ],
+    "risks": [
+     "The Vikings' most recent starter, K.Cousins, isn't the QB who played most of the season (K.Murray). The grades still mostly reflect K.Murray.",
+     "Recent headlines mention an injury or absence for the Vikings."
+    ],
+    "news_qb": false,
+    "news_injury": true
+   },
+   "close": -6.75
   }
  }
 }
