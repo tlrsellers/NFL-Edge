@@ -7,6 +7,24 @@
  ],
  "feed": [
   {
+   "t": "2026-11-24T23:24Z",
+   "kind": "move",
+   "game": "2026_12_BAL_HOU",
+   "text": "Ravens @ Texans total moved 46.5 to 47.5."
+  },
+  {
+   "t": "2026-11-24T23:24Z",
+   "kind": "move",
+   "game": "2026_12_TEN_JAX",
+   "text": "Titans @ Jaguars total moved 47.5 to 48.5."
+  },
+  {
+   "t": "2026-11-24T23:24Z",
+   "kind": "move",
+   "game": "2026_12_SEA_SF",
+   "text": "Seahawks @ 49ers total moved 46.5 to 45.5."
+  },
+  {
    "t": "2026-11-24T06:10Z",
    "kind": "move",
    "game": "2026_12_NO_CIN",
@@ -349,24 +367,6 @@
    "kind": "move",
    "game": "2026_12_CHI_DET",
    "text": "Bears @ Lions total moved 54.5 to 55.5."
-  },
-  {
-   "t": "2026-11-18T21:43Z",
-   "kind": "move",
-   "game": "2026_11_PIT_PHI",
-   "text": "Steelers @ Eagles total moved 38.5 to 37.5."
-  },
-  {
-   "t": "2026-11-18T04:03Z",
-   "kind": "move",
-   "game": "2026_11_TB_DET",
-   "text": "Buccaneers @ Lions total moved 45.33 to 44."
-  },
-  {
-   "t": "2026-11-17T22:04Z",
-   "kind": "move",
-   "game": "2026_11_TB_DET",
-   "text": "Buccaneers @ Lions total moved 46.33 to 45.33."
   }
  ]
 }

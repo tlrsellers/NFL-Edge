@@ -6084,7 +6084,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 38.0
+   "close": 37.5
   },
   "2026_12_BAL_HOU:spread": {
    "game": "2026_12_BAL_HOU",
@@ -6143,7 +6143,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -6.5
+   "close": -6.75
   },
   "2026_12_ATL_MIN:total": {
    "game": "2026_12_ATL_MIN",
@@ -6197,7 +6197,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 42.0
+   "close": 41.5
   },
   "2026_12_NE_LAC:spread": {
    "game": "2026_12_NE_LAC",
@@ -6371,7 +6371,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 7.5
+   "close": 7.0
   },
   "2026_12_WAS_ARI:total": {
    "game": "2026_12_WAS_ARI",
@@ -6426,7 +6426,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.0
+   "close": 41.5
   },
   "2026_12_LV_CLE:spread": {
    "game": "2026_12_LV_CLE",
@@ -6537,7 +6537,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 41.5
+   "close": 41.0
   },
   "2026_12_NYG_IND:total": {
    "game": "2026_12_NYG_IND",
@@ -6646,7 +6646,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 41.0
+   "close": 40.5
   },
   "2026_12_PHI_DAL:total": {
    "game": "2026_12_PHI_DAL",
@@ -6757,7 +6757,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.0
+   "close": 47.5
   },
   "2026_12_SEA_SF:total": {
    "game": "2026_12_SEA_SF",
@@ -6767,13 +6767,13 @@
    "away": "Seahawks",
    "bet": "total",
    "side": "Under",
-   "line": 46.5,
+   "line": 45.5,
    "book": "draftkings",
-   "edge": -0.3,
-   "tier": "lean",
-   "pattern": "wind10",
-   "cover": 0.538,
-   "called": "2026-11-24T01:30Z",
+   "edge": -1.3,
+   "tier": "strong",
+   "pattern": "wind15",
+   "cover": 0.57,
+   "called": "2026-11-24T23:24Z",
    "projection": {
     "home": 25.4,
     "away": 21.4,
@@ -6782,10 +6782,10 @@
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 14.0,
+    "wind": 15.0,
     "side_is_home": null,
-    "moved_against": -0.2,
-    "note": null,
+    "moved_against": -1.0,
+    "note": "Wind forecast of 15 mph, but kickoff is 118 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
     "factors": [
      {
       "label": "49ers offense",
@@ -6801,20 +6801,20 @@
      },
      {
       "label": "Seahawks offense",
-      "points": 0.6
+      "points": 0.5
      }
     ],
     "risks": [
+     "Recent headlines mention a quarterback issue for the 49ers. Read them below before betting.",
+     "Recent headlines mention a quarterback issue for the Seahawks. Read them below before betting.",
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "82% chance of rain, which also tends to slow scoring.",
-     "The Seahawks' most recent starter, D.Lock, isn't the QB who played most of the season (S.Darnold). The grades still mostly reflect S.Darnold.",
-     "Recent headlines mention an injury or absence for the Seahawks.",
-     "Recent headlines mention an injury or absence for the 49ers."
+     "65% chance of rain, which also tends to slow scoring.",
+     "The Seahawks' most recent starter, D.Lock, isn't the QB who played most of the season (S.Darnold). The grades still mostly reflect S.Darnold."
     ],
-    "news_qb": false,
+    "news_qb": true,
     "news_injury": true
    },
-   "close": 46.5
+   "close": 45.5
   },
   "2026_12_NO_CIN:total": {
    "game": "2026_12_NO_CIN",
@@ -6922,7 +6922,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": -6.75
+   "close": -7.0
   }
  }
 }
