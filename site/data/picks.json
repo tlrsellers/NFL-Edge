@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 93,
-  "pending": 18,
+  "pending": 19,
   "overall": {
    "wins": 44,
    "losses": 48,
@@ -5968,7 +5968,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -8.5
+   "close": -8.67
   },
   "2026_11_MIA_BUF:total": {
    "game": "2026_11_MIA_BUF",
@@ -6084,7 +6084,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 37.5
+   "close": 36.5
   },
   "2026_12_BAL_HOU:spread": {
    "game": "2026_12_BAL_HOU",
@@ -6143,7 +6143,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -6.75
+   "close": -6.5
   },
   "2026_12_ATL_MIN:total": {
    "game": "2026_12_ATL_MIN",
@@ -6257,7 +6257,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -1.5
+   "close": 1.33
   },
   "2026_12_NE_LAC:total": {
    "game": "2026_12_NE_LAC",
@@ -6312,7 +6312,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 35.5
+   "close": 35.33
   },
   "2026_12_WAS_ARI:spread": {
    "game": "2026_12_WAS_ARI",
@@ -6371,7 +6371,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 7.0
+   "close": 6.83
   },
   "2026_12_WAS_ARI:total": {
    "game": "2026_12_WAS_ARI",
@@ -6481,7 +6481,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -4.5
+   "close": -4.67
   },
   "2026_12_LV_CLE:total": {
    "game": "2026_12_LV_CLE",
@@ -6537,7 +6537,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 41.0
+   "close": 40.0
   },
   "2026_12_NYG_IND:total": {
    "game": "2026_12_NYG_IND",
@@ -6701,7 +6701,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.0
+   "close": 47.67
   },
   "2026_12_KC_BUF:total": {
    "game": "2026_12_KC_BUF",
@@ -6711,24 +6711,24 @@
    "away": "Chiefs",
    "bet": "total",
    "side": "Under",
-   "line": 48.5,
+   "line": 46.5,
    "book": "draftkings",
-   "edge": -0.4,
-   "tier": "lean",
-   "pattern": "wind10",
-   "cover": 0.538,
-   "called": "2026-11-24T01:30Z",
+   "edge": -2.3,
+   "tier": "lock",
+   "pattern": "wind15",
+   "cover": 0.57,
+   "called": "2026-11-25T22:58Z",
    "projection": {
     "home": 24.7,
-    "away": 24.2,
-    "total": 48.9
+    "away": 24.1,
+    "total": 48.8
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 10.0,
+    "wind": 15.0,
     "side_is_home": null,
-    "moved_against": -2.2,
+    "moved_against": -4.0,
     "note": null,
     "factors": [
      {
@@ -6750,14 +6750,14 @@
     ],
     "risks": [
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "99% chance of rain, which also tends to slow scoring.",
+     "98% chance of rain, which also tends to slow scoring.",
      "Recent headlines mention an injury or absence for the Chiefs.",
      "Recent headlines mention an injury or absence for the Bills."
     ],
     "news_qb": false,
     "news_injury": true
    },
-   "close": 47.5
+   "close": 46.5
   },
   "2026_12_SEA_SF:total": {
    "game": "2026_12_SEA_SF",
@@ -6814,7 +6814,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 45.5
+   "close": 44.5
   },
   "2026_12_NO_CIN:total": {
    "game": "2026_12_NO_CIN",
@@ -6868,7 +6868,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 50.5
+   "close": 49.5
   },
   "2026_12_ATL_MIN:spread": {
    "game": "2026_12_ATL_MIN",
@@ -6923,6 +6923,61 @@
     "news_injury": true
    },
    "close": -7.0
+  },
+  "2026_12_NYJ_MIA:spread": {
+   "game": "2026_12_NYJ_MIA",
+   "week": 12,
+   "start": "2026-11-29T18:00Z",
+   "home": "Dolphins",
+   "away": "Jets",
+   "bet": "spread",
+   "side": "Dolphins",
+   "line": 5.0,
+   "book": "bovada",
+   "edge": 3.1,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.505,
+   "called": "2026-11-25T22:58Z",
+   "projection": {
+    "home": 21.0,
+    "away": 22.9,
+    "total": 43.9
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 8.0,
+    "side_is_home": true,
+    "moved_against": 1.3,
+    "note": null,
+    "factors": [
+     {
+      "label": "Dolphins offense",
+      "points": -3.6
+     },
+     {
+      "label": "Jets defense",
+      "points": 1.4
+     },
+     {
+      "label": "Jets offense",
+      "points": 1.2
+     },
+     {
+      "label": "Dolphins defense",
+      "points": -1.1
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the Jets. Read them below before betting.",
+     "The Dolphins' most recent starter, K.McCord, isn't the QB who played most of the season (M.Willis). The grades still mostly reflect M.Willis.",
+     "Recent headlines mention an injury or absence for the Dolphins."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 4.33
   }
  }
 }
