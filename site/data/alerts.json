@@ -4,9 +4,35 @@
   "2026_08_NE_MIA:total:Under",
   "2026_11_ARI_KC:total:Under",
   "2026_11_NO_CHI:total:Under",
+  "2026_12_DEN_PIT:total:Under",
   "2026_12_KC_BUF:total:Under"
  ],
  "feed": [
+  {
+   "t": "2026-11-26T22:51Z",
+   "kind": "move",
+   "game": "2026_12_PHI_DAL",
+   "text": "Cowboys moved -8.67 to -17.5 against the Eagles."
+  },
+  {
+   "t": "2026-11-26T22:51Z",
+   "kind": "move",
+   "game": "2026_12_PHI_DAL",
+   "text": "Eagles @ Cowboys total moved 48.17 to 49.17."
+  },
+  {
+   "t": "2026-11-26T22:51Z",
+   "kind": "move",
+   "game": "2026_12_DEN_PIT",
+   "text": "Steelers moved +3.67 to +4.67 against the Broncos."
+  },
+  {
+   "t": "2026-11-26T22:51Z",
+   "kind": "lock",
+   "game": "2026_12_DEN_PIT",
+   "url": null,
+   "text": "LOCK: Under 37 at Bovada (Broncos @ Steelers), wind 17 mph."
+  },
   {
    "t": "2026-11-26T04:53Z",
    "kind": "move",
@@ -343,31 +369,6 @@
    "kind": "move",
    "game": "2026_11_PIT_PHI",
    "text": "Eagles moved +3.5 to -6.5 against the Steelers."
-  },
-  {
-   "t": "2026-11-22T20:36Z",
-   "kind": "move",
-   "game": "2026_11_PIT_PHI",
-   "text": "Steelers @ Eagles total moved 37.5 to 33.17."
-  },
-  {
-   "t": "2026-11-22T20:36Z",
-   "kind": "move",
-   "game": "2026_11_NYJ_LAC",
-   "text": "Jets @ Chargers total moved 42 to 43."
-  },
-  {
-   "t": "2026-11-22T02:52Z",
-   "kind": "move",
-   "game": "2026_11_TB_DET",
-   "text": "Buccaneers @ Lions total moved 46.33 to 47.5."
-  },
-  {
-   "t": "2026-11-21T20:24Z",
-   "kind": "lock",
-   "game": "2026_11_NO_CHI",
-   "url": null,
-   "text": "LOCK: Under 48.5 at DraftKings (Saints @ Bears), wind 15 mph."
   }
  ]
 }

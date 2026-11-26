@@ -1,15 +1,15 @@
 {
  "summary": {
-  "graded": 93,
-  "pending": 20,
+  "graded": 94,
+  "pending": 19,
   "overall": {
    "wins": 44,
-   "losses": 48,
+   "losses": 49,
    "pushes": 1,
-   "win_pct": 0.478,
-   "units": -8.0,
-   "avg_clv": 0.14,
-   "beat_close": 0.473
+   "win_pct": 0.473,
+   "units": -9.0,
+   "avg_clv": 0.13,
+   "beat_close": 0.468
   },
   "by_tier": {
    "spread:model": {
@@ -41,21 +41,21 @@
    },
    "total:all": {
     "wins": 26,
-    "losses": 25,
+    "losses": 26,
     "pushes": 1,
-    "win_pct": 0.51,
-    "units": -1.36,
-    "avg_clv": 0.13,
-    "beat_close": 0.481
+    "win_pct": 0.5,
+    "units": -2.36,
+    "avg_clv": 0.11,
+    "beat_close": 0.472
    },
    "total:model": {
     "wins": 15,
-    "losses": 16,
+    "losses": 17,
     "pushes": 1,
-    "win_pct": 0.484,
-    "units": -2.36,
-    "avg_clv": -0.12,
-    "beat_close": 0.531
+    "win_pct": 0.469,
+    "units": -3.36,
+    "avg_clv": -0.15,
+    "beat_close": 0.515
    },
    "total:lock": {
     "wins": 2,
@@ -85,6 +85,15 @@
     "units": -5.64,
     "avg_clv": -0.49,
     "beat_close": 0.211
+   },
+   "12": {
+    "wins": 0,
+    "losses": 1,
+    "pushes": 0,
+    "win_pct": 0.0,
+    "units": -1.0,
+    "avg_clv": -1.0,
+    "beat_close": 0.0
    },
    "6": {
     "wins": 6,
@@ -5909,7 +5918,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 55.5
+   "close": 55.5,
+   "final": {
+    "home": 35,
+    "away": 39
+   },
+   "margin": -19.5,
+   "result": "loss",
+   "clv": -1.0
   },
   "2026_12_PHI_DAL:spread": {
    "game": "2026_12_PHI_DAL",
@@ -6040,48 +6056,49 @@
    "away": "Broncos",
    "bet": "total",
    "side": "Under",
-   "line": 40.5,
-   "book": "fanduel",
-   "edge": -3.2,
-   "tier": "strong",
+   "line": 37.0,
+   "book": "bovada",
+   "edge": -6.4,
+   "tier": "lock",
    "pattern": "wind15",
    "cover": 0.57,
-   "called": "2026-11-22T23:51Z",
+   "called": "2026-11-26T22:51Z",
    "projection": {
-    "home": 20.9,
-    "away": 22.8,
-    "total": 43.7
+    "home": 20.5,
+    "away": 23.0,
+    "total": 43.4
    },
    "features": {
     "neutral": false,
     "playoff": false,
-    "wind": 16.0,
+    "wind": 17.0,
     "side_is_home": null,
-    "moved_against": -0.5,
-    "note": "Wind forecast of 16 mph, but kickoff is 116 hours away. Forecasts that far out often change; this becomes a LOCK if it holds inside 36 hours.",
+    "moved_against": -3.8,
+    "note": null,
     "factors": [
      {
       "label": "Broncos defense",
-      "points": 1.4
+      "points": 1.5
+     },
+     {
+      "label": "Steelers offense",
+      "points": 1.1
      },
      {
       "label": "Steelers defense",
       "points": 0.8
      },
      {
-      "label": "Steelers offense",
-      "points": 0.6
-     },
-     {
       "label": "Broncos offense",
-      "points": -0.4
+      "points": -0.7
      }
     ],
     "risks": [
+     "Recent headlines mention a quarterback issue for the Steelers. Read them below before betting.",
      "Wind forecasts change. Check the forecast again close to kickoff; the pattern is based on the wind measured at the game.",
-     "Recent headlines mention an injury or absence for the Steelers."
+     "65% chance of rain, which also tends to slow scoring."
     ],
-    "news_qb": false,
+    "news_qb": true,
     "news_injury": true
    },
    "close": 36.67
@@ -6257,7 +6274,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 1.33
+   "close": 2.0
   },
   "2026_12_NE_LAC:total": {
    "game": "2026_12_NE_LAC",
@@ -6312,7 +6329,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 35.33
+   "close": 35.5
   },
   "2026_12_WAS_ARI:spread": {
    "game": "2026_12_WAS_ARI",
@@ -6371,7 +6388,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 7.0
+   "close": 6.67
   },
   "2026_12_WAS_ARI:total": {
    "game": "2026_12_WAS_ARI",
@@ -6537,7 +6554,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 39.67
+   "close": 40.33
   },
   "2026_12_NYG_IND:total": {
    "game": "2026_12_NYG_IND",
@@ -6646,7 +6663,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 40.5
+   "close": 40.0
   },
   "2026_12_PHI_DAL:total": {
    "game": "2026_12_PHI_DAL",
@@ -6757,7 +6774,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 46.0
+   "close": 45.67
   },
   "2026_12_SEA_SF:total": {
    "game": "2026_12_SEA_SF",
@@ -6814,7 +6831,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 44.5
+   "close": 43.83
   },
   "2026_12_NO_CIN:total": {
    "game": "2026_12_NO_CIN",
@@ -6977,7 +6994,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 4.83
+   "close": 5.17
   },
   "2026_12_TEN_JAX:total": {
    "game": "2026_12_TEN_JAX",
@@ -7031,7 +7048,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 49.67
+   "close": 49.5
   }
  }
 }
