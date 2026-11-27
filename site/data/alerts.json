@@ -9,6 +9,12 @@
  ],
  "feed": [
   {
+   "t": "2026-11-27T04:26Z",
+   "kind": "move",
+   "game": "2026_12_KC_BUF",
+   "text": "Chiefs @ Bills total moved 45.67 to 23.5."
+  },
+  {
    "t": "2026-11-26T22:51Z",
    "kind": "move",
    "game": "2026_12_PHI_DAL",
@@ -363,12 +369,6 @@
    "kind": "move",
    "game": "2026_11_ARI_KC",
    "text": "Cardinals @ Chiefs total moved 40.5 to 41.5."
-  },
-  {
-   "t": "2026-11-22T20:36Z",
-   "kind": "move",
-   "game": "2026_11_PIT_PHI",
-   "text": "Eagles moved +3.5 to -6.5 against the Steelers."
   }
  ]
 }

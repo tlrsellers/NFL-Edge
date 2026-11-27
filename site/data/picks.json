@@ -1,34 +1,34 @@
 {
  "summary": {
-  "graded": 94,
-  "pending": 19,
+  "graded": 96,
+  "pending": 17,
   "overall": {
-   "wins": 44,
+   "wins": 46,
    "losses": 49,
    "pushes": 1,
-   "win_pct": 0.473,
-   "units": -9.0,
+   "win_pct": 0.484,
+   "units": -7.18,
    "avg_clv": 0.13,
-   "beat_close": 0.468
+   "beat_close": 0.469
   },
   "by_tier": {
    "spread:model": {
-    "wins": 18,
+    "wins": 19,
     "losses": 23,
     "pushes": 0,
-    "win_pct": 0.439,
-    "units": -6.64,
-    "avg_clv": 0.15,
-    "beat_close": 0.463
+    "win_pct": 0.452,
+    "units": -5.73,
+    "avg_clv": 0.14,
+    "beat_close": 0.452
    },
    "spread:all": {
-    "wins": 18,
+    "wins": 19,
     "losses": 23,
     "pushes": 0,
-    "win_pct": 0.439,
-    "units": -6.64,
-    "avg_clv": 0.15,
-    "beat_close": 0.463
+    "win_pct": 0.452,
+    "units": -5.73,
+    "avg_clv": 0.14,
+    "beat_close": 0.452
    },
    "total:lean": {
     "wins": 9,
@@ -40,22 +40,22 @@
     "beat_close": 0.375
    },
    "total:all": {
-    "wins": 26,
+    "wins": 27,
     "losses": 26,
     "pushes": 1,
-    "win_pct": 0.5,
-    "units": -2.36,
-    "avg_clv": 0.11,
-    "beat_close": 0.472
+    "win_pct": 0.509,
+    "units": -1.45,
+    "avg_clv": 0.12,
+    "beat_close": 0.481
    },
    "total:model": {
-    "wins": 15,
+    "wins": 16,
     "losses": 17,
     "pushes": 1,
-    "win_pct": 0.469,
-    "units": -3.36,
-    "avg_clv": -0.15,
-    "beat_close": 0.515
+    "win_pct": 0.485,
+    "units": -2.45,
+    "avg_clv": -0.13,
+    "beat_close": 0.529
    },
    "total:lock": {
     "wins": 2,
@@ -87,13 +87,13 @@
     "beat_close": 0.211
    },
    "12": {
-    "wins": 0,
+    "wins": 2,
     "losses": 1,
     "pushes": 0,
-    "win_pct": 0.0,
-    "units": -1.0,
-    "avg_clv": -1.0,
-    "beat_close": 0.0
+    "win_pct": 0.667,
+    "units": 0.82,
+    "avg_clv": -0.17,
+    "beat_close": 0.333
    },
    "6": {
     "wins": 6,
@@ -5984,7 +5984,14 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -8.67
+   "close": -8.67,
+   "final": {
+    "home": 38,
+    "away": 39
+   },
+   "margin": 9.5,
+   "result": "win",
+   "clv": -0.2
   },
   "2026_11_MIA_BUF:total": {
    "game": "2026_11_MIA_BUF",
@@ -6554,7 +6561,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 40.33
+   "close": 40.0
   },
   "2026_12_NYG_IND:total": {
    "game": "2026_12_NYG_IND",
@@ -6718,7 +6725,14 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 48.17
+   "close": 48.17,
+   "final": {
+    "home": 38,
+    "away": 39
+   },
+   "margin": 29.5,
+   "result": "win",
+   "clv": 0.7
   },
   "2026_12_KC_BUF:total": {
    "game": "2026_12_KC_BUF",
@@ -6994,7 +7008,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 5.17
+   "close": 5.5
   },
   "2026_12_TEN_JAX:total": {
    "game": "2026_12_TEN_JAX",
