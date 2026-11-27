@@ -1,7 +1,7 @@
 {
  "summary": {
   "graded": 97,
-  "pending": 16,
+  "pending": 17,
   "overall": {
    "wins": 47,
    "losses": 49,
@@ -6281,7 +6281,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 2.0
+   "close": 2.5
   },
   "2026_12_NE_LAC:total": {
    "game": "2026_12_NE_LAC",
@@ -6336,7 +6336,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 35.5
+   "close": 35.0
   },
   "2026_12_WAS_ARI:spread": {
    "game": "2026_12_WAS_ARI",
@@ -6505,7 +6505,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": -4.67
+   "close": -4.5
   },
   "2026_12_LV_CLE:total": {
    "game": "2026_12_LV_CLE",
@@ -6561,7 +6561,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 40.0
+   "close": 39.5
   },
   "2026_12_NYG_IND:total": {
    "game": "2026_12_NYG_IND",
@@ -6852,7 +6852,7 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 43.83
+   "close": 42.5
   },
   "2026_12_NO_CIN:total": {
    "game": "2026_12_NO_CIN",
@@ -6906,7 +6906,7 @@
     "news_qb": false,
     "news_injury": true
    },
-   "close": 49.5
+   "close": 48.5
   },
   "2026_12_ATL_MIN:spread": {
    "game": "2026_12_ATL_MIN",
@@ -7069,7 +7069,62 @@
     "news_qb": true,
     "news_injury": true
    },
-   "close": 49.5
+   "close": 48.33
+  },
+  "2026_12_SEA_SF:spread": {
+   "game": "2026_12_SEA_SF",
+   "week": 12,
+   "start": "2026-11-29T21:25Z",
+   "home": "49ers",
+   "away": "Seahawks",
+   "bet": "spread",
+   "side": "49ers",
+   "line": 1.5,
+   "book": "draftkings",
+   "edge": 5.5,
+   "tier": "model",
+   "pattern": null,
+   "cover": 0.508,
+   "called": "2026-11-27T22:31Z",
+   "projection": {
+    "home": 25.4,
+    "away": 21.4,
+    "total": 46.8
+   },
+   "features": {
+    "neutral": false,
+    "playoff": false,
+    "wind": 16.0,
+    "side_is_home": true,
+    "moved_against": 2.8,
+    "note": null,
+    "factors": [
+     {
+      "label": "49ers offense",
+      "points": 5.7
+     },
+     {
+      "label": "Seahawks defense",
+      "points": -3.5
+     },
+     {
+      "label": "49ers defense",
+      "points": 1.2
+     },
+     {
+      "label": "Seahawks offense",
+      "points": 0.5
+     }
+    ],
+    "risks": [
+     "Recent headlines mention a quarterback issue for the 49ers. Read them below before betting.",
+     "Recent headlines mention a quarterback issue for the Seahawks. Read them below before betting.",
+     "The Seahawks' most recent starter, D.Lock, isn't the QB who played most of the season (S.Darnold). The grades still mostly reflect S.Darnold."
+    ],
+    "news_qb": true,
+    "news_injury": true
+   },
+   "close": 0.33
   }
  }
 }
