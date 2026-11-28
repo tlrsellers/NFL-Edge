@@ -9,6 +9,12 @@
  ],
  "feed": [
   {
+   "t": "2026-11-28T04:35Z",
+   "kind": "move",
+   "game": "2026_12_SEA_SF",
+   "text": "49ers moved +0.33 to +1.33 against the Seahawks."
+  },
+  {
    "t": "2026-11-27T22:31Z",
    "kind": "move",
    "game": "2026_12_DEN_PIT",
@@ -363,12 +369,6 @@
    "kind": "move",
    "game": "2026_11_BAL_CAR",
    "text": "Ravens @ Panthers total moved 43.5 to 71.5."
-  },
-  {
-   "t": "2026-11-22T20:36Z",
-   "kind": "move",
-   "game": "2026_11_NO_CHI",
-   "text": "Saints @ Bears total moved 48.5 to 40.5."
   }
  ]
 }
